@@ -112,7 +112,6 @@ function TypingPractice () {
     } else {
       // RomajiConversionにないもの
       if (newInputText.endsWith(question)) {
-        console.log('正解2', question)
         setInputText('')
         nowQuestionTextIndex++
       }
@@ -129,7 +128,6 @@ function TypingPractice () {
   }
 
   const nextQuestion = () => {
-    console.log('nextQuestion')
     const currentIndex = questions.indexOf(currentQuestion)
     const nextIndex = (currentIndex + 1) % questions.length
     setCurrentQuestion(questions[nextIndex])

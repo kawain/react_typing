@@ -14,3 +14,8 @@ Currently, two official plugins are available:
 pip install pykakasi
 ```
 
+## GitHub Pagesへのデプロイ
+
+```bash
+npm run deploy
+```
