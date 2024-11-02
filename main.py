@@ -7,38 +7,28 @@ kakasi = pykakasi.kakasi()
 
 
 def convert_hiragana(text):
+    # 事前の置換
+    text = text.replace("入って", "はいって")
+    text = text.replace("入る", "はいる")
+
     text = unicodedata.normalize("NFKC", text)
+
     hiragana_txt = ""
     result = kakasi.convert(text)
     for item in result:
         hiragana_txt += item["hira"]
 
     # 追加の置換
-    hiragana_txt = hiragana_txt.replace("・", "、")
     hiragana_txt = hiragana_txt.replace("おきん", "おかね")
 
     return hiragana_txt
 
 
 def convert_hepburn(text):
-    # 事前の置換
-    text = text.replace("ー", "-")
-
     hepburn_txt = ""
     result = kakasi.convert(text)
     for item in result:
         hepburn_txt += item["hepburn"]
-
-    # 追加の置換
-    hepburn_txt = hepburn_txt.replace("shi", "si")
-    hepburn_txt = hepburn_txt.replace("chi", "ti")
-    hepburn_txt = hepburn_txt.replace("tsu", "tu")
-    hepburn_txt = hepburn_txt.replace("cha", "tya")
-    hepburn_txt = hepburn_txt.replace("chu", "tyu")
-    hepburn_txt = hepburn_txt.replace("cho", "tyo")
-    hepburn_txt = hepburn_txt.replace("sha", "sya")
-    hepburn_txt = hepburn_txt.replace("shu", "syu")
-    hepburn_txt = hepburn_txt.replace("sho", "syo")
 
     return hepburn_txt
 
@@ -92,13 +82,20 @@ def random_data():
         f.writelines(lines)
 
 
-def task_test():
-    text = "ナイフ・フォーク類"
+def test_hiragan():
+    text = "何も入る"
     result = convert_hiragana(text)
+    print(result)
+
+
+def test_hepburn():
+    text = "じかん"
+    result = convert_hepburn(text)
     print(result)
 
 
 task1()
 # task2()
 # random_data()
-# task_test()
+# test_hiragan()
+# test_hepburn()

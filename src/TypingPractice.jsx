@@ -70,11 +70,11 @@ function TypingPractice () {
     let nowQuestionTextIndex = questionTextIndex
     const question = questionTextArray[questionTextIndex]
 
-    if (question in RomajiConversion) {
+    if (question === 'っ') {
       // 促音の「っ」
-      if (question === 'っ') {
-        const newArr = [...RomajiConversion[question]]
-        const next = questionTextArray[questionTextIndex + 1]
+      const next = questionTextArray[questionTextIndex + 1]
+      if (next in RomajiConversion) {
+        const newArr = ['xtu', 'ltu']
         // 次の子音を重ねる
         for (const v of RomajiConversion[next]) {
           newArr.push(`${v[0]}${v}`)
@@ -90,16 +90,53 @@ function TypingPractice () {
             break
           }
         }
-      } else if (
-        question === 'ん' &&
-        questionTextArray.length - 1 === nowQuestionTextIndex
-      ) {
-        // 最後の「ん」
+      } else {
+        // 問題文エラー
+        setInputText('')
+        nowQuestionTextIndex++
+      }
+    } else if (question === 'ん') {
+      // 「ん」がnかnnか問題
+      const next = questionTextArray[questionTextIndex + 1]
+      if (next in RomajiConversion) {
+        for (const v of RomajiConversion[next]) {
+          if ('aiueo'.includes(v[0])) {
+            // 次の文字があ行
+            if (newInputText.endsWith('nn')) {
+              setInputText('')
+              nowQuestionTextIndex++
+              break
+            }
+          } else if ('n' === v[0]) {
+            // 次の文字がな行
+            if (newInputText.endsWith('nn')) {
+              setInputText('')
+              nowQuestionTextIndex++
+              break
+            }
+          } else if ('y' === v[0]) {
+            // 次の文字がや行
+            if (newInputText.endsWith('nn')) {
+              setInputText('')
+              nowQuestionTextIndex++
+              break
+            }
+          } else {
+            if (newInputText.endsWith('n')) {
+              setInputText('')
+              nowQuestionTextIndex++
+              break
+            }
+          }
+        }
+      } else {
         if (newInputText.endsWith('nn')) {
           setInputText('')
           nowQuestionTextIndex++
         }
-      } else {
+      }
+    } else {
+      if (question in RomajiConversion) {
         // RomajiConversionにある他のもの
         for (const v of RomajiConversion[question]) {
           if (newInputText.endsWith(v)) {
@@ -108,12 +145,12 @@ function TypingPractice () {
             break
           }
         }
-      }
-    } else {
-      // RomajiConversionにないもの
-      if (newInputText.endsWith(question)) {
-        setInputText('')
-        nowQuestionTextIndex++
+      } else {
+        // RomajiConversionにないもの
+        if (newInputText.endsWith(question)) {
+          setInputText('')
+          nowQuestionTextIndex++
+        }
       }
     }
 
@@ -154,10 +191,7 @@ function TypingPractice () {
             onKeyDown={handleKeyDown}
             ref={divRef}
           >
-            <p style={{ fontSize: '24px', marginBottom: '20px' }}>
-              {currentQuestion.japanese}
-            </p>
-            <p>
+            <p className='questionArray'>
               {questionTextArray.map((char, index) => (
                 <span
                   key={index}
@@ -169,6 +203,7 @@ function TypingPractice () {
                 </span>
               ))}
             </p>
+            <p className='questionText'>{currentQuestion.japanese}</p>
           </div>
         </>
       )}
