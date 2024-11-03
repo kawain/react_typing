@@ -35,8 +35,9 @@ function TypingPractice () {
         Papa.parse(csvData, {
           complete: results => {
             const parsedQuestions = results.data
-              .filter(row => row.length === 2)
-              .map(([japanese, hiragana]) => ({
+              .filter(row => row.length === 3)
+              .map(([english, japanese, hiragana]) => ({
+                english,
                 japanese,
                 hiragana
               }))
@@ -44,7 +45,7 @@ function TypingPractice () {
             const shuffled = shuffleArray(parsedQuestions)
             setQuestions(shuffled)
             setCurrentQuestion(shuffled[0])
-            let mondai = shuffled[0].hiragana
+            let mondai = `${shuffled[0].english} ${shuffled[0].hiragana}`
             let result = SplitTextForTyping(mondai)
             setQuestionTextArray(result)
           },
@@ -65,6 +66,7 @@ function TypingPractice () {
   }, [currentQuestion])
 
   const handleKeyDown = e => {
+    e.preventDefault()
     const moji = e.key
     const newInputText = inputText + moji
     let nowQuestionTextIndex = questionTextIndex
@@ -171,10 +173,20 @@ function TypingPractice () {
     setAttemptCount(prev => prev + 1)
     setInputText('')
     setQuestionTextIndex(0)
-    let mondai = questions[nextIndex].hiragana
+    let mondai = `${questions[nextIndex].english} ${questions[nextIndex].hiragana}`
     let result = SplitTextForTyping(mondai)
     setQuestionTextArray(result)
     divRef.current.focus()
+  }
+
+  const speakText = text => {
+    const uttr = new SpeechSynthesisUtterance()
+    uttr.text = text
+    uttr.lang = 'en-US'
+    uttr.rate = 1.0
+    uttr.pitch = 1.0
+    uttr.volume = 1.0
+    speechSynthesis.speak(uttr)
   }
 
   return (
@@ -195,15 +207,24 @@ function TypingPractice () {
               {questionTextArray.map((char, index) => (
                 <span
                   key={index}
-                  style={{
-                    color: index < questionTextIndex ? '#2ecc71' : 'black'
-                  }}
+                  data-typed={index < questionTextIndex ? 'true' : 'false'}
                 >
                   {char}
                 </span>
               ))}
             </p>
-            <p className='questionText'>{currentQuestion.japanese}</p>
+            <p className='questionText'>
+              <a
+                href='#'
+                onClick={e => {
+                  e.preventDefault()
+                  speakText(currentQuestion.english)
+                }}
+              >
+                {currentQuestion.english}
+              </a>{' '}
+              {currentQuestion.japanese}
+            </p>
           </div>
         </>
       )}

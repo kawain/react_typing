@@ -41,9 +41,9 @@ def task1():
         data = [row for row in reader]
 
     new_lst = []
-    for v in data:
-        result = convert_hiragana(v[0])
-        new_lst.append([v[0], result])
+    for eng, jpn in data:
+        result = convert_hiragana(jpn)
+        new_lst.append([eng, jpn, result])
 
     # UTF-8でCSVファイルに書き込み
     with open("./public/questions.csv", "w", encoding="utf-8", newline="") as f:
@@ -94,8 +94,64 @@ def test_hepburn():
     print(result)
 
 
+def test1():
+    with open("origin.csv", "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    for v in lines:
+        tmp = v.split(",")
+        if len(tmp) != 2:
+            print(v)
+
+
+def test2():
+    with open("output.csv", "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    d = {}
+    for v in lines:
+        tmp = v.split(",")
+        if tmp[0] in d:
+            d[tmp[0]] += 1
+        else:
+            d[tmp[0]] = 1
+
+    for k in d:
+        if d[k] > 1:
+            print(k)
+
+
+def test3():
+    # データを格納する辞書
+    word_dict = {}
+
+    # ファイルを読み込む
+    with open("origin.csv", "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    # 各行を処理
+    for line in lines:
+        # 改行文字を削除してカンマで分割
+        tmp = line.strip().split(",")
+        if len(tmp) >= 2:
+            eng = tmp[0]
+            jpn = tmp[1]
+
+            # 既存のエントリと比較して、より長い説明文があれば更新
+            if eng not in word_dict or len(jpn) > len(word_dict[eng]):
+                word_dict[eng] = jpn
+
+    # 結果を新しいファイルに書き込む
+    with open("output.csv", "w", encoding="utf-8") as f:
+        for eng, jpn in word_dict.items():
+            f.write(f"{eng},{jpn}\n")
+
+
 task1()
 # task2()
 # random_data()
 # test_hiragan()
 # test_hepburn()
+# test1()
+# test2()
+# test3()

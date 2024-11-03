@@ -1,3 +1,9 @@
+:root {
+  color-scheme: light dark;
+  --typed-color: light-dark(#0000ff, #ffff00);
+  --untyped-color: light-dark(#000000, #ffffff);
+}
+
 .typing {
   max-width: 800px;
   margin: 0 auto;
@@ -6,7 +12,7 @@
 }
 
 .stats {
-  background: #f0f0f0;
+  background: light-dark(#f0f0f0, #2a2a2a);
   padding: 10px;
   margin: 10px 0;
   border-radius: 4px;
@@ -16,19 +22,33 @@
   margin: 0;
   font-size: 16px;
   font-weight: bold;
+  color: light-dark(#000000, #ffffff);
 }
 
 .question {
   margin: 20px 0;
   padding: 20px;
-  background: #f5f5f5;
+  background: light-dark(#f5f5f5, #2d2d2d);
   border-radius: 8px;
 }
 
 .questionArray {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .questionText {
   font-size: 24px;
+  color: light-dark(#000000, #ffffff);
+}
+
+.questionText a {
+  color: inherit;
+}
+
+.questionArray span[data-typed='true'] {
+  color: var(--typed-color);
+}
+
+.questionArray span[data-typed='false'] {
+  color: var(--untyped-color);
 }
