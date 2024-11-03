@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "build:wasm": "cd wasm && GOOS=js GOARCH=wasm go build -o ../public/main.wasm"
   },
   "dependencies": {
     "papaparse": "^5.4.1",

@@ -1,9 +1,10 @@
-import TypingPractice from './TypingPractice.jsx'
+// import TypingPractice from './TypingPractice.jsx'
+import WasmTest from './WasmTest'
 
 function App () {
   return (
     <>
-      <TypingPractice />
+      <WasmTest />
     </>
   )
 }

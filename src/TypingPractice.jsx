@@ -10,6 +10,7 @@ function TypingPractice () {
   const [questionTextIndex, setQuestionTextIndex] = useState(0)
   const [inputText, setInputText] = useState('')
   const divRef = useRef(null)
+  const [wasmLoaded, setWasmLoaded] = useState(false)
 
   const shuffleArray = array => {
     // 配列のコピーを作成
@@ -27,6 +28,26 @@ function TypingPractice () {
   }
 
   useEffect(() => {
+    const loadWasm = async () => {
+      try {
+        const go = new window.Go()
+        const result = await WebAssembly.instantiateStreaming(
+          fetch('./main.wasm'),
+          go.importObject
+        )
+        go.run(result.instance)
+        setWasmLoaded(true)
+      } catch (error) {
+        console.error('WASMの読み込みに失敗しました:', error)
+      }
+    }
+
+    loadWasm()
+  }, [])
+
+  useEffect(() => {
+    if (!wasmLoaded) return // WASM読み込み待ち
+
     const loadQuestions = async () => {
       try {
         const response = await fetch('./questions.csv')
@@ -46,7 +67,8 @@ function TypingPractice () {
             setQuestions(shuffled)
             setCurrentQuestion(shuffled[0])
             let mondai = `${shuffled[0].english} ${shuffled[0].hiragana}`
-            let result = SplitTextForTyping(mondai)
+            // WASMの関数を使用
+            let result = window.splitText(mondai)
             setQuestionTextArray(result)
           },
           header: false,
@@ -57,7 +79,7 @@ function TypingPractice () {
       }
     }
     loadQuestions()
-  }, [])
+  }, [wasmLoaded]) // 依存配列にwasmLoadedを追加
 
   useEffect(() => {
     if (divRef.current && currentQuestion) {
@@ -67,102 +89,34 @@ function TypingPractice () {
 
   const handleKeyDown = e => {
     e.preventDefault()
+
+    // WASMが読み込まれていない場合は処理しない
+    if (!wasmLoaded) return
+
     const moji = e.key
-    const newInputText = inputText + moji
-    let nowQuestionTextIndex = questionTextIndex
-    const question = questionTextArray[questionTextIndex]
+    const nowQuestionTextArray = questionTextArray
 
-    if (question === 'っ') {
-      // 促音の「っ」
-      const next = questionTextArray[questionTextIndex + 1]
-      if (next in RomajiConversion) {
-        const newArr = ['xtu', 'ltu']
-        // 次の子音を重ねる
-        for (const v of RomajiConversion[next]) {
-          newArr.push(`${v[0]}${v}`)
-        }
-        for (const v of newArr) {
-          if (newInputText.endsWith(v)) {
-            setInputText('')
-            if (v === 'xtu' || v === 'ltu') {
-              nowQuestionTextIndex++
-            } else {
-              nowQuestionTextIndex += 2
-            }
-            break
-          }
-        }
-      } else {
-        // 問題文エラー
-        setInputText('')
-        nowQuestionTextIndex++
-      }
-    } else if (question === 'ん') {
-      // 「ん」がnかnnか問題
-      const next = questionTextArray[questionTextIndex + 1]
-      if (next in RomajiConversion) {
-        for (const v of RomajiConversion[next]) {
-          if ('aiueo'.includes(v[0])) {
-            // 次の文字があ行
-            if (newInputText.endsWith('nn')) {
-              setInputText('')
-              nowQuestionTextIndex++
-              break
-            }
-          } else if ('n' === v[0]) {
-            // 次の文字がな行
-            if (newInputText.endsWith('nn')) {
-              setInputText('')
-              nowQuestionTextIndex++
-              break
-            }
-          } else if ('y' === v[0]) {
-            // 次の文字がや行
-            if (newInputText.endsWith('nn')) {
-              setInputText('')
-              nowQuestionTextIndex++
-              break
-            }
-          } else {
-            if (newInputText.endsWith('n')) {
-              setInputText('')
-              nowQuestionTextIndex++
-              break
-            }
-          }
-        }
-      } else {
-        if (newInputText.endsWith('nn')) {
-          setInputText('')
-          nowQuestionTextIndex++
-        }
-      }
-    } else {
-      if (question in RomajiConversion) {
-        // RomajiConversionにある他のもの
-        for (const v of RomajiConversion[question]) {
-          if (newInputText.endsWith(v)) {
-            setInputText('')
-            nowQuestionTextIndex++
-            break
-          }
-        }
-      } else {
-        // RomajiConversionにないもの
-        if (newInputText.endsWith(question)) {
-          setInputText('')
-          nowQuestionTextIndex++
-        }
-      }
-    }
+    // WASM関数呼び出し
+    try {
+      const result = window.keyDown(
+        moji, // 入力された文字
+        inputText, // 現在の入力テキスト
+        questionTextIndex, // 現在のインデックス
+        nowQuestionTextArray // 問題の配列
+      )
 
-    setInputText(newInputText)
-    setQuestionTextIndex(nowQuestionTextIndex)
+      // 結果の反映
+      setInputText(result.setInputText)
+      setQuestionTextIndex(result.newIndex)
 
-    if (questionTextArray.length - 1 < nowQuestionTextIndex) {
-      setTimeout(() => {
-        nextQuestion()
-      }, 200)
+      // 問題が終わったかチェック
+      if (questionTextArray.length - 1 < result.newIndex) {
+        setTimeout(() => {
+          nextQuestion()
+        }, 200)
+      }
+    } catch (error) {
+      console.error('WASM関数呼び出しエラー:', error)
     }
   }
 
