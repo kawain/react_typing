@@ -10,7 +10,6 @@ declare global {
     ) => {
       newText: string
       newIndex: number
-      setInputText: string
     }
   }
 }

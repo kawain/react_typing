@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react'
 import Papa from 'papaparse'
-import { RomajiConversion, SplitTextForTyping } from './SplitText'
 
 function TypingPractice () {
   const [questions, setQuestions] = useState([])
@@ -90,23 +89,19 @@ function TypingPractice () {
   const handleKeyDown = e => {
     e.preventDefault()
 
-    // WASMが読み込まれていない場合は処理しない
     if (!wasmLoaded) return
 
     const moji = e.key
-    const nowQuestionTextArray = questionTextArray
 
-    // WASM関数呼び出し
     try {
       const result = window.keyDown(
-        moji, // 入力された文字
-        inputText, // 現在の入力テキスト
-        questionTextIndex, // 現在のインデックス
-        nowQuestionTextArray // 問題の配列
+        moji,
+        inputText,
+        questionTextIndex,
+        questionTextArray
       )
 
-      // 結果の反映
-      setInputText(result.setInputText)
+      setInputText(result.newText)
       setQuestionTextIndex(result.newIndex)
 
       // 問題が終わったかチェック
@@ -121,15 +116,32 @@ function TypingPractice () {
   }
 
   const nextQuestion = () => {
+    // 次の問題のインデックスを計算
     const currentIndex = questions.indexOf(currentQuestion)
     const nextIndex = (currentIndex + 1) % questions.length
+
+    // 次の問題をセット
     setCurrentQuestion(questions[nextIndex])
     setAttemptCount(prev => prev + 1)
+
+    // 入力状態をリセット
     setInputText('')
     setQuestionTextIndex(0)
+
+    // 新しい問題文を作成してWASMで分割
     let mondai = `${questions[nextIndex].english} ${questions[nextIndex].hiragana}`
-    let result = SplitTextForTyping(mondai)
-    setQuestionTextArray(result)
+
+    // WASM関数を使用して問題文を分割
+    if (wasmLoaded) {
+      try {
+        let result = window.splitText(mondai)
+        setQuestionTextArray(result)
+      } catch (error) {
+        console.error('問題文の分割に失敗しました:', error)
+      }
+    }
+
+    // フォーカスを戻す
     divRef.current.focus()
   }
 

@@ -26,13 +26,12 @@ func keyDownWrapper(this js.Value, args []js.Value) any {
 	}
 
 	// KeyDown関数を実行
-	newText, newIndex, setInputText := romaji.KeyDown(c, s, i, questionArray)
+	newText, newIndex := romaji.KeyDown(c, s, i, questionArray)
 
 	// 結果をJavaScriptのオブジェクトとして返す
 	result := map[string]interface{}{
-		"newText":      newText,
-		"newIndex":     newIndex,
-		"setInputText": setInputText,
+		"newText":  newText,
+		"newIndex": newIndex,
 	}
 
 	return js.ValueOf(result)

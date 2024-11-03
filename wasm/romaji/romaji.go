@@ -210,125 +210,96 @@ func SplitTextForTyping(text string) []string {
 	return result
 }
 
-func KeyDown(c, s string, i int, questionArray []string) (string, int, bool) {
-	setInputText := false
+func KeyDown(c, s string, i int, questionArray []string) (string, int) {
 	newText := s + c
 
 	// 早期リターン：エラーチェック
 	if len(questionArray) == 0 || i >= len(questionArray) {
-		setInputText = true
-		i++
-		return newText, i, setInputText
+		return "", i + 1 // 入力をクリアして次へ
 	}
 
 	question := questionArray[i]
 
+	// 次の文字の取得とチェックを関数化
+	getNextChar := func() (string, bool) {
+		if i+1 < len(questionArray) {
+			return questionArray[i+1], true
+		}
+		return "", false
+	}
+
+	// 入力成功時の処理を関数化
+	success := func(increment int) (string, int) {
+		return "", i + increment // 入力をクリアして指定数進める
+	}
+
 	switch question {
 	case "っ":
-		// 促音の「っ」の処理
-		if i+1 < len(questionArray) {
-			// 次の文字がある場合の処理
-			next := questionArray[i+1]
-			_, exists := RomajiMap[next]
-			if exists {
-				// 次の文字が辞書にある場合の処理
-				// 新しい配列の作成
-				newArr := []string{"xtu", "ltu"}
-				for _, word := range RomajiMap[next] {
-					firstChar := word[:1]
-					result := strings.Repeat(firstChar, 2) + word[1:]
-					newArr = append(newArr, result)
-				}
-				// サフィックスチェックとインデックス更新
-				for _, v := range newArr {
-					if strings.HasSuffix(newText, v) {
-						setInputText = true
-						if v == "xtu" || v == "ltu" {
-							i++
-						} else {
-							i += 2
-						}
-						break
-					}
-				}
-			} else {
-				// 次の文字が辞書にない場合の処理
-				setInputText = true
-				i++
-			}
-		} else {
-			// 次の文字がない場合の処理
-			setInputText = true
-			i++
+		next, hasNext := getNextChar()
+		if !hasNext {
+			return success(1)
 		}
+
+		if words, exists := RomajiMap[next]; exists {
+			// 促音のパターンを生成
+			patterns := []string{"xtu", "ltu"}
+			for _, word := range words {
+				firstChar := word[:1]
+				patterns = append(patterns, firstChar+word)
+			}
+
+			// パターンマッチング
+			for _, pattern := range patterns {
+				if strings.HasSuffix(newText, pattern) {
+					if pattern == "xtu" || pattern == "ltu" {
+						return success(1)
+					}
+					return success(2)
+				}
+			}
+		}
+		return newText, i // マッチしない場合は状態維持
 
 	case "ん":
-		// 「ん」がnかnnか問題
-		if i+1 < len(questionArray) {
-			// 次の文字がある場合の処理
-			next := questionArray[i+1]
-			_, exists := RomajiMap[next]
-			if exists {
-				foundMatch := false
-				for _, word := range RomajiMap[next] {
-					if strings.Contains("aiueo", string(word[0])) {
-						foundMatch = true
-						break
-					} else if string(word[0]) == "n" {
-						foundMatch = true
-						break
-					} else if string(word[0]) == "y" {
-						foundMatch = true
-						break
-					}
-				}
-
-				if foundMatch {
-					if strings.HasSuffix(newText, "nn") {
-						setInputText = true
-						i++
-					}
-				} else {
-					if strings.HasSuffix(newText, "n") {
-						setInputText = true
-						i++
-					}
-				}
-			} else {
-				// 次の文字が辞書にない場合の処理
-				if strings.HasSuffix(newText, "nn") {
-					setInputText = true
-					i++
-				}
-			}
-		} else {
-			// 次の文字がない場合の処理
+		next, hasNext := getNextChar()
+		if !hasNext {
 			if strings.HasSuffix(newText, "nn") {
-				setInputText = true
-				i++
+				return success(1)
 			}
+			return newText, i
 		}
 
-	default:
-		// その他の文字の処理
-		_, exists := RomajiMap[question]
-		if exists {
-			// 文字が辞書にある場合の処理
-			for _, word := range RomajiMap[question] {
-				if strings.HasSuffix(newText, word) {
-					setInputText = true
-					i++
+		if words, exists := RomajiMap[next]; exists {
+			needsNN := false
+			for _, word := range words {
+				firstChar := string(word[0])
+				if strings.Contains("aiueony", firstChar) {
+					needsNN = true
 					break
 				}
 			}
-		} else {
-			// 文字が辞書にない場合の処理
-			if strings.HasSuffix(newText, question) {
-				setInputText = true
-				i++
-			}
-		}
-	}
 
-	return newText, i, setInputText
+			if needsNN && strings.HasSuffix(newText, "nn") {
+				return success(1)
+			}
+			if !needsNN && strings.HasSuffix(newText, "n") {
+				return success(1)
+			}
+		} else if strings.HasSuffix(newText, "nn") {
+			return success(1)
+		}
+		return newText, i
+
+	default:
+		if words, exists := RomajiMap[question]; exists {
+			for _, word := range words {
+				if strings.HasSuffix(newText, word) {
+					return success(1)
+				}
+			}
+		} else if strings.HasSuffix(newText, question) {
+			return success(1)
+		}
+		return newText, i
+	}
 }
