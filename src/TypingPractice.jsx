@@ -45,7 +45,7 @@ function TypingPractice () {
   }, [])
 
   useEffect(() => {
-    if (!wasmLoaded) return // WASM読み込み待ち
+    if (!wasmLoaded) return
 
     const loadQuestions = async () => {
       try {
@@ -66,7 +66,6 @@ function TypingPractice () {
             setQuestions(shuffled)
             setCurrentQuestion(shuffled[0])
             let mondai = `${shuffled[0].english} ${shuffled[0].hiragana}`
-            // WASMの関数を使用
             let result = window.splitText(mondai)
             setQuestionTextArray(result)
           },
@@ -78,13 +77,7 @@ function TypingPractice () {
       }
     }
     loadQuestions()
-  }, [wasmLoaded]) // 依存配列にwasmLoadedを追加
-
-  useEffect(() => {
-    if (divRef.current && currentQuestion) {
-      divRef.current.focus()
-    }
-  }, [currentQuestion])
+  }, [wasmLoaded])
 
   const handleKeyDown = e => {
     e.preventDefault()
@@ -92,6 +85,14 @@ function TypingPractice () {
     if (!wasmLoaded) return
 
     const moji = e.key
+
+    if (moji === 'ArrowRight') {
+      nextQuestion(1)
+      return
+    } else if (moji === 'ArrowLeft') {
+      nextQuestion(-1)
+      return
+    }
 
     try {
       const result = window.keyDown(
@@ -107,7 +108,7 @@ function TypingPractice () {
       // 問題が終わったかチェック
       if (questionTextArray.length - 1 < result.newIndex) {
         setTimeout(() => {
-          nextQuestion()
+          nextQuestion(1)
         }, 200)
       }
     } catch (error) {
@@ -115,23 +116,31 @@ function TypingPractice () {
     }
   }
 
-  const nextQuestion = () => {
-    // 次の問題のインデックスを計算
+  const nextQuestion = num => {
+    // 現在のインデックスを取得
     const currentIndex = questions.indexOf(currentQuestion)
-    const nextIndex = (currentIndex + 1) % questions.length
+
+    // 新しいインデックスを計算（境界チェック付き）
+    let nextIndex
+    if (num > 0) {
+      // 次に進む場合
+      nextIndex =
+        currentIndex + num >= questions.length ? 0 : currentIndex + num
+    } else {
+      // 前に戻る場合
+      nextIndex =
+        currentIndex + num < 0 ? questions.length - 1 : currentIndex + num
+    }
 
     // 次の問題をセット
     setCurrentQuestion(questions[nextIndex])
-    setAttemptCount(prev => prev + 1)
+    setAttemptCount(nextIndex + 1)
 
-    // 入力状態をリセット
     setInputText('')
     setQuestionTextIndex(0)
 
-    // 新しい問題文を作成してWASMで分割
     let mondai = `${questions[nextIndex].english} ${questions[nextIndex].hiragana}`
 
-    // WASM関数を使用して問題文を分割
     if (wasmLoaded) {
       try {
         let result = window.splitText(mondai)
@@ -141,7 +150,6 @@ function TypingPractice () {
       }
     }
 
-    // フォーカスを戻す
     divRef.current.focus()
   }
 
@@ -153,6 +161,7 @@ function TypingPractice () {
     uttr.pitch = 1.0
     uttr.volume = 1.0
     speechSynthesis.speak(uttr)
+    divRef.current.focus()
   }
 
   return (
@@ -162,38 +171,47 @@ function TypingPractice () {
         <p>{attemptCount}回目</p>
       </div>
       {currentQuestion && (
-        <>
-          <div
-            className='question'
-            tabIndex={0}
-            onKeyDown={handleKeyDown}
-            ref={divRef}
-          >
-            <p className='questionArray'>
-              {questionTextArray.map((char, index) => (
-                <span
-                  key={index}
-                  data-typed={index < questionTextIndex ? 'true' : 'false'}
-                >
-                  {char}
-                </span>
-              ))}
-            </p>
-            <p className='questionText'>
-              <a
-                href='#'
-                onClick={e => {
-                  e.preventDefault()
-                  speakText(currentQuestion.english)
-                }}
+        <div
+          className='question'
+          tabIndex={0}
+          onKeyDown={handleKeyDown}
+          ref={divRef}
+        >
+          <p className='questionArray'>
+            {questionTextArray.map((char, index) => (
+              <span
+                key={index}
+                data-typed={index < questionTextIndex ? 'true' : 'false'}
               >
-                {currentQuestion.english}
-              </a>{' '}
-              {currentQuestion.japanese}
-            </p>
-          </div>
-        </>
+                {char}
+              </span>
+            ))}
+          </p>
+          <p className='questionText'>
+            <a
+              href='#'
+              onClick={e => {
+                e.preventDefault()
+                speakText(currentQuestion.english)
+              }}
+            >
+              {currentQuestion.english}
+            </a>{' '}
+            {currentQuestion.japanese}
+          </p>
+        </div>
       )}
+      <div className='explanation'>
+        <p>
+          Tabキーを押すか、問題文をクリックで入力できるようになります。
+          <br />
+          問題文下線部をクリックするとブラウザの機能で読み上げます。
+          <br />
+          ←: 前の問題
+          <br />
+          →: 次の問題
+        </p>
+      </div>
     </div>
   )
 }
