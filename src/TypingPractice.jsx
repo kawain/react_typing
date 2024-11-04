@@ -10,6 +10,7 @@ function TypingPractice () {
   const [inputText, setInputText] = useState('')
   const divRef = useRef(null)
   const [wasmLoaded, setWasmLoaded] = useState(false)
+  const [isSound, setIsSound] = useState(false)
 
   const shuffleArray = array => {
     // 配列のコピーを作成
@@ -150,25 +151,30 @@ function TypingPractice () {
       }
     }
 
+    // 読み上げ
+    speakText(questions[nextIndex].english)
+
     divRef.current.focus()
   }
 
   const speakText = text => {
-    const uttr = new SpeechSynthesisUtterance()
-    uttr.text = text
-    uttr.lang = 'en-US'
-    uttr.rate = 1.0
-    uttr.pitch = 1.0
-    uttr.volume = 1.0
-    speechSynthesis.speak(uttr)
+    if (isSound) {
+      const uttr = new SpeechSynthesisUtterance()
+      uttr.text = text
+      uttr.lang = 'en-US'
+      uttr.rate = 1.0
+      uttr.pitch = 1.0
+      uttr.volume = 1.0
+      speechSynthesis.speak(uttr)
+    }
     divRef.current.focus()
   }
 
   return (
     <div className='typing'>
-      <h2>タイピング練習</h2>
+      <h2>英語学習用タイピング</h2>
       <div className='stats'>
-        <p>{attemptCount}回目</p>
+        <p>{attemptCount}番目</p>
       </div>
       {currentQuestion && (
         <div
@@ -203,14 +209,25 @@ function TypingPractice () {
       )}
       <div className='explanation'>
         <p>
-          Tabキーを押すか、問題文をクリックで入力できるようになります。
-          <br />
-          問題文下線部をクリックするとブラウザの機能で読み上げます。
-          <br />
-          ←: 前の問題
-          <br />
-          →: 次の問題
+          Tabキーを押すか問題文をクリックすることでタイピングできるようになります。
+          問題文下線部をクリックすると（音声が有効の場合）読み上げます。
         </p>
+        <div className='control'>
+          <p>←: 前の問題、→: 次の問題</p>
+          <p>
+            <label>
+              <input
+                type='checkbox'
+                checked={isSound}
+                onChange={e => {
+                  setIsSound(e.target.checked)
+                  divRef.current.focus()
+                }}
+              />
+              音声を有効にする
+            </label>
+          </p>
+        </div>
       </div>
     </div>
   )
