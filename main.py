@@ -95,6 +95,8 @@ def test_hepburn():
 
 
 def test1():
+    """2列か確認"""
+
     with open("origin.csv", "r", encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -105,7 +107,7 @@ def test1():
 
 
 def test2():
-    with open("output.csv", "r", encoding="utf-8") as f:
+    with open("origin.csv", "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     d = {}
@@ -122,6 +124,8 @@ def test2():
 
 
 def test3():
+    """重複は説明が長い方を採用"""
+
     # データを格納する辞書
     word_dict = {}
 

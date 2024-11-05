@@ -766,7 +766,7 @@ controversial,議論のある。人々の意見が大きく分かれるような
 coupon,割引券、特典の証明。
 brighten,明るくする、輝かせる
 embarrass,恥ずかしくさせる。
-by the way,ところで。
+by the way,ところで、話変わるけど
 spend,過ごす、または費やす。時間やお金を使って行うことを表します。
 summon,人を呼び出す、召喚する。
 implemented,実装された、導入された
@@ -2051,7 +2051,7 @@ valid,有効な、正当な。法的または論理的に認められる状態�
 soar,急上昇する、舞い上がる
 realistic,現実的な、実現可能な。
 vanguard,先駆者、最前線、先導者
-proverb,諺、格言
+proverb,短い教訓のある言葉
 attach,物を固定すること。
 inventory,在庫。商店や倉庫に保管されている商品の総量を指します。
 branch,支店。企業や組織の主要な拠点から離れた場所にある従属的な事業所。
@@ -3050,7 +3050,7 @@ roll out,展開する、公開する。新製品やサービスを市場に投�
 esteem,尊敬する、重んじる
 assure,保証する、確実にするために保証を与える。
 suitable,特定の目的に適した、ふさわしい。
-in advance,前もって。
+in advance,前もって、事前に
 highly,非常に高い評価を受ける。
 fertilizer,肥料、農作物の栄養剤
 contemplate,深く考える、黙想する
@@ -3378,3 +3378,420 @@ pond,池、小さな水たまり。
 suppose,仮定する、思う、推測する。確実ではないが可能性があると考えること。
 plenty,豊富な、たくさんの
 independent,自立した、依存しない
+travel agency,旅行代理店
+round-trip,往復
+backpacker,貧乏旅行者
+city break,都市観光旅行
+customs,税関
+baggage claim,荷物受取所
+check-in,搭乗手続き
+jet lag,時差ぼけ
+layover,乗り継ぎ時間
+tourist attraction,観光名所
+passport control,入国審査
+budget travel,節約旅行
+local cuisine,地元の料理
+guided tour,ガイド付きツアー
+city of lights,光の都（パリの愛称）
+big apple,大都市・ニューヨークの愛称
+eternal city,永遠の都（ローマの愛称）
+sin city,悪の都市（ラスベガスの愛称）
+city by the bay,湾岸の街（サンフランシスコ）
+mile-high city,高地の都市（デンバー）
+windy city,風の街（シカゴの愛称）
+emerald city,緑の街（シアトル）
+motor city,自動車の街（デトロイト）
+steel city,鋼鉄の街（ピッツバーグ）
+gateway to the west,西部の入口（セントルイス）
+the golden state,黄金の州（カリフォルニア州）
+sunshine state,日光の州（フロリダ州）
+queen city,女王の街（シンシナティ）
+venice of the north,北のベニス（ストックホルム）
+land down under,南の国（オーストラリア）
+pearl of the adriatic,アドリアの宝石（ドゥブロヴニク）
+city of a hundred spires,塔の街（プラハ）
+city of angels,天使の街（ロサンゼルス）
+land of the rising sun,日出る国（日本）
+athletic performance,運動の実力や能力
+physical fitness,身体の健康と体力
+team spirit,チームの一体感
+sportsmanship,公平なプレー精神
+competitive edge,競争力の優位性
+stamina,長時間の持久力
+training regimen,計画的な練習
+game strategy,試合の戦略
+athlete,スポーツ選手
+warm-up,体を温める準備運動
+recovery time,体力回復の時間
+peak performance,最高の実力発揮
+physical conditioning,体力の強化
+skill level,技術のレベル
+playoff,決勝戦または試合
+injury prevention,怪我の予防策
+sports psychologist,スポーツ心理学者
+match-up,対戦相手や試合
+goal setting,目標の設定
+election campaign,選挙活動
+voter turnout,投票率
+ballot box,投票箱
+polling station,投票所
+cast a vote,投票する
+political candidate,政治候補者
+incumbent,現職
+exit poll,出口調査
+swing voter,浮動票の投票者
+electoral district,選挙区
+polling booth,投票ブース
+primary election,予備選挙
+general election,総選挙
+electoral process,選挙手続き
+campaign finance,選挙資金
+absentee ballot,不在者投票
+majority vote,過半数票
+electoral system,選挙制度
+political platform,政策綱領
+vote counting,開票
+boil,沸騰させる
+bake,オーブンで焼く調理法
+fry,揚げる・炒める
+grate,おろす
+steam,蒸す
+chop,刻む
+mix,混ぜる
+season,味付けする
+marinate,調味液に漬け込む
+knead,生地をこねる
+garnish,飾り付ける
+sieve,ふるいにかける
+broil,強火で焼く調理法
+culinary arts,料理の技術や芸術
+gourmet,高級な料理や食材
+recipe,料理の作り方
+seasoning,味を整える調味料
+braise,煮込み料理の技法
+grill,焼き網で焼く
+whisk,泡立てる
+dice,小さく切る
+tenderize,柔らかくする
+fermentation,発酵の工程
+umami,旨味
+dish,料理の一品
+main course,メインディッシュ
+dessert,デザート、甘い料理
+side dish,おかず・付け合わせ
+spicy,辛い
+sweet tooth,甘党
+savory,塩味の
+bland,味が薄い
+takeout,持ち帰りの食事
+dining out,外食
+homemade,手作りの
+leftovers,残り物
+fast food,ファストフード
+comfort food,癒しの料理
+balanced diet,栄養バランスの良い食事
+apple,りんご
+orange,オレンジ
+banana,バナナ
+grape,ぶどう
+peach,桃
+lemon,失敗、欠陥品
+cherry,さくらんぼ
+pineapple,パイナップル
+watermelon,スイカ
+strawberry,いちご
+blueberry,ブルーベリー
+mango,マンゴー
+papaya,パパイヤ
+kiwi,キウイ
+melon,メロン
+plum,すもも、プラム
+fig,イチジク
+coconut,ココナッツ
+pomegranate,ざくろ
+raspberry,ラズベリー
+apple of one's eye,とても大切な人や物
+go bananas,興奮する、気が狂う
+low-hanging fruit,簡単に得られるもの
+sour grapes,負け惜しみ
+cherry-pick,良いものを選び抜く
+peaches and cream,順調で素晴らしい
+lemon law,欠陥商品に関する法律
+a plum job,魅力的な仕事
+like comparing apples and oranges,全く違うものの比較
+the apple doesn't fall far from the tree,親に似る
+a bite at the cherry,機会、チャンス
+as american as apple pie,典型的なアメリカの
+top banana,一番偉い人
+a peach of a (something),素晴らしい
+life is a bowl of cherries,楽しい人生
+rotten to the core,根本から悪い
+peas in a pod,よく似た二人
+cherry on top,とどめの一押し
+forbidden fruit,禁じられたもの
+idiom,固定された表現の一種
+wise saying,賢明な言葉や教訓
+old adage,古くからの格言
+common saying,よく使われる言葉
+folk wisdom,民間に伝わる知恵
+a stitch in time,早めの処置が重要
+an apple a day,健康維持の秘訣
+look before you leap,慎重に行動せよ
+once in a blue moon,ごく稀に起こること
+actions speak louder,言葉より行動が大切
+two heads are better,協力が成功の鍵
+every cloud has a silver lining,悪いことにも良い面がある
+don't count your chickens,早合点するな
+a watched pot never boils,待つと長く感じる
+bark up the wrong tree,見当違いをする
+when in rome,郷に入れば郷に従え
+the early bird,早起きが成功を導く
+a penny saved,節約は収入なり
+you can't judge a book,外見で判断するな
+haste makes waste,急ぐと失敗する
+better late than never,遅れてもやらないより良い
+practice makes perfect,継続は力なり
+time will tell,時が真実を明かす
+no pain no gain,苦労なくして成功なし
+honesty is the best policy,正直が最良の策
+knowledge is power,知識は力なり
+actions speak louder than words,行動が物語る
+easy come easy go,簡単に得たものは失いやすい
+fortune favors the bold,勇者に幸運あり
+when it rains it pours,泣きっ面に蜂
+the pen is mightier than the sword,言葉は剣より強し
+you reap what you sow,因果応報
+out of sight out of mind,見えないと忘れがち
+the early bird catches the worm,早起きが成功の鍵
+a friend in need is a friend indeed,真の友は苦難でわかる
+all that glitters is not gold,光るもの必ずしも金ならず
+a picture is worth a thousand words,写真は千の言葉に値する
+interior design,インテリアデザイン
+furnishing,家具の配置
+decoration,装飾、飾りつけ
+color scheme,色彩計画
+home staging,住宅演出
+layout,配置、レイアウト
+style guide,スタイルガイド
+ambiance,雰囲気、ムード
+accent wall,アクセントウォール
+space planning,空間計画
+textiles,織物、布地
+lighting,照明、ライティング
+minimalism,ミニマリズム
+sustainability,持続可能性
+eclectic,エクレクティック
+mood board,ムードボード
+chic,シック、しゃれた
+restaurant,食事を提供する場所
+menu,食べ物のリスト
+waiter,サービスする人
+waitress,女性のサービス員
+buffet,ビュッフェ形式の食事
+specials,特別メニュー
+ingredients,材料、成分
+chef,料理長
+dining,食事をすること
+foodie,食べ物好きな人
+james,男性名、人気
+mary,女性名、定番
+john,男性名、古典的
+sarah,女性名、親しみやすい
+robert,男性名、広く使われる
+emily,女性名、可愛い
+michael,男性名、ポピュラー
+jessica,女性名、現代的
+william,男性名、格式高い
+olivia,女性名、人気上昇中
+david,男性名、シンプル
+laura,女性名、伝統的
+daniel,男性名、一般的
+sophie,女性名、洗練された
+thomas,男性名、親しまれている
+chloe,女性名、オシャレ
+matthew,男性名、良く見かける
+megan,女性名、若者に人気
+andrew,男性名、信頼感
+charlotte,女性名、エレガント
+japan,日本（アジアの島国）
+united states,アメリカ合衆国
+canada,カナダ（北米の国）
+germany,ドイツ（ヨーロッパの国）
+france,フランス（ワインと美食）
+china,中国（世界一の人口）
+india,インド（多様な文化）
+brazil,ブラジル（南米最大の国）
+australia,オーストラリア（動物が豊富）
+italy,イタリア（ピザの国）
+russia,ロシア（世界最大の国）
+south korea,韓国（k-pop発祥）
+mexico,メキシコ（タコスの国）
+spain,スペイン（フラメンコ発祥）
+united kingdom,英国（イギリスの国）
+netherlands,オランダ（風車の国）
+sweden,スウェーデン（北欧の国）
+turkey,トルコ（文化の交差点）
+argentina,アルゼンチン（タンゴの国）
+egypt,エジプト（古代文明の国）
+tokyo,日本の首都
+new york,アメリカの大都市
+paris,フランスの首都
+london,イギリスの首都
+berlin,ドイツの首都
+beijing,中国の首都
+seoul,韓国の首都
+moscow,ロシアの首都
+madrid,スペインの首都
+rome,イタリアの首都
+bangkok,タイの首都
+buenos aires,アルゼンチンの首都
+cairo,エジプトの首都
+istanbul,トルコの都市
+lima,ペルーの首都
+hanoi,ベトナムの首都
+singapore,東南アジアの国
+lisbon,ポルトガルの首都
+athens,ギリシャの首都
+kuala lumpur,マレーシアの首都
+sushi,生魚をのせたご飯
+tacos,トルティーヤに具材を包む
+paella,スペイン風の米料理
+biryani,香辛料入りの米料理
+pasta,小麦粉の麺料理
+croissant,バターのデニッシュペストリー
+kimchi,発酵した野菜の辛い漬物
+baklava,ナッツと蜂蜜の甘い菓子
+ratatouille,野菜の煮込み料理
+falafel,ひよこ豆の揚げボール
+churros,揚げた甘い生地
+pho,ベトナムの米麺スープ
+goulash,ハンガリーの肉の煮込み
+ceviche,生魚のマリネ
+poutine,フライドポテトとチーズの料理
+moussaka,ナスとひき肉の重ね焼き
+ramen,日本の中華麺料理
+samosa,スパイシーな具の揚げ餃子
+hummus,ひよこ豆のペースト
+gnocchi,ポテトの団子状パスタ
+hello,こんにちは
+good morning,おはよう
+good afternoon,こんにちは（昼）
+good evening,こんばんは
+goodbye,さようなら
+see you later,またね
+how are you?,お元気ですか？
+nice to meet you,はじめまして
+what's up?,どうしたの？
+how's it going?,調子はどう？
+long time no see,久しぶり
+take care,気をつけて
+have a nice day,良い一日を
+welcome,ようこそ
+cheers,乾杯/ありがとう
+pleased to meet you,お会いできて嬉しい
+how have you been?,どうしてましたか？
+i'm doing well,元気です
+safe travels,良い旅を
+until next time,また次回まで
+hashtag,キーワードのタグ
+meme,ネット上の流行
+viral,急速に広がる
+dm (direct message),直接メッセージ
+post,投稿すること
+follower,フォローする人
+like,好きという反応
+profile,プロフィール情報
+status update,状態の更新
+story,短い投稿内容
+influencer,影響力のある人
+chat,直接の会話
+love,愛
+hope,希望
+grace,恵み
+mercy,哀れみ
+peace,平和
+forgiveness,赦し
+salvation,救い
+redemption,贖い
+covenant,契約
+commandments,掟
+discipleship,弟子の道
+gospel,福音
+righteousness,正義
+resurrection,復活
+kingdom,王国
+sin,罪
+charity,慈善
+in the beginning,初めに
+let there be light,光あれ
+daily bread,日々の糧
+prodigal son,放蕩息子
+good samaritan,善良な人
+alpha and omega,始まりと終わり
+love thy neighbor,隣人を愛せよ
+lost sheep,迷える子羊
+promised land,約束の地
+eye for an eye,目には目を
+turn the other cheek,寛容な心を持て
+cast the first stone,批判する資格
+salt of the earth,世の光
+pearls before swine,豚に真珠
+golden rule,黄金律
+daily manna,天からの恵み
+lamb of god,神の子羊
+living water,命の水
+bread of life,命のパン
+time flies,光陰矢のごとし
+so far,これまでのところ
+all set,準備万端
+face up,立ち向かう
+fair play,フェアな行動
+first aid,応急手当
+for good,永久に
+give in,降参する
+hit off,相性が良い
+in brief,一言で言えば
+keep fit,健康を保つ
+last long,長持ちする
+make do,なんとかやり繰りする
+no doubt,間違いなく
+on time,時間通りに
+well off,裕福である
+day by day,日に日に
+now and then,時々
+at once,すぐに
+stew,煮込み料理
+roast beef,ローストビーフ
+grilled fish,焼き魚
+sautéed vegetables,炒め野菜
+curry and rice,カレーライス
+deep-fried food,揚げ物
+steamed dish,蒸し料理
+stir-fry,炒め物
+casserole,グラタン風の煮込み料理
+soup,スープ
+salad,サラダ
+pasta dish,パスタ料理
+baked goods,焼き菓子
+seafood platter,シーフード盛り合わせ
+homemade dish,家庭料理
+hot pot,鍋料理
+barbecue,バーベキュー
+in fact,実際のところ
+of course,もちろん
+first of all,まず第一に
+in other words,言い換えると
+for example,例えば
+in case,もしもの場合に
+all right,大丈夫、了解
+at least,少なくとも
+in general,一般的に
+more or less,だいたい
+on purpose,わざと
+as well,～もまた
+after all,結局のところ
+in addition,加えて
+by chance,偶然に
+in short,要するに
+at first,最初は
+in common,共通して

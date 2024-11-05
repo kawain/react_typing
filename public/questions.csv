@@ -766,7 +766,7 @@ controversial,議論のある。人々の意見が大きく分かれるような
 coupon,割引券、特典の証明。,わりびきけん、とくてんのしょうめい。
 brighten,明るくする、輝かせる,あかるくする、かがやかせる
 embarrass,恥ずかしくさせる。,はずかしくさせる。
-by the way,ところで。,ところで。
+by the way,ところで、話変わるけど,ところで、はなしかわるけど
 spend,過ごす、または費やす。時間やお金を使って行うことを表します。,すごす、またはついやす。じかんやおかねをつかっておこなうことをあらわします。
 summon,人を呼び出す、召喚する。,にんをよびだす、しょうかんする。
 implemented,実装された、導入された,じっそうされた、どうにゅうされた
@@ -2051,7 +2051,7 @@ valid,有効な、正当な。法的または論理的に認められる状態�
 soar,急上昇する、舞い上がる,きゅうじょうしょうする、まいあがる
 realistic,現実的な、実現可能な。,げんじつてきな、じつげんかのうな。
 vanguard,先駆者、最前線、先導者,せんくしゃ、さいぜんせん、せんどうもの
-proverb,諺、格言,ことわざ、かくげん
+proverb,短い教訓のある言葉,みじかいきょうくんのあることば
 attach,物を固定すること。,ものをこていすること。
 inventory,在庫。商店や倉庫に保管されている商品の総量を指します。,ざいこ。しょうてんやそうこにほかんされているしょうひんのそうりょうをさします。
 branch,支店。企業や組織の主要な拠点から離れた場所にある従属的な事業所。,してん。きぎょうやそしきのしゅようなきょてんからはなれたばしょにあるじゅうぞくてきなじぎょうしょ。
@@ -3050,7 +3050,7 @@ roll out,展開する、公開する。新製品やサービスを市場に投�
 esteem,尊敬する、重んじる,そんけいする、おもんじる
 assure,保証する、確実にするために保証を与える。,ほしょうする、かくじつにするためにほしょうをあたえる。
 suitable,特定の目的に適した、ふさわしい。,とくていのもくてきにてきした、ふさわしい。
-in advance,前もって。,まえもって。
+in advance,前もって、事前に,まえもって、じぜんに
 highly,非常に高い評価を受ける。,ひじょうにたかいひょうかをうける。
 fertilizer,肥料、農作物の栄養剤,ひりょう、のうさくぶつのえいようざい
 contemplate,深く考える、黙想する,ふかくかんがえる、もくそうする
@@ -3378,3 +3378,420 @@ pond,池、小さな水たまり。,いけ、ちいさなみずたまり。
 suppose,仮定する、思う、推測する。確実ではないが可能性があると考えること。,かていする、おもう、すいそくする。かくじつではないがかのうせいがあるとかんがえること。
 plenty,豊富な、たくさんの,ほうふな、たくさんの
 independent,自立した、依存しない,じりつした、いぞんしない
+travel agency,旅行代理店,りょこうだいりてん
+round-trip,往復,おうふく
+backpacker,貧乏旅行者,びんぼうりょこうもの
+city break,都市観光旅行,としかんこうりょこう
+customs,税関,ぜいかん
+baggage claim,荷物受取所,にもつうけとりところ
+check-in,搭乗手続き,とうじょうてつづき
+jet lag,時差ぼけ,じさぼけ
+layover,乗り継ぎ時間,のりつぎじかん
+tourist attraction,観光名所,かんこうめいしょ
+passport control,入国審査,にゅうこくしんさ
+budget travel,節約旅行,せつやくりょこう
+local cuisine,地元の料理,じもとのりょうり
+guided tour,ガイド付きツアー,がいどつきつあー
+city of lights,光の都（パリの愛称）,ひかりのみやこ(ぱりのあいしょう)
+big apple,大都市・ニューヨークの愛称,だいとし・にゅーよーくのあいしょう
+eternal city,永遠の都（ローマの愛称）,えいえんのみやこ(ろーまのあいしょう)
+sin city,悪の都市（ラスベガスの愛称）,あくのとし(らすべがすのあいしょう)
+city by the bay,湾岸の街（サンフランシスコ）,わんがんのまち(さんふらんしすこ)
+mile-high city,高地の都市（デンバー）,こうちのとし(でんばー)
+windy city,風の街（シカゴの愛称）,かぜのまち(しかごのあいしょう)
+emerald city,緑の街（シアトル）,みどりのまち(しあとる)
+motor city,自動車の街（デトロイト）,じどうしゃのまち(でとろいと)
+steel city,鋼鉄の街（ピッツバーグ）,こうてつのまち(ぴっつばーぐ)
+gateway to the west,西部の入口（セントルイス）,せいぶのいりぐち(せんとるいす)
+the golden state,黄金の州（カリフォルニア州）,おうごんのしゅう(かりふぉるにあしゅう)
+sunshine state,日光の州（フロリダ州）,にっこうのしゅう(ふろりだしゅう)
+queen city,女王の街（シンシナティ）,じょおうのまち(しんしなてぃ)
+venice of the north,北のベニス（ストックホルム）,きたのべにす(すとっくほるむ)
+land down under,南の国（オーストラリア）,みなみのくに(おーすとらりあ)
+pearl of the adriatic,アドリアの宝石（ドゥブロヴニク）,あどりあのほうせき(どぅぶろゔにく)
+city of a hundred spires,塔の街（プラハ）,とうのまち(ぷらは)
+city of angels,天使の街（ロサンゼルス）,てんしのまち(ろさんぜるす)
+land of the rising sun,日出る国（日本）,ひのでるくに(にっぽん)
+athletic performance,運動の実力や能力,うんどうのじつりょくやのうりょく
+physical fitness,身体の健康と体力,しんたいのけんこうとたいりょく
+team spirit,チームの一体感,ちーむのいったいかん
+sportsmanship,公平なプレー精神,こうへいなぷれーせいしん
+competitive edge,競争力の優位性,きょうそうりょくのゆういせい
+stamina,長時間の持久力,ちょうじかんのじきゅうりょく
+training regimen,計画的な練習,けいかくてきなれんしゅう
+game strategy,試合の戦略,しあいのせんりゃく
+athlete,スポーツ選手,すぽーつせんしゅ
+warm-up,体を温める準備運動,からだをあたためるじゅんびうんどう
+recovery time,体力回復の時間,たいりょくかいふくのじかん
+peak performance,最高の実力発揮,さいこうのじつりょくはっき
+physical conditioning,体力の強化,たいりょくのきょうか
+skill level,技術のレベル,ぎじゅつのれべる
+playoff,決勝戦または試合,けっしょうせんまたはしあい
+injury prevention,怪我の予防策,けがのよぼうさく
+sports psychologist,スポーツ心理学者,すぽーつしんりがくしゃ
+match-up,対戦相手や試合,たいせんあいてやしあい
+goal setting,目標の設定,もくひょうのせってい
+election campaign,選挙活動,せんきょかつどう
+voter turnout,投票率,とうひょうりつ
+ballot box,投票箱,とうひょうばこ
+polling station,投票所,とうひょうじょ
+cast a vote,投票する,とうひょうする
+political candidate,政治候補者,せいじこうほしゃ
+incumbent,現職,げんしょく
+exit poll,出口調査,でぐちちょうさ
+swing voter,浮動票の投票者,ふどうひょうのとうひょうしゃ
+electoral district,選挙区,せんきょく
+polling booth,投票ブース,とうひょうぶーす
+primary election,予備選挙,よびせんきょ
+general election,総選挙,そうせんきょ
+electoral process,選挙手続き,せんきょてつづき
+campaign finance,選挙資金,せんきょしきん
+absentee ballot,不在者投票,ふざいしゃとうひょう
+majority vote,過半数票,かはんすうひょう
+electoral system,選挙制度,せんきょせいど
+political platform,政策綱領,せいさくこうりょう
+vote counting,開票,かいひょう
+boil,沸騰させる,ふっとうさせる
+bake,オーブンで焼く調理法,おーぶんでやくちょうりほう
+fry,揚げる・炒める,あげる・いためる
+grate,おろす,おろす
+steam,蒸す,むす
+chop,刻む,きざむ
+mix,混ぜる,まぜる
+season,味付けする,あじつけする
+marinate,調味液に漬け込む,ちょうみえきにつけこむ
+knead,生地をこねる,きじをこねる
+garnish,飾り付ける,かざりつける
+sieve,ふるいにかける,ふるいにかける
+broil,強火で焼く調理法,つよびでやくちょうりほう
+culinary arts,料理の技術や芸術,りょうりのぎじゅつやげいじゅつ
+gourmet,高級な料理や食材,こうきゅうなりょうりやしょくざい
+recipe,料理の作り方,りょうりのつくりかた
+seasoning,味を整える調味料,あじをととのえるちょうみりょう
+braise,煮込み料理の技法,にこみりょうりのぎほう
+grill,焼き網で焼く,やきあみでやく
+whisk,泡立てる,あわだてる
+dice,小さく切る,ちーさくきる
+tenderize,柔らかくする,やわらかくする
+fermentation,発酵の工程,はっこうのこうてい
+umami,旨味,うまみ
+dish,料理の一品,りょうりのいっぴん
+main course,メインディッシュ,めいんでぃっしゅ
+dessert,デザート、甘い料理,でざーと、あまいりょうり
+side dish,おかず・付け合わせ,おかず・つけあわせ
+spicy,辛い,つらい
+sweet tooth,甘党,あまとう
+savory,塩味の,しおあじの
+bland,味が薄い,あじがうすい
+takeout,持ち帰りの食事,もちかえりのしょくじ
+dining out,外食,がいしょく
+homemade,手作りの,てづくりの
+leftovers,残り物,のこりもの
+fast food,ファストフード,ふぁすとふーど
+comfort food,癒しの料理,いやしのりょうり
+balanced diet,栄養バランスの良い食事,えいようばらんすのよいしょくじ
+apple,りんご,りんご
+orange,オレンジ,おれんじ
+banana,バナナ,ばなな
+grape,ぶどう,ぶどう
+peach,桃,もも
+lemon,失敗、欠陥品,しっぱい、けっかんひん
+cherry,さくらんぼ,さくらんぼ
+pineapple,パイナップル,ぱいなっぷる
+watermelon,スイカ,すいか
+strawberry,いちご,いちご
+blueberry,ブルーベリー,ぶるーべりー
+mango,マンゴー,まんごー
+papaya,パパイヤ,ぱぱいや
+kiwi,キウイ,きうい
+melon,メロン,めろん
+plum,すもも、プラム,すもも、ぷらむ
+fig,イチジク,いちじく
+coconut,ココナッツ,ここなっつ
+pomegranate,ざくろ,ざくろ
+raspberry,ラズベリー,らずべりー
+apple of one's eye,とても大切な人や物,とてもたいせつなにんやもの
+go bananas,興奮する、気が狂う,こうふんする、きがくるう
+low-hanging fruit,簡単に得られるもの,かんたんにえられるもの
+sour grapes,負け惜しみ,まけおしみ
+cherry-pick,良いものを選び抜く,よいものをえらびぬく
+peaches and cream,順調で素晴らしい,じゅんちょうですばらしい
+lemon law,欠陥商品に関する法律,けっかんしょうひんにかんするほうりつ
+a plum job,魅力的な仕事,みりょくてきなしごと
+like comparing apples and oranges,全く違うものの比較,まったくちがうもののひかく
+the apple doesn't fall far from the tree,親に似る,おやににる
+a bite at the cherry,機会、チャンス,きかい、ちゃんす
+as american as apple pie,典型的なアメリカの,てんけいてきなあめりかの
+top banana,一番偉い人,いちばんえらいにん
+a peach of a (something),素晴らしい,すばらしい
+life is a bowl of cherries,楽しい人生,たのしいじんせい
+rotten to the core,根本から悪い,こんぽんからわるい
+peas in a pod,よく似た二人,よくにたふたり
+cherry on top,とどめの一押し,とどめのいちおし
+forbidden fruit,禁じられたもの,きんじられたもの
+idiom,固定された表現の一種,こていされたひょうげんのいっしゅ
+wise saying,賢明な言葉や教訓,けんめいなことばやきょうくん
+old adage,古くからの格言,ふるくからのかくげん
+common saying,よく使われる言葉,よくつかわれることば
+folk wisdom,民間に伝わる知恵,みんかんにつたわるちえ
+a stitch in time,早めの処置が重要,はやめのしょちがじゅうよう
+an apple a day,健康維持の秘訣,けんこういじのひけつ
+look before you leap,慎重に行動せよ,しんちょうにこうどうせよ
+once in a blue moon,ごく稀に起こること,ごくまれにおこること
+actions speak louder,言葉より行動が大切,ことばよりこうどうがたいせつ
+two heads are better,協力が成功の鍵,きょうりょくがせいこうのかぎ
+every cloud has a silver lining,悪いことにも良い面がある,わるいことにもよいめんがある
+don't count your chickens,早合点するな,はやがてんするな
+a watched pot never boils,待つと長く感じる,まつとながくかんじる
+bark up the wrong tree,見当違いをする,けんとうちがいをする
+when in rome,郷に入れば郷に従え,さとにいればさとにしたがえ
+the early bird,早起きが成功を導く,はやおきがせいこうをみちびく
+a penny saved,節約は収入なり,せつやくはしゅうにゅうなり
+you can't judge a book,外見で判断するな,がいけんではんだんするな
+haste makes waste,急ぐと失敗する,いそぐとしっぱいする
+better late than never,遅れてもやらないより良い,おくれてもやらないよりよい
+practice makes perfect,継続は力なり,けいぞくはちからなり
+time will tell,時が真実を明かす,ときがしんじつをあかす
+no pain no gain,苦労なくして成功なし,くろうなくしてせいこうなし
+honesty is the best policy,正直が最良の策,しょうじきがさいりょうのさく
+knowledge is power,知識は力なり,ちしきはちからなり
+actions speak louder than words,行動が物語る,こうどうがものがたる
+easy come easy go,簡単に得たものは失いやすい,かんたんにえたものはうしないやすい
+fortune favors the bold,勇者に幸運あり,ゆうしゃにこううんあり
+when it rains it pours,泣きっ面に蜂,なきっめんにはち
+the pen is mightier than the sword,言葉は剣より強し,ことばはつるぎよりつよし
+you reap what you sow,因果応報,いんがおうほう
+out of sight out of mind,見えないと忘れがち,みえないとわすれがち
+the early bird catches the worm,早起きが成功の鍵,はやおきがせいこうのかぎ
+a friend in need is a friend indeed,真の友は苦難でわかる,まことのともはくなんでわかる
+all that glitters is not gold,光るもの必ずしも金ならず,ひかるものかならずしもきんならず
+a picture is worth a thousand words,写真は千の言葉に値する,しゃしんはせんのことばにあたいする
+interior design,インテリアデザイン,いんてりあでざいん
+furnishing,家具の配置,かぐのはいち
+decoration,装飾、飾りつけ,そうしょく、かざりつけ
+color scheme,色彩計画,しきさいけいかく
+home staging,住宅演出,じゅうたくえんしゅつ
+layout,配置、レイアウト,はいち、れいあうと
+style guide,スタイルガイド,すたいるがいど
+ambiance,雰囲気、ムード,ふんいき、むーど
+accent wall,アクセントウォール,あくせんとうぉーる
+space planning,空間計画,くうかんけいかく
+textiles,織物、布地,おりもの、ぬのじ
+lighting,照明、ライティング,しょうめい、らいてぃんぐ
+minimalism,ミニマリズム,みにまりずむ
+sustainability,持続可能性,じぞくかのうせい
+eclectic,エクレクティック,えくれくてぃっく
+mood board,ムードボード,むーどぼーど
+chic,シック、しゃれた,しっく、しゃれた
+restaurant,食事を提供する場所,しょくじをていきょうするばしょ
+menu,食べ物のリスト,たべもののりすと
+waiter,サービスする人,さーびすするにん
+waitress,女性のサービス員,じょせいのさーびすいん
+buffet,ビュッフェ形式の食事,びゅっふぇけいしきのしょくじ
+specials,特別メニュー,とくべつめにゅー
+ingredients,材料、成分,ざいりょう、せいぶん
+chef,料理長,りょうりちょう
+dining,食事をすること,しょくじをすること
+foodie,食べ物好きな人,たべものすきなにん
+james,男性名、人気,だんせいめい、にんき
+mary,女性名、定番,じょせいめい、ていばん
+john,男性名、古典的,だんせいめい、こてんてき
+sarah,女性名、親しみやすい,じょせいめい、したしみやすい
+robert,男性名、広く使われる,だんせいめい、ひろくつかわれる
+emily,女性名、可愛い,じょせいめい、かわい
+michael,男性名、ポピュラー,だんせいめい、ぽぴゅらー
+jessica,女性名、現代的,じょせいめい、げんだいてき
+william,男性名、格式高い,だんせいめい、かくしきたかい
+olivia,女性名、人気上昇中,じょせいめい、にんきじょうしょうなか
+david,男性名、シンプル,だんせいめい、しんぷる
+laura,女性名、伝統的,じょせいめい、でんとうてき
+daniel,男性名、一般的,だんせいめい、いっぱんてき
+sophie,女性名、洗練された,じょせいめい、せんれんされた
+thomas,男性名、親しまれている,だんせいめい、したしまれている
+chloe,女性名、オシャレ,じょせいめい、おしゃれ
+matthew,男性名、良く見かける,だんせいめい、よくみかける
+megan,女性名、若者に人気,じょせいめい、わかものににんき
+andrew,男性名、信頼感,だんせいめい、しんらいかん
+charlotte,女性名、エレガント,じょせいめい、えれがんと
+japan,日本（アジアの島国）,にっぽん(あじあのしまくに)
+united states,アメリカ合衆国,あめりかがっしゅうこく
+canada,カナダ（北米の国）,かなだ(ほくべいのくに)
+germany,ドイツ（ヨーロッパの国）,どいつ(よーろっぱのくに)
+france,フランス（ワインと美食）,ふらんす(わいんとびしょく)
+china,中国（世界一の人口）,ちゅうごく(せかいいちのじんこう)
+india,インド（多様な文化）,いんど(たようなぶんか)
+brazil,ブラジル（南米最大の国）,ぶらじる(なんべいさいだいのくに)
+australia,オーストラリア（動物が豊富）,おーすとらりあ(どうぶつがほうふ)
+italy,イタリア（ピザの国）,いたりあ(ぴざのくに)
+russia,ロシア（世界最大の国）,ろしあ(せかいさいだいのくに)
+south korea,韓国（k-pop発祥）,かんこく(k-popはっしょう)
+mexico,メキシコ（タコスの国）,めきしこ(たこすのくに)
+spain,スペイン（フラメンコ発祥）,すぺいん(ふらめんこはっしょう)
+united kingdom,英国（イギリスの国）,えいこく(いぎりすのくに)
+netherlands,オランダ（風車の国）,おらんだ(ふうしゃのくに)
+sweden,スウェーデン（北欧の国）,すうぇーでん(ほくおうのくに)
+turkey,トルコ（文化の交差点）,とるこ(ぶんかのこうさてん)
+argentina,アルゼンチン（タンゴの国）,あるぜんちん(たんごのくに)
+egypt,エジプト（古代文明の国）,えじぷと(こだいぶんめいのくに)
+tokyo,日本の首都,にっぽんのしゅと
+new york,アメリカの大都市,あめりかのだいとし
+paris,フランスの首都,ふらんすのしゅと
+london,イギリスの首都,いぎりすのしゅと
+berlin,ドイツの首都,どいつのしゅと
+beijing,中国の首都,ちゅうごくのしゅと
+seoul,韓国の首都,かんこくのしゅと
+moscow,ロシアの首都,ろしあのしゅと
+madrid,スペインの首都,すぺいんのしゅと
+rome,イタリアの首都,いたりあのしゅと
+bangkok,タイの首都,たいのしゅと
+buenos aires,アルゼンチンの首都,あるぜんちんのしゅと
+cairo,エジプトの首都,えじぷとのしゅと
+istanbul,トルコの都市,とるこのとし
+lima,ペルーの首都,ぺるーのしゅと
+hanoi,ベトナムの首都,べとなむのしゅと
+singapore,東南アジアの国,とうなんあじあのくに
+lisbon,ポルトガルの首都,ぽるとがるのしゅと
+athens,ギリシャの首都,ぎりしゃのしゅと
+kuala lumpur,マレーシアの首都,まれーしあのしゅと
+sushi,生魚をのせたご飯,せいぎょをのせたごめし
+tacos,トルティーヤに具材を包む,とるてぃーやにぐざいをつつむ
+paella,スペイン風の米料理,すぺいんかぜのこめりょうり
+biryani,香辛料入りの米料理,こうしんりょういりのこめりょうり
+pasta,小麦粉の麺料理,こむぎこのめんりょうり
+croissant,バターのデニッシュペストリー,ばたーのでにっしゅぺすとりー
+kimchi,発酵した野菜の辛い漬物,はっこうしたやさいのつらいつけもの
+baklava,ナッツと蜂蜜の甘い菓子,なっつとはちみつのあまいかし
+ratatouille,野菜の煮込み料理,やさいのにこみりょうり
+falafel,ひよこ豆の揚げボール,ひよこまめのあげぼーる
+churros,揚げた甘い生地,あげたあまいきじ
+pho,ベトナムの米麺スープ,べとなむのこめめんすーぷ
+goulash,ハンガリーの肉の煮込み,はんがりーのにくのにこみ
+ceviche,生魚のマリネ,せいぎょのまりね
+poutine,フライドポテトとチーズの料理,ふらいどぽてととちーずのりょうり
+moussaka,ナスとひき肉の重ね焼き,なすとひきにくのおもねやき
+ramen,日本の中華麺料理,にっぽんのちゅうかめんりょうり
+samosa,スパイシーな具の揚げ餃子,すぱいしーなぐのあげぎょうざ
+hummus,ひよこ豆のペースト,ひよこまめのぺーすと
+gnocchi,ポテトの団子状パスタ,ぽてとのだんごじょうぱすた
+hello,こんにちは,こんにちは
+good morning,おはよう,おはよう
+good afternoon,こんにちは（昼）,こんにちは(ひる)
+good evening,こんばんは,こんばんは
+goodbye,さようなら,さようなら
+see you later,またね,またね
+how are you?,お元気ですか？,おげんきですか?
+nice to meet you,はじめまして,はじめまして
+what's up?,どうしたの？,どうしたの?
+how's it going?,調子はどう？,ちょうしはどう?
+long time no see,久しぶり,ひさしぶり
+take care,気をつけて,きをつけて
+have a nice day,良い一日を,よいついたちを
+welcome,ようこそ,ようこそ
+cheers,乾杯/ありがとう,かんぱい/ありがとう
+pleased to meet you,お会いできて嬉しい,おあいできてうれしい
+how have you been?,どうしてましたか？,どうしてましたか?
+i'm doing well,元気です,げんきです
+safe travels,良い旅を,よいたびを
+until next time,また次回まで,またじかいまで
+hashtag,キーワードのタグ,きーわーどのたぐ
+meme,ネット上の流行,ねっとうえのりゅうこう
+viral,急速に広がる,きゅうそくにひろがる
+dm (direct message),直接メッセージ,ちょくせつめっせーじ
+post,投稿すること,とうこうすること
+follower,フォローする人,ふぉろーするにん
+like,好きという反応,すきというはんのう
+profile,プロフィール情報,ぷろふぃーるじょうほう
+status update,状態の更新,じょうたいのこうしん
+story,短い投稿内容,みじかいとうこうないよう
+influencer,影響力のある人,えいきょうりょくのあるにん
+chat,直接の会話,ちょくせつのかいわ
+love,愛,あい
+hope,希望,きぼう
+grace,恵み,めぐみ
+mercy,哀れみ,あわれみ
+peace,平和,へいわ
+forgiveness,赦し,ゆるし
+salvation,救い,すくい
+redemption,贖い,しょくい
+covenant,契約,けいやく
+commandments,掟,おきて
+discipleship,弟子の道,でしのみち
+gospel,福音,ふくいん
+righteousness,正義,せいぎ
+resurrection,復活,ふっかつ
+kingdom,王国,おうこく
+sin,罪,つみ
+charity,慈善,じぜん
+in the beginning,初めに,はじめに
+let there be light,光あれ,ひかりあれ
+daily bread,日々の糧,ひびのかて
+prodigal son,放蕩息子,ほうとうむすこ
+good samaritan,善良な人,ぜんりょうなにん
+alpha and omega,始まりと終わり,はじまりとおわり
+love thy neighbor,隣人を愛せよ,りんじんをあいせよ
+lost sheep,迷える子羊,まよえるこひつじ
+promised land,約束の地,やくそくのち
+eye for an eye,目には目を,めにはめを
+turn the other cheek,寛容な心を持て,かんようなこころをもて
+cast the first stone,批判する資格,ひはんするしかく
+salt of the earth,世の光,よのひかり
+pearls before swine,豚に真珠,ぶたにしんじゅ
+golden rule,黄金律,おうごんりつ
+daily manna,天からの恵み,てんからのめぐみ
+lamb of god,神の子羊,かみのこひつじ
+living water,命の水,いのちのみず
+bread of life,命のパン,いのちのぱん
+time flies,光陰矢のごとし,こういんやのごとし
+so far,これまでのところ,これまでのところ
+all set,準備万端,じゅんびばんたん
+face up,立ち向かう,たちむかう
+fair play,フェアな行動,ふぇあなこうどう
+first aid,応急手当,おうきゅうてあて
+for good,永久に,えいきゅうに
+give in,降参する,こうさんする
+hit off,相性が良い,あいしょうがよい
+in brief,一言で言えば,ひとことでいえば
+keep fit,健康を保つ,けんこうをたもつ
+last long,長持ちする,ながもちする
+make do,なんとかやり繰りする,なんとかやりくりする
+no doubt,間違いなく,まちがいなく
+on time,時間通りに,じかんとうりに
+well off,裕福である,ゆうふくである
+day by day,日に日に,にちににちに
+now and then,時々,ときどき
+at once,すぐに,すぐに
+stew,煮込み料理,にこみりょうり
+roast beef,ローストビーフ,ろーすとびーふ
+grilled fish,焼き魚,やきざかな
+sautéed vegetables,炒め野菜,いためやさい
+curry and rice,カレーライス,かれーらいす
+deep-fried food,揚げ物,あげもの
+steamed dish,蒸し料理,むしりょうり
+stir-fry,炒め物,いためもの
+casserole,グラタン風の煮込み料理,ぐらたんかぜのにこみりょうり
+soup,スープ,すーぷ
+salad,サラダ,さらだ
+pasta dish,パスタ料理,ぱすたりょうり
+baked goods,焼き菓子,やきかし
+seafood platter,シーフード盛り合わせ,しーふーどもりあわせ
+homemade dish,家庭料理,かていりょうり
+hot pot,鍋料理,なべりょうり
+barbecue,バーベキュー,ばーべきゅー
+in fact,実際のところ,じっさいのところ
+of course,もちろん,もちろん
+first of all,まず第一に,まずだいいちに
+in other words,言い換えると,いいかえると
+for example,例えば,たとえば
+in case,もしもの場合に,もしものばあいに
+all right,大丈夫、了解,だいじょうぶ、りょうかい
+at least,少なくとも,すくなくとも
+in general,一般的に,いっぱんてきに
+more or less,だいたい,だいたい
+on purpose,わざと,わざと
+as well,～もまた,~もまた
+after all,結局のところ,けっきょくのところ
+in addition,加えて,くわえて
+by chance,偶然に,ぐうぜんに
+in short,要するに,ようするに
+at first,最初は,さいしょは
+in common,共通して,きょうつうして
