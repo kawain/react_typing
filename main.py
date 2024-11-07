@@ -74,7 +74,7 @@ def random_data():
     random.shuffle(lines)
 
     # 並び替えた内容を新しいファイルに書き込み
-    with open("origin2.csv", "w", encoding="utf-8") as f:
+    with open("output.csv", "w", encoding="utf-8") as f:
         f.writelines(lines)
 
 
