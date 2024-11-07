@@ -7,10 +7,6 @@ kakasi = pykakasi.kakasi()
 
 
 def convert_hiragana(text):
-    # 事前の置換
-    text = text.replace("入って", "はいって")
-    text = text.replace("入る", "はいる")
-
     text = unicodedata.normalize("NFKC", text)
 
     hiragana_txt = ""

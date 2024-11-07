@@ -57,6 +57,8 @@ h2 {
 }
 
 .questionArray span[data-typed='true'] {
+  font-size: 24px;
+  font-weight: bold;
   color: var(--typed-color);
 }
 
