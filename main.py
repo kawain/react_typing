@@ -147,6 +147,23 @@ def test3():
             f.write(f"{eng},{jpn}\n")
 
 
+def test4():
+    """文字の長さ"""
+
+    with open("origin.csv", "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    new_line = []
+    for v in lines:
+        tmp = v.split(",")
+        if len(tmp[0]) < 40:
+            # print(v)
+            new_line.append(v)
+
+    with open("output.csv", "w", encoding="utf-8") as f:
+        f.writelines(new_line)
+
+
 task1()
 # task2()
 # random_data()
@@ -155,3 +172,4 @@ task1()
 # test1()
 # test2()
 # test3()
+# test4()
