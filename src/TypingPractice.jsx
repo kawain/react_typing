@@ -64,6 +64,11 @@ function TypingPractice () {
               }))
 
             const shuffled = shuffleArray(parsedQuestions)
+            shuffled.unshift({
+              english: 'abcdefghijklmnopqrstuvwxyz',
+              japanese: '1234567890',
+              hiragana: '1234567890'
+            })
             setQuestions(shuffled)
             setCurrentQuestion(shuffled[0])
             let mondai = `${shuffled[0].english} ${shuffled[0].hiragana}`
