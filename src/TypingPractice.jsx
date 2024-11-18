@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from 'react'
-import Papa from 'papaparse'
 
 function TypingPractice () {
   const [questions, setQuestions] = useState([])
@@ -50,36 +49,34 @@ function TypingPractice () {
 
     const loadQuestions = async () => {
       try {
-        const response = await fetch('./questions.csv')
-        const csvData = await response.text()
+        const response = await fetch('./questions.txt')
+        const text = await response.text()
 
-        Papa.parse(csvData, {
-          complete: results => {
-            const parsedQuestions = results.data
-              .filter(row => row.length === 3)
-              .map(([english, japanese, hiragana]) => ({
-                english,
-                japanese,
-                hiragana
-              }))
-
-            const shuffled = shuffleArray(parsedQuestions)
-            shuffled.unshift({
-              english: 'abcdefghijklmnopqrstuvwxyz',
-              japanese: '1234567890',
-              hiragana: '1234567890'
-            })
-            setQuestions(shuffled)
-            setCurrentQuestion(shuffled[0])
-            let mondai = `${shuffled[0].english} ${shuffled[0].hiragana}`
-            let result = window.splitText(mondai)
-            setQuestionTextArray(result)
-          },
-          header: false,
-          skipEmptyLines: true
+        // テキストを行ごとに分割し、空行を除外
+        const lines = text.split('\n').filter(line => line.trim())
+        // 各行を★で分割してオブジェクトに変換
+        const questions = lines.map(line => {
+          const [english, japanese, hiragana] = line.split('★')
+          return {
+            english,
+            japanese,
+            hiragana
+          }
         })
+
+        const shuffled = shuffleArray(questions)
+        shuffled.unshift({
+          english: 'abcdefghijklmnopqrstuvwxyz',
+          japanese: '1234567890',
+          hiragana: '1234567890'
+        })
+        setQuestions(shuffled)
+        setCurrentQuestion(shuffled[0])
+        let mondai = `${shuffled[0].english} ${shuffled[0].hiragana}`
+        let result = window.splitText(mondai)
+        setQuestionTextArray(result)
       } catch (error) {
-        console.error('CSVの読み込みに失敗しました:', error)
+        console.error('ファイルの読み込みに失敗しました:', error)
       }
     }
     loadQuestions()
