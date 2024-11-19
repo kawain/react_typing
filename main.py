@@ -1,3 +1,4 @@
+import csv
 import pykakasi
 import unicodedata
 
@@ -37,4 +38,22 @@ def task1():
             f.write(data)
 
 
+def read_csv_and_write():
+    lst = []
+    with open("origin.csv", encoding="utf-8", newline="") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            lst.append(row)
+
+    with open("origin.txt", "a", encoding="utf-8") as f:
+        for v in lst:
+            if v[1] == v[2]:
+                data = f"{v[0]}★{v[1]}\n"
+            else:
+                data = f"{v[0]}★{v[1]} {v[2]}\n"
+
+            f.write(data)
+
+
 task1()
+# read_csv_and_write()
