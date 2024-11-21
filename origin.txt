@@ -1708,7 +1708,7 @@ steal★窃盗 It's wrong to steal. 盗むことは間違っています。
 protest★抗議する They held a protest against the new law. 彼らは新しい法律に対して抗議を行いました。
 index★索引 Check the index for the topic you're looking for. 探しているトピックのための索引を確認してください。
 sad★悲しい The news made him very sad. そのニュースは彼をとても悲しくさせました。
-frequently★頻繁に I visit that café frequently. 私はそのカフェを頻繁に訪れます。
+frequently★頻繁に I visit that cafe frequently. 私はそのカフェを頻繁に訪れます。
 circle★丸 Draw a perfect circle. 完璧な円を描いてください。
 helpful★役立つ The guide was very helpful. ガイドはとても役に立ちました。
 command★指示 He has a good command of the language. 彼はその言語をよく理解しています。
@@ -2837,7 +2837,7 @@ d★d アルファベットのd.例示時 D as Delta.
 united★連合した 連合した.合併した.提携した.一致(団結)した
 n★n アルファベットのn.例示時 N as November.
 angel★天使
-th★序数(順番)を表す 
+th★序数(順番)を表す
 g★g アルファベットのg.例示時 G as Golf.
 later★後で 後で.lateの比較級.後に
 h★h アルファベットのh.例示時 H as Hotel.
@@ -2847,13 +2847,13 @@ f★f アルファベットのf.例示時 F as Foxtrot(社交ダンスの一種)
 l★l アルファベットのl.例示時 L as Lima.
 republican★共和党の 共和制の.共和政体の.共和国の.共和主義の
 interesting★面白い おもしろい.興味深い
-higher★より高い より高い 
+higher★より高い
 k★k アルファベットのk.例示時 K as Kilo.
 whose★その その.だれの
 spike★スパイク 大くぎ.(塀の)忍び返し.(競技用の靴の)スパイク.(植物)穂
 v★v アルファベットのv.例示時 V as Victor.2.(ローマ数字).5
 building★建物
-gonna★つもり (俗)するつもりの(going to) 
+gonna★つもり (俗)するつもりの(going to)
 domain★ドメイン 領地.領土.範囲.変域.統治地域
 lower★下側 より低い.低くする.下げる.低くなる.下がる
 etc.★等 etc.(et cetera)はand so on (その他) の意味.2.ETC.自動料金収受システム.Electronic Toll Collection (systems)
@@ -2867,46 +2867,46 @@ slate★スレート 石板,スレート(でふく).候補に立てる.予定す
 j★j アルファベットのj.例示時 J as Juliet.
 acid★酸 酸.酸性.酸塩基反応(acid-base reaction).酸っぱい.麻薬.LSD (cf.alkali)
 r★r アルファベットのr.例示時 R as Romeo.
-longer★より長い より長い 
-media★メディア (mediaはmediumの複数形).マスコミや報道.2.中間にあるもの.間に入って媒介するもの 
+longer★より長い
+media★メディア (mediaはmediumの複数形).マスコミや報道.2.中間にあるもの.間に入って媒介するもの
 receptor★受容体 レセプター(受容体)
 publish★パブリッシュ 出版する.を発表する
 senate★上院 上院議会
-ml★ミリリットル ミリリットル(1cc) 
+ml★ミリリットル ミリリットル(1cc)
 cannot★できない can not
 genome★ゲノム ゲノム.生殖細胞に含まれる染色体または遺伝子全体.ある生物の持つ全ての核酸上の遺伝情報
 internet★インターネット
 clone★クローン クローンの.無性的に繁殖させる.(cf.crone.しわくちゃ婆.クローン病Crohn's disease,CD)
 earlier★前 前に.早く
 huh★ハァッ ふん(質問･驚き･軽蔑).はあ
-greater★大きい (より)大きい 
+greater★大きい (より)大きい
 binding★バインディング 拘束力のある.縛る(こと).製本.装丁.(スキーの)ビンディング
 client★クライアント 顧客.お得意様.来訪者.訴訟依頼人.(弁護の)依頼人
 meeting★ミーティング 会合.集合.出会い.会議
 distribution★配布 流通.分配.配給.区分.配置
 antibody★抗体 免疫体.抗体
 authority★権限 権威.権威者.出典.権限.権力.許可.職務権限.当局
-rights★ライツ 権利 
-papers★論文 (複数形で)書類,文書,記録,身分(戸籍)証明書,信任状,論文 
+rights★ライツ 権利
+papers★論文 (複数形で)書類,文書,記録,身分(戸籍)証明書,信任状,論文
 mutation★突然変異 突然変異.変化
-probe★査察 (prób).徹底的な調査.査察.(=investigation他).探り針.試験.探る.厳密に調査する (cf.probe.調査,探査する.prove.証明する)
+probe★査察 .徹底的な調査.査察.(=investigation他).探り針.試験.探る.厳密に調査する (cf.probe.調査,探査する.prove.証明する)
 tumor★腫瘍 腫瘍.膨らみ.出っ張り
 feeling★気持ち 感覚..感じ.知覚.感情.情緒.思いやり.興奮
 mutant★変異体 突然変異による.突然変体.変種
-older★年上の 古い 
+older★年上の 古い
 thanks★感謝
 training★トレーニング トレーニング.訓練する.訓練.教育.しつけ
 democrat★民主党 民主主義者.民主党
 impact★インパクト 衝撃.激突する.詰込む.激突.影響.効果
 hey★ちょっと おい!.ちょっと.おい
-min★分 分 
+min★分
 transcript★転写物 写し.複写.転写物.謄本
 induce★誘導する 勧誘する.人に勧めて～させる.を引き起こす.(反)exclude.除外する
 attorney★弁護士 弁護士.代理人
 sept★7の 7の意味(Septemberは9月に転じた)
 accounting★会計 会計学.会計.計算
 assay★検定 含有量(率)を示す.試金(含有量の検査)する.評価する.検定する.
-larger★より大きい より大きい 
+larger★より大きい
 cox★コックス 舵手.舵取り
 finding★認定 発見.結論.(裁判官.陪審)認定.決定.裁定.結果.事実認定.付属品類
 anti★反対
@@ -2918,11 +2918,11 @@ array★アレイ 陣列.隊列.装い.整列させる
 whom★誰に だれに.だれを.するところの人.そしてその人を
 doubles★ダブルス ふたつの.二倍の.(野球)二塁打
 membrane★膜 薄膜.膜.皮膜.膜組織
-activation★アクティベーション アクティベーション.活性化 
+activation★アクティベーション アクティベーション.活性化
 wow★ワオ ワーッ.感嘆の声
 primer★プライマー 点火装置.活字.雷管.入門書.手引書
 hop★ホップ 跳躍.ぴょんと跳び越す.(植物)ホップ.ホップの実(ビールの苦味をつける).麻薬.阿片
-largest★最大 最大の 
+largest★最大 最大の
 smaller★より小さい
 audit★監査 監査.(帳簿など)を検査する.(講義)を聴講する
 transcription★転写 写すこと.複写.転写.コピー
@@ -2944,9 +2944,9 @@ willow★柳 ヤナギ.柳.やなぎば色(柳の葉の色に似たややくす�
 microarray★マイクロアレイ マイクロアレイ(Microarray).対象物を多数,一度に検査･実験を行う技術.生物学･医学･薬学で,核酸のDNAマイクロアレイを中心に利用される.Arrayは整列の意
 molecular★分子の (化)分子の
 marker★マーカー マーカー.マークする物.目印.採点者.記念碑
-biggest★最大 最大の 
+biggest★最大 最大の
 institute★協会 設立する.始める.会.協会.実施する.起こす
-genomic★ゲノムの ゲノムの 
+genomic★ゲノムの
 parameter★パラメーター パラメーター.変数.媒介変数.母集団特性値.要素.要因.限界
 kinase★キナーゼ キナーゼ.リン酸化酵素の一種
 amino★アミノ基 アミノ基,-NH2基(the radical -NH2)を持つ,アンモニアから生じた窒素の有機化合物群
@@ -2957,18 +2957,18 @@ scandal★スキャンダル スキャンダル.醜聞.恥ずべきこと
 wanna★したい したい.(=want to 口語)
 latest★最新 最も遅い.最近の
 dose★用量 (薬の)一服.投薬する
-conserved★保存されている 
+conserved★保存されている
 testing★検査 試験の.極めて困難な
 limited★限られた 制限された.特別
 fourth★第4 (日付の)4日.第4.4番目の.(cf.force軍隊･強いる.forth.前へ.fourth4番目)
 regulatory★規制 規定する.取り締まる
-mg★ミリグラム ミリグラム.質量の単位.0.001グラム 
+mg★ミリグラム ミリグラム.質量の単位.0.001グラム
 residue★残りかす 残余.残留物.かす
 vector★ベクトル ベクトル.方向量.保菌生物.病毒媒介昆虫(ハエ･カなど)
 activate★活性化する 放射能を与える.活性化する.活動的にする.活動させる
 organism★生体 有機体.生物.人間.個々の小さな動･植物.有機的組織体(社会など)
 serum★血清
-easier★より簡単に 簡単に 
+easier★より簡単に 簡単に
 z★z アルファベットのz. 例示時 Z as Zulu.
 molecule★分子 分子.2.微量.微分子
 buffer★バッファ 緩衝域, -を置く
@@ -2986,7 +2986,7 @@ bay★ベイ 吠えつく.(猟犬の)ほえ声.窮地.月桂樹.栄光.湾.入�
 alignment★アラインメント 照準.配列.アラインメント.一直線.配置.整列
 postal★郵便 郵便局の.郵便(局)の
 testimony★証言 証言.証明.立証.証明書
-highest★最高 最高 
+highest★最高
 screening★スクリーニング 適格審査.ふるい分け
 constitution★憲法 体質.憲法.制定.構成.構造.組織.体格.気質.設立.形成.政体
 aspect★アスペクト 面.様子.外観.性状.顔つき.姿.(文法)動詞の相,アスペクト
@@ -2994,7 +2994,7 @@ birthday★誕生日
 nucleotide★ヌクレオチド ヌクレオチド.塩基+糖+リン酸の構造をもつ化合物.エネルギー代謝の役割を果す.語源はnucleo(核の)tide(結ばれた).核酸は多数重合したポリヌクレオチドである
 re★について について.about
 km★キロ キロメートル.kilometers
-hm★うーん うーん 
+hm★うーん
 congressional★議会の
 investigator★捜査官 調査員
 lee★リー 残りかす.保護.物陰.2.風下の.風下(反.windward.風上の)
@@ -3011,20 +3011,20 @@ vacation★休暇 休暇.休日.休み
 airport★空港
 thread★スレッド 細い線.糸.繊維.細いもの.スレッド.寿命.を貫く
 dawn★夜明け 夜明け(daybreak).黎明.夜が明ける.暁.明るくなる.発達しはじめる.分かり始める
-younger★年下 年下 
+younger★年下
 intensity★強度 緊張.強烈にする
 million★100万 100万.1,000,000の.1,000の2乗
 fraction★分数 破片.一部分.端数.比.割合.分数(fraction)の分子(numerator)を基数cardinal numberで,分母(denominator)を序数ordinal numberで表す例文
-greatest★最大 最大 
+greatest★最大
 protocol★プロトコル プロトコル(対話に必要な通信規約).議定書.外交儀礼
-inc★株式会社 株式会社(incorporated) 
+inc★株式会社 株式会社(incorporated)
 means★手段 方法.手段.財産
 cellular★細胞の
 yep★うん yes
 globe★グローブ 地球儀.球体.天球.球.地球.(cf.grab掴む.gloveグラブ.globe地球.grub掘る)
 tag★タグ に下げ札をつける.決まり文句.荷札.金具.尾.巻き毛.ナンバープレート
 mortality★死亡 死すべき運命.人類.死ぬ運命.大量の死.死亡数.死亡率
-allele★アレル アレル(対立遺伝子) 
+allele★アレル アレル(対立遺伝子)
 corresponding★対応する 一致する.対応する.調和する
 plasmid★プラスミド プラスミド.細胞内の,細胞核外で複製され,娘細胞に分配される染色体以外のDNA分子の総称.DNAとは独立し自律的に複製を行う.遺伝子組み換えに多く用いられる
 motif★モチーフ 主題.モチーフ.基調.動機.飾り
@@ -3033,12 +3033,12 @@ folks★人々 人々(people のほうが一般的)
 terrorism★テロリズム テロ行為.恐怖政治
 vitro★ビトロ in vitro(ラテン語), 試験管内で(=生体外で).(in vitro fertilization体外受精･試験管内受精,略IVF).反意語in vivo(in the body)
 fewer★より少ない 少数の人々
-incubated★インキュベート インキュベート.孵化させる 
+incubated★インキュベート インキュベート.孵化させる
 sensitivity★感度 思いやり.神経のこまやかさ.感度.感性
 auditor★監査人 監査役
 amazing★素晴らしい 驚嘆すべき.見事な.信じがたい
-bigger★より大きい より大きい 
-subunit★サブユニット サブユニット 
+bigger★より大きい
+subunit★サブユニット
 prediction★予測 予言.予想.予測.予報
 similarity★類似 類似点.類似(点)
 detection★検出 看破.探知.発見.発覚.検出
@@ -3046,7 +3046,7 @@ phenotype★表現型 生物のもつ遺伝的特徴は遺伝子型によって�
 supreme★最高 最高の.主権を有する.究極の.絶頂.至高の.最後の
 intron★イントロン (遺伝学)イントロン.介在配列.転写はされるが最終的にスプライシング反応によって除去される塩基配列.(スプライシングによって除去されず残る部位はエクソン)
 economist★エコノミスト 経済学者
-closer★クローザー 近い.closeの比較級 
+closer★クローザー 近い.closeの比較級
 ass★ロバ ロバ 2.女性性器(俗)
 fuck★くそ 性交する(卑語)
 matrix★マトリックス 母体.(数)行列.鋳型.字母.マトリックス.素地
@@ -3055,7 +3055,7 @@ cute★可愛い かわいい
 slayer★殺害者
 interval★インターバル 隔たり.間隔.合間.距離.幕間
 physician★医師 医者.内科医.医師.(比喩的)治療者.救済者
-troops★軍 軍隊 
+troops★軍 軍隊
 rating★評価 評価.格付け
 palace★宮殿 宮殿.大邸宅.宮廷の有力者達
 fox★狐 キツネ.狐.狡猾な人.すごい美人
@@ -3065,13 +3065,13 @@ spokesman★スポークスマン スポークスマン.代弁者
 goods★商品 商品.家財.服地.貨物.品物
 bombing★爆撃
 lane★LANE 狭い道.小道.通路.小径
-shares★株式 株.株式 
+shares★株式 株.株式
 queen★女王 女王として君臨する.王妃.女王.女帝.皇后
 identical★同じ 全く同じ.同一の.(cf.dizygotic twins, fraternal twins.二卵性双生児.monozygotic twins,MZ.identical twins.一卵性双子)
 neuron★ニューロン ニューロン(神経細胞).2.社名 他
 inhibit★抑制する することを禁ずる.を抑制する.妨げる
 organ★オルガン オルガン.器官.機関.音声
-inhibitor★阻害剤 阻害剤 
+inhibitor★阻害剤
 chatterbox★おしゃべり おしゃべり(な人)
 blot★しみ インクのしみをつける.しみ.汚点をつける.汚れ汚点.(cf.stain.コーヒー,ジュース,血などによるしみ)
 fishing★釣り
@@ -3085,12 +3085,12 @@ locus★軌跡 場所.位置.2.遺伝子座(染色体中の遺伝子が占める
 trim★トリム 刈込む.整備(する).削減する.を装飾する.(身体の)調子.気分.きちんとした
 saint★聖人 聖人.聖～
 mid★中央の 中間の.中央の.中部の.の(最)中に
-non★ノン 非.否定.拒否 
+non★ノン 非.否定.拒否
 warning★警告 警告.警報
 scenario★シナリオ
 neat★ニート さっぱりした.きちんとした.こぎれいな.趣味のよい
 frank★率直な フランク(F-人名).あからさまな.無料送達する.率直な.公然の
-dole★ドール 困窮者への分配金･物.慈善的分配..施し物.失業手当 
+dole★ドール 困窮者への分配金･物.慈善的分配..施し物.失業手当
 viral★ウイルスの ウイルスの.ウイルス起因の
 er★えー あー.あのー.えーと
 savings★貯蓄 貯金.貯蓄
@@ -3104,23 +3104,23 @@ meaning★意味 意味する.意味.意義.真意.効果.意味深長な
 lord★君主 君主.貴族.(大文字で)～卿.支配者.神.領主.主人.権威.威張る.おやまあ.(cf.road, lord, lode, load)
 liver★肝臓 肝臓.レバー.きも.茶褐色.の生活者
 allowance★手当 協定損害率.～料.割当額.手当.支給金
-undated★日付のない 日付のない 
+undated★日付のない
 prosecutor★検察官 起訴者.検事.検察官
 wedding★結婚式 結婚式.結婚記念日.融合.結婚(式)
 saving★節約 節約する.救いの.節約.倹約(の)
-gov★政府関連機関 政府関連機関 
+gov★政府関連機関
 substrate★基板 基板.(生化学)基質(酵素の作用で化学反応を起こす物質)
 suck★吸う ひとすすり.吸う.しゃぶる.2.ひどくいやな.むかつくような.最低の
 interact★相互に作用する 互いに作用･影響しあう
 rep★代表 代表(= representative)
-phosphorylation★リン酸化反応 リン酸化反応 
+phosphorylation★リン酸化反応
 encode★エンコード 符合化する.コード化する.(cf.cord.ひも,電源コード.code.法典,規範,記号,暗号,コード化(cf.encode,decode).chord.弦,和音など音楽関連,感情)
 admission★入場 入場.入学.許可.告白
 algorithm★アルゴリズム アルゴリズム.演算手順
-kinda★ちょっと いくぶん.ちょっと.(類似語,sorta) 
+kinda★ちょっと いくぶん.ちょっと.(類似語,sorta)
 consensus★合意 意見一致.一致.総意.全員一致
 yeast★酵母 酵母.イースト菌.真核で単細胞性の微生物.運動性や光合成能力はなく,栄養は外部の有機物を分解吸収する.酵素を作る.出芽または分裂によって増える
-jr★ジュニア ジュニア(Jr.).二世 
+jr★ジュニア ジュニア(Jr.).二世
 thinking★思考 思考力のある.理性的な.考え深い.思考.意見.思案.考え
 nucleus★細胞核 細胞核.核.心.中軸
 shit★たわごと 排便行為. (俗)くそ,たわごと,くだらないもの(奴)
@@ -3128,27 +3128,27 @@ manuscript★原稿 原稿.写本.手書き
 scary★怖い おどろきやすい.恐ろしい.驚きやすい.臆病な.(scaly.うろこ状,は別語)
 diagnosis★診断
 setting★設定 セットする.背景.設定.配列
-tel★TEL 電話番号 
-angelus★お告げの祈り お告げの祈り 
+tel★TEL 電話番号
+angelus★お告げの祈り
 am★am beの直説法現在第一人称単数形.2.午前,am.AM(ante meridiem)
 optional★オプショナル 選択が自由の.任意の
-proliferation★増殖 増殖.急増.拡散.2.(生物)分芽,分裂,増殖.3.the proliferation of nuclear weapons(核兵器拡散=diffusion) 
+proliferation★増殖 増殖.急増.拡散.2.(生物)分芽,分裂,増殖.3.the proliferation of nuclear weapons(核兵器拡散=diffusion)
 coordinate★座標 調和して動く.調整する.統一させる.釣合.(文法)等位の
 punishment★罰 罰.罰すること.罰を受けること.処罰.刑罰.虐待
 eighty★80 80.80の
-toxicity★毒性 毒性 
+toxicity★毒性
 fiscal★年度 国庫収入の.財政上の.会計の.国庫の.収入印紙.財務の
 standing★スタンディング 立っている.永続的な.状態.地位.身分
 insert★インサート 挿入する
-seconds★秒 秒 
+seconds★秒
 statistics★統計 統計.統計学
-ligand★リガンド リガンド.Autoradiography(放射線写真法)で組織内の状態を特定するための生体内のレセプター(receptor,受容体).(agonistも同機能だが生体外から導入した物質) 
+ligand★リガンド リガンド.Autoradiography(放射線写真法)で組織内の状態を特定するための生体内のレセプター(receptor,受容体).(agonistも同機能だが生体外から導入した物質)
 nursing★看護 養育する.育児.看護
 sue★起訴する を訴える.訴訟を起こす.請う.告訴する
-dataset★データセット データセット 
+dataset★データセット
 fiber★繊維 繊維(質･組織).素質.気質.ひげ根(植物)
 administrator★管理者 管理者.行政官
-harder★もっと強く 難しい 
+harder★もっと強く 難しい
 ha★ヘクタール おや.さあ.ほらね.まあ.エヘン.ハハ.haという声
 housing★住宅 住宅.住宅供給.家.2保護するもの.覆い.馬衣.馬飾り
 hum★鼻唄をうたう ブンブン音をたてる.鼻唄をうたう.景気がよい.ぶんぶんいう音.buzz
@@ -3167,7 +3167,7 @@ bacterial★細菌の バクテリアの
 freak★フリーク 奇形.変種.気まぐれ.～気違い(～が大好きな人).奇人.変人
 colony★植民地 植民地.移民
 incidence★発生率 発生.落下.発生率･程度.範囲
-fibroblast★線維芽細胞 線維芽細胞 
+fibroblast★線維芽細胞
 rabbit★ウサギ ウサギ(もともと穴うさぎと呼ばれる小型種.cf.hareは野うさぎ.hare and tortoise.ウサギとカメ)
 skip★スキップ (授業を)さぼる.スキップする.はね回る.軽く跳ぶ.縄跳びをする.を軽く跳び越す
 embryo★胚 胎芽(妊娠2ヶ月未満の胎児).(発達の)初期.幼虫.(cf.foetus妊娠3か月以後の胎児)
@@ -3175,7 +3175,7 @@ deletion★削除 欠失.削除.消去
 fraud★詐欺 詐欺(行為).欺瞞.ごまかし.詐欺師
 smoking★喫煙 タバコを吸うこと.喫煙用の.煙る
 is★ある beの3人称単数直接法現在形
-heh★あわや あわや 
+heh★あわや
 donor★ドナー 寄贈者.臓器提供者.開発援助供与国
 quit★やめる をやめる.give up.stop
 impeachment★弾劾 弾劾.非難
@@ -3197,7 +3197,7 @@ inhibition★阻害 抑制.禁止.禁制.防止.抑圧
 blast★爆発 爆発(させる).スリル.楽しい時間.突風.非難(する).台なしにする.枯らす.explosion
 highway★高速道路 主要ルート.ハイウェイ.幹線道路
 rang★鳴らした ringの過去形.鳴らした
-ft★フィート (単位)フィート.footの複数形 
+ft★フィート (単位)フィート.footの複数形
 baseline★ベースライン ベースライン(基線)
 span★スパン 紡いだ(ぐ).期間.長さ.(橋が)～にかかっている
 tired★疲れた 疲れた.飽きた.うんざりした.使い古した
@@ -3210,8 +3210,8 @@ chronic★慢性的 慢性の.常習的な.長引く
 pundit★評論家 専門家.博学者.インド人の賢者.博識者
 ton★トン トン.多量.多数.非常な重さ.流行
 node★ノード 節点.結び目.こぶ.節(ふし).(劇などの筋の)もつれ
-statistically★統計的に 統計的に 
-oldest★最も古い 最も古い 
+statistically★統計的に
+oldest★最も古い
 opening★オープニング 開いている.開始.始め.広場.穴.空き.開始の.すきま.開き
 specificity★特異性 特異度.特定性.特異性.無病正診率
 amplify★増幅する 拡大する.増幅する.敷衍する.大げさに言う
@@ -3228,7 +3228,7 @@ recording★記録 レコーディング.収録.録音.記録する.自動記録
 economics★経済学
 cm★cm センチメートル.centimeter
 ray★線 放射線.光線.光明.ひらめき.熱線.半径.3.(魚)エイ.3.ドレミのレ(Doe,Ray,Me,Far,Sew,La,Tea)
-variability★変動性 変動性 
+variability★変動性
 fusion★融合 核融合.融解.融合.溶融.合併.連合.統合.(fission核分裂.fusion核融合)
 cave★洞窟 陥没する.ほら穴.横穴を掘る
 glucose★グルコース ぶどう糖
@@ -3245,7 +3245,7 @@ differentiation★分化 区別
 replacement★交換 取り替え.代用品
 conservation★保全 保存.保護.維持.国家管理
 insulin★インスリン インスリン(糖尿病薬)
-processing★処理 処理 
+processing★処理
 minus★マイナス 差引いて.を引いた.マイナスの.以下の.マイナス.不足
 crush★クラッシュ 押しつぶすこと.粉砕.(cf.clash衝突する,ガチャッ(音).crash衝突する,(衝突し)壊れる･壊す.crush押しつぶす)
 roger★ロジャー 了解.よろしい
@@ -3256,8 +3256,8 @@ transaction★トランザクション 処理.取り扱い.取り引き.取引.�
 accuracy★精度 精密さ.正確.精度
 regression★回帰 後戻り.復帰.後退.退歩.退化.退行
 drinking★飲酒 飲むこと.飲用の
-faster★もっと早く 速い 
-localization★ローカライゼーション ローカライゼーション(各国・地域制度に訳す, 他) 
+faster★もっと早く 速い
+localization★ローカライゼーション ローカライゼーション(各国・地域制度に訳す, 他)
 holy★聖なる 信心深い.神聖な
 ooh★オーッ！ アア.ウー.オー.ワー.アッと驚く
 pronounce★発音 を発音する.を朗読する.と断言する.を宣言する.を申し渡す.意見を述べる
@@ -3269,7 +3269,7 @@ loop★ループ 環状をなす折返し点.輪.中心点.に巻き付ける.�
 adjacent★隣接 隣接した.付近の.近接した.直前の
 grounds★敷地 (複数形) 1.(建物の周囲にある広い)庭園,構内well-kept grounds(手入れされた庭園) 2.根拠,理由(for).3.おり,かす
 teaching★ティーチング 教育.授業.教え.教義
-purified★精製された 精製された 
+purified★精製された
 marketing★マーケティング マーケティング.市場取引.市場で売買すること.買い物
 acre★エーカー エーカー(面積の単位.4840 平方ヤード,約4047 平方メートル).略a.(複数形で)土地,地所,broad acres(広い土地)
 immune★免疫の
@@ -3278,7 +3278,7 @@ stimulation★刺激 刺激.興奮.激励.鼓舞
 gang★ギャング 囚人などの群れ.悪漢などの一団.遊び友達
 threshold★しきい値 敷居.発端.始め.出発点.入り口
 injection★注射
-waters★領海 領海 
+waters★領海
 script★スクリプト 筆記体活字.手書き
 basketball★バスケットボール
 detailed★詳しい 詳細な.克明.詳しい.細かい.綿密.微細.精密
@@ -3286,13 +3286,13 @@ offering★募集 提供する.上演.贈り物.販売
 priest★司祭 聖職者.司祭.祭司.奉仕者.(cf.clergy.priest.monk)
 evolutionary★進化の 進化した
 variant★バリアント 種々の.異なった.相違する.一致しない.変種の.変化
-reporting★報告 報告 
+reporting★報告
 carrier★キャリア 運搬装置.運び台.電話会社.回線業者.(cf.career,carrier)
 lobby★ロビー ロビーに出入りする.議員に働きかける.の通過運動をする.圧力団体.ロビー.大廊下
 syndrome★症候群 シンドローム.症候群(病的諸傾向).一連の事物(事件).ある状況下での行動様式.病的現象
 initiate★開始する 始める.起こす.創始する
 privacy★プライバシー プライバシー.人目を避けること.隠居.自由.秘密
-transcriptional★転写の 転写の 
+transcriptional★転写の
 lab★ラボ 研究所.laboratory.(cf.love,lab,rub,rob)
 engineering★エンジニアリング 工学.エンジニアリング.工学技術.工業技術
 convict★囚人 囚人.有罪を宣告する.有罪と宣告する.罪を自覚した
@@ -3301,7 +3301,7 @@ depict★描く (いきいきと言葉で)描写する.叙述する.描く
 cruise★クルーズ 周遊観光船.航行する.巡航する.歩き回る
 surprising★驚くべき 驚くべき.意外な
 jazz★ジャズ
-manufacturing★製造 製造業 
+manufacturing★製造 製造業
 memo★メモ 覚え書き.メモ.摘要
 recipe★レシピ 調理法.製法.処方箋.方策.手段
 myosin★ミオシン ミオシン.タンパク質の一種.ATPase活性を持ち,ATPを加水分解しながらアクチンフィラメント上を移動するモータータンパク質
@@ -3321,14 +3321,14 @@ template★テンプレート (生化)遺伝子複製の鋳型
 fed★FED feedの過去形(breast fed 母乳で育てた). 2.FED(Field Emission Display)電界放出ディスプレイ他
 statue★彫像 像.彫像.塑像
 ongoing★継続 継続中の.(現在)進行中の.現行の.発達中の
-filed★提出された 提出 
-hmm★うーん うーん 
+filed★提出された 提出
+hmm★うーん
 are★ある  2人称単数および各人称の複数を主語とするbe動詞の直説法現在形.2.アール(面積の単位=100平方メートル)
 estrogen★エストロゲン ステロイドホルモンの一種.卵胞ホルモンまたは女性ホルモンと呼ばれる.ギリシャ語の“estrus(発情)”と接尾語の“-gen(生じる)”が語源
 oligonucleotide★オリゴヌクレオチド オリゴヌクレオチドは20塩基対かそれ以下の短いヌクレオチド(DNAまたはRNA)の配列
 codon★コドン コドン.核酸の塩基配列がタンパク質を構成するアミノ酸配列へ生体内で翻訳されるときの,各アミノ酸に対応する3つの塩基配列のこと
 odds★オッズ 配当率.ハンディキャップ.恩恵.見込み.可能性.争い.勝ち目.差異.不均等
-genotype★遺伝子型 遺伝子型 
+genotype★遺伝子型
 fascinating★魅惑的な 魅力のある
 recipient★受信者 受取人.受容者.受賞者.受け取る.感受性のある
 commonly★一般に 一般に.通例.下品に.粗野に.通俗に.普通
@@ -3340,7 +3340,7 @@ bureau★ビューロー 官庁の局.事務局(an information bureau案内所).
 ultimate★究極 根本的な.究極.最終の.究極の.究極点
 regime★政権 政治制度.政権.制度.政体.体制
 gross★グロス グロース(12ダース･144個).グロス.粗悪な.総計の.ひどい.でぶの.粗野な.総計
-lipid★脂質 脂質.(cf.三大栄養素three major nutrients=たんぱく質,炭水化物,脂質.protein,carbohydrate,lipid/fat) 
+lipid★脂質 脂質.(cf.三大栄養素three major nutrients=たんぱく質,炭水化物,脂質.protein,carbohydrate,lipid/fat)
 foster★フォスター 養い育てる.育てる.助成する.育成する.よび起こす.心にいだく
 prince★王子 王子.王.皇族.皇子.プリンス.公爵.君主
 flexibility★柔軟性 柔軟性.屈折率
@@ -3364,11 +3364,11 @@ stadium★スタジアム スタジアム.競技場
 medication★投薬 薬物(療法･処理･適用).投薬
 mall★モール ショッピングセンター.散歩道.中央分離帯.商店街
 surplus★黒字 黒字.剰余.余剰.余り.余った.過剰の.余剰の.黒字の
-stronger★強い 強い 
+stronger★強い
 prudence★慎重 慎重.思慮.分別.細心.抜目なさ.つつましいこと
 diverse★さまざまな 別種の.多様な.多様性をもつ
 naked★裸 ありのままの.裸の.むき出しの.無防備の
-lowest★最下位 最低 
+lowest★最下位 最低
 legend★伝説 言い伝え.伝説.題銘.表題.解説
 monument★モニュメント 記念碑.遺跡.記念物.不朽の業績.墓石
 fantasy★ファンタジー 空想.ファンタジー.想像.気まぐれ.空想文学作品.空想の産物.荒唐無稽.幻
@@ -3376,7 +3376,7 @@ gulf★湾 湾.裂け目.大きな隔たり.深い割目.深い穴.深淵
 defect★欠陥 不足.欠点.短所.欠陥.亡命する.他国へ逃亡する
 modest★ささやかな 謙そんな.控え目な.適度の.慎み深い
 facilitate★促進する 容易にする.促進する.楽にする
-interestingly★興味深いことに 興味深いことに 
+interestingly★興味深いことに
 recycle★リサイクル 再循環させる.再生利用する.リサイクル
 differential★差動 差別的な.(石油)油種間価格差
 sixty★60 60.60の
@@ -3394,7 +3394,7 @@ fighter★戦闘機 戦う人.戦士
 thereby★それによって それによって.その結果
 transmission★送信 変速機.送信.伝達.伝染.伝導.発信
 bitch★雌犬 雌犬.(卑語)淫乱な女.意地悪で不愉快で身勝手な女.不平･不満を言う
-edited★編集済みの 編集済みの 
+edited★編集済みの
 viewer★ビューア 見る人.見物人.検査官.テレビ視聴者.聴視者.観覧者
 exciting★エキサイティング 興奮させる.わくわくするような
 aide★側近 (大統領などの)補佐官.側近.スタッフ
@@ -3411,7 +3411,7 @@ cultured★培養された 文化のある
 inspection★検査
 quantitative★定量的な 定量的な.量ではかれる.量に関する
 fate★運命 巡り合わせ.宿命.予言.悲運.破滅.死.最終結果.運命づける
-intracellular★細胞内の 細胞内の 
+intracellular★細胞内の
 integrity★整合性 正直.誠実.完全性.整合性
 mandate★委任 の統治を委任する.命令.為政権.指図.委任統治
 architect★建築家 建築士.建築家.設計者.建設者
@@ -3420,7 +3420,7 @@ seventy★70 70.70の
 cowboy★カウボーイ カウボーイ.牛飼い.(協定労働条件を破って働く)未組織労働者
 actress★女優
 duration★デュレーション 持続.持続期間.所要時間
-spoiler★スポイラー スポイラー 
+spoiler★スポイラー
 super★スーパー すばらしい.管理人.端役.とても
 returns★収益 報酬
 headquarters★本部 本部員.本部.指令部.本拠.司令部(員).本社
@@ -3430,7 +3430,7 @@ pledge★誓約 誓約.質入.乾杯.を誓う.人質.(hostage.pawn.pledge.capti
 horror★ホラー 恐ろしさ.恐怖.憎悪.嫌悪.ホラー映画
 commentary★解説 注釈書.注釈.注解書
 bathroom★バスルーム バスルーム.トイレ
-phylogenetic★系統発生的な 系統発生の 
+phylogenetic★系統発生的な 系統発生の
 substitution★置換 置き換え.代用.代用品
 constitutional★憲法上の 保健のための.構成上の.体格の.体質の.生まれつきの.憲法上の.合法的な
 marine★マリン 海の.船舶の.海軍の.海事.海兵隊員.(cf.ocean.sea.marine)
@@ -3438,7 +3438,7 @@ interrogation★質問 尋問.質問.疑問(符)
 prescription★処方箋 処方(箋.薬).指示.規定.規範.法規.時効.おきて
 rape★レイプ 強姦する.(遠まわしにはviolate,assaultなどを使う).2.アブラナ,菜種
 memorial★追悼 記念の.記念物.記録.追悼の
-infected★感染する 感染する 
+infected★感染する
 rap★ラップ ノックする.こつんとたたく(こと).(特に新聞の)非難.攻撃(する).雑談.criticize.ラップ音楽(リズミカルに喋るように歌う方法).(cf.wrap,lap,rap)
 bitter★苦い 苦々しい.悲惨な.苦い.ひどい
 reliability★信頼性 信頼.頼もしさ.信頼性.信憑性.確度.確実
@@ -3462,7 +3462,7 @@ cage★ケージ 骨組み.鳥篭.監獄.ゴール.かご(にいれる).(ボー�
 boring★退屈な (人を)退屈させる(ような)
 retailer★小売店 小売業者
 treasury★国庫 財務.国庫.基金.宝庫.宝物.公庫.資金
-talking★話すこと おしゃべり 
+talking★話すこと おしゃべり
 regulator★レギュレータ 調速器.レギュレータ
 hip★ヒップ しり.センスのある.流行最先端の.臀部.腰.賢い
 lifetime★一生 生涯(の).一生(の)
@@ -3476,7 +3476,7 @@ blah★つまらない 不快な.憂鬱な, blah-blah-blahどうでもいいこ�
 communist★共産主義者
 violation★違反 違反.侵害.妨害.暴行.強姦.(cf.crime(法に反する罪.処罰対象).foul.failure.violation.sin.immoral.miss.mistake)
 isolation★分離 遊離.孤立.孤独.分離.隔離
-stained★着色した 着色した 
+stained★着色した
 readily★容易に 敏速に
 repeatedly★繰り返して 繰り返して.再三再四
 treaty★条約 協定.条約(国家･政府間で締結される合意).約束
@@ -3491,7 +3491,7 @@ offensive★攻撃 不快な.いやな.攻撃.攻勢.無礼な.攻撃的な
 exploit★エクスプロイト 開発する.搾取する
 buck★バック (俗)ドル.金.雄鹿.押す.がんこに抵抗する.木びき台.鋸(のこぎり)でひく
 speaking★話し中··· 話す.表情豊かな.話すこと
-correlated★相関 相関 
+correlated★相関
 coalition★連合 (一時的な)連合.連立.一体化
 simultaneously★同時に 同時に.いっせいに
 degradation★劣化 左遷.降職.デグラデーション.規模縮小.減成.分解.劣化.悪化
@@ -3500,19 +3500,19 @@ prevalence★流行 普及.流行.(医)有病性,率
 accumulation★蓄積 集積.蓄積
 outdoor★アウトドア 戸外の
 swimming★水泳 水泳.水泳用の
-extracellular★細胞外の 細胞外の 
+extracellular★細胞外の
 occasional★時折の 時々の.予備の.ときおり.時折の.特別な場合のための.臨時用の
 putative★推定上の 推定(推測)(上)の.うわさの
 cartoon★漫画 漫画を描く.漫画.漫画映画.アニメーション映画
 accumulate★蓄積する 積み重ねる.蓄積する.集める
 dump★ダンプ ドシンと落とす.商品を投げ売りする.出力する.(恋人を)振る.ゴミ捨て場.dump truckダンプカー.(cf.damp湿った)
-provisions★条文 規定 
+provisions★条文 規定
 recycling★再生利用 (廃棄物質の)再生利用.リサイクル
 ranger★レンジャー 歩き回る人.放浪者.監視人.遊撃隊員
 eligible★適格 資格のある.望ましい.適任者
 spy★スパイ ひそかに調査する.密かに見張る.スパイ
 serial★シリアル (番号などが)連続的な.連載の.連載物.続き物.連続番組.連続もの
-randomly★無作為に 無作為に 
+randomly★無作為に
 effectiveness★有効性 有効
 bat★コウモリ コウモリ.強打
 hijacker★ハイジャック犯 乗っ取り犯人
@@ -3523,7 +3523,7 @@ likelihood★可能性 ありそうなこと.見込み.有望さ.有りそうな
 decent★まともな 礼儀正しい.上品な.親切な.(口)結構な.まあまあの.悪くない
 exit★出口
 shortly★まもなく 間もなく.まもなく.手短に.簡単に.ぶっきらぼうに
-shorter★短い 短い 
+shorter★短い
 sophisticated★洗練された あかぬけした.洗練された.高級な.教養人向きの
 merger★合併 合併.併合.混同
 ceiling★天井 天井.最高価格.最高限度
@@ -3536,7 +3536,7 @@ recombinant★組み換え体 組換え型の(個体).遺伝子組み替えの
 clinic★クリニック 臨床講義.診療室.クリニック
 screw★ネジ ねじくぎ.木ネジ.スクリュー.らせん状のもの.苦しめる.痛めつける.をねじ釘で取り付ける
 supposedly★たぶん たぶん.おそらく
-cus★CUS お客さま 
+cus★CUS お客さま
 southwest★南西 南西(部).南西の.南西へ
 nonetheless★それにもかかわらず それにもかかわらず.やはり
 dominant★ドミナント 優勢な(反.recessive).主要な.有力な
@@ -3578,7 +3578,7 @@ reagent★試薬
 epithelial★上皮の 上皮の,上皮性の.ovarian epithelial cancer(上皮性卵巣がん)
 carve★彫る 切り分ける.刻む.彫刻する.(cf.curb, curve,carve,carb)
 pitcher★ピッチャー ピッチャー.水差し.投手
-cytoplasmic★細胞質の 細胞質の 
+cytoplasmic★細胞質の
 duplication★重複
 alliance★提携 同盟.連合.提携.協力
 girlfriend★ガールフレンド
@@ -3620,7 +3620,7 @@ fitness★フィットネス 適当.健康
 nineteen★19 19.19の
 natter★おしゃべり 不平を言う
 hunter★ハンター 狩猟訓練をした動物.狩りをする人.探求者
-races★競馬 競馬 
+races★競馬
 dioxide★二酸化物
 downstream★下流 流れをくだって.下流に
 elegant★エレガント 気品のある
@@ -3637,7 +3637,7 @@ confront★直面する に立ち向かう.直面させる.直面する.立ち�
 ranking★ランキング
 mammalian★哺乳類 哺乳類の.ほ乳動物(の)
 junior★ジュニア 年少の.年少者
-max★マックス マックス.最大の 
+max★マックス マックス.最大の
 organizational★組織的な
 cheer★歓声 声援.を励ます
 ridiculous★ばかげた けしからぬ.おかしい.ばかげた
@@ -3666,7 +3666,7 @@ dumb★おしの 口のきけない.おしの.唖然とした.黙っている
 absent★欠席 ぼんやりした.不在で.を欠席する
 toxic★毒性 有毒な.中毒の
 indicator★インジケーター メーター.指示薬.ウィンカー.方向指示灯
-closest★最も近い 最も近い 
+closest★最も近い
 columnist★コラムニスト コラムニスト.特別寄稿者
 comparative★比較の 匹敵する.比較の.(文法)比較級
 replication★複製
@@ -3677,7 +3677,7 @@ digest★ダイジェスト (食物を)消化する.要約する.知識を会得
 validity★妥当性 有効期間.正当性.妥当性.有効性.効力.有効.合法性
 hunting★ハンティング 狩をする.狩猟.狩り
 toss★トス を投げる.寝返りをうつ.を激しく動揺させる
-cheaper★安く 安い 
+cheaper★安く 安い
 taxpayer★納税者
 endorse★支持する 裏書きする.保証する.推奨する.承認する.賛成する
 kidney★腎臓 腎臓.2.性格.気質.種類.型.3.キドニービーンズ(豆の名)
@@ -3703,7 +3703,7 @@ productivity★生産性 生産性.生産力
 applicable★適用される 適用できる
 correctly★正しく
 tribe★部族 部族.種族.一族
-gotta★ゴッタ have gottenの略.持っている･貰った等の意.スラング 
+gotta★ゴッタ have gottenの略.持っている･貰った等の意.スラング
 beef★牛肉 牛肉.問題.不満
 revelation★啓示 (キリスト教)啓示.黙示.お告げ.暴露.発覚.新発見.
 developmental★発生の 開発の.開発的な.発生の.発達上の.発展的な
@@ -3719,13 +3719,13 @@ writing★書き込み 書く.執筆.筆跡.書くこと.書かれた物.書き�
 adverse★不利な 不利な.反対の
 vascular★血管の 脈管の.血管の.管の
 nasty★意地の悪い むかつくような.いかがわしい.汚い.ひどく不潔な.いやな.わいせつな
-mediated★媒介 仲介 
-monster★怪獣 怪物.想像上の生き物で,人間や動物の様々な部位からできている 
+mediated★媒介 仲介
+monster★怪獣 怪物.想像上の生き物で,人間や動物の様々な部位からできている
 diminish★減少する 小さくなる.減らす.減少する
 punish★罰する 罰する.人を罰する.人を懲らしめる.をひどい目に合わせる.処刑する.酷使する
 retreat★リトリート 引退.避難所.退却.退却の合図.撤退する.避難(所)
 yell★叫ぶ どなる.大声をあげる.鋭く叫ぶ.エールをおくる
-recombination★組み換え 組み換え 
+recombination★組み換え
 obesity★肥満 (obísṭi)(医)肥満.肥満体.(cf.fat)
 consent★同意 同意する.承諾.同意.承諾する.黙諾.一致
 minimize★最小化する 最小限にする.軽視する
@@ -3792,12 +3792,12 @@ pulmonary★肺の 肺の.肺疾患の
 scholarship★奨学金 学問.学識.博学.奨学金
 suburb★郊外 郊外.近郊
 ethanol★エタノール エタノール.バイオマス･アルコール
-pre★前 事前 
+pre★前 事前
 tomb★墓 墓.墓穴.墓石.墓標.死
 occurrence★発生 出来事.起こること
 absorb★吸収する を吸収する
 homology★ホモロジー 相同性(ホモロジー).ある形態や遺伝子が共通の祖先に由来すること.外見や機能は似ているが共通の祖先に由来しない「相似,analogy」の対義語
-transfected★トランスフェクト 遺伝子導入された, 形質移入された 
+transfected★トランスフェクト 遺伝子導入された, 形質移入された
 flaw★欠陥 欠陥.弱点.欠点.傷.ひび.割れ目
 physically★物理的に 物理(学)的に.物質的に.身体的に
 inclusion★インクルージョン 包含
@@ -3832,7 +3832,7 @@ conceive★想像する 考える.思い付く.想像する.妊娠する
 charming★魅力的な
 prescribe★処方する 命令する.を規定する.処方する.指示する
 jean★ジーンズ ジーンズ.ジーンズ用の布
-actin★アクチン アクチン.螺旋状の多量体を形成し細胞の形を決定するアクチンフィラメントを作るタンパク質.アクチンフィラメントは筋細胞で筋収縮を担う 
+actin★アクチン アクチン.螺旋状の多量体を形成し細胞の形を決定するアクチンフィラメントを作るタンパク質.アクチンフィラメントは筋細胞で筋収縮を担う
 caution★注意
 corps★軍団 軍団.部隊.兵団.(cf.corpse死体)
 wisdom★知恵 知恵.賢明.賢人.分別
@@ -3842,7 +3842,7 @@ outer★アウター 外の.外側の.客観的な.圏外
 popularity★人気 人気.評判.大衆性
 grocery★食料品 食料雑貨類.食料雑貨店
 millennium★ミレニアム 千年.千年間.千年紀.千年祭.黄金時代
-mitochondrial★ミトコンドリアの ミトコンドリアの 
+mitochondrial★ミトコンドリアの
 nilly★nilly willy-nilly (いやでも応でも)
 statewide★州全体にわたる 州全体の
 unexpected★予期しない 意外な.予期しない.突然の.意外の思いがけない事
@@ -3850,7 +3850,7 @@ separately★別々 離れて.別々に
 premium★プレミアム 割増価格.割増金.賞与金.賞.賞金.賞品.賞与.割り増し
 sequenced★配列決定され 配列決定された
 alteration★変更 改変箇所.変更
-transgenic★トランスジェニックの トランスジェニック, 遺伝子導入, 遺伝形質転換の 
+transgenic★トランスジェニックの トランスジェニック, 遺伝子導入, 遺伝形質転換の
 legitimate★正当な 正当な.道理にかなった.合法な.合理的な.合法化する.正当化する
 poly★ポリ polyester.polymer.polyethylene等の略(多数の意)
 polymorphism★多型 ポリモーフィズム.オブジェクト指向プログラミング言語の性質のひとつ.「多相性」「多様性」などの意
@@ -3867,7 +3867,7 @@ parliament★議会 議会.国会.英国議会
 vaccine★ワクチン ワクチン(の).痘苗(の)
 condemn★非難する 運命づける.非難する.糾弾する.有罪の判決を下す
 noon★正午
-bow★弓 (発音 bά) おじぎ.おじぎをする.屈伏する.服従させる.2.へさき.船首.3.犬の鳴き声(bow-wow).4.(発音 bó)弓 
+bow★弓 おじぎ.おじぎをする.屈伏する.服従させる.2.へさき.船首.3.犬の鳴き声(bow-wow).4.弓
 transduction★形質導入 形質導入.特定の増殖様式を有するファージ(細菌を宿主にするウイルス)が感染した細菌の遺伝子を粒子内に取り込み,次に感染する細菌内に導入する現象
 diagnose★診断する
 canal★運河
@@ -3887,10 +3887,10 @@ donate★寄付する 寄付(寄贈)する
 shield★シールド かばう.シールド.盾.防御物.を保護する
 dynamic★ダイナミック 動力の.動的な.力学の.動的
 disrupt★混乱させる 分裂させる.中断させる.崩壊させる
-eta★エータ (第7ギリシア文字)エータ.Η.η.2.(ETA)Estimate Time of Arrival.航空機などの到着予定時刻
+eta★エータ (第7ギリシア文字)エータ.2.(ETA)Estimate Time of Arrival.航空機などの到着予定時刻
 disability★身体障害 障害.身体障害
-volumes★ボリューム ボリューム 
-biochemical★生化学的な 生化学的な 
+volumes★ボリューム
+biochemical★生化学的な
 quantify★定量化する 量を定める
 endure★耐える に持ちこたえる.がまんする.苦痛に耐える.を我慢する
 aviation★航空 航空術.航空学
@@ -3902,9 +3902,9 @@ airplane★飛行機
 brick★れんが れんがを敷く.れんが
 seize★つかむ をつかむ.を理解する.つかむこと.差し押さえ.奪取.(cf.grasp.clasp.seize.clench.grip.clutch)
 shrine★神社 聖体容器.聖地.聖堂.神社
-additionally★さらに さらに 
+additionally★さらに
 tragedy★悲劇 悲劇.惨事.悲劇的物語.悲惨な出来事
-synovial★滑液の 滑液の.滑膜(の) 
+synovial★滑液の 滑液の.滑膜(の)
 programming★プログラミング プログラミング.番組編成
 warrant★令状 正当な理由となる.を保証する.に請け合う.令状.証明書
 namely★すなわち
@@ -3918,16 +3918,16 @@ slang★スラング スラング.俗語
 scatter★スキャッター 散乱させる.をまき散らす.散らす
 disclose★開示する 暴露する
 correction★補正 修正相場.訂正
-broader★広い 広い 
+broader★広い
 crystal★クリスタル 水晶の.結晶
-financing★資金調達 融資 
+financing★資金調達 融資
 genius★天才 (非凡な)才能.天才.特質
 logical★論理的 道理にかなった.論理的な.当然な.論理学の
 departure★出発 新機軸.出発.発車.逸脱.背反.出航.門出.離脱.(cf.arrival)
 echo★エコー 反響.おうむ返しに言う.(Echo)エコー(森の精.ギリシア神話)
 honorable★立派な 名誉となる.尊敬すべき.名誉ある.恥を知る.高貴な.身分のある
 bargain★バーゲン 堀り出しもの.駆引きする.交渉する.契約.安い買物
-routinely★日常的に 日常的に 
+routinely★日常的に
 accordance★一致 一致.授与
 quiz★クイズ に質問する.簡単な試験.質問する.クイズ.質問(する)
 holocaust★ホロコースト ホロコースト.ユダヤ人大虐殺
@@ -3990,7 +3990,7 @@ publishing★出版 出版する.出版業
 sadly★悲しいことに 悲しそうに
 likewise★同様に その上に.さらに.同様に
 infrastructure★インフラ 基幹施設.経済基盤.会社の基礎設備
-delta★デルタ (第4ギリシア文字)三角州.デルタ.Δ.δ
+delta★デルタ (第4ギリシア文字)三角州.デルタ.
 cog★歯 (歯車の)歯
 descend★降る 降りる.降下する.減少する.傾斜する.(性質などが)が伝わる.襲撃する.(cf.ascent.descent.ascend.descend)
 monopoly★独占 独占.専売.専売品 (cf.複占duopoly)
@@ -3999,7 +3999,7 @@ infect★感染させる を感染させる.に影響を与える.を病菌で�
 jay★ジェイ カケス.おしゃべり屋.まぬけ.マリファナたばこ
 suspicion★疑い 容疑.疑い
 bean★豆
-mapping★マッピング マッピング 
+mapping★マッピング
 agriculture★農業 農業.農業の.農学
 eagle★イーグル ワシ.鷲.米国の国章.イーグル
 automate★自動化する
@@ -4026,7 +4026,7 @@ grandfather★祖父
 contractor★請負業者 建築請負人
 officially★正式に 公式に.職務上
 fare★運賃 料金.運賃.旅をする.暮らす.ごちそう.(cf.fare料金.fair公正な.faire放任)
-download★ダウンロード ダウンロード 
+download★ダウンロード
 pole★ポール 棒.柱.マスト.ポール.(性格･言動などの)正反対.両極端
 legacy★レガシー 遺産.遺物.先祖伝来のもの.形見
 dip★ディップ 下落.落下.一汲み.をちょっと浸す.を汲み上げる.下降する.decline.decrease
@@ -4044,7 +4044,7 @@ jeans★ジーンズ
 whip★ホイップ を鞭で打つ(こと).を激しく打つ.打負かす.励ます.急に動かす.あわだたせる.猟犬係.ホイップ
 sin★罪 (主に宗教的な)罪(を犯す).過失.ばかげたこと.(cf.crime(法に反する罪.処罰対象).foul.failure.violation.sin.immoral.miss.mistake)
 coke★コー​​クス コカコーラ.コークス.(cf.corkコルク.Coke=Coca cola,コークス.caulkこーキングする).コカイン
-supernatant★上澄み 表面に浮ぶ.〔化学〕浮遊物
+supernatant★上澄み 表面に浮ぶ.浮遊物
 explode★爆発する 爆発させる(する).打破する.破裂する.感情が激発する.評判を覆す
 gee★ジー おや.へえっ.うわ～
 inject★注入する に注射する.注射する
@@ -4061,11 +4061,11 @@ distract★そらす (気持ち･注意)をそらす.迷わす.心をかき乱�
 forgive★許す 許す.借金を帳消しにする
 cliff★崖 がけ.崖
 mill★ミル ひき臼.製粉機.水車場.工場.圧搾機.製粉する
-rebel★反乱 n.(rébl).謀反.反逆者.v.(rbél)謀反を起こす.調和しない
+rebel★反乱.謀反.反逆者.v.謀反を起こす.調和しない
 consciousness★意識 自覚.意識.思想.感情
 vendor★ベンダー 行商人.露店商人
 tactic★戦術 順序の.方策
-detectable★検出可能な 検出可能な 
+detectable★検出可能な
 closing★閉鎖 終りの
 snake★ヘビ 陰険な人.くねる.ヘビ.くねって歩く.をくねらせる.(cf.serpentは同義だが文語的で大型のイメージ)
 vamp★バンプ 継ぎはぎ.継ぎを当てる.ボランティアの消防士.即興伴奏.男たらし.不当な攻撃をする.しょっぴく.徒歩で行く.逮捕する
@@ -4108,20 +4108,20 @@ respective★それぞれの
 installation★インストール 装置.設備.軍事施設.基地
 speculation★投機 投機.思惑買い.思索.思弁.考察.空論.推測.やま
 sympathetic★交感神経 思いやりのある.同情的な.同情する.共感する
-endothelial★内皮の 内皮の 
+endothelial★内皮の
 ancestor★祖先 祖先.先祖.始祖.原型
 rack★ラック 棚.枠.2.苦しめる.3.ちぎれ雲.(cf.rack棚.lack欠ける.luck幸運)
 abbreviation★略語 略語.省略.短縮
 spokeswoman★広報担当者 spokesmanの女性形
 heather★ヒース ヒース属の植物
-separated★分離した 分離した 
+separated★分離した
 anchor★アンカー 錨.しんがり.定着させる.固定させる
 bishop★司教 ビショップ.司教.僧正
 fluorescent★蛍光灯 蛍光の.蛍光灯
 generic★ジェネリック ノーブランドの.属の.一般的な.包括的な.(文法)総称的な
 nick★ニック ニック(人名).刻み目.言い当てる.盗む.捕える.だます.刑務所
 mechanical★メカニカル 機械的な.機械の.メカニズム
-unpublished★未発表 未発表の.未出版の 
+unpublished★未発表 未発表の.未出版の
 systemic★全身の 組織の.全身(性)の
 methodology★方法論
 legislature★議会 立法府
@@ -4139,7 +4139,7 @@ acceptance★受け入れ 受け入れ.容認.支持
 cleavage★開裂 裂け目
 spark★スパーク 火花を出す.スパーク.火花(を散らす)
 promising★有望 見込みのある.約束する.前途有望な
-whites★白人 白人 
+whites★白人
 shrink★シュリンク しりごみする.縮まる.減る.恐れる.避ける.(俗)精神科医
 garbage★ごみ 生ごみ.ごみ.廃物.あら.台所ゴミ.残飯.がらくた.屑
 genre★ジャンル 類型.形式.様式.ジャンル.風俗画(の).特殊な技術･ストーリー･セットを使用した映画
@@ -4169,7 +4169,7 @@ trader★トレーダー 伝統的な.貿易業者
 sandy★砂の 砂(色)の.砂色の.砂のような.砂だらけの
 deck★デッキ デッキ.甲板
 concede★認める (正当だと)認める.容認する.与える.譲歩する
-earliest★最古の 最古の 
+earliest★最古の
 woo★ウー に求婚する.口説く.を手に入れる.せがむ
 penny★ペニー ペニー(銅貨)(英国などの通貨単位1.100 pound).小銭.わずかな量.金額.(米･カナダの)cent.(一般的)金銭
 surveillance★サーベイランス (容疑者や敵の)監視.見張り.見渡す.調査する.監督
@@ -4184,7 +4184,7 @@ herald★ヘラルド 告知する.予告する.報道者.先駆者.先触れ
 oversee★監督する を監視する.を監督する.watch over
 hospitalization★入院
 exclusively★もっぱら もっぱら.排他的に.一途に.専ら
-finest★最高級 最高級 
+finest★最高級
 annually★毎年 毎年.年一回づつ.年刊
 systematic★系統的 手順のよい.組織的な.系統的な.体系的な
 equality★平等 等しいこと.平等.同等
@@ -4222,7 +4222,7 @@ operating★動作する
 dancer★ダンサー 踊る人
 billion★10億 莫大な.(米)10億の.1,000の3乗(10の9乗).(英では1兆10^12(10の12乗)だったが最近は米国と同用法化)
 cape★岬 肩マント.岬.ケープ
-resume★履歴書 再会する.回復する.占める.を取り返す.履歴書(=curriculum vitae,C.V.) 
+resume★履歴書 再会する.回復する.占める.を取り返す.履歴書(=curriculum vitae,C.V.)
 murine★マウス ネズミ･ハツカネズミなど,長く毛のはえていない尾のある齧歯(げっし)類
 drain★ドレイン 排水.流れる.富を使い果たす.を飲み干す.を徐々に排出させる
 protective★保護 保護の.保護用の
@@ -4239,15 +4239,15 @@ tabloid★タブロイド タブロイド.タブロイド型新聞.大衆紙
 onset★開始 襲撃.攻撃.始まり.着手.手始め
 seventh★第7 (日付の)7日.第7.7番目の
 respondent★回答者 応ずる.返答する.回答者.被告.答弁者
-deeper★もっと深く より深い 
-feeding★摂食 
+deeper★もっと深く より深い
+feeding★摂食
 circular★円形の 円形の.円の.丸い.巡回の.ちらし.回状.循環する
-creek★小川 小川.(cf.stream.brook.creek.bourne) 
+creek★小川 小川.(cf.stream.brook.creek.bourne)
 interfere★干渉する 利害が衝突する.相容れない.妨害する.邪魔する.仲裁する
 technically★技術的に 純法律的に.専門的に言えば
-consulting★コンサルティング コンサルティング 
+consulting★コンサルティング
 default★デフォルト 履行しない.不履行.債務不履行.怠慢.欠席.不出場
-homologous★相同の 相同の 
+homologous★相同の
 statesman★政治家 政治家.優れた見識と能力をもつ政治的指導者
 premature★時期尚早 早すぎる.早まった.時期尚早の.尚早の.早計の
 sufficiently★十分に
@@ -4257,8 +4257,8 @@ chemokine★ケモカイン ケモカイン.塩基性タンパク質でサイト
 trait★形質 特性.特.特色.特徴.習性.一筆
 contents★コンテンツ 目次.内容
 vein★静脈 調子.静脈.血管.葉脈.木目.鉱脈.地下水脈.筋をつける
-transfection★トランスフェクション トランスフェクション.人為的にDNAやウイルスなどを細胞に取り込ませる手法  
-encoded★符号化された エンコードされた 
+transfection★トランスフェクション トランスフェクション.人為的にDNAやウイルスなどを細胞に取り込ませる手法
+encoded★符号化された エンコードされた
 documentary★ドキュメンタリー ドキュメンタリー.文書の.ドキュメンタリー映画.事実を記録した.記録もの
 ferry★フェリー 渡し場.フェリーボート.自力現地輸送する
 silk★シルク 絹(の衣服).絹の.やわらかな.ぜいたくな.絹糸.絹織物.(複数形で)絹の着物.(競馬の騎手の)制服
@@ -4276,9 +4276,9 @@ southeast★南東 南東.南東部地方.南東に.南東から
 desperate★絶望的な 死にもの狂いの.絶望的な
 importantly★重要で もったいぶって.重要で
 operative★手術 働く.活動する.(法律が)効力のある.(薬が)ききめのある.有効な.職人.スパイ
-computational★計算の 計算の 
+computational★計算の
 phage★ファージ ファージ.細菌を宿主にするウイルス.細菌を食うものの意.(=bacteriophage)
-eukaryotic★真核生物 真核生物の.(動物,植物,菌類,原生生物など,身体を構成する細胞の中に細胞核を有する生物.真核生物以外の生物は原核生物と呼ばれる) 
+eukaryotic★真核生物 真核生物の.(動物,植物,菌類,原生生物など,身体を構成する細胞の中に細胞核を有する生物.真核生物以外の生物は原核生物と呼ばれる)
 curse★呪い 呪う.冒涜する.呪い(の言葉).悪態.悪口(を言う).破門する
 guilt★罪 有罪
 mysterious★神秘的な 神秘的な.不可解な.秘密の
@@ -4295,9 +4295,9 @@ ninth★第9 (日付の)9日.第9.9番目の
 deficiency★欠乏症 不足.欠乏.欠陥.lack.insufficiency
 destination★先 目的地.行き先.観光目的地.宛て先.目的
 notable★注目に値する 注目に値する.著しい.著名な.名士.著名な事物
-oocyte★卵母細胞 卵母細胞 
+oocyte★卵母細胞
 cardiovascular★心臓血管の 心臓血管の.心血管.心臓血管
-lb★ポンド パウンド(pound)はヤード・ポンド法における重さの単位.1パウンド=約454g 
+lb★ポンド パウンド(pound)はヤード・ポンド法における重さの単位.1パウンド=約454g
 sole★唯一の 唯一の.独占的な.独身の.2.足の裏.3.蹄鉄.4.シタビラメ.シタガレイ
 archive★アーカイブ 公記録保管所.公文書
 prevail★流行する 流行する.勝る.普及する.効果がある.勝つ.克服する
@@ -4308,7 +4308,7 @@ dining★ダイニング 食事
 telegram★電報 電報.電信
 needle★針葉樹の葉 針.注射針.を針で縫う.をいらだたせる.針葉樹の葉.(cf.foliage.leaf.needle.blade.frond)
 newt★イモリ イモリ(両生類.ヤモリは爬虫類)
-supplies★用品 用品 
+supplies★用品
 precision★精度 精密な.正確.精密.細心.几帳面さ
 bubble★バブル 泡(立てる･立つ).実態のないもの.みせかけ.(babbleはぺちゃくちゃしゃべる)
 biopsy★生検 生体組織検査
@@ -4319,8 +4319,8 @@ assurance★保証 保険.確かさ.確実さ.保証.請合い.言質.安定.安
 flame★炎 光彩.炎.情熱.火炎.光輝.激情
 courtyard★中庭
 technological★技術の
-grantee★被譲与者 受領者 
-transgene★導入遺伝子 導入遺伝子 
+grantee★被譲与者 受領者
+transgene★導入遺伝子
 inevitable★避けられない 避けられない.不可避の
 bullet★弾丸
 pit★ピット くぼみ.穴.立坑.平土間(の観客).囲い.に穴を作る
@@ -4329,7 +4329,7 @@ entertaining★面白い 楽しませる.楽しい.面白い.愉快な
 ounce★オンス 1オンスは28.3グラム.1ポンド=16オンス=454グラム.体積の単位 1液量オンス(fluid ounce,fl oz)=29.57ml(約30cc)
 clever★賢い 利口な.賢い.上手な.得意な
 auto★オート 自己
-randomized★無作為化された 無作為抽出された 
+randomized★無作為化された 無作為抽出された
 haplotype★ハプロタイプ haploid genotypeハプロタイプ,HT(半数体の遺伝子型).男性のY染色体のHT(ペアがなく乗換えがなく父から息子へ伝承)は父系の調査に,ミトコンドリアDNAのHTは母系の推定に使用
 staple★ステープル 中心部.原料.止め金.特産物.主要素.主要な
 ethical★倫理的な 倫理の
@@ -4345,7 +4345,7 @@ butt★バット (獣が)角で激しく突く.(俗)尻.けつ.つつく
 sentiment★感情 感情.心情.心証.感傷.涙もろさ.(複数形で)意見.感想
 protestant★プロテスタント 新教徒.新教徒の
 nutty★ナッティー に熱中して
-normalized★正規化された 正規化された 
+normalized★正規化された
 dialect★方言
 drawing★図 引く.製図.素描.鉛筆で描く絵
 fabulous★素晴らしい 架空の.信じられないような
@@ -4378,7 +4378,7 @@ tolerance★寛大 寛容.寛大.容認
 starter★スターター 開始者.始動機.始める人(物).スタート係.競争に出る人.セルモーター(和製英語)
 projection★投影 投影.発射.射出.投射
 heel★ヒール のすぐ後に続く.かかと.かかと状のもの.(cf.Achillesアキレス腱)
-telecommunications★電気通信 電気通信 
+telecommunications★電気通信
 beam★ビーム 梁.輝き.発散する.送る(放送する).顔を輝かせる
 horn★ホーン 角製のもの.角.角で突く.触覚.警笛.ホーン
 potent★強力な 強力な.有力な.納得させる.効き目のある.影響を及ぼす
@@ -4389,8 +4389,8 @@ sewing★裁縫 縫う.裁縫.縫い物
 hazard★危険 危険にさらす.危険.冒険.偶然.運.災害.障害.要因となるもの
 rider★ライダー
 isoform★イソ型 アイソフォーム.イソ型.機能が類似しているがアミノ酸配列の異なる蛋白質
-pi★パイ (第16ｷﾞﾘｼｱ文字)パイ.π.Π 2.(数)円周率
-toxicant★毒物 毒物 
+pi★パイ2.(数)円周率
+toxicant★毒物
 splendid★素晴らしい 輝かしい.華麗な.壮烈な.みごとな.豪華な.立派な.すてきな
 diabetic★糖尿病患者 糖尿病の
 raid★レイド 急襲(する).引き抜き.襲撃(する).侵略.奇襲.手入れ.かき乱す.attack
@@ -4402,11 +4402,11 @@ denial★拒否 否認.否定.拒否.拒絶
 judiciary★司法 司法の
 trauma★外傷 精神的外傷.精神的ショック.(日常生活に支障を生じるような)深い心の傷
 formerly★以前は
-nowaday★現今の (口)現在の 
+nowaday★現今の (口)現在の
 affirmative★肯定的な 断定的な.肯定の.積極的な.断固たる
 con★反対の 反対の(cf.pros).反対論(者).精読する.暗記する.詐欺の.(pros and cons.賛否両論.甲論乙駁)
 creepy★気味悪い むずむずする.はう.はい回る
-supplemented★補った 補足 
+supplemented★補った 補足
 shuttle★シャトル (近距離間の)定期往復便.定期往復バス(列車･飛行機)
 reminder★リマインダー 思い出させる人･物.記念物.注意.助言.催促状.(cf.remnant残り.面影.売れ残り.生存者.reminder.注意.催促.remainder.割り算の余り)
 corrupt★破損した 堕落させる.堕落した.買収された.崩れた.汚れる
@@ -4418,7 +4418,7 @@ peanut★ピーナッツ ピーナッツ.詰まらない物(人).ピーナッツ
 closet★クローゼット 密談させる.戸棚.人に知られていない.隠れた
 roommate★ルームメイト ルームメート.同室者
 spontaneous★自発 自発的な.自然な.自然に起きる.自然に起こる
-microscopy★顕微鏡検査 顕微鏡検査 
+microscopy★顕微鏡検査
 assertion★アサーション 主張
 phosphatase★ホスファターゼ ホスファターゼ.リン酸モノエステルの分解酵素のこと.リン酸モノエステルまたはポリリン酸化合物を加水分解し,リン酸と水酸基を持つ化合物とに変換する(=脱リン酸化)
 collagen★コラーゲン コラーゲン.膠原質
@@ -4433,7 +4433,7 @@ purple★パープル 紫色.紫衣.枢機卿や司教の地位.王侯貴族の�
 sincerely★心から 誠実に.心から
 dissolve★溶解する 溶解する.解散する.取り消す.溶かす
 reign★支配 支配する.主権を握る.在位期間.治世.御代.支配.統治.君臨
-sepsis★敗血症 敗血症 
+sepsis★敗血症
 laundry★ランドリー 洗濯
 tropical★トロピカル 熱帯の.熱帯性の.非常に暑い.猛暑の.回帰線の
 mansion★マンション 大邸宅
@@ -4441,13 +4441,13 @@ ash★アッシュ 灰.2.トネリコ(材)
 idiot★ばか まぬけ.ばか.あほう
 happily★楽しく しあわせに.幸福に.楽しく
 relieve★和らげる を救う.を和らげる
-mailer★メーラー メーラー.メールソフト 
-phosphorylated★リン酸化 リン酸化された 
+mailer★メーラー メーラー.メールソフト
+phosphorylated★リン酸化 リン酸化された
 explosion★爆発 爆発.破裂.急増
 soap★せっけん せっけん.石鹸.を石鹸で洗う
 deposition★堆積 罷免.証言録取書.宣誓供述書.堆積作用.堆積物
 productive★生産性の高い 生産的な.生産力のある.豊富な.多産な.を生じる
-browser★ブラウザ ブラウザ 
+browser★ブラウザ
 beg★頼む 施しを請う.(熱心に)請う.頼む.懇願する.求める
 baker★ベイカー パン屋.携帯用小型天火
 equilibrium★平衡 平衡.釣り合い.均衡.感情の安定,平静
@@ -4464,7 +4464,7 @@ basal★基本的な 基底の.基礎的な.根元から出ている
 ya★YA そう( 軽い相づち).you のくだけた言い方
 disruption★混乱 分裂.崩壊.混乱
 realistic★現実的な 現実主義の
-longest★最長 最長 
+longest★最長
 buffalo★バッファロー 野牛.水牛 2.(B-)バッファロー市(ニューヨーク州)
 enroll★登録する 登録する.名簿に記載する.会員にする.enrol
 revolutionary★革命的 革命の
@@ -4481,7 +4481,7 @@ elephant★象 ゾウ.象.米共和党(Republican Party)の象徴
 enquirer★質問者 (=inquirer) 尋ねる人.質問者
 objection★異議 反対.難点.欠点.不服
 fatty★脂肪 脂肪質の.油っこい.脂肪性の.脂肪の.デブ
-cord★コー​​ド コード.紐.(spinal cord.脊髄.vocal cord.声帯).(cf.cord.ひも,電源コード.code.法典,規範,記号,暗号,コード化(cf.encode,decode).chord.弦,和音など音楽関連,感情) 
+cord★コー​​ド コード.紐.(spinal cord.脊髄.vocal cord.声帯).(cf.cord.ひも,電源コード.code.法典,規範,記号,暗号,コード化(cf.encode,decode).chord.弦,和音など音楽関連,感情)
 abundant★豊富な
 chick★ひよこ ヒヨコ.(俗)女の子.(とくに)魅力的ではつらつとしている女の子
 enclose★囲む 同封する
@@ -4492,7 +4492,7 @@ revive★復活させる を生き返らせる.回復させる.を元気にす�
 feedback★フィードバック 帰ってくる意見･反応･情報.手ごたえ
 surgeon★外科医 外科医.(海軍の)軍医.船医
 inning★イニング インニング.イニング.回
-computed★計算された 
+computed★計算された
 payroll★給与 給料支払表.従業員数.給料支払い名簿
 advisor★顧問 忠告者(主に米式綴り)
 derivative★デリバティブ 派生した.デリバティブ
@@ -4514,10 +4514,10 @@ viable★実行可​​能な 生存できる.実行可能な.生存能力の�
 corpus★コー​​パス (kps) (pl.corpora) 文章の収集.集成.2.死体
 extraction★抽出 摘出
 surge★サージ 波立つ.波のように打ち寄せる.沸き上がる.揺らぐ.急増する.うねり.高潮.動揺.大波.殺到.高まり
-wages★賃金 賃金 
+wages★賃金
 rubber★ラバー ゴムタイヤ.天性ゴム.弾性ゴム.紙やすり
 amusing★面白い ゆかいな.たのしい
-lysate★溶解物 ライセート.溶菌液.溶解質.溶解物.溶血物 
+lysate★溶解物 ライセート.溶菌液.溶解質.溶解物.溶血物
 publicity★広報 公共性.公表.一般に知られていること.周知.評判.公開
 biosphere★生物圏 バイオスフェア.生物圏.生活圏
 hybridized★ハイブリダイズ 交雑させる
@@ -4540,10 +4540,10 @@ carcinoma★癌腫 癌腫.上皮細胞由来の悪性腫瘍でいわゆる癌(Ca
 honey★蜂蜜 はちみつ
 accountant★会計士 会計係.会計士
 halfway★途中で 中途半端な.中途の.中間の.中間にある.中間で.途中で
-antagonist★アンタゴニスト アンタゴニスト(拮抗薬).Autoradiography(放射線写真法)で生体内の特定のレセプター(receptor,受容体)に作用し受容体の活動を抑制する薬剤.(cf.ligand, agonist) 
+antagonist★アンタゴニスト アンタゴニスト(拮抗薬).Autoradiography(放射線写真法)で生体内の特定のレセプター(receptor,受容体)に作用し受容体の活動を抑制する薬剤.(cf.ligand, agonist)
 subway★地下鉄 地下道.地下鉄
 partition★パーティション 区画.分割.分配.区分.分離.を分割する
-inhibitory★抑制する 抑制する 
+inhibitory★抑制する
 euro★ユーロ ユーロ.EUの通貨
 instructor★インストラクター
 rational★合理的 道理にかなった.合理的な.理性的な.推理の.推論の
@@ -4554,15 +4554,15 @@ rocket★ロケット のろしを上げる.暴騰する.ロケット.ロケッ�
 integrin★インテグリン インテグリン(integrin)は.細胞表面の原形質膜にあるタンパク質で.細胞接着分子.
 racist★人種差別主義者 人種差別主義の.人種差別論者
 monastery★修道院 修道院.僧院
-beta★ベータ (第2ギリシア文字)ベータ.Β,β.2.ベータ星(星座の中で2番目に明るい星 cf.α星)
+beta★ベータ (第2ギリシア文字)ベータ.Β.2.ベータ星(星座の中で2番目に明るい星)
 bloom★ブルーム 開花させる.栄える.花が咲く.若さ.美人.花盛り.開花.花
 adhesion★接着 粘着
 drill★ドリル ドリル,錐(きり).2.ドリル(西アフリカ産のヒヒ)
 oddly★妙に 奇異に.はんぱに.奇数に.奇妙に
-flytrap★ハエトリソウ ハエトリソウ 
+flytrap★ハエトリソウ
 embryonic★胚の 胚に関する.胎児の.胚の
 frustrate★挫折させる 挫折させる.計画を失敗させる.人を失望させる
-slash★スラッシュ スラッシュ.さっと切る.を鞭打つ.一撃.切り傷.大鉈を振るう.大幅値下げする.大改定をする.(cf.slashむち打つ.一撃.slushぬかるみ.廃油) 
+slash★スラッシュ スラッシュ.さっと切る.を鞭打つ.一撃.切り傷.大鉈を振るう.大幅値下げする.大改定をする.(cf.slashむち打つ.一撃.slushぬかるみ.廃油)
 homeless★ホームレス 家のない
 costly★高価な 高価な.損失の大きい
 obstacle★障害物 障害.故障.障害物
@@ -4573,7 +4573,7 @@ workplace★職場
 intelligent★インテリジェント 知的な
 sweat★汗 汗水たらして働く.汗をかく.湿気をおびる.汗.湿気.(俗)ぞうさなく.簡単に(easily)
 inherit★継承する 財産を相続する.所有する.手に入れる.を遺伝で受け継ぐ
-brook★小川 小川.(cf.stream.brook.creek.bourne) 
+brook★小川 小川.(cf.stream.brook.creek.bourne)
 favorable★良好 好意ある.好意的な.賛成の.都合のよい.有利な.望ましい(=favourable)
 presume★推測する あえて～する.を推定する.と思い込む.と仮定する.想像する.思う
 receipt★レシート 受け取ること.レシート.受領.領収書.収益.受領書
@@ -4583,8 +4583,8 @@ playoff★プレーオフ 再試合.延長戦.王者決定戦
 ministry★省庁 内閣.省.大臣の職務.奉仕.聖職者
 steep★急な 急勾配の.急な坂.急な･険しい.不法に高い
 contraction★収縮 短縮.縮小.制限
-blues★ブルース ブルース(Blues).米国南部で発生した音楽.語源はblue(憂鬱な.本来の発音はblú:z).19C後半に黒人霊歌,フィールドハラー(field-holler,黒人の労働歌)などから発展した
-checking★点検 点検 
+blues★ブルース ブルース(Blues).米国南部で発生した音楽.語源はblue(憂鬱な).19C後半に黒人霊歌,フィールドハラー(field-holler,黒人の労働歌)などから発展した
+checking★点検
 blanket★毛布 一面に覆う(もの).毛布(で覆う).全体的な.包括的な
 corn★トウモロコシ トウモロコシ.穀粒.穀草.2.魚の目
 surrender★降伏 降伏(する).を放棄する.引き渡し.明渡し(する).自首
@@ -4601,20 +4601,20 @@ enthusiasm★熱意 熱中させるもの.熱中.意気込み.熱狂
 poison★毒 毒.毒薬.毒物.弊害.に毒を盛る.を毒する
 sharply★鋭く 鋭く.急に.はっきりと.厳しく
 pond★池 池.泉水.沼
-annotated★注釈付きの 注釈付きの 
+annotated★注釈付きの
 proclaim★宣言する 宣言する.公表する.を声明する.を公然と示す
-situ★その場 場所 
+situ★その場 場所
 puppy★子犬
 scrappy★断片的な
 explosive★爆発物 爆発しやすい.爆発性の.爆発物
-epithelium★上皮 上皮 
+epithelium★上皮
 compartment★コンパートメント コンパートメント.区画.仕切り
 linguistic★言語の 語学上の.言葉の.言語(上)の.言語学の
 architectural★建築の 建築の.建築学の
 exotic★エキゾチック 異国(風)の.外国(産)の.外来の.異国情緒の.風変わりな.魅惑的な.外来の物.外人(ｲｸﾞザﾃｨｯｸ)
 pirate★海賊 海賊.略奪者.を略奪する.著作権を侵害する
 hank★糸の束 (糸の)束
-prospects★見込み 見込み 
+prospects★見込み
 diagram★ダイアグラム 図解
 allegedly★申し立てによると (真偽のほどはわからないが)伝えられるところによると
 thumb★親指
@@ -4651,7 +4651,7 @@ beneficial★有益 ためになる.有益な
 broker★ブローカー ブローカー.仲買人
 tide★潮 潮.潮流.潮の干満.潮に乗って.潮汐
 handsome★ハンサム 均整の取れた.ハンサムな
-modeling★モデリング モデリング 
+modeling★モデリング
 inland★内陸 奥地の
 severely★厳しく
 vow★誓い を誓う.と断言する.誓約.pledge
@@ -4670,7 +4670,7 @@ declaration★宣言 宣言.通知.申告
 diplomatic★外交的 外交の.外交上の
 foreigner★外国人 舶来品.外国人.外人
 gym★ジム 屋内体操場.体育館.2.体操.体育
-wider★広い 広い 
+wider★広い
 certify★証明する
 grip★グリップ 掴む.握力.握りかた.グリップ.支配(力).理解力.(cf.grasp.clasp.seize.clench.grip.clutch)
 peep★のぞき見 のぞき見(する).こっそり見る.姿を現す.出現
@@ -4681,12 +4681,12 @@ chromosomal★染色体の
 cheat★カンニング をだます.ごまかす.浮気する.詐取.カンニング.だますこと.ごまかし.詐欺師.不正行為
 confer★与える 相談する(confer with-.cf.consult).協議する.授与する.
 sixteen★16 16.16の
-justified★正当化 正当化 
+justified★正当化
 turtle★カメ 海亀.カメ.(cf.turtle.主に海ガメ.tortoise主に陸ガメ.ウサギとカメはhare and tortoise.淡水に住む亀はfreshwater turtleのようにturtleを使用). 2.キジバ ト
 remarkably★著しく
 inappropriate★不適切 不適当な
 railway★鉄道 鉄道.軽便(路面)軌道
-innings★イニング イニング 
+innings★イニング
 worship★礼拝 礼拝する.崇拝する.礼拝.賛美.を崇拝する
 mob★暴徒 群衆.暴徒.群れ.大衆.暴力団.マフィア.暴徒の群れ.群がり騒ぐ.襲う.群がる
 analog★アナログ (=analogue主に英).アナログ(の).類似(の).相似(の).(肉･魚もどきの)合成食品
@@ -4699,7 +4699,7 @@ onion★タマネギ 玉葱.タマネギ
 profitable★有益 有益な
 antisense★アンチセンスの (生化学)アンチセンス.「遺伝子配列に相補的で機能を失わせるような」の意
 flesh★肉 激励する.肥やす.肉.身.贅肉.食用肉.肉体.人類.生物.肌.(cf.fresh.新鮮な)
-yup★うん yes.2..ヤップ,ヤッピー(young urban professionals.Yup)
+yup★うん yes.2.ヤップ,ヤッピー(young urban professionals.Yup)
 chaos★混沌 混乱状態
 unrelated★無関係 関係ない.無関係の.無縁の
 pairwise★ペアワイズ 対で起きる
@@ -4710,7 +4710,7 @@ actively★積極的に 活発に
 loyalty★忠誠心 貞節.忠義.忠誠.誠実
 ten★10 10.10の
 heck★一体 (俗)地獄.ひどいこと
-bio★バイオ バイオ 
+bio★バイオ
 landmark★ランドマーク 画期的な出来事.陸標
 nod★うなずき うとうとする.うなずく.うなずいて承諾･命令する.うなずき.黙礼
 alley★路地 路地.alley cat 野良猫.おはじき(遊び)
@@ -4719,7 +4719,7 @@ clarify★明らかにする 明らかにする.ハッキリさせる
 confusing★紛らわしい (人を)混乱させるような
 disabled★使用禁止 身体障害のある.使用禁止の
 legendary★伝説の 伝説集.伝説の
-submitted★提出 提出 
+submitted★提出
 conversion★変換 転換.換算.転向.交換
 fever★発熱 熱.発熱
 condom★コンドーム
@@ -4761,7 +4761,7 @@ sooner★より早く
 successor★後継者 後継者.後任者
 haven★避難所 (避難)港.停泊所.安息所.避難所
 bench★ベンチ ベンチ.法廷.裁判官
-genetically★遺伝的に 遺伝的に 
+genetically★遺伝的に
 steroid★ステロイド ステロイドとは,分子中にステロイド核という構造をもつ有機化合物の総称.ほとんどの動植物で生合成され,コレステロール,ビタミンＤ,ステロイドホルモン等が代表例
 vague★漠然とした ばく然とした.曖昧な.ぼんやりした.あいまいな
 delicious★おいしい
@@ -4785,13 +4785,13 @@ irrelevant★無関係の
 envision★見越す 心に描く.想像する
 shiny★光沢のある 光る.輝く.晴れた
 bookstore★書店
-neo★ネオ ネオ 
+neo★ネオ
 serine★セリン セリン.非必須アミノ酸(代謝で重要な役割を果たす)
 counseling★カウンセリング
 rifle★ライフル ライフル銃
 remedy★救済策 を治療する.医療.治療.療法.医薬.救済策
 scrutiny★精査 精密な調査.精査
-utilized★利用 利用 
+utilized★利用
 electron★電子 電子.宇宙を構成するレプトンに分類される素粒子.記号はe−で表される
 banker★銀行家
 equity★株式 株.公平.公正.衡平法
@@ -4815,7 +4815,7 @@ rue★後悔する 後悔する.悲しむ.(植物)ヘンルーダ(薬用)
 distinctive★独特の
 commentator★コメンテーター 解説者
 indictment★起訴 告発.起訴(手続き).告訴.起訴状.非難.攻撃
-proceedings★議事録 手続き 
+proceedings★議事録 手続き
 wreck★難破船 難破.難破船.破損.廃人.破壊する.難破させる
 cascade★カスケード 滝.滝のように落ちる.カスケード.波状レース飾り.(菊の)懸崖づくり.(電気)縦つなぎ
 toast★トースト トースト.乾杯(する)
@@ -4826,10 +4826,10 @@ longtime★長い時間 積年の.長い間の.長年の
 fray★ほつれ 論争.口論.乱闘.(神経)をすり減らす
 elementary★エレメンタリー 初歩の.初めの.初等の.基本の
 helm★ヘルム かじ.操舵装置
-sexually★性的に 性的に 
+sexually★性的に
 opt★オプト 選択する.(n.option)
 marginal★限界性の 取るに足りない.最低限の.周縁の.辺境の.欄外の.限界収益点の
-tumour★腫瘍 (主に英国)腫瘍(=tumor) 
+tumour★腫瘍 (主に英国)腫瘍(=tumor)
 couch★カウチ うずくまる.横たわる.長椅子.ベッド兼用のソファー
 parasite★寄生虫 寄生動物.寄生植物.宿り木.居候.寄生虫
 suite★スイート 一続きの部屋.一式の家具.一組.スイート.スイートルーム(和製英語)
@@ -4844,7 +4844,7 @@ chuck★チャック 軽くたたく.捨てる.放棄する
 surgical★外科的な 外科手術の.外科医の
 custody★親権 拘留.保護.管理.拘置
 spice★スパイス スパイス.香辛料.薬味.趣.に香辛料を加える
-innovative★革新的な 革新的な 
+innovative★革新的な
 toll★通行料金 死傷者数(number of death).損害.2.料金.報酬.徴収する.3.(鐘など)を鳴らす.(cf.tall.toll.torr.tole)
 dunno★don't know
 bunny★バニー (俗)プレイガール.うさぎちゃん
@@ -4861,8 +4861,8 @@ hart★ハート 雄じか
 lesbian★レズビアン
 someday★いつか
 hail★雹 歓迎する.を認める.(タクシーなどを)呼び止める.2.ひょう(雹.主に5mm以上の氷粒).あられ(霰.5mm未満の氷粒)
-centrifugation★遠心分離 遠心分離 
-electrophoresis★電気泳動 電気泳動 
+centrifugation★遠心分離
+electrophoresis★電気泳動
 nicely★うまく きちょうめんに.うまく.立派に.心地よく.気むずかしく
 villain★悪役 悪者.悪人.悪党.かたき役.野郎.やつ
 outlook★見通し 見通し.見解.見張り.見晴らし
@@ -4884,7 +4884,7 @@ albeit★とはいえ (lbít)にもかかわらず.=although
 collector★コレクター 光捕集器.収集家.集金人
 ruler★ルーラー 主権者.支配者.君主
 workshop★ワークショップ 職場.仕事場.作業場.研修会.講習会.工場
-counterterrorism★テロ対策 テロ対策 
+counterterrorism★テロ対策
 bicycle★自転車
 vanity★虚栄心 虚栄心.むなしさ.はかなさ.鏡台.化粧テーブル
 finale★フィナーレ フィナーレ.終局(発音fina:li).終楽章
@@ -4894,7 +4894,7 @@ maximal★最大の 極大の.最大限の.最大の
 complementary★補完的な
 radar★レーダー レーダー.電波探知機
 individually★個別に 個々別々に
-endpoint★エンドポイント エンドポイント 
+endpoint★エンドポイント
 essence★エッセンス 本質
 resignation★辞任 あきらめ.辞職.辞任.退職.辞表.放棄.断念.服従
 axis★軸 中心線.軸
@@ -4904,15 +4904,15 @@ graph★グラフ グラフ.図式
 sub★サブ 潜水艦.補欠
 nightmare★悪夢 うなされること.悪夢(のような経験).恐怖.夢魔
 salon★サロン サロン.(高級)店.客間.大広間
-culturebox★culturebox culturebox(番組名,劇場名,ショップ名他) 
+culturebox★culturebox culturebox(番組名,劇場名,ショップ名他)
 inevitably★必然的に 不可避的に.必然的に.必ず.確かに
 instinct★本能
 cocaine★コカイン
-imaging★イメージング イメージング.画像 
+imaging★イメージング イメージング.画像
 businessman★ビジネスマン ビジネスマン.実業家.実務家
 specialty★専門 専門.名物.特徴
 elevation★elevation 上げること
-apoptotic★アポトーシスの アポトーシス(細胞死)の 
+apoptotic★アポトーシスの アポトーシス(細胞死)の
 momentum★勢い はずみ.いきおい.(物理)運動量.契機.弾み.惰性
 monocyte★単球 単球.まだ未成熟な顆粒白血球の仲間で,組織内に移るとマクロファージと呼ばれる大型の食細胞に変化する.
 glimpse★垣間見る ちらりと見えること.一瞥(いちべつ).ちらりと見る
@@ -4923,7 +4923,7 @@ tar★タール タール.を汚す
 clash★衝突 衝突(する).ガチャッ(音).(色彩の点で)調和しない.(cf.clash衝突する,ガチャッ(音).crash衝突する,(衝突し)壊れる･壊す.crush押しつぶす)
 estimation★推定 見積.評価.判断
 seller★売り手 売れるもの.売り手.よく売れるもの
-oxidative★酸化 酸化的 
+oxidative★酸化 酸化的
 bra★ブラジャー
 litigation★訴訟 訴訟.起訴
 fa★ファ ファ(長音階第4音)
@@ -4933,8 +4933,8 @@ infusion★注入 注入.点滴
 chunk★チャンク (チーズ･パン･肉片･木材などの)大きいかたまり.厚切.大量.たくさん.厚切り.大きな塊
 betray★裏切る 裏切る.騙す.だます.漏らす.密告する.秘密をあばく.敵に売る.背く.うっかりもらす
 sitcom★シットコム シットコム.連続ホームコメディー.Situation Comedy
-antitrust★独占禁止 独占禁止 
-quantum★量子 量子.(量子力学quantum mechanics.量子力学的quantum-mechanical.量子論the quantum theory).2.定量.定額.分け前 
+antitrust★独占禁止
+quantum★量子 量子.(量子力学quantum mechanics.量子力学的quantum-mechanical.量子論the quantum theory).2.定量.定額.分け前
 microscope★顕微鏡
 predecessor★前任者 前任者.祖先.先輩.前のもの
 cruel★残酷な 悲惨な.残酷な
@@ -4942,10 +4942,10 @@ contig★コンティグ DNA配列断片を重ね合わせて (アライメン�
 undoubtedly★明らかに 疑いなく.疑う余地なく.確かに
 tout★客引き 客引きする.勧誘する.大げさに宣伝する.客引き.運動員.(競馬の)予想屋.(泥棒の)見張り
 stitch★ステッチ を縫う.ステッチ.一針.綴じ.ひと針.縫い目.布地
-enriched★豊富な 豊富な 
-hood★フード ずきんをつける.ずきん.フード状のもの.ボンネット(あかずきんちゃんLittle Red Riding Hood,小さな赤い乗馬帽) 
+enriched★豊富な
+hood★フード ずきんをつける.ずきん.フード状のもの.ボンネット(あかずきんちゃんLittle Red Riding Hood,小さな赤い乗馬帽)
 gradient★勾配 こう配.変化度.勾配
-inactivation★不活化 不活化 
+inactivation★不活化
 utter★全くの 口に出す.言う.(叫び声･うめき声)を出す.2.全くの
 authentic★本物の 信頼できる.信憑性のある.本物の
 pip★斑点 (リンゴ･ナシなどの)種.不機嫌.(トランプ･さいころの)目.(ひなが)ピヨピヨ鳴く.(卵の殻を)破って出る.(時報の)ピッという音.(相手を)打ち負かす
@@ -5008,14 +5008,14 @@ cafe★カフェ 喫茶店
 anytime★いつでも
 ovarian★卵巣の 卵巣
 shallow★浅い 浅い.浅はかな
-neurite★神経突起 神経突起 
+neurite★神経突起
 interference★干渉 さしさわり.衝突.妨害.障害.干渉.邪魔.混信
 ho★ホー おーい.おいこら.ホーイ
 gossip★ゴシップ うわさ話をする.うわさばなし.陰口.悪口.噂
 desperately★必死に 死にもの狂いに
 bomber★爆撃機
 massacre★虐殺 大虐殺
-editing★編集 編集 
+editing★編集
 buzz★ブンブン がやがや言う.ざわめき.音.ブンブン.ハチの音.ブザーで呼ぶ
 hers★彼女の物 彼女のもの
 portfolio★ポートフォリオ 大臣の職･地位.(所有する)有価証券(一覧表).紙ばさみ
@@ -5029,14 +5029,14 @@ deer★鹿 シカ.鹿
 pellet★ペレット 小球.小丸薬.小弾丸.散弾.小さな球
 veto★拒否権 拒否する.拒否権.拒否権の行使.拒否.禁止
 intimate★親密な 親密な.懇意の.(婉曲語)性的関係のある
-youngest★一番年下の 末の 
+youngest★一番年下の 末の
 viability★生存能力 生存能力.(胎児の母胎外)生存可能性.実行可能性
 preview★プレビュー 試写する.予告編
 horizontal★水平の 地平線の.水平の.(horizontal bar.鉄棒)
 batter★バッター (野球)連打する.バッター.たたきつぶす
 chloride★塩化 塩化物
 skeletal★骨格 骨格の.骸骨(がいこつ)の.非常にやせ(衰え)た
-breastfeed★母乳 母乳で育てる 
+breastfeed★母乳 母乳で育てる
 awkward★厄介な 不器用な.ぎごちない.見苦しい.へたな.まずい.厄介な
 predominantly★主に 優勢に.主に.大部分は.広く.支配的な
 wireless★ワイヤレス 無線の.無線電信
@@ -5046,7 +5046,7 @@ redemption★償還 買い戻し.見受け.償還.兌換.救済.解放
 aerobic★好気的 好気性の
 prop★小道具 支持者.支え.を支える.を支持する.に支柱を施す
 desirable★望ましい 魅力がある.価値のある.望ましい.好ましい
-ag★株式会社 (ドイツ語)株式会社 
+ag★株式会社 (ドイツ語)株式会社
 recruitment★募集 募集.採用
 lynch★リンチ 私刑.リンチ.私刑に処する.2.Merrill Lynch & Co., Inc.(メリル,リンチとも創業者の姓).現バンク・オブ・アメリカグループの金融機関
 explorer★エクスプローラ 探検家
@@ -5064,9 +5064,9 @@ coup★クーデター クーデター.政変.大当たり.大成功
 cognitive★認識の
 turner★ターナー とんぼ返りをする人.フライ返し
 locally★局所的に 局所的に.場所的に
-paperwork★ペーパーワーク ペーパーワーク 
+paperwork★ペーパーワーク
 unhappy★不幸 浮かぬ.不幸な.不運な.惨めな.適切でない
-subsection★小区分 小区分 
+subsection★小区分
 daytime★昼間 昼
 weaken★弱める を弱める.を薄める.弱る
 delightful★楽しい 喜びを与える.愉快な.楽しい
@@ -5076,11 +5076,11 @@ unnecessary★不要 不必要な.余計な.無益な.無用な
 solo★ソロ ソロ.独唱(独奏)の.独奏(曲).独唱(曲)
 videotape★ビデオテープ ビデオテープ(に録画する)
 masterpiece★傑作 傑作.名人芸
-slower★もっとゆっくり 遅く 
+slower★もっとゆっくり 遅く
 embed★埋め込む はめ込む.埋める.植え込む.固定する.(心など)に深く留まる.食い込む
 squeeze★スクイーズ 締めつける.を絞る.圧迫する.強制する.規制.圧搾
 implant★インプラント (心など)に植え付ける.深く刻みこむ.教えこむ.移植する.移植組織
-resuspended★再懸濁 再懸濁 
+resuspended★再懸濁
 warrior★戦士 勇士.武人.武士.軍人
 verbal★言葉による 言葉の.語の.文字通りの.口頭の.動詞の
 rant★大言壮語 大げさに言う.大声を張り上げる.わめき散らす
@@ -5090,7 +5090,7 @@ hilarious★陽気な 陽気な.楽しい.おもしろい.こっけいな
 frustration★欲求不満
 pursuant★準拠して に従う.準拠する.応じる
 spelling★綴り 字を綴ること.綴り.つづり.語の綴り方
-newer★新しい 新しい 
+newer★新しい
 unusually★異常に いつになく.異常に.著しく.一風変わって.非常に.ひどく
 ballet★バレエ バレエ(団･曲)
 nap★昼寝 昼寝.うたた寝する.(cf.doze).油断する
@@ -5117,7 +5117,7 @@ spur★スパー を駆り立てる.に拍車をあてる.急行する.激励.�
 omit★省略する 抜かす.省略する.忘れる.除外する.怠る.オミット
 circulation★循環 発行部数.循環
 advocacy★アドボカシー 主張.弁護.支持
-geek★オタク (生きたヘビや鶏の首を食いちぎってみせる)奇態な見せ物師.(俗)変態.異常者.酔っぱらい 
+geek★オタク (生きたヘビや鶏の首を食いちぎってみせる)奇態な見せ物師.(俗)変態.異常者.酔っぱらい
 curriculum★カリキュラム 教育課程.カリキュラム
 deadly★致命的な 命にかかわるような.致命的な.執念深い.死んだような
 mitochondria★ミトコンドリア ミトコンドリア.mitochondrionの複数形.細菌・藍藻以外のすべての生物の細胞中に見られる糸状または球状の細胞小器官.呼吸に重要な働きをする
@@ -5127,8 +5127,8 @@ asleep★眠って
 diplomat★外交官 外交官.外交家.如才ない人
 drown★かき消す ずぶ濡れになる.溺れる.を溺れさせる.溺死する.を水浸しにする.を消す
 audio★オーディオ 可聴周波数.音響部分.聴覚の
-starting★出発 起動 
-nearest★最寄り 最寄り 
+starting★出発 起動
+nearest★最寄り
 giggle★クスクス笑う くすくす笑う.笑いながら言う.くすくす笑い
 hospitalize★入院させる
 scaffold★足場 足場を設ける.(建築場の)足場.絞首台.処刑台.(野外の)組立て舞台
@@ -5136,24 +5136,24 @@ trump★切り札 切り札.奥の手
 gal★ギャル ガル.加速度の単位
 feasible★可能 実現可能な.可能な.適した.便利な
 deficient★不十分な 欠けている.不十分な.不完全な
-avenger★復讐者 復讐者 
+avenger★復讐者
 enact★成立させる 制定する.法律を制定する
 delicate★繊細な きゃしゃな.繊細な.優美な.おいしい.かすかな
 bureaucracy★官僚 官僚政治.官僚主義.官僚制.官僚社会
 mining★鉱業 鉱業.採鉱.鉱山業.地雷の敷設
 tragic★悲劇的な 悲劇の.悲劇的な.悲劇に関する.悲劇を演じる.悲惨な
 manners★マナー 作法
-bass★男声最低音 男声最低音.(次の順に高くなる.bass.baritone.tenor.alto(女声).treble(女声soprano).2.バス(魚類.スズキの類)
+bass★男声最低音 男声最低音.次の順に高くなる.bass.baritone.tenor.alto(女声).treble(女声soprano).2.バス(魚類.スズキの類)
 racialism★人種差別主義 民族優越観.人種差別.人種差別主義  cf.racism
 operational★オペレーショナル 使用できる.操作上の
 jealous★嫉妬深い 嫉妬深い.しっと深い.ねたんで
 cinema★映画 映画館.映画
 racism★人種差別 民族優越観,人種差別,人種差別主義
-untreated★未処理の 未処理の 
+untreated★未処理の
 beating★ビーティング 打つこと.懲らしめに叩くこと(That boy needs a good beating.give a person a beating打ち負かす.a beating in the stock market.株で大損する).羽ばたき.心臓の鼓動
 contemplate★熟考する 熟考する.凝視する.予期する.直視する
 porch★ポーチ ベランダ.玄関.車寄せ
-synthesized★合成された 合成された 
+synthesized★合成された
 bare★裸 ありのままの.裸の.家具のない.最低限の.暴露する.公表する.reveal.disclose
 cynical★シニカル 皮肉な
 plague★伝染病 伝染病.天災.災難.疫病神.を苦しめる.悩ます
@@ -5163,7 +5163,7 @@ restoration★復元 復旧.返却.復興.回復.返還
 altar★祭壇
 haunt★出没する しばしば訪れる.出没する.とりつかれる.幽霊.～の脳裏に刻み込む.(例, Haunted houseお化け屋敷)
 elevator★エレベーター
-strongest★最強 最強 
+strongest★最強
 collaboration★コラボレーション 共同研究.共著.(占領国･敵国などへの)協力
 upstairs★2階 二階へ, 階上へ, より高い地位へ
 underneath★下に の下に.低い.低く.低部
@@ -5183,7 +5183,7 @@ garment★衣服 衣服の一品.衣服
 chill★チル 冷たい.寒気.寒さ.冷感.冷える
 nominee★名義人 任命された人
 cattle★牛 ウシ.牛
-prolonged★長引く 長引く 
+prolonged★長引く
 awhile★しばらく
 soluble★水溶性の 溶解できる.(物質が)溶けやすい.溶性の.2.(問題が)解決できる(=solvable)
 grid★グリッド 格子.鉄きゅう.グリッド.(cf.grid.grill.lattice)
@@ -5192,7 +5192,7 @@ atom★原子
 complement★補数 補足.全数量.補足物.(文法)補語,補文,補数.(cf.complimentはお世辞(を言う))
 addiction★中毒 熱中すること, 夢中になること, -中毒
 terrace★テラス 段地
-causee★被使役者 被使役者 
+causee★被使役者
 informative★有益な 知識(情報)を与える.有益な
 predictable★予測可能な 予報し得る.予知できる.予知可能な
 drew★ドリュー draw.引いた.かいた
@@ -5204,7 +5204,7 @@ invasive★侵襲的な 侵略的な
 lure★ルアー 誘惑する.を引き寄せる.待ち伏せる.魅力.おとり.わな
 banner★バナー 旗.標語を書いた旗じるし.(第一面トップの)全段抜きの大見だし.(歓迎の)垂幕.横断幕
 tile★タイル タイル.かわら.化粧タイル.牌
-validation★検証 検証 
+validation★検証
 erect★直立 直立した.強ばった.勃起した.組み立てる.(cf.elect選ぶ.選挙をする)
 payoff★精算 賄賂.利益.支払.収益.献金
 alias★エイリアス 別名.偽名.別名は.またの名.～こと
@@ -5231,7 +5231,7 @@ millionaire★富豪 百万長者.大富豪.(cf.billionaire)
 barrel★バレル 容器.樽(1barrel=約117.3リットル)  2.銃身.胴体の意
 insufficient★不十分 不適当な
 underestimate★過小評価 過小評価する
-pissed★腹を立てて 腹を立てて 
+pissed★腹を立てて
 rookie★ルーキー 新人
 magical★魔法の 魔法の.魔法の力による.不思議な.魅惑的な
 citation★引用
@@ -5242,7 +5242,7 @@ polyclonal★ポリクローナル Polyclonal Antibody,pAb.ポリクローナル
 charter★チャーター に特許を与える.憲章.憲法.constitution
 sunset★日没 夕焼け空.日没.終局
 irritate★刺激する をいらだたせる.を怒らせる.を刺激する
-functionally★機能的に 機能的に 
+functionally★機能的に
 continental★コンチネンタル 大陸の
 ridge★尾根 山の背.に棟をつける.棟.尾根.背筋.うね.畝
 toxin★毒素
@@ -5252,31 +5252,31 @@ persistent★永続的な 固執する.しつこい.持続する.永続的な.�
 primitive★プリミティブ 原始的な.原始人.原始の.昔の.太古の.最初の.初期の
 sunny★晴れた 晴れわたった.陽気な.日当たりのいい
 stumble★つまずく へまをやる.つまずく.よろめく
-vcr★ビデオデッキ ビデオデッキ 
+vcr★ビデオデッキ
 courage★勇気
 hierarchical★階層的な 階級の
 embarrassing★厄介な 当惑させる.きまり悪くさせる
-standardized★標準化された 標準化された 
+standardized★標準化された
 souvenir★お土産 記念品.土産.おみやげ
 tri★トライ 3を意味する接頭語
 insurer★保険会社 保険者
 orthodox★オーソドックス 正統派の.ユダヤ教正統派の.伝統的な.正統の.ギリシア正教の
-overexpression★過剰発現 過剰発現 
+overexpression★過剰発現
 harassment★嫌がらせ 悩ます(悩まされる)こと.繰り返し悩ますこと.ハラスメント
 spray★小枝 スプレーする.吹き掛ける.2.小枝.(branch幹(trunk)から出る枝.bough大枝.twig小枝.spray葉や花がついた小枝)
 unfold★展開する 広げる.(自然に)展開する.姿を現す.(折りたたんだものを)開く.(考えを)表す.打ち明ける
-predictor★予測因子 予測因子 
+predictor★予測因子
 mismatch★ミスマッチ 不適当に組み合わせる.の組合せを誤る.不釣り合い.不釣合いな縁組
 dragon★ドラゴン 竜(翼.爪を持ち.火を吐く伝説の怪獣でキリスト教では罪と悪の象徴)
 prose★散文 散文的な.散文.散文的な文章.無味乾燥な話し.平凡.単調
 prosecute★起訴する を起訴する.遂げる.を告訴する.を要求する.を遂行する
-opioid★オピオイド オピオイド(体に麻薬様の薬効を与える物質) 
-coworker★同僚 同僚 
+opioid★オピオイド オピオイド(体に麻薬様の薬効を与える物質)
+coworker★同僚
 cart★カート 荷車
 exile★亡命 追放(する).亡命(させる).亡命者.追放人.国外追放
 overly★過度に あまりにも.過度に.非常に
 shortage★不足 数量の不足.不足.欠点
-monitoring★監視 モニタリング 
+monitoring★監視 モニタリング
 prejudice★偏見 先入観.害.偏見.先入主.偏愛.ひがみ.損害.被害.迷惑
 loyal★忠実な 忠誠な.忠義な.忠実な.忠臣.(cf.royal.王の)
 stern★船尾 厳格な.きびしい.いかめしい.苦しい.断固たる.船尾
@@ -5329,9 +5329,9 @@ symbolic★シンボリック 象徴主義の.象徴的な.記号による
 yo★ヨーヨー やあ
 seldom★滅多 めったに～しない.めったに～ない
 premiere★プレミア 初日.主要な.主演の
-required★必須 必須 
+required★必須
 certificate★証明書 証明書.付保証明書.免許証.証券.株券.卒業証書.を認証する.与える
-testis★睾丸 睾丸 
+testis★睾丸
 textbook★教科書
 indigenous★土着 土着の.生来の.原産の.自生の.土地固有の.原住民の.土着
 bastard★クソ野郎 雑種の.不純な.偽の.偽物.粗悪品.私生児.庶子.野郎
@@ -5349,7 +5349,7 @@ teens★十代の若者たち 10代.10代の若者.(語源は数字に-teenと�
 planner★プランナー 立案者.プランナー
 hypothetical★仮定の 仮定上の.仮定の.仮想の.仮説の
 horizon★地平線 地平線.水平線.視野.展望
-enhanced★強化された 強化された 
+enhanced★強化された
 riot★暴動 暴動に加わる.放蕩する.ふける.暴動.反乱.一揆.多種多様.(cf.strikes,riots and civil commotions clause.一揆暴動ストライキ担保特別約款(保険の特約))
 notorious★悪名高い 悪評の高い.悪名高い.周知の
 notify★通知する 発表する.通知する.告知する.届け出る.広告する
@@ -5371,8 +5371,8 @@ countryside★田舎
 pork★豚肉 豚肉.2.(米連邦･州政府が政治的意図で地方の自治体に与える)援助金.職務.利権
 conceal★隠す の中に身を隠す.隠す.を秘密にする.に潜伏する
 cytoplasm★細胞質
-subfamily★亜科 亜科 
-effector★エフェクター エフェクター.効果機器(入力信号に反響などの効果を与える装置) 
+subfamily★亜科
+effector★エフェクター エフェクター.効果機器(入力信号に反響などの効果を与える装置)
 secular★世俗的な 俗人の.世俗の.非宗教的な.修道院外の.修道院外の僧侶
 analytical★分析 分解の.分析的な.解剖的な
 slump★スランプ 不況.不振.スランプ.激減.どすんと落ちる.衰える.(物価が)暴落する.急に倒れる
@@ -5405,7 +5405,7 @@ liter★リットル リットル(1,000cc)
 hypothesize★仮説を立てる 仮説を立てる仮定する
 invisible★目に見えない 目に見えない.目にみえない.目につかない
 intern★インターン 拘禁.抑留する.2.教育実習生.インターン
-coordinator★コー​​ディネーター コーディネーター 
+coordinator★コー​​ディネーター コーディネーター
 excel★優る しのぐ.優る
 revision★リビジョン 改訂.改正.手直し.加筆.是正.校閲.改訂版.復習
 refine★リファイン 不純物を除く.純化する.精錬(金属を精錬する).製錬(鉱石から金属を取り出す).精練(繊維から混じり物を取り除く).2.洗練する
@@ -5428,7 +5428,7 @@ citizenship★市民権
 shopper★買い物客 買物客.(商店の)広告ビラ.広告専用雑誌
 miserable★悲惨な 悲惨な.みじめな.不幸な.粗末な.不愉快な.恥ずべき.けちな
 inn★宿 宿屋
-explored★探検 探検 
+explored★探検
 dual★デュアル (文法)双数の,二者の.二重の.二つの部分から成る
 bump★バンプ どすんと当てる.衝突.ドスン.衝突の音
 mighty★強大な 大きい.非常に.力強い.強力な.巨大な.並外れた.膨大な.重大な.多量の
@@ -5440,7 +5440,7 @@ cam★カム カム.円形でないディスク.シリンダー
 amateur★アマチュア アマチュア.素人.未熟者
 headache★頭痛 頭痛がする.頭痛.悩みの種
 amend★修正する 修正する.改める
-differentiated★分化した 分化した 
+differentiated★分化した
 follower★フォロワー 随行者.信者
 temporal★時間的な 現世の.時間の.俗世の.束の間の.側頭の.時制の
 clerk★店員 事務員
@@ -5479,7 +5479,7 @@ unprecedented★前例のない 前例のない.先例がない.空前の.無類
 prototype★プロトタイプ プロトタイプ.原型.手本.試作.模範
 refusal★拒否 拒否.拒絶
 composer★作曲家
-smallest★最も小さい 最小 
+smallest★最も小さい 最小
 rationale★論理的根拠 理論的解釈.根本的理由.原理.理論的説明(根拠)
 germ★病原菌 病原菌.細菌.胚種.胚芽
 awake★起きる 目覚めさせる.悟らせる.起きる.気づく.起こす
@@ -5496,7 +5496,7 @@ pickup★拾う 集めること.便乗者.かりそめの知り合い.好転.実
 passport★パスポート パスポート.旅券
 neutrophil★好中球 好中球は5種ある白血球の1種.盛んな遊走運動(アメーバ運動)を行い,侵入してきた細菌や真菌類の異物を貪食し,殺菌を行う.骨髄で作られる.
 dodge★身をかわす さっと身をかわす.かわす.はぐらかす
-pend★係争中 保留 
+pend★係争中 保留
 libertarian★自由主義者 自由意志論者
 cherry★チェリー サクランボ.桜
 safely★安全に 無事.安全に.無事に
@@ -5538,7 +5538,7 @@ conjunction★接続詞 結合.連結.合同.(文法)接続詞
 regain★取り戻す 取りもどす.回復(奪還)する
 juvenile★少年 少年少女(向き)の.若い.少年の.少女の
 holding★開催 続く.保有の
-tougher★厳しい 厳しい 
+tougher★厳しい
 credible★信用できる 信じられる.信用できる.信頼できる.確かな
 freezing★凍結 凍る
 referral★紹介 委託.照会.紹介.推薦された人.委託された人
@@ -5548,7 +5548,7 @@ tailor★テーラー 仕立屋.洋服屋
 hijack★ハイジャック 乗っ取る.強奪する
 copyright★著作権 著作権.版権
 lag★ラグ 遅れる.懲役に処する.遅延(ex.time lag).前科者.(cf.ragぼろ.rug敷物.lag停滞.lug突起)
-visualized★可視化 可視化 
+visualized★可視化
 segregation★分離 人種差別.分離
 teammate★チームメイト チームメート
 machinery★機械 (集合的に用いて)機械類.機械装置.機構
@@ -5563,19 +5563,19 @@ worthwhile★やりがいのある それ相応の.やりがいのある.むだ�
 rum★ラム酒 ラム酒. 2.変な.(cf.rumラム酒.lamb子羊.ram雄羊･RAM.lam逃走.lampランプ.ramp高速出入口.rump腰肉.lump塊)
 lone★孤独な ひとりぼっちの.連れのない.孤独な.寂しい.人里離れた.独身の
 vicious★悪質な 意地の悪い.悪意のある.危険な.ひどい.激しい
-centrifuged★遠心分離 遠心分離 
+centrifuged★遠心分離
 proximity★近接 近接.近似
 magnetic★磁気 磁気の.磁性の.魅力ある.磁石の.魅力的な
 miner★鉱山労働者 坑夫.鉱夫.鉱山業者(労働者).地雷工兵.採鉱機.2.ハイイロミツスイ(ミツスイ科の鳥の名前)
 creep★クリープ 忍び寄る.はう.いやな奴.薄気味悪い感じ(を与える人)
-unified★統一された 統一された 
+unified★統一された
 fried★フライド 油で揚げた.油焼きの.揚げた.フライにした
 adoption★採用 採用.養子縁組
 grape★ブドウ ブドウ.深紫色
 watt★ワット ワット(電力･工率の単位)
 airway★気道 風道.航空路.航空会社
 thesis★論文 論文.主張.議題.論題.題目.卒業論文.命題
-stakeholder★利害関係者 株主･利害関係者 
+stakeholder★利害関係者 株主･利害関係者
 incumbent★現職 現職の.在職の.行う義務のある.現職者.現職議員.牧師
 assayed★検定 (assayの過去,過去分詞).(含有量を)検定した.検査した
 parish★小教区 教区(民).郡.巡回区域.専門分野
@@ -5591,13 +5591,13 @@ liquor★酒 溶液.液体.煮汁.を溶液に浸す.に酒を飲ませる.酒.�
 verbatim★逐語的 文字どおりに.逐語的に
 scoop★スクープ すくいあげる.ひとすくい.スコップ.小シャベル.すくいさじ.特ダネ.スクープ
 nest★巣 に巣をつくってやる.巣.巣を造る.隠れ場所.悪事の温床
-weaker★弱い 弱い 
+weaker★弱い
 wildly★乱暴に 激しく.野生的に.ひどく
 motorcycle★オートバイ オートバイ(和製英語).バイク.単車で行く.
 stab★刺す を刺す.中傷する.刺し傷.突き傷.白血球
 municipal★市立 市の.内政の.局地的な.地方自治の.市営の
 tuition★授業料
-maturation★成熟 成熟 
+maturation★成熟
 tryptophan★トリプトファン トリプトファン.必須アミノ酸の一種.不足すると.不眠症などの睡眠障害やうつ病を起こす
 skull★頭蓋骨 頭蓋骨.頭(cf.scull.ボート競技名.両手でオールを一本づつ握る)
 hawk★鷹 タカ.鷹.タカ派.強硬論者.他人を食い物にする人.(cf.folk.fork.hawk)
@@ -5612,7 +5612,7 @@ outsider★アウトサイダー 外部者
 misleading★紛らわしい 人を誤まらせる.誤解させる.惑わせる
 aboard★乗って (船･バスなど)に乗って.搭乗して.on board
 soprano★ソプラノ ソプラノ.女性高音部.(次の順に高くなる.bass.baritone.tenor.alto(女声).treble(女声soprano)
-farmworker★農場労働者 農場労働者 
+farmworker★農場労働者
 pathology★病理 病理学.病理.病状.2.前足で掻く.蹄で掻く
 blond★ブロンド ブロンドの.金髪の
 mint★ミント ハッカ(入りの菓子).2.造幣局.多額.源泉.鋳造する.ま新しい.未使用の
@@ -5623,13 +5623,13 @@ blonde★ブロンド 金髪の
 terminate★終了する を終わらせる.に終わる.を終結させる.を仕切る
 greed★欲 欲張り.貧欲.どん欲
 zinc★亜鉛 亜鉛(元素記号Zn).亜鉛でメッキをする.人体の必須ミネラル16種の一つ.銅との合金は黄銅(真鍮)として用いられる.亜鉛めっき鋼板(トタン)は防錆力が強い
-kinetics★動力学 動力学 
+kinetics★動力学
 singular★単数 唯一の.並外れた.奇妙な.単数の.単数
-brit★英国人 英国人 
+brit★英国人
 triangle★三角形 三角定規.三角形.三人組み
 gaga★熱狂的な ホモ.ホモの前戯.いかれた.熱狂した.変わった.のぼせ上がった.夢中になって.恍惚の
 brutal★残忍な けものの.残忍な.野蛮な.無茶な
-catcher★キャッチャー キャッチャー.捕らえる人
+catcher★キャッチャー.捕らえる人
 incomplete★不完全 不完全な
 pleased★喜んで 満足した.喜んだ.うれしい
 firework★花火 花火.才気のひらめき
@@ -5676,7 +5676,7 @@ ace★エース 第一人者.切り札,最高位かそれに準じる者
 fixation★固定 定着
 bust★バスト (女性の)胸部.破裂させる.破産させる.追っ払う.飲みすぎ.強打.失敗
 ankle★かかと くるぶし.かかと.足関節
-immunoreactivity★免疫反応性 免疫反応性 
+immunoreactivity★免疫反応性
 lament★嘆く 悲しむ.嘆く
 seasonal★季節的 季節の
 expire★有効期限が切れる 満了する.終了する.満期になる.(息を)吐き出す.死ぬ
@@ -5686,7 +5686,7 @@ composite★複合 混成の.合成の
 propaganda★プロパガンダ 宣伝.主義.主張.宣伝機関
 martial★マーシャル 好戦的な.軍の.戦争の.軍人らしい.(martial art.格闘技)
 cycling★サイクリング
-simulated★シミュレーションした シミュレーションした 
+simulated★シミュレーションした
 mutate★突然変異する 変化する.突然変異する.母音変化する
 innocence★無罪 無垢.潔白
 vulnerability★脆弱性 傷つきやすいこと.脆弱性
@@ -5703,7 +5703,6 @@ exert★発揮する 及ぼす.発揮する.力を出す.感化を及ぼす.働�
 melanoma★黒色腫
 boomer★ベビーブーム世代 (一時的な)人気者.熱烈なファン
 visibility★可視性 見通し
-ile★パリ パリの異名.(ileはフランス語で島の意味.Île-de-Franceはパリの中心街を表す)
 dense★密集 密集した.濃密な.深い.鈍い.濃厚な.緻密な.濃い.(cf.thick.thin.dense.deep)
 upward★上向きに 上向きの.上へ.上方へ.上へ向かって.上流へ.内陸へ
 cab★タクシー
@@ -5711,7 +5710,7 @@ trainer★トレーナー 訓練者.コーチ.指導者.練習機
 heterogeneity★異質 異種.異成分
 descent★下降 下り坂.下降.(cf.ascent.descent.ascend.descend)
 filament★フィラメント 単繊維.糸状のもの.(おしべの)花糸.(電球の)フィラメント
-activator★活性剤 活性化因子 
+activator★活性剤 活性化因子
 rebound★リバウンド 回復.跳ね返る
 conditioning★コンディショニング コンディショニング.条件付け.調整.状態調節
 withhold★差し控える 与えないでおく.保留する.を抑える.控える.差し控える
@@ -5719,9 +5718,9 @@ precedent★先例 前の.先行する.前例.判例
 parody★パロディ 替え歌.パロディ.へたな模倣.をもじる.をへたにまねる
 evoke★呼び起こす 呼び出す.(記憶など)を呼び起こす.(感情･記憶などを)呼び起こす
 bucket★バケット バケツ
-safer★より安全な より安全 
+safer★より安全な より安全
 endowment★寄付 寄付金.基金.天性.才能
-spam★スパム スパム 
+spam★スパム
 extensively★広く 広く.手広く.大々的
 canyon★峡谷
 governance★ガバナンス 統治(組織).支配(権).管理(方式).被支配状態
@@ -5735,7 +5734,7 @@ strive★努力する 努力する.戦う
 shepherd★シェパード シェパード(犬種).羊飼い.牧師.の番をする.を指導する.(cf.Shepardは人名.米国初期の宇宙飛行士名,他)
 socially★社会的に 社会的に.社交的に
 aspirin★アスピリン アスピリン.代表的な消炎鎮痛剤のひとつ.非ステロイド性抗炎症薬の代表的な医薬品
-jeez★まあ あらっ 
+jeez★まあ あらっ
 susceptible★影響を受けやすい 影響を受けやすい.敏感な.感染しやすい.を許す.可能な
 static★静的 静止した.空電.静的な
 pyramid★ピラミッド ピラミッド.金字塔.尖塔状のもの.角錐.利乗り
@@ -5748,7 +5747,7 @@ debris★破片 残骸.破片.瓦礫.がれき
 fierce★激しい 気性が荒々しい.激しい.すさまじい.獰猛な.熱烈な
 sheriff★保安官 郡保安官
 promptly★速やかに すぐに.敏速に.即座に.ぴったり
-nematode★線虫 線虫 
+nematode★線虫
 analytic★分析的な 分析的な.分析の.解析幾何学
 alcoholic★アルコール性の アルコール中毒.アルコールの
 rhyme★韻 韻をふむ.韻.(lime果物のライム.lymeライム病.rhyme押韻)
@@ -5759,19 +5758,19 @@ operon★オペロン オペロン(Operon).一つの転写因子によって同�
 probable★ありそうな ありそうな.ありうる.もっともらしい.有望な
 understandable★理解できる (言葉･理論などが)理解できる.分かり易い.道理にかなった
 vanish★消える 消える.見えなくなる.消音 (cf.banish 追放する)
-proximal★近位 近位 
+proximal★近位
 approximate★近似 おおよその.接近する.隣接の.近似の.近付く.近似値
 subgroup★亜群 下位群
 tightly★しっかりと きつく.しっかりと.きっちりと.厳重に.きちんと
 helix★らせん らせん.らせん形のもの
 deploy★展開する 展開(する･させる).配備(する･させる).分散(する･させる)
-ribosomal★リボソームの リボソームの.(ribosomeを参照) 
+ribosomal★リボソームの リボソームの.(ribosomeを参照)
 risky★危険な 危険な.冒険的な
 wheat★小麦
-clinically★臨床的に 臨床的に 
-venous★静脈の 静脈の 
+clinically★臨床的に
+venous★静脈の
 interactive★インタラクティブ インタラクティブな.対話式の.実況の.最新の
-phylogeny★系統発生 系統発生 
+phylogeny★系統発生
 logo★ロゴ 紋章
 stun★気絶させる を気絶させる.を当惑させる.を打ち負かす.衝撃.失神
 borrowing★借り入れ 借金.借りること.借用語
@@ -5802,8 +5801,8 @@ memorable★覚えやすい 記憶すべき.重大な.覚えやすい
 dubious★怪しげな あいまいな.怪しい.心もとない.疑わしい
 leukemia★白血病
 fist★拳 こぶし.拳固
-enhancement★強化 強化 
-kinesin★キネシン キネシン.真核生物の細胞質中のモータータンパク質(Motor protein)の一種.アデノシン三リン酸(ATP)の加水分解で生じるエネルギーを運動に変換するタンパク質 
+enhancement★強化
+kinesin★キネシン キネシン.真核生物の細胞質中のモータータンパク質(Motor protein)の一種.アデノシン三リン酸(ATP)の加水分解で生じるエネルギーを運動に変換するタンパク質
 expo★博覧会
 continuity★継続 連続性
 curator★キュレーター 後見人.(博物館などの)館長.(大学の)理事.管理人.保護者
@@ -5811,7 +5810,7 @@ perjury★偽証 偽証(罪)
 chancellor★首相 ドイツの首相
 vivid★鮮やか 生き生きとした.生気にみちた.(色･光)鮮明な.強烈な.(色に関して)鮮やかな
 flourish★頭角を現す 栄える.華麗な身振り.見せびらかし
-bro★兄弟 兄弟 
+bro★兄弟
 temporarily★一時的に 仮りに.仮に.当座.一時的に
 von★フォン の.からの
 cooperative★協同組合 協同組合の.協力の.共同～
@@ -5826,9 +5825,9 @@ informal★非公式 正式でない.非公式の.略式の.変則の
 advertiser★広告主 広告者.広告掲載者
 fitted★嵌め込みの ぴったり合う.はめ込み式の.ふさわしく.作り付けの.家具の整った.床の全面を覆う.服装のきちんとした
 terrific★素晴らしい 恐ろしい.大変な.ひどい.すごい
-invitrogen★インビトロジェン インビトロジェン(逆転写試薬の一種) 
+invitrogen★インビトロジェン インビトロジェン(逆転写試薬の一種)
 lighter★ライター 明りをつける人.ライター.点灯器.たきつけ.艀.light(軽いの比較級)
-carol★キャロル 賛美歌.喜びの歌.キャロル 
+carol★キャロル 賛美歌.喜びの歌.キャロル
 chemotherapy★化学療法
 inexpensive★安価な 費用のかからない
 carrot★ニンジン
@@ -5851,7 +5850,7 @@ stein★ジョッキ スタイン(陶器製のビール用ジョッキ).ジョ�
 cigar★シガー 葉巻たばこ.たばこ
 starve★飢える 飢えさせる.餓死する.飢える.を餓死させる
 smack★スマック ぴしゃりと打つ.の味がする.の気味(がある).舌打ちする.舌鼓を打つ.平手討ち.まともに.小型帆船
-cytoskeleton★細胞骨格 細胞骨格 
+cytoskeleton★細胞骨格
 morality★道徳 道徳.道徳性.徳行
 overweight★太り過ぎ 超過重量
 notebook★ノート
@@ -5877,11 +5876,11 @@ hockey★ホッケー
 decay★崩壊 衰えさせる.衰える.腐る.腐敗.虫歯になる.衰退する
 pilgrim★巡礼者 巡礼者.巡礼の.巡礼する.流浪する
 basilica★バシリカ (古代ローマの)公会堂.その様式の教会堂
-secreted★分泌 分泌された 
+secreted★分泌 分泌された
 clown★ピエロ おどける.からかう.道化師.道化役者.田舎者
 depletion★枯渇 使い尽くすこと.枯渇.減損.減価償却.(cf.depreciation.amortization.depletion)
 proceeds★収益 売上高.(販売･投資などの)収益.儲け
-acetate★アセテート アセテート 
+acetate★アセテート
 chant★聖歌 詠唱する.シュプレヒコール
 sailing★セーリング 帆走.航海.航行.(特に定期客船の)出帆
 sage★セージ 聖人.思慮深い.賢い.賢人ぶった
@@ -5904,7 +5903,7 @@ velocity★速度 速さ.速力.速度.迅速さ
 brake★ブレーキ ブレーキ.歯止め.制動機.2.(植物)シダ.ワラビ
 making★メイキング 製造.形成
 fortress★要塞 安全地域.要塞.要塞地.大規模な要塞.とりで.砦
-senses★感覚 感覚 
+senses★感覚
 incidentally★ちなみに ついでながら.ところで
 jurisdiction★管轄 支配権.司法権.管轄権
 hoo★ホー (間投詞)ホー.フー.
@@ -5912,7 +5911,7 @@ pun★しゃれ しゃれ(を言う).ごろ合わせ
 humidity★湿度 湿度.湿気
 transcribed★転写 転写された
 fidelity★忠実
-mailing★郵送 郵送 
+mailing★郵送
 lick★なめる 打つ.負かす.全速力で進む.2.(舌で)なめる.なめること.一なめ分.3.(a lick)少し.少量
 breakthrough★画期的な 突破口.現状打開.躍進.成功.大発見
 dehydrogenase★デヒドロゲナーゼ デヒドロゲナーゼ.酸化還元酵素のうち,生体内の脱水素反応の触媒となる酵素の総称.脱水素酵素。
@@ -5937,13 +5936,13 @@ khan★カーン 汗(かん)(モンゴルなどの統治者の称号).隊商の�
 apparatus★装置 装置.器具.2.機構.機関.組織
 frustrating★イライラする ストレスのたまる.苛立たしい
 bolster★強化する 強める.支持(する).長まくら(pillowの下の)
-chondrocyte★軟骨細胞 軟骨細胞 
+chondrocyte★軟骨細胞
 lounge★ラウンジ ぶらぶらと時を過ごす.ぐったり横になる.ぶらぶらと歩く.長椅子.休憩所.談話室.ラウンジ
 descendant★子孫 子孫.後裔
 coca★コカ コカ(南米産薬用植物).その乾燥した葉
 rho★ロー (第17ギリシア文字)ロー.Ρ.ρ
 inconsistent★矛盾した 矛盾した.一貫してない
-sucked★吸い込まれた 吸い込まれた 
+sucked★吸い込まれた
 footage★映像 フィート(feet)で計った長さ
 mainland★本土 大陸.本土
 intersection★交差点 交差.交差点
@@ -5982,7 +5981,7 @@ turnover★売上高 (商品などの)回転率.離職率.売り上げ
 mourn★悼む 悲しむ.悼む.喪に服す
 wrongdoing★不正行為 悪事
 bully★いじめっ子 いじめる.いじめっ子
-associated★関連した 関連した.副～ 
+associated★関連した 関連した.副～
 sting★刺す (を針で)刺す.傷つける.をひりひりさせる.(人を)苦しめる.ひりひり痛む.ひどく痛む.刺すこと.針
 medal★メダル メダル.勲章.記章.メダルを授与する
 fictional★架空の 虚構の
@@ -5990,7 +5989,7 @@ receiver★受信機 受取人.収入役.会計係.接待者.受話器.受信機
 divert★そらす 方向転換する.転換する.転送する.(注意など)をそらす
 vastly★非常に 広々と.広大に.莫大に.大いに.非常に
 mediator★仲介者 調停者
-fused★融合した 融合した 
+fused★融合した
 commodity★商品 生活必需品.商品.必需品.日用品.有用品.物資
 void★ボイド からの.を放出する.排泄する.放尿する.うつろな.持ち主の無い.空間.真空
 sailor★船乗り 船員.水夫
@@ -5999,7 +5998,7 @@ atop★頂上に
 dial★ダイヤル
 waterfront★ウォーターフロント 海岸の土地.河岸.海岸通り
 blockbuster★大ヒット ビッグヒット.超大作
-transmembrane★貫​​通 膜貫通 
+transmembrane★貫​​通 膜貫通
 rigorous★厳格な 厳格な.綿密な.きわめて厳密な.severely exact or accurate.precise
 missionary★宣教師 伝道(者)の.伝道師.宣伝者.使節
 shorten★短縮する を短くする.短くなる
@@ -6007,12 +6006,12 @@ patience★忍耐 がまん.忍耐.一人トランプ
 tease★いじめる にねだる.じらす.悩ます.いじめる.(cf.irritate.teas.peeve.annoy.provoke.(見せびらかして)tantalize)
 rotate★回転させる 回転する
 fighting★戦闘 戦う
-phenotypic★表現型の 表現型の 
+phenotypic★表現型の
 conversely★逆に
 loading★ローディング 荷積み.船荷.装填.ディスクの挿入
 curl★カール 縮らす.カール.(髪を)カールする
 plantation★プランテーション 栽培場.大農場.大農園.植林地.植民地
-analogous★類似した 外見や機能は似ているが共通の祖先に由来しない場合「相似analogous」という.cf.遺伝子が共通の祖先に由来する場合「相同.orthologous」という 
+analogous★類似した 外見や機能は似ているが共通の祖先に由来しない場合「相似analogous」という.cf.遺伝子が共通の祖先に由来する場合「相同.orthologous」という
 heroic★ヒロイック おおげさな.英雄の
 erosion★浸食 浸食.腐食.目減り
 hiking★ハイキング ハイキングする
@@ -6020,18 +6019,18 @@ contradiction★矛盾 矛盾.否定.反対
 trustee★受託者 受託会社.受託者.被信託人.管財人
 sip★一口 すする.(飲み物の)一口.(～を)少しずつ飲む
 ugh★あわや うっ!
-ape★類人猿  サル.尾のない猿.猿の中でも人間に近い類人猿 
+ape★類人猿  サル.尾のない猿.猿の中でも人間に近い類人猿
 verse★詩 詞.詩の一行.韻文.詩句.詩歌.詩を作る
 flux★不安定 絶え間ない変化.不安定.流れ.流量.溶剤
 fatigue★疲労 疲労.疲労する
 vol★巻 本などの巻(かん).volume.(vol.と表示)
-loved★愛さ 愛された 
+loved★愛さ 愛された
 ax★斧 おの.斧.2.解任する.dismiss
 discretion★裁量 行動の自由.思慮深さ.慎重さ.判断力.決定権
 mosaic★モザイク モザイク.モザイクの
 investigative★調査の
-ethnicity★民族性 民族性 
-methylation★メチル化 メチル化 
+ethnicity★民族性
+methylation★メチル化
 corridor★廊下
 counselor★カウンセラー カウンセラー.相談役.弁護士
 skilled★熟練した 熟練した.上手な
@@ -6042,25 +6041,25 @@ paw★足 (肉球のある)手.足.2.客間.居間.店.診察室.3.手荒く扱�
 lush★青々とした 生い茂った.(cf.lush.(植物)生い茂った,(香り)豊かな.大酒飲み.深酒する.lash.むち(打ち).マツゲ.縛る.打つ.rush.突進.イグサ.大急ぎの.急ぐ.rash.発疹.多発.性急な)
 potter★陶工 陶工.焼き物師.陶芸家
 fashionable★ファッショナブル 流行の
-versa★その逆 その逆(vice versa) 
+versa★その逆 その逆(vice versa)
 overwhelm★圧倒する 圧倒する.苦しめる.沈没させる
 testament★遺言 契約.新訳聖書.遺言.遺言書.遺書
 menopause★閉経 月経閉止.更年期.閉経期(月経･生理が終わる年頃)
 perfusion★灌流 パーフュージョン.(医)灌流.毛細血管やそれに準ずる機能血管系の血流を表わす用語
 hack★ハック たたき切る.刻み目.(報酬目当ての)雇われ専門家
-ham★ハム 豚のもも肉..ハム.ひざの裏側.(俗)大根役者.大げさに演ずる.2.アマチュア無線家 
+ham★ハム 豚のもも肉..ハム.ひざの裏側.(俗)大根役者.大げさに演ずる.2.アマチュア無線家
 certainty★確実性
 imminent★差し迫った 差し迫った.切迫した.今にも起こりそうな
 mentor★メンター よき助言者.相談相手.よき指導者
 oblige★義務付ける 強いる.余儀なくさせる
 petty★ささいな つまらない.僅かな.小さい.些細な.狭量な.下級の.けちな.ささいな
-pic★PIC (複数形)pics.pix.写真.絵.映画.2.PIC.particle in cell(セル内の粒子).pilot in command(機長).person in charge(担当者).prior informed consent(事前同意) 
+pic★PIC (複数形)pics.pix.写真.絵.映画.2.PIC.particle in cell(セル内の粒子).pilot in command(機長).person in charge(担当者).prior informed consent(事前同意)
 gardening★ガーデニング 園芸
 timothy★オオアワガエリ (植物)オオアワガエリ.2.売春宿
 saga★サガ 英雄伝.冒険談
 linger★リンガー ぐずぐずする.長引く.手間取る.なかなか消えない.残る
 categorize★分類する 分類する.類別する
-adenoviral★アデノウイルスの アデノウイルスの 
+adenoviral★アデノウイルスの
 bail★保釈 保釈(金).保釈保証人.保釈してもらう.水をかい出す.(厩の)仕切り
 marlin★マーリン マカジキ(魚)
 reminiscent★連想させる 暗示する.連想させる.しのばせる
@@ -6073,15 +6072,15 @@ curb★縁石 (犬などを)鎖で御する.抑制する.留めぐつわ.拘束.
 sketch★スケッチ スケッチする.スケッチ.草案.概略
 solicit★求める せがむ.懇請する.請い求める.を求める
 overhead★オーバーヘッド オーバーヘッド.頭上の.頭上で.頭上にある
-proteasome★プロテアソーム プロテアソームはタンパク質の分解を行う巨大な酵素複合体.細胞周期制御,免疫応答といった細胞中の様々な働きに関わる 
+proteasome★プロテアソーム プロテアソームはタンパク質の分解を行う巨大な酵素複合体.細胞周期制御,免疫応答といった細胞中の様々な働きに関わる
 coincidence★一致 偶然の一致･出合い
-someplace★どこかに どこかに 
+someplace★どこかに
 competence★コンピテンス 能力.権限
 breeze★風 そよそよ吹く.微風.そよ風.動揺
 cytometry★血球数測定 血球数の測定.細胞数の測定.(微細な粒子を流体中に分散させ,その流体を細く流し,個々の粒子を光学的に分析する手法)
 genuinely★心から 真に.純粋に
 deliberate★意図的な 意図的な.故意の.慎重な.2.熟考する
-cried★泣いた 
+cried★泣いた
 inflate★膨らませる 膨張させる(反)deflate
 divine★神 神聖な.神の
 hillside★丘の中腹
@@ -6090,7 +6089,7 @@ intrigue★陰謀 の興味をそそる.陰謀(を企てる)
 gasoline★ガソリン (米語)ガソリン
 sprint★スプリント 短距離走
 salesman★セールスマン 販売係.男子販売員.男子店員.外交販売員.セールスマン
-autoimmune★自己免疫 自己免疫 
+autoimmune★自己免疫
 sterile★無菌の 実のならない.不妊の.不毛の.無菌の
 gospel★ゴスペル ゴスペル(宗教音楽).福音.福音書.信条
 lengthy★長い 長たらしい.冗長な.長い
@@ -6101,7 +6100,7 @@ redeem★買い戻す 義務を果たす.を取り戻す.を買い戻す
 communism★共産主義
 swamp★沼 浸す.を水浸しにする.沼地.低湿地.湿地
 backup★バックアップ
-finances★財源 財源 
+finances★財源
 ensemble★アンサンブル (仏語)全体.全体の趣.アンサンブル.婦人服のひと揃い.集合.共演者団
 directive★指令する
 fertile★肥沃な 肥沃な.生産力の豊かな
@@ -6136,7 +6135,7 @@ acting★演技 臨時代理の.演技
 calf★幼獣 子牛.2.カバ,サイ,クジラ,シカ,ゾウ,アザラシなどの幼獣.3.ふくらはぎ
 boiler★ボイラー
 supervise★監督する を監督(管理)する
-sentencing★量刑手続き 量刑手続き 
+sentencing★量刑手続き
 jarrah★マルバユーカリノキ マルバユーカリノキ.マホガニーゴムノキ.オーストラリア西部産の木目の美しい硬い木.アボリジニ語に由来
 liberation★解放
 latent★潜在的な 潜伏している.隠れている.潜在している.見えない
@@ -6156,11 +6155,11 @@ kitten★子猫
 certification★認定 証明書.認可.保証
 denote★示す 示す.表示する.のしるしである.意味する
 quarterly★季刊 年4回の.季刊誌
-enhancer★エンハンサー エンハンサー.(質･能力)を高めるもの 
+enhancer★エンハンサー エンハンサー.(質･能力)を高めるもの
 topology★トポロジー 位相幾何学
 folklore★フォークロア 民話.民間伝承.民俗学
 woe★悲哀 悲痛.苦悩.悲哀.災難.悩みの種
-arguably★間違いなく 間違いなく (she is arguably the best 彼女は間違いなくベストだ) 
+arguably★間違いなく 間違いなく (she is arguably the best 彼女は間違いなくベストだ)
 upside★上側
 chorus★コー​​ラス コーラス
 jaw★顎 あご
@@ -6172,11 +6171,11 @@ correspondence★対応 文通.通信.交通
 broadly★広く 露骨に
 archer★射手 弓の射手
 confound★混乱させる 混同する.困らせる.混乱させる
-timeline★タイムライン タイムライン 
+timeline★タイムライン
 cuisine★料理 料理.料理法.料理場.厨房
 golfer★ゴルファー
 wade★ウェイド 苦労して進む.(ぬかるみ･雪道を)苦労して渡る
-newest★最新 最新の 
+newest★最新 最新の
 flashback★フラッシュバック (記憶などが)突然過去に戻る.(光が)照り返す
 poisoning★中毒 中毒.毒殺
 spiral★スパイラル らせん状に進む.らせん.螺旋状の.螺旋形のもの
@@ -6190,16 +6189,16 @@ canvas★キャンバス 研究調査する.遊説してまわる.選挙運動�
 doctrine★教義 主義.教義.原理.原則.学説.基本外交政策
 benign★良性の 良性の.恵み深い.親切な.優しい.温和な.(病気が)悪性でない
 marina★マリーナ マリーナ(ヨットやモーターボートなど娯楽用小型船舶を係留する港)
-immunohistochemistry★免疫組織化学 免疫組織化学 
+immunohistochemistry★免疫組織化学
 elimination★排除 削除.除去.予選.排除.排泄.淘汰.消去
 definite★明確な 明確な.限定された
-simpler★単純な 簡単な 
+simpler★単純な 簡単な
 articulate★明確に述べる はっきり言う.はっきり発音する.明瞭な.(関節で)繋ぐ.関連づける.(文法)分節する,文節する
 governmental★政府の
 placenta★胎盤
 stripe★ストライプ ストライプ.しま.筋
 attestation★認証 検案書
-plotz★plotz (俗)驚く.カッとなる.頭に血が上る.驚いて卒倒する 
+plotz★plotz (俗)驚く.カッとなる.頭に血が上る.驚いて卒倒する
 aftermath★余波 余波.結果 (the aftermath of war戦争の余波)
 verge★寸前 接する.ふち.へり.端.境界
 shorts★ショーツ ショーツ.下着のパンツ.ショートパンツ.短パン
@@ -6212,12 +6211,12 @@ refrigerator★冷蔵庫
 picturesque★絵のように美しい 絵のように美しい.人目をひく.表現力に富んだ
 critically★批判的に きわどく.危うく.危なく.危篤状態に.酷評して.批判して.批評的に
 simplicity★単純 単純.平易.質素.純真
-plated★めっきした めっきした 
+plated★めっきした
 unstable★不安定な 不安定な.安定していない.動きやすい.ぐらぐらする.不安定.今にも崩れそうな.気が変わりやすい
 balcony★バルコニー
-fungus★菌 (複数形)fungi.真菌類.菌類, かび(mushroom,toadstool,mildew,moldを含む) 
+fungus★菌 (複数形)fungi.真菌類.菌類, かび(mushroom,toadstool,mildew,moldを含む)
 ensue★結果として起こる 続く.あとで起こる.あとに続く.結果として起こる
-founding★創立 創立 
+founding★創立
 ancestral★先祖の 祖先(伝来)の.祖先から受け継いだ
 continually★絶えず ひんぱんに
 dammit★くそ くそ.こんちくしょう
@@ -6228,7 +6227,7 @@ notwithstanding★にもかかわらず それにもかかわらず.にもかか
 invariably★常に いつも.変わることなく
 commute★通勤 取りかえる.切り替える.換算する.通勤･通学する
 crow★カラス からす.鳴く.(cf.カラスはcrow.爪はclaw.下等動物の胃袋はcraw)
-localized★局部的な localize.ローカライズされた.地方化された.翻訳された 
+localized★局部的な localize.ローカライズされた.地方化された.翻訳された
 hysterical★ヒステリックな ヒステリーの
 thrust★スラスト を突き刺す
 simultaneous★同時 同時の.同時に起こる
@@ -6243,13 +6242,13 @@ classmate★同級生 級友
 ink★インク インク.調印する.sign
 catheter★カテーテル 導尿管
 nucleic★核酸 核酸(=nucleic acid).ヌクレオチド(DNAやRNAの構成単位のヌクレオシドにリン酸基が結合したもの)が連なった生体高分子.水素基か水酸基を持つかでデオキシリボ核酸(DNA)とリボ核酸(RNA)がある
-truncated★切断された 切り捨てされた 
+truncated★切断された 切り捨てされた
 compatible★互換性のある 両立できる.矛盾のない.(ソフトウェアなどで)互換性がある
 temptation★誘惑 誘惑.誘惑物
-rinsed★リンス すすいだ 
-offend★怒らせる 怒らせる.(cf.defense(米),defence(UK)(名.防衛,抗弁).defend(動.守る).offense(米),offence(UK)(名.違反.主に軽犯罪).offend(自.怒らせる)
+rinsed★リンス すすいだ
+offend★怒らせる 怒らせる.cf.defense(米),defence(UK)(名.防衛,抗弁).defend(動.守る).offense(米),offence(UK)(名.違反.主に軽犯罪).offend(自.怒らせる)
 peasant★農民 いなか者.小規模農業.小作農.田舎者.農夫
-casa★カーサ (スペイン語)カーサ.家 
+casa★カーサ (スペイン語)カーサ.家
 stride★ストライド 大股で歩く.またぐ.一またぎ.進歩
 refuge★避難所 避難する.避難.保護.避難所.隠れ家
 frontier★フロンティア フロンティア.国境.辺境地帯.未研究分野.境界
@@ -6266,13 +6265,13 @@ rewrite★リライト 書き直す
 allergy★アレルギー
 brass★真鍮 真ちゅう.真鍮(色･製品)(の).黄銅.ずうずうしさ.お偉方.大物
 therapist★セラピスト 療法士
-collectively★集合的に 集合的に 
+collectively★集合的に
 kip★キップ キップなめし皮.寝床.キープ(ラオスの通貨単位)
 acidic★酸性の 酸を出す.(態度･気質が)刺々しい.辛辣な
 formidable★手ごわい 恐ろしい.圧倒的な.畏怖の念を起こさせる
-offended★気分を害した 気分を害した 
+offended★気分を害した
 babe★赤ん坊 すっごい美人 (=dish)
-affordable★手頃な価格の 手頃な価格の 
+affordable★手頃な価格の
 scrub★スクラブ ごしごし洗う(こと).ごしごし磨く(こと).つまらぬ人.低木の雑木林.
 midst★真ん中 中央.の中に.真ん中に
 proponent★提案者 提案者.弁護者.擁護者.支持者
@@ -6281,7 +6280,7 @@ ambiguous★曖昧な あいまいな.両義にとれる.不明瞭な
 descriptive★説明する 記述的な
 potassium★カリウム カリウム(Kalium独).医学・薬学分野では英語のポタシウム(Potassium)が使われる.肥料,火薬など広い用途に使われ,植物の生育に欠かせない肥料3要素の一つ
 stove★ストーブ 穴があいた.ストーブ.レンジ
-computerized★コンピュータ化された コンピュータ化された 
+computerized★コンピュータ化された
 driving★運転 駆り立てるような.ドライブの
 hedge★ヘッジ 保険つなぎ.ヘッジ取引.行動を妨げる.生け垣(を作る).垣根.境界.防御物
 skiing★スキー スキーをする.スキー競技
@@ -6294,7 +6293,7 @@ embody★具体化する 具体化する.統合する
 savage★野蛮 野蛮人.無礼な.下品な(ラテン語silvaticus｢森の｣から).獰猛な.未開の
 systematically★体系的に 体系的に.組織的に.整然と.意図的に
 refrain★控える 差し控える.差控える.断つ.抑制する.謹む.こらえる.やめる.我慢する
-doesn★doesn't 
+doesn★doesn't
 stereo★ステレオ ステレオの.ステレオ(録音)方式.固定観念.立体写真
 adorable★愛らしい 魅力的な
 punk★パンク パンクファッション(の人).くだらぬもの.たわごと
@@ -6302,13 +6301,13 @@ seventeen★17 17.17の
 blunt★ブラント 鈍い.無遠慮な.無愛想な.鈍くする
 patriotic★愛国的な 愛国心の強い.愛国的な.半島
 ego★自我
-permeability★透過性 浸透性 
+permeability★透過性 浸透性
 challenger★挑戦者
 retrospective★回顧展 回顧の.既往の
 niece★姪 めい.姪
 roster★名簿 勤務表.名薄.名簿
-mutagenesis★突然変異生成 突然変異生成 
-carbohydrate★炭水化物 炭水化物.(cf.三大栄養素three major nutrients=たんぱく質,炭水化物,脂質.protein,carbohydrate,lipid/fat) 
+mutagenesis★突然変異生成
+carbohydrate★炭水化物 炭水化物.(cf.三大栄養素three major nutrients=たんぱく質,炭水化物,脂質.protein,carbohydrate,lipid/fat)
 admittedly★確かに 明らかに.正直なところ
 willie★男根 ペニス.ちんちん.男根
 nostalgia★郷愁 郷愁.ノスタルジア.懐古の情
@@ -6336,11 +6335,11 @@ strawberry★イチゴ イチゴ(色)
 selfish★利己的な わがままな.利己的な.自分勝手な
 crossing★交差点 線引き.逆らう
 tenant★テナント 借家人.借地人.居住者
-gah★がーん がーん 
-osteoblast★骨芽細胞 骨芽細胞 
+gah★がーん
+osteoblast★骨芽細胞
 slim★スリム ほっそりした.わずかな.薄っぺらな.やせる.やせさせる
-nutrient★栄養素 栄養物.食物.(cf.三大栄養素three major nutrients=たんぱく質,炭水化物,脂質.protein, carbohydrate, lipid/fat) 
-couldn★couldn couldn’t 
+nutrient★栄養素 栄養物.食物.(cf.三大栄養素three major nutrients=たんぱく質,炭水化物,脂質.protein, carbohydrate, lipid/fat)
+couldn★couldn couldn’t
 minion★ミニオン 手先.子分.寵児.かわいらしい.奴隷
 thief★泥棒 泥棒.こそ泥.盗人
 rugged★頑丈な ごつごつした.でこぼこの.ぎざぎざの.岩だらけの.厳しい
@@ -6357,7 +6356,7 @@ elbow★肘 肘.ひじで押す.ひじ
 demo★デモ デモ(参加者).試聴用テープ
 adhere★接着する 執着する.堅く守る.粘着する.支持する
 altitude★高度 高度.高さ
-colorectal★結腸直腸の 結腸直腸の 
+colorectal★結腸直腸の
 staffer★スタッフ 職員
 biblical★聖書の 聖書の.聖書にある.聖書のような
 expel★追い出す (害虫を)駆除する.駆逐する.を追い出す.を追放する.を放出する.発射する
@@ -6371,7 +6370,7 @@ meantime★その間に 合い間.その間の時間
 butler★バトラー 執事.バトラー
 logistic★ロジスティック 記号論理学.後方支援の.兵站業務の.兵站学の.記号論理学の
 ambiguity★曖昧さ あいまいさ.両義性.両義にとれる表現
-scanned★スキャンした スキャンした 
+scanned★スキャンした
 hostage★人質 宿泊所.抵当.入質.(hostage.pawn.pledge.captive)
 follicle★卵胞 小嚢(しようのう).卵胞.濾胞.(ovarian follicle.卵巣にある,卵子を含んだ球状の細胞の集合)
 grim★厳しい 残忍な.厳格な.断固とした.気味の悪い.(表情が)険しい.(cf.Grimm Fairy Tales.グリム兄弟の童話集.別語)
@@ -6390,17 +6389,17 @@ anyhow★とにかく なんとしてでも.いずれにせよ
 repetitive★反復的な (けなして)繰り返しの.繰り返しの多い(repetitiousより控えめな語)
 cove★入り江 無闇に欲しがる.断崖の窪み
 hick★ヒック 田舎者
-aggressively★積極的に 積極的に 
+aggressively★積極的に
 inspect★検査する 検査する.調べる
 focal★焦点の
-fandom★ファンの世界 ファンの世界 
+fandom★ファンの世界
 kindergarten★幼稚園
 creativity★創造性 創造性.独創力
 harmful★有害な 害をおよぼす.有害な
 mow★刈る 刈る.干し草の山
-morphological★形態学的な 形態学的な 
+morphological★形態学的な
 downward★下向きの 下向きに.下方へ
-synovium★滑膜 滑膜 
+synovium★滑膜
 wagon★ワゴン 乳母車.荷馬車.ワゴン
 deter★阻止する (恐怖などで)やめさせる.阻止する.抑止する
 contention★競争 争い.競争.論争.論点.主張
@@ -6421,11 +6420,11 @@ mariner★マリナー 船員.水夫
 generator★発電機
 literal★リテラル 文字の.文字通りの.融通のきかない.事実に忠実な..誤植
 indict★起訴する 起訴する.告発する
-translocation★転座 転座 
+translocation★転座
 lining★ライニング 線で模様を付ける.裏張り.裏地.中身.内面.整列.内張(り)
 intentionally★意図的に わざと
 jewel★宝石
-happier★幸せ 幸せ 
+happier★幸せ
 tops★トップス 上半身の衣服.最高の物(人)
 subsidiary★子会社 子会社.補助的な.従属的な.付随する.支援する
 outlaw★アウトロー 無法者.追放する.禁止する.時効にする
@@ -6437,24 +6436,24 @@ anecdote★逸話 逸話.逸事.秘史.秘話
 brace★ブレース 突っ張り.支柱.引き締める.支える.元気を出す.元気づける
 tier★層 層.列.階段
 baseman★内野手 (野球)～塁手
-albumin★アルブミン (lbjúmn)アルブミン.可溶性たんぱく質の総称.血清アルブミン,卵アルブミン,乳アルブミンがある.グロブリンと共に2種の血漿タンパクの1つ.アルブミン濃度は肝機能の指標.
+albumin★アルブミン.可溶性たんぱく質の総称.血清アルブミン,卵アルブミン,乳アルブミンがある.グロブリンと共に2種の血漿タンパクの1つ.アルブミン濃度は肝機能の指標.
 autonomy★自治 自主性.自治権.自治体.自律性
 blaze★炎 輝く.炎.火炎.灼熱.火災
 succession★連続 連続(物).継承.相続
 messenger★メッセンジャー 使者.使い走り
 guerrilla★ゲリラ ゲリラ兵.不正規兵
-nicer★よりよい よりよい 
+nicer★よりよい
 handgun★拳銃 ピストル(=pistol)
 workforce★労働人口 (作業)要員.総労働力.労働.労働人口
 sidebar★サイドバー 追いかけ(追跡)記事.続報.(大記事の)補足記事
 unexpectedly★予想外に 不意に.突然.ぬっと.出し抜け.たまたま.ひょいと.急に.突発的.予想外.思いがけなく
-downloaded★ダウンロード ダウンロードした 
+downloaded★ダウンロード ダウンロードした
 designation★指定 指示.指名.意味.指定
 conception★構想 構想.構想力.観念.考え.着想.概念.概念作用
 deplete★枯渇させる 消耗させる.使い尽くす.枯渇させる.奪う
 marathon★マラソン マラソン.長時間続く
-remainder★残り (rménd).(算数)余り,残余.2.残留者.残り物.遺跡.継承権.(cf.remnant残り.面影.売れ残り.生存者.reminder.注意.催促.remainder.割り算の余り)
-outlier★外れ値 異常値 
+remainder★残り.(算数)余り,残余.2.残留者.残り物.遺跡.継承権.(cf.remnant残り.面影.売れ残り.生存者.reminder.注意.催促.remainder.割り算の余り)
+outlier★外れ値 異常値
 meiosis★控えめに言う 減数分裂.生殖細胞を作る際,通常の体細胞分裂とは異なり、染色体数が分裂前の細胞の半分になる事.2.緩叙法(直接的に言わずその逆を否定する方法.「良い」の代わりに「悪くない」等)
 enlist★入隊する の協力を得る.軍隊にとる.協力(支持)を得る.協力する
 newsletter★ニュースレター 広報.社報
@@ -6468,12 +6467,12 @@ birdie★バーディ (幼児語)小鳥さん
 drawback★欠点 戻し税.欠点.障害
 novelty★ノベルティ 目先の変わった商品.珍しさ.目新しさ.新しい物(こと)
 skinny★スキニー 皮と骨ばかりの.やせこけた.皮の(ような).けちな.(俗)内部情報.事実
-validated★有効な 有効な 
+validated★有効な
 subpoena★召喚状 召喚状.召喚する
-suppressor★抑制器 抑制器 
+suppressor★抑制器
 pal★パル 仲良し.友人.友達.相棒.おい(呼びかけ).仲良しになる.仲良く付き合う
 foolish★愚かな ばかな
-heated★加熱 加熱された 
+heated★加熱 加熱された
 collision★衝突
 exogenous★外因性の 外因性の.外来栄養の
 pottery★陶器
@@ -6493,9 +6492,9 @@ sultan★スルタン (またはS-)トルコ皇帝.イスラム国王.サルタ�
 stark★スターク 硬直した.厳格な.厳しい.正真正銘の.(副詞)全く
 peg★ペグ くぎで止める.くぎ.かけくぎ.テントのくい.弦楽器のねじ.洗濯ばさみ
 congratulation★祝い 祝いの言葉.祝い
-hardest★最も難しい 一番難しい 
+hardest★最も難しい 一番難しい
 commercially★商業 商業上
-trophoblast★栄養膜 栄養膜 
+trophoblast★栄養膜
 gastric★胃の 胃(の).胃の
 deduction★控除 控除.差し引き.演繹法
 detector★検出器 発見者
@@ -6508,9 +6507,9 @@ viewpoint★観点 見解.見える地点.観点
 homicide★殺人 殺人(必ずしも犯罪と限らない殺人.ex.homicide in self-defense自衛による殺人.cf.murder)
 protester★抗議者 抗議する人.抗議者.抗議団体.異議を申し立てる人.主張者
 distraction★気晴らし 精神錯乱.気晴らし
-tinnitus★耳鳴り 耳鳴り 
+tinnitus★耳鳴り
 gateway★ゲートウェイ 入り口.門口.出入口.(成功などに至る)道
-multivariate★多変量の 多変量の 
+multivariate★多変量の
 champagne★シャンパン シャンパン酒
 autobiography★自伝 自伝.自叙伝
 betrayal★裏切り 裏切り.背信
@@ -6523,7 +6522,7 @@ rave★レイブ 夢中になって話す.たわごとを言う.どなる.わめ
 poker★ポーカー 突く人(物).火かき.焼き絵用具.(トランプ)ポーカー
 postpone★延期する を延期する.を延ばす.put off.を下位に置く
 ladder★はしご はしご.地位.2.(パンストの)伝線(run).(cf.rudder.舵.かじ.方向舵)
-thymocyte★胸腺細胞 胸腺細胞 
+thymocyte★胸腺細胞
 nurture★育てる 滋養物.養育.養う.育てる
 recreation★レクリエーション リクリエーション.レクリエーション.気晴らし.娯楽.休養.保養
 disgust★嫌悪感 に嫌気を起させる.嫌にならせる.嫌悪感.嫌悪
@@ -6536,16 +6535,16 @@ turmoil★混乱 混乱.動揺.騒ぎ
 prostitute★売春婦 金のために売る.売春婦
 steadily★着実に しっかりと.着々と.こくこくと
 mortal★人間 死を免れぬ運命の.死すべき.人間の.死ぬべき運命の.死ぬ運命にある.命にかかわる.ひどく
-writings★文 文 
+writings★文
 physicist★物理学者
 boxer★ボクサー ボクサー犬.ボクサー
 markedly★顕著に 目に見えて
 feminine★フェミニン 女の.女性の.(文法)女性(の)
 substantive★実質的な 名詞相当語句(形容詞句.節など).実詞
-richer★豊かな 豊か 
+richer★豊かな 豊か
 unanimous★満場一致 満場一致の.一致した.意義のない.合意の.同説の
 wilderness★荒野 荒野.だだっ広いところ.ごたごたした集まり
-conjugated★共役した 共役の 
+conjugated★共役した 共役の
 tempting★魅力的な 誘惑的な.心をそそる.うっとりさせる
 including★含めて を含めて
 rename★リネーム 改名する
@@ -6554,14 +6553,14 @@ proto★プロト prototype原型.模範
 penetrate★浸透する を貫通する.染み込む.入る.理解できる.仮釈放(する).執行猶予.合い言葉
 cube★キューブ 3乗する.立方体
 backlash★バックラッシュ バックラシュ.跳ね返り.非難.反発
-ventricular★心室の 心室の 
+ventricular★心室の
 obstruction★閉塞 じゃま.障害.妨害.閉塞(症)
 valve★バルブ バルブ.弁.水門の戸.真空管.弁で調節する
 strangely★妙に 異様に.奇妙に.不思議なことに.変に.妙に.不思議に
 advent★降臨 出現,到来,キリスト降臨, (the advent of a new age 新時代の到来)
 heroin★ヘロイン ヘロイン.アヘンに含まれるモルヒネから作られる麻薬
 relic★遺物 記念物.遺物.遺跡.遺風.なごり.面影
-hydrophobic★疎水性の 疎水性の 
+hydrophobic★疎水性の
 morale★士気 志気.風紀.勤労意欲
 aspiration★吸引 熱望.野心.抱負.向上心.大志.志望.呼吸
 optical★オプティカル 光学上の.眼の
@@ -6590,18 +6589,18 @@ disastrous★悲惨な
 bulb★電球 真空管.電球.球根
 orthologous★オーソロガス オーソロガス(種分岐相同性の)参:パラロガス(paralogous.遺伝子重複相同性の)
 passionate★情熱的な 熱烈な.熱情的な.短気な.好色な
-twisted★ねじれた ねじれた 
+twisted★ねじれた
 memorandum★覚書 備忘録.覚え書き.メモ.摘要.規約.定款
 infinite★無限 計り知れない.無限の
 vogue★流行 流行.はやり.人気.世間の受け
 oust★失脚させる 追放する.立ち退かせる.(場所･地位などから)追い出す
-selling★販売 販売 
+selling★販売
 lightly★軽く もったいぶらずに.軽く.すばやく.冷淡に.そっと.少しばかり.容易に.陽気に
-biotinylated★ビオチン化 ビオチン化すること.ビオチンはビタミンB群の水溶性ビタミンの一種で,ビタミンB7とも呼ばれる 
+biotinylated★ビオチン化 ビオチン化すること.ビオチンはビタミンB群の水溶性ビタミンの一種で,ビタミンB7とも呼ばれる
 imagery★イメージ イメージ.像
 menace★脅威 脅威.危険.おびやかす.脅迫する.(口)やっかい者.困った事
 pillow★枕 枕.まくら(をする)
-constitutively★構造的に 構造的に 
+constitutively★構造的に
 socialist★社会主義者 社会主義者.社会主義(者)の
 renovate★改修する 革新する
 cripple★不具 だめにする.役に立たなくする.不自由にする.障害者
@@ -6615,8 +6614,8 @@ subtype★サブタイプ コンピュータサイエンスで,基本型(superty
 font★フォント 洗礼盤.聖水盤.油壷.フォント(書体)
 tandem★タンデム 縦に一列に並んで.直列の
 boo★ブーイング ブー(という非難).ブーイング.ブーという
-aureus★球菌 黄色ブドウ球菌 
-homozygous★ホモ接合性の ホモ接合型.同型接合体とも呼ばれ,遺伝学で二倍体生物のある遺伝子座がAA,aa のように同じ対立遺伝子からなる状態のこと.(cf.ヘテロ接合性.Heterozygous) 
+aureus★球菌 黄色ブドウ球菌
+homozygous★ホモ接合性の ホモ接合型.同型接合体とも呼ばれ,遺伝学で二倍体生物のある遺伝子座がAA,aa のように同じ対立遺伝子からなる状態のこと.(cf.ヘテロ接合性.Heterozygous)
 browse★ブラウズ ざっと目を通す.乱読する.漫然と読む.葉などを食う
 lucrative★もうかる 有利な.得な.利益の上がる.profitable
 erupt★噴火する 噴出させる
@@ -6636,10 +6635,10 @@ messy★乱雑な 散らかった.扱いにくい.汚い
 sleepy★眠い 眠い.活気のない.熟しすぎた
 volatile★流動性 揮発性の.爆発しやすい.(人･性格･情勢・市場などが)変わりやすい.不安定な.一時的な.はかない
 transit★トランジット 通過する.運送.推移.通過.経過.通行.運搬.輸送
-sacrificed★犠牲に 犠牲に 
+sacrificed★犠牲に
 noteworthy★注目に値する
 flick★フリック 軽く打つ(こと).はじき飛ばす.軽くたたく.(pl.で)映画
-responder★応答者 応答者 
+responder★応答者
 strategist★戦略家 戦略家.ブレイン
 zero★ゼロ 0.ゼロ
 recap★再生タイヤ recapitulate(要約する)
@@ -6656,7 +6655,7 @@ col★コル コル.鞍部.気圧の谷.鞍形等圧線
 immense★計り知れない 莫大な.巨大な.限りない.すばらしい
 manifest★マニフェスト 明白な.明らかな.明らかにする.乗客名簿
 maverick★マーヴェリック 一匹狼.無所属派.異端者
-telecom★テレコム 電気通信 
+telecom★テレコム 電気通信
 soundtrack★サウンドトラック 録音帯.サウンドトラック(音楽).サントラ･ミュージック.サントラ録音.映画音楽.サントラ版
 dissent★反対意見 意見の相違.意見を異にする.同意しない.反対する
 foil★箔 くじく.裏をかく
@@ -6710,9 +6709,9 @@ outright★あからさまな 完全に.率直な
 expedition★遠征 探検.旅行.長い旅.長征.遠征
 hose★ホース ホース.長靴下
 darn★かがる 繕う.かがる.繕い
-covariate★共変量 共変量 
-archaea★古細菌 古細菌(単数形はarchaeon) 
-shades★サングラス サングラス 
+covariate★共変量
+archaea★古細菌 古細菌(単数形はarchaeon)
+shades★サングラス
 humanitarian★人道的な 人道主義者.人道主義の
 propagate★伝播する 増殖させる.広める.を宣伝する.を繁殖させる.菌を増殖させる
 apt★適切な の傾向がある.しがちな.適切な.利発な.機敏な
@@ -6725,7 +6724,7 @@ donna★ドナ イタリアの貴婦人
 resentment★恨み 憤慨.恨み.憤り.立腹
 mammary★乳房の おっぱい.乳房の.乳房状の
 spectacle★光景 見世物.光景.壮観
-baked★焼いた 焼いた 
+baked★焼いた
 destiny★運命
 bachelor★学士 独身の男性.独身の男.学士 (cf.celibate.一般的な独身者.男 bachelor,女 spinster, a bachelor girl)
 indulge★ふける 欲望を満足させる.ふける.耽溺する.深酒する.気ままにさせる.甘やかす
@@ -6760,16 +6759,16 @@ redundant★冗長な 余分の.余剰の.冗長な
 overturn★覆す 覆す.ひっくり返す.打倒.転覆
 omission★省略 遺漏.省略.怠慢
 feat★業績 偉業.功績.際だった行い.achievement.妙技.離れ業
-subcellular★細胞内の 細胞内の 
+subcellular★細胞内の
 waiting★待っている 待つこと(時間).待つ.仕える
 yum★YUM Yum-yum.(jmjm).うまい!.おいしそう! 2.Yellowdog Updater Modified(Yum ヤム).Linuxのパッケージを管理するシステム
 penguin★ペンギン
 preferably★望ましくは むしろ.できれば.なるべく
 revolt★反乱 暴動(を起こす).反乱.背く.反抗する.暴動を起こす.不快に感じる.一揆.反感
 uncommon★珍しい まれな.珍しい.異常の.非凡な.非常に
-weighted★重み付きの 重み付けされた 
+weighted★重み付きの 重み付けされた
 glitter★グリッター ぴかぴか光る.きらきら光る.派手である
-subpart★下位区分 下位区分 
+subpart★下位区分
 mildly★穏やかに おだやかに.穏やかに.やさしく.少し
 preventive★予防の 予防的な.予防法
 jihad★ジハード (イスラム教擁護の)聖戦.擁護･撲滅運動
@@ -6777,11 +6776,11 @@ prestige★威信 名声.威信.信望.威光
 dosage★用量 投薬.調剤.1回分の投薬(服用)量.適量.添加香味料.用量決定
 premier★プレミア 首相.総理大臣.州知事.首位の.第一位の.最も古い.prime minister
 erase★消す 拭いて消す
-placental★胎盤の 胎盤の 
+placental★胎盤の
 inference★推論
 sensory★感覚の 感覚(上)の.知覚の
 excellence★優秀 優秀.卓越.長所.美徳
-consuming★消費する 消費する 
+consuming★消費する
 believer★信者 信奉者.教徒.信ずる人.信者
 warming★加温 鞭打ち.暖まること
 sunshine★太陽の光 日向.日光
@@ -6791,7 +6790,7 @@ plaintiff★原告 原告.起訴人.民事訴訟の原告
 unfamiliar★よく知らない なじみのない
 token★トークン しるし.印.徴候.証拠.記念品.土産.表象.記念の品.(形容詞的に)形だけの
 speciation★スペシエーション 種の分化.形成
-simplest★最も単純な 最も単純な 
+simplest★最も単純な
 frost★霜 つや消しにする.霜で履う.寒気.厳寒.凍結.冷淡.冷酷.霜
 bait★餌 餌をつける.誘惑する.悩ます.餌.誘惑.(cf.bate激怒.bait疑似餌)
 poise★ポイズ 安定.平衡.落ち着き.の平衡を保つ.身構える.浮く
@@ -6807,7 +6806,7 @@ lime★ライム わなをかける.2.石灰.石灰をまく.3.ライム果.シ�
 volcano★火山 火山.噴火口
 lace★レース をひもで縛る.レースで飾る.レース.組み紐.ひも.(cf.race競争,人種.laceヒモ,飾る)
 astro★アストロ 宇宙飛行士(の)
-transcriptase★転写酵素 転写酵素 
+transcriptase★転写酵素
 swift★スイフト 迅速な.迅速に.敏速な.非常に速い
 vista★ビスタ 展望.眺望.ながめ.見通し.予想
 vegetarian★ベジタリアン 菜食主義者
@@ -6816,7 +6815,7 @@ yummy★おいしい おいしい.すてきな.素晴らしい
 comptroller★会計監査官 (会計･銀行)検査官.監査官
 bribe★賄賂 に賄賂を贈る.わいろ.賄賂
 vacuole★液胞 液胞.小胞.空胞
-ischemic★虚血性の 虚血性の 
+ischemic★虚血性の
 shatter★打ち砕く を粉々にする.を打ち砕く.を台無しにする
 erotic★エロチック 性欲をかきたてる.色恋の.好色な
 grandma★おばあちゃん おばあちゃん.(=nan.nana.nanny.granny.grandma.granma.gran)
@@ -6824,14 +6823,14 @@ alphabet★アルファベット アルファベット.初歩
 goodbye★さようなら さようなら(=goodby)
 psychiatrist★精神科医 精神医学者.精神科医
 gamble★ギャンブル 投機をする.ギャンブルをする
-biosynthesis★生合成 生合成 
+biosynthesis★生合成
 supplemental★補足 補足の
 bullpen★ブルペン 牛の囲い場.飯場.ブタ箱.(仮)留置場.2.(野球)ブルペン.救援投手
 earnest★本格的 まじめな.熱心な.真剣な.重大な
-tortured★拷問 拷問された 
-baths★風呂 風呂 
+tortured★拷問 拷問された
+baths★風呂
 conquest★征服 占領地.征服
-sedation★鎮静状態 鎮静状態 
+sedation★鎮静状態
 acronym★頭字語 頭字語.文字略語.頭文字語
 fanwank★fanwank ファンがテレビの作品等を囃す時に使う用語
 backdrop★背景 背景幕.背景.後転(トランポリン)
@@ -6844,7 +6843,7 @@ dopamine★ドーパミン ドーパミン.中枢神経系に存在する神経�
 acquaintance★知り合い 面識.知識.知人.知合い
 butcher★肉屋 畜殺する.屠殺者.肉屋.殺戮者
 digit★数字 (おどけて)(人･動物の)指.アラビア数字.(数字の)桁
-absorbance★吸光度 吸光度 
+absorbance★吸光度
 accustom★慣らす 習慣づける.を慣らす.に対して慣らす
 superficial★表面的な うわべだけの.表面の.平方の.皮相な.(息が)浅い
 escalate★エスカレート 急上昇する
@@ -6859,16 +6858,16 @@ blur★ブラー ぼんやりさせる.しみをつける.かすむ.ぼやける
 stalk★茎 茎.軸.細長い支え.煙突.2.忍び寄る.大またに歩く.(cf.stoke.燃やす)
 devastate★荒廃させる
 merchandise★商品 商品.を商業化する.売買する.宣伝する
-negatively★マイナスに マイナスに.否定的に 
-aeruginosa★緑膿菌 緑膿菌 
+negatively★マイナスに マイナスに.否定的に
+aeruginosa★緑膿菌
 sucrose★スクロース ショ糖.白糖
-genechip★遺伝子チップ 遺伝子チップ 
+genechip★遺伝子チップ
 discrete★個別の 個々の.分離した.別々の.別個の.不連続の
 skp★SKP 拡張子の一種
 irresponsible★無責任な
 trio★トリオ トリオ.三重奏(曲.団).三人組み.三重唄(曲.団)
 parole★仮釈放 仮釈放(する).執行猶予.合い言葉.(捕虜の)宣誓.運用言語
-glycerol★グリセロール グリセロール.グリセリン 
+glycerol★グリセロール グリセロール.グリセリン
 publicize★公表する を公表する.宣伝する
 dim★薄暗い はっきりしない.うす暗い.かすかな
 pixel★ピクセル ピクセル.画素
@@ -6886,15 +6885,15 @@ progesterone★プロゲステロン プロゲステロン(progesterone).ステ�
 protagonist★主人公 主唱者.主役.主人公
 homosexuality★同性愛 同性愛.同性愛関係
 eternal★永遠の
-isotype★アイソタイプ アイソタイプ. 1.同種の個体中に共通に存在し構造が異なる抗原.2-視覚言語.地図･標識などに用いられる図形や記号 
+isotype★アイソタイプ アイソタイプ. 1.同種の個体中に共通に存在し構造が異なる抗原.2-視覚言語.地図･標識などに用いられる図形や記号
 playground★遊び場 運動場.遊び場.行楽地.活動の場
 formulate★策定する 定式化する
 harmless★無害の 無害の.損害をうけない.罪のない
-antiretroviral★抗レトロウイルス薬 抗レトロウイルス薬 
+antiretroviral★抗レトロウイルス薬
 dealings★取引 交際.関係.取引
 blink★点滅する まばたきする.きらめき.まばたき
 decoration★装飾
-smarter★賢く 賢く 
+smarter★賢く
 width★幅 幅.広さ
 sprinkle★振りかける 雨がぱらつく.振りかける.をまく.を点在させる
 damages★損害賠償額 損害賠償金.損害賠償額
@@ -6907,11 +6906,11 @@ enthusiast★ファン 熱狂者
 quo★クオ the status quoそのままの状態.現状 (quo=どこに,ここに,の意)
 thunder★サンダー 雷.雷鳴.落雷.雷が鳴る.を大声で言う
 axon★軸索 (解剖)軸索(アキソン).軸索突起(神経細胞から伸びた突起.細胞本体から神経衝動を伝える)
-basics★基本原則 基本原則 
+basics★基本原則
 rug★ラグ じゅうたん.(床の一部をおおう)敷物.カーペット.(cf.ragぼろ.rug敷物.lag停滞.lug突起)
 occupied★占領下 使用中
-experimentally★実験 実験的に 
-groceries★食料品 食料品 
+experimentally★実験 実験的に
+groceries★食料品
 newshour★newshour BBC放送のニュース番組
 tumble★タンブル 転倒する.宙返りする.を倒す.を投げる.転落.暴落
 fairness★公正 金色.金髪.公正.順調.色白.清朗.美しさ
@@ -6922,7 +6921,7 @@ heterozygote★ヘテロ接合体 ヘテロ接合体.(cf.heterozygous,遺伝学�
 prey★餌食 犠牲(にする).餌食(にする).えさ.捕獲.捕食(する)
 charitable★慈善の 慈悲深い
 diocese★教区 監督(司教.主教)管区
-funniest★おかしな おかしな 
+funniest★おかしな
 neatly★きちんと こぎれいに.きちんと.巧妙に
 feast★ごちそう 祝宴.宴会.ご馳走.祭日.を大いに楽しむ.もてなす.ごちそうになる.ごちそうする
 inflict★負わせる 苦しめる.負わせる.打撃を加える.刑罰を課する
@@ -6960,13 +6959,13 @@ summon★召喚 を招集する.を呼び出す.勧める.命令する.要求す
 bland★当たり障りのない 人当たりがよい.穏やかな.当たり障りのない.(cf.brand)
 freeway★高速道路 高速道路.ハイウェイ(和製英語)
 reassure★安心させる 再保証する.安心させる
-ick★嫌なもの 嫌なもの 
+ick★嫌なもの
 piss★小便 小便(をする.婉曲にはpee).go on the piss大酒を飲む.(itを主語にし)どしゃ降りである.piss away浪費する.(他)piss off怒らせる.(嫌悪)ちくしょう.
 despair★絶望 絶望(する).絶望する
 flu★インフルエンザ
 allegiance★忠誠 忠誠.忠実
 madness★狂気 狂気.熱中.熱狂
-rb★RB rb.スクリプト言語Rubyで書かれたファイルの拡張子 2.ルビジウム(Rb)の元素記号 
+rb★RB rb.スクリプト言語Rubyで書かれたファイルの拡張子 2.ルビジウム(Rb)の元素記号
 blossom★花 (特に果実の)花が咲く.開花する.発展する.(The apricot blossom is fine this year.今年はアンズの花がきれいだ)
 hometown★出身地 故郷の町.現在住んでいる町
 dissection★解剖 切開.解剖.分析.解体
@@ -6974,10 +6973,10 @@ bowling★ボウリング ボウリング.ボーリング
 rehabilitation★リハビリテーション 社会復帰.名誉回復.復権.復興
 citrus★柑橘類 柑橘類(の)
 grandson★孫 男の孫.孫息子
-chromatography★クロマトグラフィー クロマトグラフィー 
+chromatography★クロマトグラフィー
 maze★迷路 迷路.当惑する
 lobster★ロブスター 伊勢海老.うみざりがに
-biotech★バイオテクノロジー バイオテクノロジー 
+biotech★バイオテクノロジー
 vine★ぶどうの木 つる.ぶどうの木.つる植物.つる草
 succumb★負ける 屈服する.圧倒される.敗ける.死ぬ
 innate★先天的 生得の.生まれつきの.本質的な
@@ -6986,14 +6985,14 @@ dune★砂丘 砂丘.砂の小山
 yacht★ヨット ヨット.ヨットに乗る
 proxy★プロキシー 代理(権.人).委任状.代用となるもの
 pasta★パスタ
-inducible★誘導 誘導性 
+inducible★誘導 誘導性
 posture★姿勢 状態.事態.状況.姿勢.体位.身構え.心構え.態度
 beard★髭 (通常pl.beards).あごひげ.ふさ毛
 cosmetic★化粧品 表面的な.化粧品
 moderately★適度に ほどほどに.控え目に.穏やかに.適度に
 inheritance★継承 相続財産.遺産.継承物.遺物.相続.遺伝
-heterodimer★ヘテロ二量体 (生化学用語)ヘテロ二量体.(cf.dimer) 
-immunofluorescence★免疫蛍光 免疫蛍光 
+heterodimer★ヘテロ二量体 (生化学用語)ヘテロ二量体.(cf.dimer)
+immunofluorescence★免疫蛍光
 syllable★音節
 atrocity★残虐行為 残虐(行為).非道.極悪
 causal★原因となる 原因の.因果の
@@ -7012,12 +7011,12 @@ lizard★トカゲ
 amusement★アミューズメント 楽しみ.娯楽
 pony★ポニー ポニー.小型の馬
 vigorous★活発な 精力的な.活気のある.元気な.力強い.強制的な
-snarky★不機嫌な 不機嫌な 
+snarky★不機嫌な
 unveil★明らかにする のベール(おおい)をはずす.(秘密を)明かす.発表する
 preservation★保存 維持.保存
-proband★発端者 発端者 
+proband★発端者
 primate★霊長類 霊長類.2.大主教
-iteration★反復 反復 
+iteration★反復
 progenitor★先祖 祖先.親.先駆者.創始者
 rig★リグ 艤装する装備する.2.談合する.八百長する.3.トレーラートラック.4.掘削装置
 immunization★予防接種 免除.免疫処置.(免疫)予防注射.免疫化
@@ -7039,8 +7038,8 @@ interstate★州間高速道路
 goofy★グーフィー (俗)おろかな.まぬけな
 heighten★高める 高める.高くする.(価値などを)増す
 ceremonial★儀式 儀式上の.儀式
-cortical★皮質の 皮質の 
-healthcare★健康管理 ヘルスケア 
+cortical★皮質の
+healthcare★健康管理 ヘルスケア
 cashmere★カシミヤ
 iris★アイリス (pl.irides, irises) (眼球の)虹彩(こうさい).2.アヤメ.アイリス
 depressing★憂鬱な 意気消沈させる
@@ -7088,16 +7087,16 @@ electoral★選挙の
 symbolize★象徴する を記号で表す.を象徴する
 wheelchair★車椅子 車いす
 alienate★遠ざける 遠ざける.疎遠にする.(財産など)を譲渡する
-alto★アルト 女性の低音部.コントラルト(contraltoとも言う).(次の順に高くなる.bass.baritone.tenor.alto(女声).treble(女声soprano)
+alto★アルト 女性の低音部.コントラルト(contraltoとも言う).次の順に高くなる.bass.baritone.tenor.alto(女声).treble(女声soprano)
 highland★高地 台地.高地.高原
 richness★豊かさ 豊かさ.金持.豊富なこと.高価.濃厚な.こくのある.(色の)鮮やかな.(音の)よく響く.おもしろい.こっけいな.ばかげた
-pseudogene★偽 偽遺伝子 
+pseudogene★偽 偽遺伝子
 fuss★大騒ぎ 大騒ぎする.大騒ぎ.空騒ぎ
 allergic★アレルギーの アレルギーの.大嫌いな
-consolidated★連結 連結(された,の) 
+consolidated★連結 連結(された,の)
 setup★セットアップ 装備.構成
 tighten★締め付ける 締める
-overwhelmingly★圧倒的に 圧倒的に 
+overwhelmingly★圧倒的に
 batting★バッティング 打撃
 fringe★フリンジ ふち.へり.周辺.外れ
 voluntarily★自発的に 自発的に.自分の意志で
@@ -7108,14 +7107,14 @@ sally★サリー 出撃する.突撃.小旅行.打って出る.反撃する
 faint★気絶する 気絶する.卒倒する.弱々しい.ぼんやりした.弱い.かすかな.淡い.気の弱い
 appall★ぎょっとさせる をぞっとさせる
 pinch★ピンチ つまむ(こと).はさむ(こと).苦しい状況.危機
-likes★同類 好き 
+likes★同類 好き
 universally★普遍的に 広く.普遍的に.一般に.あまねく
 racing★レーシング レーシング.競走
 cheerful★陽気な 気持ちのよい
 royalty★王族 王室の人々.王族.王の身分.王位.王権.荘厳.著作権使用料.管轄権.採掘権.印税
 entail★伴う 必要とする.を伴う.限嗣相続の形で譲与する.必然的な結果
 flirt★浮気者 異性に対して面白半分に気を引く
-hijacked★ハイジャック ハイジャック 
+hijacked★ハイジャック
 hollow★ホロー くぼんだ.中がからの.空の.うつろな.くぼみ.穴.中空の
 sunlight★日光
 abbey★修道院 修道院.僧院
@@ -7125,13 +7124,13 @@ sod★芝 芝生.芝(土)
 sexuality★セクシュアリティー 性的要素.性別.性欲.性機能
 extinction★絶滅 消滅.死滅.消却.絶滅.消火.消灯
 bailey★ベイリー 外壁.城の中庭
-constitutive★構成的な 構成的な 
+constitutive★構成的な
 reiterate★繰り返す
-trafficking★トラフィッキング 密売 
+trafficking★トラフィッキング 密売
 lax★緩い 緩んだ.緩慢な.だらしない
 perk★パーク 生き生きさせる.ぴんと上げる.気取る(perquisite).(地位に伴う)特権.臨時収入
 ineffective★効果のない 効果のない.無効な
-poorer★貧しい 貧しい 
+poorer★貧しい
 postage★郵便料金 郵送料金.郵便料金.郵税.とても狭い場所
 abound★たくさんある 沢山いる.たくさんいる.多い.富む
 culturally★文化的に
@@ -7139,14 +7138,14 @@ graft★グラフト (骨の折れる)仕事.挿し木.移植する
 layoff★一時解雇する 一時帰休
 diaper★おむつ おむつ.ひし形模様(のある布)
 awfully★ひどく ひどく.非常に.すごく.とても(veryのインフォーマルな言い方)
-microbial★微生物の 微生物の 
+microbial★微生物の
 putt★パット パットする(ゴルフ).(cf.put.pat.putt)
 builder★大工 大工.工務店
 singles★シングル (複数形) singles.(テニスなどの)シングルス.(cf.doubles)
 seizure★発作 つかむこと.没収.占領.発作.てんかん
 impairment★機能障害 (価値･美点･健康を)減じる.害する.そこなう.傷つける
 pencil★鉛筆 えんぴつ
-damaging★損害を与える 損害を与える 
+damaging★損害を与える
 knowledgeable★知識の豊富な 知性のある.よく知っている
 sensor★センサー センサー(光･熱･音などに反応する感知器)
 renovation★リフォーム 修復
@@ -7158,7 +7157,7 @@ lousy★気に食わない シラミがたかった.不潔な.ひどい.(lousy w
 consolidation★連結 整理.硬化.強化.合併
 calibration★目盛り測定 目盛り.検量.測定
 warmth★暖かさ 思いやり.暖かさ.熱心
-fibronectin★フィブロネクチン フィブロネクチン(血液や細胞の外表層にある繊維状の接着性糖タンパク質)  
+fibronectin★フィブロネクチン フィブロネクチン(血液や細胞の外表層にある繊維状の接着性糖タンパク質)
 leptin★レプチン レプチン.脂肪細胞によって作られ,飽食シグナルを伝達し,エネルギー消費増大をもたらし,肥満の抑制や体重増加の制御の役割を果たすホルモン
 nova★新星 ラテン語で新星の意味
 decorative★装飾的な 飾りになる.装飾の.装飾的な
@@ -7167,13 +7166,13 @@ mesh★メッシュ 網目.網の目.網.わな.網で捕らえる.かみ合わ�
 startling★驚くべき 驚くべき.びっくりさせる
 genocide★ジェノサイド 大量殺戮.ジェノサイド.計画的な大量殺戮.(cf.genocidal)
 inconsistency★矛盾 不調和.無定見.矛盾
-oscillation★発振 (ὰslén)振動.振幅.変動.車体動揺.(心などの)動揺,ためらい.
+oscillation★発振 振動.振幅.変動.車体動揺.(心などの)動揺,ためらい.
 aquarium★水族館 水族館.ガラスの水槽
 conditional★条件付きの 条件付きの.条件的な.(文法)条件文,条件語句(節･文)
-upregulated★アップレギュレート アップレギュレート.上方制御.上方発現された 
+upregulated★アップレギュレート アップレギュレート.上方制御.上方発現された
 catastrophe★大惨事 悲劇的結末.大変動.破局.大災害.大失敗
 parliamentary★議会の
-cytotoxicity★細胞毒性 細胞毒性 
+cytotoxicity★細胞毒性
 displacement★置換え
 phantom★ファントム 幽霊.幻.幻影.幻像.人体模型.幻の.想像上の
 embark★乗り出す 乗船させる.乗船する.始める.着手する
@@ -7187,7 +7186,7 @@ fresco★フレスコ画 フレスコ画法.フレスコ壁画.(壁に)フレス
 trout★マス マス.鱒
 evangelical★福音派の 福音の.福音書の.福音主義の.福音伝道者の.福音派の.普及に熱心な
 euphemism★婉曲表現 婉曲語法.婉曲語句
-retailing★小売業 小売業 
+retailing★小売業
 schizophrenia★統合失調症
 disseminate★広める (種子など)をまく.(意見など)を広める
 elk★ヘラジカ オオジカ.ヘラジカ
@@ -7197,7 +7196,7 @@ shuffle★シャッフル (足)をひきずって歩く.を移し替える
 docket★レシート (米)判決要録
 imitate★模倣する を手本にする.を模倣する.をまねる
 outfielder★外野手 (野球)外野手
-metabolite★代謝産物 代謝産物 
+metabolite★代謝産物
 decree★法令 法令.布告.制令.判決.命令.命ずる.決定する
 procession★行列 行列.行進.進行
 providence★プロビデンス 神の導き.摂理.神意.倹約.神業.先見
@@ -7206,22 +7205,22 @@ disregard★無視 無視する.軽視する
 freshly★新たに 新たに.新しく.新鮮に
 replay★リプレイ 再生
 nerd★オタク 頭デッカチで融通が効かなくて面白味がない人.カッコよくない人
-elicited★誘発 elicit.誘発された 
+elicited★誘発 elicit.誘発された
 idol★アイドル 偶像.神像.教神.謝った概念.まぼろし.(cf.idle)
 bureaucrat★官僚
 marrow★骨髄 髄質.骨髄(bone marrow).髄.核心.
 elusive★理解しにくい 理解しにくい.わかりにくい.密やかに暮らす
-workshare★ワークシェア ワークシェア 
+workshare★ワークシェア
 graceful★優雅な しとやかな.優美な.上品な.素直な
-enzymatic★酵素の 酵素による 
+enzymatic★酵素の 酵素による
 infinity★無限大 無限領域
 nominal★名目 名目上の.名称上の.名詞の.名詞語句
 bankrupt★破産 支払い不能者.破産者.破綻者.欠如者
-pricing★価格設定 価格設定 
+pricing★価格設定
 irrational★不合理 不合理な.理性のない.道理のわからない.無理数(の)
 flour★小麦粉 小麦粉.粉末
 lagoon★ラグーン 潟(かた).潟湖せきこ.沼.礁湖.(cf.raccoon)
-identifier★識別子 識別子 
+identifier★識別子
 akin★同族の 血族の.血族で.似通って.類似して
 deed★証書 行為.行い
 unigene★ユニジーン ユニジーン.遺伝子のESTデータベース(expressed sequence tag.RNAの短い配列)の一部.転写産物の目印に使われる.
@@ -7229,7 +7228,7 @@ hectare★ヘクタール ヘクタール(10,000m2=100are).略号ha
 intensify★強化する 強める
 anneal★焼きなまし (鋼･ガラスなどを)焼き戻す.なます.(精神を)鍛える
 typo★タイプミス 誤植(typographical error).印刷工.印刷技術者(typographer)
-coaching★コー​​チング コーチング 
+coaching★コー​​チング コーチング
 scanner★スキャナ 走査装置
 stink★悪臭 悪臭(を放つ).スキャンダル.騒動.ひどいもんだ.どうしようもない.化学
 bleak★荒涼とした 荒涼とした.厳しい.寒々とした.冷たい.わびしい
@@ -7241,11 +7240,11 @@ hysterectomy★子宮摘出術 子宮切除
 butterfly★蝶 蝶.チョウ.バタフライ(水泳)
 televise★放映する テレビで放送(受像)する
 wardrobe★ワードローブ 衣装だな.持ち衣装.洋服タンス.衣服.衣装管理係
-hotter★熱い 熱い 
+hotter★熱い
 rogue★ならず者 わくぱく小僧.悪漢.ごろつき.詐欺師.悪党.いたずらっ子
 unwilling★不本意 気が進まない.いやがる.不本意の.いやいやながらの.反抗的な
 darling★ダーリン いとしい人
-sticky★スティッキー ねばねばする.粘着性の.べとべとする.どろりとした.蒸し暑い.(cf.humid湿気の多い(一般的).stickyベタベタする(不快な)暑さ.muggy蒸し暑い(くだけた感じ.Muggy,isn’t it?蒸し暑いね)
+sticky★スティッキー ねばねばする.粘着性の.べとべとする.どろりとした.蒸し暑い.cf.humid湿気の多い(一般的).stickyベタベタする(不快な)暑さ.muggy蒸し暑い(くだけた感じ.Muggy,isn’t it?蒸し暑いね)
 transplantation★移植 Transplantation (外科).(臓器)移植.移植法.2.(植物)植え替え.3.移住.移民.
 summertime★サマータイム 夏期
 dinosaur★恐竜 恐竜.大きすぎて役に立たない(時代遅れの)人(もの)
@@ -7263,16 +7262,16 @@ longitudinal★経度の
 batman★バットマン (映画)バットマン
 reckless★無謀 向こう見ずな.無謀な.を気にかけない
 reap★刈り取る 収穫をする.作物を刈る→行為の結果として受ける.報いを受ける
-specifics★仕様 仕様 
+specifics★仕様
 woody★ウッディ 木質の
 setback★挫折 (景気)後退.妨げ.失敗.敗北.(病気の)ぶり返し.逆流
 unreliable★信頼できない 信頼できない.頼みにならない
 scenic★風光明媚な 景色の.風景の.眺めがよい.情景描写の.舞台(上)の.舞台装置の.劇の.風景画
-manually★手動で 手動で 
-sharing★シェアリング シェアリング 
+manually★手動で
+sharing★シェアリング
 outweigh★上回る
 drinker★酒飲み 酒飲み.飲む人.家畜用の給水機
-hottest★一番ホットな 一番ホットな 
+hottest★一番ホットな
 grande★グランデ (スペイン語およびラテン系言語)大きいの意.2.人名
 sincere★誠実な 誠実な.偽りのない.正直な
 unaffected★影響を受けない 心を動かされない.気どらない
@@ -7289,15 +7288,15 @@ perch★パーチ とまり木.高い地位.運転台.郊外.限界.高い場所
 endit★endit 自殺する(俗語)=end it
 sober★地味な しらふの.酔っていない.分別のある.真面目な.冷静な
 endeavor★努力 ～しようと努力する.試みる
-peacekeep★peacekeep 平和維持 
-auditing★会計監査 会計監査 
+peacekeep★peacekeep 平和維持
+auditing★会計監査
 angst★不安 不安.苦悩
 concomitant★付随 付随物.付随する.両立する
 constructive★建設的な 建設的な.強い相場の.前向き.積極的な
 realism★リアリズム リアリズム.現実主義
 spotlight★スポットライト
 pesticide★農薬 農薬.殺虫剤
-pathogenesis★病因 病因 
+pathogenesis★病因
 maple★カエデ カエデ.楓
 levy★課税 課税(する).(強制的に)課する.impose.差し押さえる.seize
 clubhouse★クラブハウス クラブ会館.運動選手のロッカー室
@@ -7320,7 +7319,7 @@ volcanic★火山の 激しい.火山(性)の.火山の多い.爆発性の
 odor★臭気 におい.悪臭(=smell).気配.香り.香水.評判
 detergent★洗剤 洗剤.洗浄剤
 unlimited★無制限の 限りない.限定していない.無制限の.無限の.無尽蔵の
-pancreatic★膵臓の 膵臓の 
+pancreatic★膵臓の
 snip★スニップ はさみ切る.(～を)はさみでちょきんと切る.ちょきんと切り取る.少量.断片.(cf.snipe狙撃)
 jargon★専門用語 わけの分からない言葉.専門語(=technical term).特殊用語
 pact★協定 契約.条約(treatyと同義で用いられる).約束.協定.treaty
@@ -7328,7 +7327,7 @@ theorist★理論家
 foe★敵 敵.仇.反対者.障害.対戦者.enemy
 dividend★配当金 公債利息.(株の)配当金.配当(金).分け前
 lipstick★口紅
-proteolysis★タンパク質分解 タンパク質分解 
+proteolysis★タンパク質分解
 vibrant★活気がある 生気にあふれる.わくわくする.震える.敏感な
 lust★欲望 切望する.強い色情をいだく.(通例好ましくない)欲望.強い性欲
 roller★ローラー (地ならし･印刷･圧延用)ローラー.大波.ヘアカーラー.2.ローラーカナリア
@@ -7337,15 +7336,15 @@ mileage★走行距離 総マイル数.マイル表示距離.マイル当たり�
 environmentalist★環境保護主義者 環境問題研究家.環境保全主義者.環境保護論者
 taint★汚染 汚れ.汚点.汚名.病毒.汚れる.を汚す
 heroine★ヒロイン 英雄的女性.ヒロイン
-roc★ROC アラビアンナイトのシンドバッドに登場する巨大な肉食鳥の名.roc鳥.イスラム世界やアジアで伝聞される.2.(ROC) the Republic of China(中華民国)  
+roc★ROC アラビアンナイトのシンドバッドに登場する巨大な肉食鳥の名.roc鳥.イスラム世界やアジアで伝聞される.2.(ROC) the Republic of China(中華民国)
 reconcile★調整する を和解させる.仲直りさせる.に甘んじる.満足させる.を調停する.諦めさせる.承諾させる
-selectively★選択的に 選択的に 
+selectively★選択的に
 farming★農業 農業をする.農業経営
 rivalry★競争 競争.対抗.競走
 reel★リール リール.糸巻き.動揺する.よろめく.ふらつき歩く
 repertoire★レパートリー レパートリー.上演目録.演奏曲目
 veil★ベール ベール.顔おおい.おおい隠すもの.を覆う
-mmol★ミリモル ミリモル(=millimole).濃度を表す方式.溶液1L中の溶質をモル数を使って表した単位が1mol/Lで,その10(-3乗)mol=1mmol.(cf.nmol,pmol) 
+mmol★ミリモル ミリモル(=millimole).濃度を表す方式.溶液1L中の溶質をモル数を使って表した単位が1mol/Lで,その10(-3乗)mol=1mmol.(cf.nmol,pmol)
 granite★花崗岩 花崗岩(かこうがん).御影石
 lefty★左利きの 左利き
 pee★おしっこ (幼児語)おしっこをする.おしっこ(cf.pooうんち)
@@ -7362,7 +7361,7 @@ yadda★yadda yadda,yadda,yadda等と使う.等々,の意味."blah blah blah"や
 profoundly★深く 心から.深く.大いに
 mural★壁画 壁の
 stigma★汚名 不名誉.汚名.恥辱(のしるし).汚れ
-submarine★潜水艦 潜水艦.海底の.(原子力潜水艦.a nuclear (powered) submarine) 
+submarine★潜水艦 潜水艦.海底の.(原子力潜水艦.a nuclear (powered) submarine)
 geographical★地理的な 地質学上の
 pier★桟橋 防波提.桟橋.橋脚.窓間壁.(cf.peer.pier)
 permutation★順列
@@ -7370,7 +7369,7 @@ abdominal★腹部 腹部.腹部の
 linguist★言語学者 諸外国語に通じた人.言語学者
 baggage★荷物 手荷物
 crust★地殻 皮.パンの皮.堅くなった表面
-smear★塗抹 汚点.しみ.汚す.こする.こすって不鮮明にする.(油など)塗り付ける.2.(医学)塗抹標本 
+smear★塗抹 汚点.しみ.汚す.こする.こすって不鮮明にする.(油など)塗り付ける.2.(医学)塗抹標本
 depot★デポ バス停.空港.倉庫.貯蔵物.補給所
 shave★剃る ひげそり.をそる.を薄く削る.ひげをそる(こと).ひげそり道具
 awe★畏敬の念 畏敬.畏怖
@@ -7385,17 +7384,17 @@ rainy★雨の 雨の.雨の多い
 heap★積み上げる 積み上げる.山.沢山の.たいそう.非常に
 exaggerated★誇張された 誇張されている
 mute★ミュート 無言の.ものが言えない.黙秘の.黙音の.弱音器
-hottie★湯たんぽ 湯たんぽ 
+hottie★湯たんぽ
 greedy★貪欲 どん欲な.切望した.欲張りの
 taboo★タブー 禁止された.禁忌.タブー.忌み言葉.禁制.禁止
 rhythmic★リズミカルな リズミカルな.調和した.律動的.(rhythmic gymnastics.新体操)
-transposable★転位可能な 転位可能な 
-reproducibility★再現性 再現性 
-trades★トレード トレード 
-unfunded★一時借り入れの 未積立 
+transposable★転位可能な
+reproducibility★再現性
+trades★トレード
+unfunded★一時借り入れの 未積立
 lily★ユリ ユリ.百合のような.優美な
 robbery★強盗 強奪.略奪
-uniquely★独自に 独自に 
+uniquely★独自に
 feather★羽
 slick★スリック なめらかな(部分).巧妙な.なめらかに.如才ない.をなめらかにする.滑らかな
 gradual★緩やかな (勾配が)ゆるやかな.漸次の.徐じょの.徐々の.漸進的な.逐次の.昇階唱
@@ -7403,10 +7402,10 @@ adherence★アドヒアランス 固守, 執着, 忠実, 支持(to)
 layout★レイアウト 並べること.広げること.割り付け
 bazaar★バザー
 kernel★カーネル 核心.核.仁
-biologically★生物学的に 生物学的に 
+biologically★生物学的に
 conglomerate★コングロマリット コングロマリット.集塊状の.複合企業
 canoe★カヌー カヌー.(canoeing.カヌー競技)
-grilled★焼き 焼いた 
+grilled★焼き 焼いた
 fridge★冷蔵庫
 solvent★溶剤 溶媒(cf.solute溶質).溶解力のある.2.解決方法.支払能力がある
 incoming★入ってくる 入ってくる.引き継ぐ.後任の.新入りの.(the incoming tide上げ潮)
@@ -7423,14 +7422,14 @@ ligation★ライゲーション DNAのリン酸ジエステル結合を生じ�
 delegation★委任 代表団.代議員団.2.権力などの委任
 distinctly★はっきりと きっぱり.はっきりと
 tattoo★タトゥー 帰営らっぱ(太鼓).ドンドン(コツコツ)たたき続ける音.入れ墨(をする).彫り物
-buying★買い取り 買収 
+buying★買い取り 買収
 vengeance★復讐 復讐.あだ討ち
 nickel★ニッケル ニッケル.元素記号Ni.白銅貨.ニッケル硬貨.(米)5セント
 underway★進行中の 進行中で.旅行中の
 twentieth★第20 二十番目の.第20(の).20分の1(の)
 misery★悲惨 不幸.みじめな.みじめさ.窮乏.苦難.苦痛
 thaliana★シロイヌナズナ Arabidopsis thaliana.シロイヌナズナ.モデル生物で有名.植物で初めて全ゲノム解読終了.ゲノムサイズが小さく,一世代が2ヶ月と短く,室内栽培でき,自家不和合性が無く形質転換が容易
-methylene★メチレン メチレン.メチレン基(methylene group)とは.有機化学における2価の基の一種.メタンから水素が2個取り除かれた構造を持つ 
+methylene★メチレン メチレン.メチレン基(methylene group)とは.有機化学における2価の基の一種.メタンから水素が2個取り除かれた構造を持つ
 liaison★連絡 つなぎ.連結.連絡.連絡窓口.連絡係.密通
 unpopular★人気がない 人気のない.不評判の.はやらない
 appliance★アプライアンス 器具.器械
@@ -7449,9 +7448,9 @@ gypsy★ジプシー ジプシー.一般にはヨーロッパで生活してい�
 peroxidase★ペルオキシダーゼ 有害物質を酸化的に切断して2つのヒドロキシル基に分解し.無害化する酵素
 barge★はしけ 遊覧船.荷船.はしけ
 skeptic★懐疑的な 懐疑的な.懐疑論者.疑い深い
-darker★暗い より暗い 
+darker★暗い より暗い
 preach★説教 説教する.を伝道する.を説く
-troubling★厄介な 厄介な 
+troubling★厄介な
 militia★民兵 市民軍.民兵
 swirl★スワール 旋回させる.渦巻く.渦.混乱.渦巻
 crypt★地下室
@@ -7468,16 +7467,16 @@ promenade★遊歩道 散歩する.遊歩.散歩.ドライブ.行列.騎馬
 whack★強打 強く打つこと.を負かす.(音を立てて)強く打つ.を山分けする
 carving★彫刻 彫刻物.彫刻(術)
 famously★有名 有名.著名な
-viewing★鑑賞 鑑賞 
+viewing★鑑賞
 chore★雑用 家庭での雑用.雑用.雑役
 reconsider★考え直す を再審議する.を再考する
 quota★クォータ 割当量.割当
-circadian★24時間周期の (skédin)(生理)24時間周期の.日周性の
+circadian★24時間周期の 24時間周期の.日周性の
 furious★猛烈な すさまじい.狂った.激怒した.激しい.荒れ狂う
 spliced★スプライシングされた 継ぎ合わされた
-storyline★ストーリー展開 ストーリー展開 
+storyline★ストーリー展開
 despise★軽蔑する を軽蔑する.look down on
-metastatic★転移性の (がんの)転移性の 
+metastatic★転移性の (がんの)転移性の
 ethidium★エチジウム ethidium bromide(臭化エチジウム)は有機化合物で.紫外線を当てると赤橙色の蛍光を発する.
 flop★フロップ 失敗.ばたりと倒れる.どさりと落す
 mend★修理 直す.修理する.改める.回復する
@@ -7489,7 +7488,7 @@ crunch★クランチ 困難.危機.ピンチ.ばりばりかむ.ざくざく踏
 wholly★完全に 全体的に.完全に.全く
 strait★海峡 (通常-sで)難局.困難.海峡
 enjoyment★楽しみ
-nested★入れ子になった 入れ子になった 
+nested★入れ子になった
 paradox★パラドックス 逆説.矛盾.矛盾しているように見える人(物)
 delegate★代理人 (仕事を)人に任せる.代理を立てる.委任する.代理人.代表.使節.代議員
 sausage★ソーセージ ソーセージ.ソーセージ形のもの
@@ -7503,16 +7502,16 @@ concur★同意する 同意する.一致する.協力する
 afflict★苦しめる 苦しめる.悩ます
 mycobacterium★マイコバクテリウム マイコバクテリウム属.グラム陽性細菌に分類される真正細菌の一属
 tentative★暫定的な 試験的な.仮の.試案.仮説
-motions★動作 動作 
+motions★動作
 inverse★逆数 反対.逆
 rampant★流行する 流行する.猛烈な.奔放な.手に負えない.蔓延した
 scarce★乏しい まれな.不足して
 chaotic★混沌とした 混とんとした
 impeach★弾劾する 非難する.告発する.起訴する.に疑いを投げかける.疑問視する
-ram★ram 雄羊.杭打ち機.RAM(Random Access Memory,コンピュータ記憶装置.(cf.rumラム酒.lamb子羊.ram雄羊･RAM.lam逃走.lampランプ.ramp高速出入口.rump腰肉.lump塊)
+ram★ram 雄羊.杭打ち機.RAM Random Access Memory,コンピュータ記憶装置.(cf.rumラム酒.lamb子羊.ram雄羊･RAM.lam逃走.lampランプ.ramp高速出入口.rump腰肉.lump塊)
 postwar★戦後の
 topple★倒す 倒れる.ぐらつく.倒す.よろけて倒れる.
-reactivity★反応性 反応性 
+reactivity★反応性
 excise★消費税 切り取る.消費税.物品税
 pistol★ピストル ピストル.ピストルで撃つ
 cranky★気難しい ぐらぐらする
@@ -7551,18 +7550,18 @@ puff★パフ ぷっと吹く(こと).ひとふき.たばこの一服.ふくれ�
 literacy★リテラシー 教育のあること.読み書き能力
 harass★悩ませる 悩ませる.困らせる.(繰り返し)悩ます.攻撃する
 tablet★タブレット 平板.書き板.錠剤
-mole★モグラ モグラ(土竜, cf.Molehill土竜が通った土が盛り上がった跡).2.防波堤.3.スパイ.4.ほくろ.5.グラム分子.6.モル(単位) 
+mole★モグラ モグラ(土竜, cf.Molehill土竜が通った土が盛り上がった跡).2.防波堤.3.スパイ.4.ほくろ.5.グラム分子.6.モル(単位)
 ow★うわっ! うわっ!.アイタッ.いてっ
 loudly★大声で 派手に.大声で
 illegally★違法に 不法に
 exemplify★例示する 範例となる.例示する.典型的に示す.体現する
 indie★インディー インディー.音楽の一つのジャンル.独立プロダクション.自営の
 bumper★バンパー
-postoperative★術後の 術後の 
+postoperative★術後の
 seam★シーム 縫い目.継ぎ目.を縫いあわせる.薄層
 convent★修道院
 tariff★関税 関税.関税率.関税表.関税法.運賃.料金表
-xenopus★アフリカツメガエル アフリカツメガエル 
+xenopus★アフリカツメガエル
 physiology★生理学 生理学.生理.生理機能.生理現象
 pelvic★骨盤の
 shipment★出荷 積出し.発送(品).船積み(荷).積み荷
@@ -7570,20 +7569,20 @@ uterine★子宮の 子宮
 charisma★カリスマ カリスマ(性)(神授の力).権威.人々を信服させる教祖的な指導力
 amber★アンバー 琥珀色.琥珀.琥珀色(こはく)色.黄色
 respectable★立派な 品位のある.立派な.尊敬すべき.有徳の.堅気の.上品な.相当な
-taller★背が高い 背が高い 
+taller★背が高い
 modulation★変調 調節.転調.変調
 pastor★牧師
-reliever★リリーフ投手 救済者 
+reliever★リリーフ投手 救済者
 relentless★容赦ない 容赦のない.冷酷な
 brochure★パンフレット (営業用)パンフレット.小冊子
-visually★視覚的に 視覚的に 
+visually★視覚的に
 pertain★関連する に関係がある.属する.ふさわしい
 landfill★埋め立て 埋め立てごみ処理(地).ごみの埋め立て処理場
 ponder★熟考する をじっくり考える
 exposition★博覧会 博覧会.解説.公開.開帳.顕示.展示会.展覧会
 catalyze★触媒作用を及ぼす
 trypsin★トリプシン トリプシン.膵(すい)液に含まれる消化酵素の一種.
-unlabeled★標識されていない 標識されていない 
+unlabeled★標識されていない
 snapshot★スナップショット スナップ写真
 sob★すすり泣き すすり泣き.ざわざわいう音.むせび泣きながら～を言う
 encyclopedia★百科事典 百科事典.百科辞典
@@ -7594,29 +7593,29 @@ prep★準備
 hassle★口論 激論.口論.(口)うるさがらせる
 blouse★ブラウス ジャケッツ.ブラウス.仕事着.cf.browse(本などを)拾い読みする.(別綴り)
 wag★振る ひょうきんもの.振る.頭を振る.揺れ動く.(cf.wagtail セキレイ(鳥).歩く時に尾を振ることに由来)
-reproducible★再現可能な 再現可能な 
+reproducible★再現可能な
 upscale★高級な 高所得者向けの.金持ち相手の
 intercept★インターセプト 途中で捕まえる.妨害する
-upstate★州の北部 州の北部 
+upstate★州の北部
 vodka★ウォッカ
 uniformly★一様に 変わらずに.一様に.一律に.均等に.変化なく
-err★誤る (é)誤る(error)
+err★誤る(error)
 glycine★グリシン アミノ酢酸.タンパク質を構成するアミノ酸の中で最も単純な形を持つ.別名グリココル.
 compress★圧縮する 要約する.圧縮する.押し込む.押しつける.縮む
 tween★トゥイーン トゥイーン(MS Windowsで作動するTwitterのアプリケーション)
 widen★広げる 広くする.を広くする.広くなる
 bunker★バンカー 船の燃料庫
 brewer★醸造者
-phospholipid★リン脂質 リン脂質 
+phospholipid★リン脂質
 dazzling★眩しい 目もくらむばかりの.まぶしい.眩惑的な
 ample★十分な 広大な.広い.豊富な.豊かな.十分にゆとりある
-argh★なんてこった なんてこった 
+argh★なんてこった
 diversion★転換 気晴らし.気分転換
-solute★溶質 溶質(解けている物質) cf.solvent溶媒(溶質を溶かしている溶液) 
+solute★溶質 溶質(解けている物質) cf.solvent溶媒(溶質を溶かしている溶液)
 dairy★乳製品 酪農場.バター･チーズ製造室(所).乳製品販売店
 shudder★身震い 震える.身震いする.(建物･船などが)揺れる
 squash★スカッシュ カボチャ.2.つぶれる.押し(踏み)つぶす.ぺちゃんこ.3.スカッシュ(競技名)
-mononuclear★単核の 単核の 
+mononuclear★単核の
 surfer★サーファー サーファー.サーフィンをする人.波乗り人
 superstar★スーパースター 大スター.超人気商品.巨大な星
 instrumental★インストルメンタル 役に立つ.計測(計器)による.(文法)助格(の)
@@ -7636,14 +7635,14 @@ vicinity★周辺 近いこと.近所.付近.接近
 mystical★神秘主義の 神話的な
 comb★櫛 くしですく.くし.波頭.徹底的に捜す
 endotoxin★エンドトキシン エンドトキシン(内毒素)は.グラム陰性菌の細胞壁の成分 (toxinは毒素の意)
-nightlife★ナイトライフ 夜遊び 
-outreach★アウトリーチ 奉仕活動 
-electronically★電子的に 電子的に 
+nightlife★ナイトライフ 夜遊び
+outreach★アウトリーチ 奉仕活動
+electronically★電子的に
 satire★風刺 風刺.皮肉.当てこすり
 sonic★ソニック 音響の
 liken★たとえる たとえる.なぞらえる
-booming★成長著しい 急成長を遂げてい 
-epidemiological★疫学的な 疫学的な 
+booming★成長著しい 急成長を遂げてい
+epidemiological★疫学的な
 showcase★ショーケース 模範.モデル.見本.陳列棚
 replica★レプリカ 模造品.複製
 wedge★ウェッジ くさび.くさび形の.くさびで留める.くさびで割る
@@ -7652,14 +7651,14 @@ sect★宗派 教派.派閥.分派.学派
 technician★技術者 専門家.技術家
 detach★デタッチ 引き離す.取り外す
 reconciliation★和解 和解.調停.調和.一致.服従
-easiest★最も簡単な 最も簡単な 
+easiest★最も簡単な
 fishery★漁業
 yearly★毎年 毎年の.例年の.年1度の.その年だけの.毎年.年1度
 streptomycin★ストレプトマイシン ストレプトマイシン.結核の治療に用いられた最初の抗生物質
 billing★請求 伝票発行
 milestone★マイルストーン マイル標石.画期的事件
 stockholder★株主
-spinoff★振り落とす スピンオフ 
+spinoff★振り落とす スピンオフ
 gigantic★巨大な 巨人のような
 privileged★特権を持つ 特権(特典)のある.(～する)特権が与えられて.免責特権の
 drawer★引き出し
@@ -7671,14 +7670,14 @@ pumpkin★カボチャ (植物)カボチャ.セイヨウカボチャ.まぬけ.�
 saw★のこぎり seeの過去形 2.のこぎり(で切る)
 enrichment★充実 豊かにすること.価値を高めること.質を向上させること.富裕.濃縮
 inspiring★鼓舞する 奮い立たせる.元気づける
-fastest★最速 最速の 
+fastest★最速 最速の
 retaliation★報復 返報.報復.仕返し.復讐.かたき討ち.しっぺ返し.(cf.revenge)
 related★関連した 関係のある.関連した
 popped★ポップ 破裂した(The balloon popped.気球は破裂した)•飛び出た(His eyes popped.目が飛び出た)
 twitch★けいれん 痙攣.を引っ張る.痙攣させる
 groom★新郎 花婿.馬丁.身なりを整える.仕込む.(cf.grroming 猿などの毛づくろい).(cf.bride and groom新郎新婦)
 decisive★決定的 決定的な.断固とした
-cytotoxic★細胞傷害性の 細胞毒性の 
+cytotoxic★細胞傷害性の 細胞毒性の
 ubiquitin★ユビキチン ユビキチン(ubiquitin)は7アミノ酸からなるタンパク質.タンパク質分解,DNA修復,翻訳調節,シグナル伝達などに関わる.至る所にある(ubiquitous)ことからこの名が付いた.
 monarchy★君主制 君主政治.君主国
 assassinate★暗殺する
@@ -7686,7 +7685,7 @@ caucus★党員集会 幹部会議.実力者会議
 homeowner★自宅所有者 自家所有者
 dendritic★樹状 樹状の.樹枝状の.樹状突起の.(dendritic fiber 樹木状繊維)
 clergy★聖職者 聖職者.(cf.clergy.priest.monk)
-dimensional★次元の 次元の 
+dimensional★次元の
 mug★マグカップ (人を暗闇で)襲って金品を奪う.(俗)がり勉する.大型コップ,マグ.ジョッキ. (俗)つら.顔写真を作る.不良.まぬけ.(magはmagazineの略)
 prof★教授 教授.先生
 pup★子犬 子.小犬.あざらしの子
@@ -7698,7 +7697,7 @@ nightclub★ナイトクラブ
 recognizable★認識できる 認識された
 bunk★寝台 (船･列車の)寝だな.寝台.ごまかし.逃亡.ごろ寝する
 creditor★債権者
-immunoprecipitation★免疫沈降 免疫沈降 
+immunoprecipitation★免疫沈降
 overtime★時間とともに 時間外の.超過勤務時間.時間外.残業手当.OT
 resemblance★類似 類似.似ていること
 staging★ステージング 上演できる.上演.駅馬車業.集結
@@ -7713,17 +7712,17 @@ elasticity★弾力性 弾性.弾力性
 elongation★伸長 延長.延長線.伸び.伸長.離角.離隔
 bidder★入札者
 bliss★至福 この上ない喜び.至福(を味わう).幸福.天国
-preferentially★優先的に 優先的に 
+preferentially★優先的に
 tangible★有形 具体的な.明白な.はっきりと理解できる.実体のある
 dementia★認知症 認知症.痴呆症(の)
 diploid★2倍体 2倍体(2つで1対から成る染色体のセットを持つ細胞).複相体.cf.triploid(3倍体), tetraploid(4倍体), haploid(半数体)
 timber★木材 材木.木材.森林.樹木.材料
 exceptional★例外的 例外の.異常な.例外的な.異例の.特別に優れた
 refund★払い戻し 払戻し
-museo★博物館 美術館,博物館のスペイン語(およびラテン系言語) 
+museo★博物館 美術館,博物館のスペイン語(およびラテン系言語)
 ivy★ツタ (植物)ツタ.キヅタ属の各種.(特に)セイヨウキヅタ
 josh★ジョシュ からかい.悪意のない冗談.冗談.冗談を言う.からかう.冷やかす
-mating★交配 交配 
+mating★交配
 paranoia★パラノイア 偏執病.妄想症.偏執症.直交する.パラノイア.妄想狂
 shove★押し込む 強く押す.(～を)押す.を突っ込む.押しやる
 spicy★スパイシー 薬味を入れた.香ばしい.香辛料のきいた.気のきいた.きわどい
@@ -7739,7 +7738,7 @@ invoice★請求書 インボイス.送り状
 cervical★頸部の (svkl).子宮頸管の.頚部の
 freaky★ドキドキする 気まぐれな
 screenwriter★脚本家 シナリオライター.映画脚本家
-physiologic★生理的な 生理学的な 
+physiologic★生理的な 生理学的な
 conquer★征服する 奪取する.克服する.征服する.打ち勝つ.獲得する
 dorm★寮 寄宿舎
 motel★モーテル モーテル(Motor Hotel)
@@ -7757,7 +7756,6 @@ admirable★立派な 賞賛すべき.立派な
 upbeat★アップビート 上向き.陽気な.楽天的な.上拍(指示).好景気
 salute★敬礼 に敬礼する.に挨拶する.挨拶.敬礼.会釈.敬礼する
 autopsy★検死(する) 検死(する).(死因究明のための)検死解剖.詳細な批判分析
-dimer★二量体 モノマー(単量体)が結合した重合体がオリゴマー(oligomer)で,数に応じダイマー(dimer,二量体),トライマー(trimer,三量体),テトラマー(tetramer,四量体), ペンタマー(pentamer,五量体)と呼ぶ
 bilingual★バイリンガル 二つの言語を話す
 carriage★キャリッジ 乗り物.運搬.態度.4輪馬車
 empower★パワーを与える 権限を与える
@@ -7793,7 +7791,7 @@ liberalism★自由主義
 mommy★ママ おかあちゃん.ママ
 selfless★無私無欲の 無私の
 forehead★額 ひたい.額.前面.前部
-nonsubscriber★非加入者 非購読者 
+nonsubscriber★非加入者 非購読者
 sticker★ステッカー ステッカー.広告ビラ.固執者.刺し手
 playboy★プレイボーイ
 fay★フェイ 妖精.人名
@@ -7804,7 +7802,7 @@ usefulness★有用性 役に立つこと
 loathe★嫌う ひどく嫌う
 usher★アッシャー 受付.(結婚式の)先導役.座席案内係.誘導する.案内する
 hound★猟犬 猟犬で狩る.猟犬.犬
-optimized★最適化された 最適化された 
+optimized★最適化された
 mythology★神話 神話学.神話(集)
 galaxy★銀河 (銀河系外の)星雲.(貴人･美人などの)華やかな集まり
 chess★チェス
@@ -7813,21 +7811,21 @@ disturbance★混乱 混乱.妨害
 pilgrimage★巡礼 巡礼.聖地巡り
 fundamentalist★原理主義者 根本主義.原理主義.根本主義者
 downturn★低迷 (景気･物価などの)下降.沈滞.悪化
-upregulation★上方制御 上方制御 
+upregulation★上方制御
 mailbox★メールボックス 郵便ポスト
 satisfactory★満足のいく 満足な.十分な
 factual★事実に基づく 事実上の.事実の.実際の.事実に基づく
 atmospheric★大気の
-immunostain★免疫染色 免疫染色 
-biosystem★生物系 生物系 
+immunostain★免疫染色
+biosystem★生物系
 titer★力価 力価,滴定濃度,実値係数,タイター.生物学における濃度や感染能力などの測定法の１つ
 vent★ベント (気体･液体用の)穴.通気孔.抜け口.出口.はけ口を与える.水面に顔を出す
 prosperous★豊かな 繁栄している.繁栄した.繁盛している.成功した.好都合の
 airstrike★空爆 空爆.空からの攻撃.2.航空ストライキ
 parenting★しつけ 子育て
 rapper★ラッパー ラッパー.ラップ歌手
-taunting★嘲り ばかにした 
-dues★会費 会費 
+taunting★嘲り ばかにした
+dues★会費
 caffeine★カフェイン
 chow★チャウ 食物.食事(時間).(米口語)食べる.2.(=chow chow)チャウチャウ犬(中国産の大型犬)
 intimacy★親密 仲の良い.親密.親しい.個人的な.私事の.精通した
@@ -7862,7 +7860,7 @@ disposable★使い捨て 使い捨てにできる.使い捨ての.自由に使�
 constituency★選挙区 有権者.支持者.選挙民.選挙区(の有権者).得意先.顧客層
 surname★姓 姓.姓名.2.あだ名をつける.あだ名
 daring★大胆な 大胆な.大胆不敵な
-quantification★定量化 定量化 
+quantification★定量化
 hemisphere★半球 半球.半球体.大脳(小脳)
 robe★ローブ 職服を着る.ローブ(長くてゆったりした外衣).バスローブ.式服.礼服.職服.浴衣.化粧着.衣服
 acus★針 (acūs).針(needle).千枚通し
@@ -7871,7 +7869,7 @@ unleash★解き放つ 解放する.革紐を外す.発散する
 energetic★エネルギッシュな 精力のある.エネルギッシュ
 carnival★カーニバル
 perennial★多年生の 多年生の.絶え間ない.四季を通じての.年中絶えない.永続的な
-kissed★キス キスをした,された 
+kissed★キス キスをした,された
 cleanup★掃除 掃除.一掃.浄化運動.(俗)大もうけ.4番打者(の)
 globalization★グローバル化
 analgesic★鎮痛剤 痛みを感じない.無感覚の.鎮痛剤
@@ -7901,12 +7899,12 @@ privatization★民営化
 dismal★憂鬱 気味の悪い.陰気な.陰欝な.暗い.憂欝な
 slug★ナメクジ ナメクジ.怠け者.金属の小塊.詰め物をする.なまける.ぐずぐず過ごす.(cf.slag,金属クズは別語)
 neon★ネオン ネオン(希ガス元素).元素記号Ne
-generalized★一般的な 一般的な 
+generalized★一般的な
 remnant★レムナント 生存者.残り.面影.残留.売れ残り.(cf.remnant残り.面影.売れ残り.生存者.reminder.注意.催促.remainder.割り算の余り)
 stylish★スタイリッシュ 流行の.上品な
 vulgar★低俗 下品な.野卑な.育ちの悪い.民衆の.大衆の.民衆.低俗な
-humid★湿った 湿度の高い.多湿の.むしむしする.(cf.humid湿気の多い(一般的).stickyベタベタする(不快な)暑さ.muggy蒸し暑い(くだけた感じ.Muggy,isn’t it?蒸し暑いね)
-melted★溶かした 溶融 
+humid★湿った 湿度の高い.多湿の.むしむしする.cf.humid湿気の多い(一般的).stickyベタベタする(不快な)暑さ.muggy蒸し暑い(くだけた感じ.Muggy,isn’t it?蒸し暑いね)
+melted★溶かした 溶融
 turnaround★振り向く 回転.変更.方向転換.営業の黒字化.業績の好転.会社の再建
 hallway★廊下 廊下.玄関
 flatten★平らにする たいらになる.打ちひしぐ
@@ -7914,7 +7912,7 @@ ghetto★ゲットー スラム街
 hamper★妨げる 妨げる.邪魔する.障害.詰め篭
 saddle★サドル 課す.サドル.負わせる.鞍.に鞍をつける
 axiom★公理 公理.定理(=theorem).金言.原理.格言
-promotional★昇進の 昇進の 
+promotional★昇進の
 confluence★合流 合流.群衆.人の流れ.合流点.集合.群集
 mundane★平凡な 世俗的な.ありふれた
 dart★ダーツ 投げ矢..2.突進する.すばやく動く.飛んで行く.3.(衣服)ダーツ(ヒダ)をつける
@@ -7931,7 +7929,7 @@ worsen★悪化させる 悪くなる.さらに悪くなる
 microphone★マイク マイク.マイクロフォン
 hoc★アドホック アドホック(ad hoc)は.「特定目的」などのラテン語.adは「～について」.hocは「これ」.
 rhetorical★修辞的な 修辞学の.修辞的な(上の).美辞麗句の
-revered★尊敬 (rv́rd).深く尊敬される.崇敬される 
+revered★尊敬 (rv́rd).深く尊敬される.崇敬される
 prognosis★予後 病気の予後.予後.予知.予測
 horrified★びっくりした すごい恐怖を表す.恐怖感を伴う
 crocodile★ワニ ワニ.鰐 (cf.crocodile(アフリカ･アジア･アメリカ産.下あごの歯は口を閉じてもはみ出す).alligator(北米産).caiman(中南米産).人を襲うのは主にcrocodile)
@@ -7939,7 +7937,7 @@ booze★酒 (俗)酒.酒盛り
 judgement★判決 判断.判断力.分別.裁判.判決.意見
 tug★強く引っ張る を強く引く.引っ張る.引っ張ること
 imperfect★不完全な ある部分を欠く.不完全な.未完成の.欠陥のある.(文法)未完了(時制)
-conformational★立体配座の 立体配座の 
+conformational★立体配座の
 hippie★ヒッピー (米語)ヒッピー(族).60年代の若者の風俗.(cf.hippy.尻の.別語)
 hog★豚 ブタ.大型車.むさぼる.独り占めする
 sloppy★ずさんな だらしのない.水っぽい
@@ -7947,14 +7945,14 @@ restrain★抑える 抑制する.を押さえる.を制止する.防止する
 radioactive★放射性 放射能の.放射性の.(放射能汚染radioactive contamination(pollution))
 hypocrisy★偽善
 tangle★もつれ をもつれさせる.を紛糾させる.を罠にかける.けんかする.混乱.もつれ.ごたごた
-deductible★控除できる 
-atrial★心房の atrium＞心房の.(cf.ventricle心室)
+deductible★控除できる
+atrial★心房の atrium心房の.(cf.ventricle心室)
 dismissal★解雇 免職.訴訟の却下.棄却.解任.却下.更迭.解散
 bustling★賑やか せわしい.騷がしい.ざわめいた
 reimbursement★償還 reimburse.弁償
 screenplay★脚本 映画台本
-rewarding★実りある 実りある 
-continued★継続する 継続する 
+rewarding★実りある
+continued★継続する
 quartet★カルテット 四重奏
 charmed★魔法をかけられた 喜びと感謝でいっぱいの.幸運の.呪われた.魔法で守られた.魔法をかけられた.魅せられた
 smallpox★天然痘 天然痘.ほうそう
@@ -7968,7 +7966,7 @@ mule★ラバ ラバ(騾馬.雄のロバと雌のウマの交雑種の家畜.逆
 patio★パティオ (米語)パティオ(テラス.中庭)
 monarch★君主 君主.王者
 chili★チリ アメリカ産トウガラシ
-sheltered★保護された 保護された 
+sheltered★保護された
 needy★貧しい 貧窮している.非常に貧乏な
 portrayal★描写 描写.肖像(画)
 urinary★尿の 尿の.泌尿器の.小便所(ユﾘﾅﾘ)
@@ -7978,20 +7976,20 @@ showing★表示 展示(会).外観.説明.できばえ
 quaint★古風な趣のある 古風で趣のある.風変わりでおもしろい.精巧な
 orchestrate★調整する 管弦楽に作曲(編曲)する.統合する.結集する.(巧みに)調整する
 restructuring★リストラ 構造改革.リストラ
-functioning★機能する 
-jointly★一緒に 合同で 
+functioning★機能する
+jointly★一緒に 合同で
 relay★リレー 新材料の供給.交替者.新手.換え馬.リレー
 unsuccessful★不成功 失敗の.不運の
-immunized★免疫した 免疫された 
+immunized★免疫した 免疫された
 neutralize★中和する 中立化する.中和する
-disequilibrium★不均衡 不均衡 
+disequilibrium★不均衡
 pivotal★極めて重要な 中枢の.枢軸の(ような).中心の.重大な
 feminism★フェミニズム
 oatmeal★オートミール オートミール.燕麦(エンバク)を脱穀し調理しやすく加工したもの
 muddy★泥だらけの どろだらけの.泥だらけの.泥の.ぬかるみの.濁った.さえない
 ripe★熟した 成熟した.熟した.熟れた.赤い.食べ頃の.化膿した
 trophy★トロフィー 戦利品.賞品.戦勝記念品.トロフィー
-lexique★lexique (言語学)語彙目録.辞典.辞書.(特にギリシャ語・ヘブライ語・アラビア語などの)辞書 
+lexique★lexique (言語学)語彙目録.辞典.辞書.(特にギリシャ語・ヘブライ語・アラビア語などの)辞書
 newborn★新生児 生まれたての
 alanine★アラニン アラニン.非必須アミノ酸のひとつ.グリシンについで2番目に小さなアミノ酸でほとんどすべての蛋白質に見られる
 bacillus★桿菌 バチルス.桿菌.細菌.(cf.coccus,球菌.spirillumらせん菌)
@@ -8007,28 +8005,28 @@ bash★強打する 大打撃.強打する.いじめる.叩く
 hale★かくしゃくとした (老人)強壮な.かくしゃくとした
 funnel★ファンネル じょうご.煙突.集中する.流し込む.を送る
 disparate★異種 異なる.共通点のない.色々な人々.異質
-coulter★コー​​ルター (kólt)鋤(すき)の歯.2.人名
+coulter★コー​​ルター 鋤(すき)の歯.2.人名
 luggage★荷物 (UK英)(集合的)手荷物.旅行かばん
 transposon★トランスポゾン トランスポゾン(Transposon).細胞内においてゲノム上の位置を転移(transposition)できる塩基配列.動く遺伝子,転移因子(Transposable element)と呼ばれる
 laborer★労働者
-emphysema★肺気腫 (èmfzím).気腫.(特に)肺気腫
-progressively★徐々に 徐々に 
-responsiveness★反応性 反応性 
+emphysema★肺気腫.気腫.(特に)肺気腫
+progressively★徐々に
+responsiveness★反応性
 ordinarily★通常 たいてい.通常.普通は
 unmarried★未婚 結婚していない.独身の
 knot★結び目 結び目.節.結ぶ
 provocative★挑発的 刺激する.怒らせる.刺激的.挑発的な
-zebrafish★ゼブラフィッシュ ゼブラフィッシュ 
+zebrafish★ゼブラフィッシュ
 snorkele★シュノーケル (ドイツ語)シュノーケル(=snorkel).潜水者(潜水艦)用の呼吸管
 venerable★立派な 尊敬に値する.神聖な.いわれのある
-mesenchymal★間葉 間葉系幹細胞.骨や血管.心筋など間葉系の細胞への分化能をもつ 
+mesenchymal★間葉 間葉系幹細胞.骨や血管.心筋など間葉系の細胞への分化能をもつ
 accusee★非難された者
 feud★確執 敵意.不和(になる).論争(=dispute).(封建時代の)領地
 conspire★共謀する 協力して行う.共謀する.陰謀を企てる.気脈を通ずる
 alkaline★アルカリ性
 compilation★コンピレーション 編集.編集物.寄せ集め
 readiness★準備 素早さ.用意.準備.迅速.快諾.進んで
-vaginal★膣の 膣の 
+vaginal★膣の
 downhill★下り坂 下の方へ.くだり坂(の).落ち目の.容易な.(スキー)滑降競技.(反.uphill)
 goose★ガチョウ ガチョウ.(人)の尻(股)をつつく
 turbulent★荒れ狂う (波風などが)荒れ狂う.不穏な.騒然とした
@@ -8041,11 +8039,11 @@ hiss★ヒス シューと音を出す.しっと言う.シーと言って表す
 foremost★最前 まっさきの.真っ先の.一番の.一流の
 trooper★トルーパー 州警察官
 dwell★ドエル 移住する.住む
-quicker★より速い より速い 
+quicker★より速い
 farewell★別れ 別れ(の挨拶).送別会.さようなら.さらば!
 tedious★退屈な たいくつな.退屈な.あきあきする.冗漫な
-lysed★溶解した (生命科学).細胞が溶解した 
-centroid★重心 重心 
+lysed★溶解した (生命科学).細胞が溶解した
+centroid★重心
 secrecy★秘密性 秘密性.秘密.秘密主義.秘密にしておくこと
 whereby★それによって なにによって.そのために.何について.どのようにして.どういう手段で.それによって
 skyscraper★超高層ビル 超高層ビル.摩天楼.高層ビル(建築)
@@ -8054,7 +8052,7 @@ entice★誘惑する 誘惑する.誘う
 locker★ロッカー ロッカー.箱.冷凍庫.コインロッカー
 coupon★クーポン クーポン.回数券.利札
 pagoda★仏塔 仏塔.パゴーダ
-coma★昏睡 (kóm)pl.comae(-mi).1.(天文)コマ.彗星の頭部で核の周囲の星雲状のもの.2.(植物学)種髪(しゆはつ)ワタなどの種子の綿毛.3.(医学)昏睡(状態)
+coma★昏睡 pl.comae(-mi).1.(天文)コマ.彗星の頭部で核の周囲の星雲状のもの.2.(植物学)種髪(しゆはつ)ワタなどの種子の綿毛.3.(医学)昏睡(状態)
 retrospect★振り返ってみる 回顧.追想
 crisp★さわやかな てきぱきした.新鮮な
 indistinguishable★区別できない 見分けのつかない
@@ -8063,7 +8061,7 @@ password★パスワード パスワード.合い言葉.合言葉.入場許可�
 sofa★ソファ ソファー
 censor★検閲官 検閲する.検閲官.批評者.非難者.潜在意識の抑圧
 disdain★軽蔑 軽視する.侮蔑する.軽蔑
-prominently★顕著に 顕著に 
+prominently★顕著に
 escort★エスコート 護衛する.護衛.付き添う
 rinse★リンス すすぎ
 admiration★称賛 感嘆.賞賛
@@ -8078,7 +8076,7 @@ pedigree★血統 系図.血統書.家系図.起源.由来.語源
 axe★斧 解雇する
 breathtaking★息をのむような はらはらするような
 regeneration★再生 再建.復興.復活.改革.刷新.再生
-preferred★望ましい 望ましい 
+preferred★望ましい
 homemade★自家製 自家製の
 detention★拘留 拘留.拘置.阻止.居残り
 dough★パン生地 (俗)現金.生練り粉.パン生地
@@ -8091,8 +8089,8 @@ bonding★ボンディング 接着.しっかり固定すること.親しい関�
 whore★売春婦 売春婦.Attention Whore(俗.見て見て,などの意)
 ache★痛み 痛む
 shortcoming★欠点 欠点.短所
-transduced★形質導入 transduce.形質導入された 
-buffered★緩衝 bufferされた.緩衝材をおかれた 
+transduced★形質導入 transduce.形質導入された
+buffered★緩衝 bufferされた.緩衝材をおかれた
 infamous★悪名高い 評判の悪い.悪名の高い.破廉恥な.不正行為
 shovel★シャベル
 superman★スーパーマン 超人
@@ -8110,7 +8108,7 @@ pollster★世論調査専門家 (職業的な)世論調査員(担当)
 asp★ASP ASP(Application Service Provider)ソフトをネットで配信する業者
 derail★脱線させる
 waffle★ワッフル ワッフル.2.無駄口をきく.曖昧な態度をとる
-sculpted★彫刻 彫刻 
+sculpted★彫刻
 glamour★グラマー 魅惑.グラマー.(glamorの綴りより一般的).(grammar文法.glamour魅力)
 molly★モリー Molly.(mάli,mli).モリー(女性名Maryの愛称).人気がある観賞魚(グッピーの異表記)
 periphery★周辺 (円･曲線などの)周囲.円周.(物体の)表面.周辺
@@ -8124,22 +8122,22 @@ maritime★海の 海運上の.海の.近海の.臨海の.船員の
 myocilin★ミオシリン ミオシリン.(緑内障原因遺伝子)
 methanol★メタノール メタノール.methyl alcohol
 dire★悲惨な (dά)恐ろしい.物凄い.悲惨な.極度の.急を要する
-playing★遊び 再生 
+playing★遊び 再生
 advancement★進歩 傷心.進歩.促進
 capsule★カプセル 被膜.さや.さく果.2.(薬用･ロケット用の)カプセル.
-glycoprotein★糖タンパク質 糖タンパク質 
+glycoprotein★糖タンパク質
 seq★配列 Sequenceの短縮形.配列他
 homage★オマージュ 忠誠の誓い.敬意.忠誠.主従関係.臣従の誓い
-clearer★明確に 明確に 
+clearer★明確に
 dissident★反体制派 意見を異にする(人).反体制の(者)
 lookout★外を見る 見張り(番).警戒.監視所.見晴らし.見込み.仕事
 savvy★経験豊富な 精通した.抜け目のない.知る.わかる
 whee★おしっこ ワーッ(という叫び声).興奮させる.大喜びさせる.おしっこ
 storytelling★ストーリーテリング 嘘をつく.物語を話す.物語の話術
 coconut★ココナッツ ココヤシの実.ココナツ
-radius★半径 飛行半径.半径.輻射線.区域.範囲.(cf.diameter直径) 
+radius★半径 飛行半径.半径.輻射線.区域.範囲.(cf.diameter直径)
 contiguous★隣接する 隣接する.次の.接触している.接触する.間もない
-tasted★味わっ 味わった 
+tasted★味わっ 味わった
 sturdy★頑丈な がんじょうな.逞しい.丈夫な.不屈の.頑健な
 freezer★冷凍庫 冷蔵庫.冷凍装置(庫･室)
 larva★幼生 幼生.larva(複数形はlarvae).卵生で変態する動物について,「孵化から変態まで」の形態を幼生という
@@ -8153,7 +8151,7 @@ rake★レーキ くま手.まぐわ.を探し回る.を詮索する.をかす�
 favourite★お気に入り favoriteの英国綴り
 invader★インベーダー 侵入者
 opener★オープナー 開幕試合.缶切り.栓抜き
-changed★変更 変更 
+changed★変更
 isle★アイル 小島
 biomedical★生物医学の 生物医学.医療従事者が,薬物,放射線,外科手術を用いて症状や疾患を治療するシステム.conventional medicine(伝統医学)他とも呼ばれる
 mogul★モーグル モーグル(スキー競技名).2.(M-)ムガール人(16 世紀にインドを征服したモンゴル族と子孫).3.重要人物.権力者
@@ -8162,7 +8160,7 @@ voyage★航海 航海.船旅.飛行.航海記.航海する.(海を)渡る
 peek★ピーク ちらっとのぞく.のぞき見.かいま見
 jeep★ジープ
 rand★ランド ランド(南アフリカの通貨単位.複数形rand)
-spontaneously★自発的に 自発的に 
+spontaneously★自発的に
 malignant★悪性の 悪意のある.悪質な.悪性の
 plow★プラウ (馬･牛に引かせる)すき(犂).耕す.すきで耕す.(=plough).cf.hoe(鍬, くわ)
 tasting★テイスティング 試食.試飲.味見
@@ -8171,12 +8169,12 @@ salvation★救い 救世(主).救済.魂の救済.救済物.(罪からの)救�
 thyroid★甲状腺 甲状腺(の).甲状軟骨(の).甲状腺動脈(静脈･神経).甲状腺製剤
 preface★序文 前置き.序文.序論.序説.を前置きする
 climax★クライマックス 最高潮.絶頂.最高点.極点
-stromal★間質 stroma.間質の 
+stromal★間質 stroma.間質の
 brood★同腹 ひとかえりのひな鳥.(動物の)ひと腹の子.2.思案する.くよくよ考える3.(雲.暗闇などが)たれこめる.おおう
-infarction★梗塞 梗塞 
+infarction★梗塞
 traumatic★外傷性の 衝撃的な
 brightly★明るく
-messed★めちゃくちゃ めちゃくちゃ(な) 
+messed★めちゃくちゃ めちゃくちゃ(な)
 perfection★完璧 完全(なこと).完成.完成の域に達した人(物)
 aging★老化 高齢化.時効.熟成.年(age)をとること.老化
 fencing★フェンシング
@@ -8189,7 +8187,7 @@ horribly★恐ろしく
 quake★地震 震動する.揺れる.震える.身震いする.振動する.地震.earthquake
 revisit★再訪 再訪問(する)
 keeper★キーパー 守る人
-precancer★前癌状態 前癌状態 
+precancer★前癌状態
 enormously★非常に 非常に.途方もなく.莫大に
 symptomatic★症状を示す 微侯となる
 testosterone★テストステロン テストステロン(testosterone).男性ホルモンの一種の,ステロイドホルモン.筋肉増大,骨格の幅や厚みの発達に関わる
@@ -8197,14 +8195,14 @@ freshwater★淡水
 ludicrous★ばかげた 笑いを誘う.ばかげた.おかしい.滑稽な.ばかばかしい
 cushion★クッション
 ambient★周囲の 周囲の.ぐるりを取り巻く
-gaming★賭博 賭博 
-cancelled★キャンセル キャンセル(の) 
+gaming★賭博
+cancelled★キャンセル キャンセル(の)
 avid★熱心な どん欲な.貪欲な.熱心な
 ferret★フェレット を捜し出す.フェレット(狩猟用イタチ).フェレットを使って狩る
 adjoining★隣接している
 poetic★詩的な 詩の.詩的な.詩のような.詩人の
 contestant★競争者
-nonspecific★非特異性の 非特異 
+nonspecific★非特異性の 非特異
 yank★ヤンク ぐいと引っぱる.引っること
 drip★ドリップ したたる.滴る.点滴
 imitation★模造 ものまね.まね.模擬.模倣.擬態
@@ -8217,7 +8215,7 @@ heparin★ヘパリン ヘパリン.特に肝臓や肺に多くある抗凝血�
 arrogant★傲慢な 傲慢な.haughty.横柄な.尊大な
 snatch★スナッチ ひっつかむ.ひったくる.やっと得る.飛びつく(こと).(スポーツなど)勝利を奪う
 profitability★採算性 収益性
-clueless★無知な 無知な 
+clueless★無知な
 amused★面白そうな (人が)おもしろがっている
 thou★汝 なんじは.そなたは
 brutality★残忍 横暴さ
@@ -8232,12 +8230,12 @@ paperback★ペーパーバック 紙表紙本.ペーパーバック(版)
 poignant★痛烈な 感動させる.するどい.痛烈な.心が痛む
 interviewer★インタビュアー 面接官.インタビューをする人
 adaptive★適応 適用可能な
-nipa★ニッパヤシ ニッパヤシ 
+nipa★ニッパヤシ
 microscopic★微視的 微視的な.顕微鏡でやっと見えるほどの
 discourse★談話 会談.講演.論文.(文法)談話.話法
 drunken★酔った 酔った.酔っぱらった.酔っぱらい
 nightly★毎晩 夜な夜なの.毎夜の.毎夜.夜に
-graded★段階的な 段階的な 
+graded★段階的な
 polaroid★ポラロイド ポラロイド.(人造偏光板)
 preparedness★準備 (可能性のある戦争に対し)戦闘準備ができていること
 turnout★消す 出席数.人出.投票者数.集合.turn outすること
@@ -8253,7 +8251,7 @@ convertible★コンバーチブル 変えられる.転換可能な
 reprint★リプリント を翻刻する.再版.を再版する.を重版する.増刷
 politely★丁寧に ていねいに.礼儀正しく.丁寧に
 deceive★欺く だます
-coolest★クールな クールな 
+coolest★クールな
 twenty★20 20.20の
 evenly★均等に 一様に.均等に.公平に
 abruptly★突然 突然に
@@ -8261,12 +8259,12 @@ imprint★インプリント 強く印象づける.押印.感銘させる
 propel★推進する を推進する.を進ませる
 prominence★隆起 突起.突出.隆起.傑出.目立つこと.顕著
 crook★悪党 ペテン.いかさま師.曲がり.湾曲.曲げる.(crooked ひねくれた.=perverse)
-ramp★ランプ ランプ(高速道路出入口).建物の連絡用傾斜路.(旅客機用)移動タラップ(boarding ramp.(cf.rumラム酒.lamb子羊.ram雄羊･RAM.lam逃走.lampランプ.ramp高速出入口.rump腰肉.lump塊)
-intergenic★遺伝子間の 遺伝子間の 
+ramp★ランプ ランプ(高速道路出入口).建物の連絡用傾斜路.(旅客機用)移動タラップboarding ramp.(cf.rumラム酒.lamb子羊.ram雄羊･RAM.lam逃走.lampランプ.ramp高速出入口.rump腰肉.lump塊)
+intergenic★遺伝子間の
 cardboard★段ボール 厚紙.ダンボール.段ボール
 gig★ギグ ジャズ演奏の仕事.競漕用ボート
 sentimental★感傷的な 感情的な.心情的な.感情に影響されやすい
-afferent★求心性の (医.神経が)求心性の(末梢から中枢に向かう.2.輸入.導入.求心性. (反)efferent.
+afferent★求心性の (医.神経が)求心性の末梢から中枢に向かう.2.輸入.導入.求心性. (反)efferent.
 vault★ボールト 金庫.貴重品保管室.丸天井.地下室.貯蔵所.(pole vault.棒高跳び.vault.跳馬)
 ivory★アイボリー 象牙製の.象牙.象牙色.ぞうげ色(やや赤みがかかった黄色を帯びた白色).象牙製のもの.(ピアノの)キー.(玉突の)玉
 polyacrylamide★ポリアクリルアミド ポリアクリルアミド.水溶性合成樹脂の一種として原油の回収助剤,廃水処理用凝集剤,洗濯糊,接着剤(合成糊),塗料などに広く用いられる
@@ -8277,13 +8275,13 @@ liable★責任 責任を負うべき.義務である.法的責任のある.し�
 centralize★集中 中央集権化する.中心に集める
 supper★夕食 夕食(会).夜食.(the Last Supper最後の晩餐)
 conjugate★共役 接合する.結合した.(文法)動詞を活用(変化)させる
-immunohistochemical★免疫組織化学の 免疫組織化学の 
+immunohistochemical★免疫組織化学の
 shred★シュレッド 断片.破片.ぼろ切れ.ほんの少し.少量.ちぎれる
 homo★ホモ ホモ.同一の.同質の.2.人.人間
 impede★妨げる 妨げる.邪魔する
 popcorn★ポップコーン
-invitee★招待客 招待客 
-richest★裕福な 豊かな 
+invitee★招待客
+richest★裕福な 豊かな
 familial★家族の 家族性.一族に特有な.家族の.家族性の
 remotely★リモートから およそ.遠く離れて.関係が薄く.時間が遠く隔たって.間接的に.よそよそしく.冷淡に.これっぽちも
 packet★パケット 小包.束.包み.小荷物.小さな束.2.大金.3.通信の単位
@@ -8293,7 +8291,7 @@ fragmentation★断片化 分解.断片化
 remorse★自責の念 後悔.自責の念.良心の呵責
 spreadsheet★スプレッドシート スプレッドシート.表計算ソフト
 melody★メロディー メロディー.旋律.美しい音楽.音調
-congrat★congrat (口語)おめでとう! congratulationsの略 
+congrat★congrat (口語)おめでとう! congratulationsの略
 birthplace★発祥の地 出生地.発生地
 towering★そびえ立つ 非常に高い.塔のような.高くそびえる.そびえ立つ
 mobilize★動員する
@@ -8303,7 +8301,7 @@ lotus★蓮 ロータス.蓮.ハス(の実) 2.(ギリシア神話)ロートス(�
 legion★軍団 歩兵軍団.軍隊.多数.きわめて多い.おびただしい
 allude★ほのめかす ほのめかす.それとなく言う
 maize★メイズ (UK英)トウモロコシ(の実)
-reliably★確実に 確実に 
+reliably★確実に
 ballad★バラード バラード,民謡,小唄,物語,物語詩
 quantitation★計量 定量(化).(cf.quantitate,-する)
 drastic★抜本的な 徹底的な.徹底した
@@ -8317,7 +8315,7 @@ electorate★有権者 選挙民.有権者
 amplicon★単位複製配列 (生化学) アンプリコン.増幅産物(amplify増やす)
 pharmacological★薬理学的な 薬理学(薬物学)の
 arcade★アーケード
-sliced★スライスした スライスした 
+sliced★スライスした
 dolly★ドリー (幼児語)お人形.運搬車.
 educator★教育者
 incapable★できない ができない.能力がない.無能の.無資格の
@@ -8325,19 +8323,19 @@ lash★ラッシュ さっと動かす.鞭.マツゲ.(cf.lush.(植物)生い茂�
 dummy★ダミー ダミー.モデル台
 cub★カブ (ライオン･クマ･キツネなどの)子.未熟な若者.新米
 pooh★プーさん ばかな! フン. 2.くまのプーさん
-lifting★持ち上げ 持ち上げ 
+lifting★持ち上げ
 espionage★スパイ スパイ行為.偵察.スパイ.諜報
 vowel★母音 母音.母音字
-graphical★グラフィカル グラフィカル.図形の.図表の 
-wouldn★wouldn wouldn't 
+graphical★グラフィカル グラフィカル.図形の.図表の
+wouldn★wouldn wouldn't
 decidedly★明らかに 明らかに.議論の余地なく
 optic★オプティック 目(の).光学(の)
-phytoestrogen★植物性エストロゲン 植物性エストロゲン.エストロゲンはステロイドホルモンの一種で,卵胞ホルモンまたは女性ホルモンと呼ばれる  
+phytoestrogen★植物性エストロゲン 植物性エストロゲン.エストロゲンはステロイドホルモンの一種で,卵胞ホルモンまたは女性ホルモンと呼ばれる
 adenovirus★アデノウイルス アデノウイルス.二重鎖DNAウイルス.ライノウイルス等とともに「風邪症候群」を起こす主要病原ウイルス
-transiently★一時的に 一時的に 
+transiently★一時的に
 unavailable★利用できない 得られない.利用できない.不在の
 dryer★ドライヤー 乾燥機.乾いた
-bleach★漂白剤 漂白する.晒す.漂白剤.(bleach.bleaching agent(s)) 
+bleach★漂白剤 漂白する.晒す.漂白剤.(bleach.bleaching agent(s))
 gripe★腹痛 絶えず不平を言う.腹痛をおこす.(俗)不平.怒り
 contra★反対の 反対に.コントラ.右派の反対者.反対の側.反対意見
 parcel★小包 小包.一組.包み.土地の一区画.を分配する.を小包にする
@@ -8353,14 +8351,14 @@ terminator★ターミネーター terminate(断ち切る,終端,抹殺などの
 mist★かすみ 霧.ミスト.かすみ.霞.意味をぼんやりさせるもの.曇る.(cf.fog霧.haze霞)
 hexamer★六量体 6つのモノマーを持ち.DNAに働きかける六量体.
 waterfall★滝 どっと押し寄せるもの.滝
-visualization★可視化 可視化 
+visualization★可視化
 visualize★可視化する 目に見えるようになる(する)
 rust★さび さび.(植物)さび病.さびる.鈍る
-unfairly★不当に 不当に 
+unfairly★不当に
 starvation★飢餓 薄給の.飢餓.窮乏.飢え.餓死
 authenticity★信憑性
 whichever★いずれか どちらでも.どちらの～でも
-scheduled★予定の 予定の 
+scheduled★予定の
 mellow★メロウ (果物が)熟している.(=ripe).円熟した.肥沃な.やわらかい.まろやかな.くつろいだ
 unidentified★不明 身元不祥の.正体未確認の
 hypnosis★催眠術 催眠.催眠状態.夢幻状態
@@ -8375,34 +8373,34 @@ reefer★冷蔵車 マリファナ.マリファナタバコ.2.(鉄道の)冷凍�
 famed★有名な 名高い.famous
 yoga★ヨガ ヨガ.ヨガの行(瞑想的修行法)
 pave★舗装 舗装する.を覆う.敷く.舗道
-degraded★劣化 劣化した 
+degraded★劣化 劣化した
 supernatural★超自然の
 cytochrome★シトクロム 酸化還元機能を持つヘム鉄を含むヘムタンパク質の一種.酸化還元機能は.好気呼吸に重要な役割を持つ
 override★覆す 覆す.無効にする
 umpire★審判 審判を勤める.審判する.審判員.裁定者.仲裁人
 blockade★封鎖 封鎖.妨害
-internally★内部で 内部で 
+internally★内部で
 brew★醸造 醸造する.計画する.醸造物.調合する.起ころうとしている
 ecology★エコロジー 生態学.エコロジー.人間生態学.社会生態学.生態環境
-fronted★ガラス張り ガラス張り 
+fronted★ガラス張り
 protector★プロテクター 保護装置.保護者.後援者.防御物
 credentials★証明 信任状
 strikingly★際立って 際立って.著しく.目立って
 frontal★正面 前額骨.前部の
 extraordinarily★並外れて 異常に.並外れて.異例に.特別に.法外に
-hypertrophy★肥大 肥大 
+hypertrophy★肥大
 vest★ベスト ベスト.男子用のチョッキ.婦人･子供用下着.男子用肌着.与える
 ail★エイル 苦しめる.病む.悩ます
-inverted★反転した 反転した 
+inverted★反転した
 muse★ミューズ 熟考する.物思いにふける.瞑想.2.(M-,ギリシャ神話).ミューズ.(詩歌･音楽･舞踊･芸術･学問をつかさどる九女神の一人でZeusの娘).ミューズの神々.詩神.詩才
 finely★細かく 立派に.きちんと
 conductor★車掌 添乗員.(バス･電車などの)車掌.導線.伝導体.揮者
-adrenalectomy★副腎摘出 副腎摘出 
+adrenalectomy★副腎摘出
 quantitatively★定量 適量で
 eclectic★折衷主義の 取捨選択する.折衷主義の.(意見など)折衷的な
 cringe★すくむ ぺこぺこする.媚びへつらう.(恐怖などで)すくむ.萎縮する.縮み上がる
-gilded★金色の 金色の 
-watching★見て ウォッチング 
+gilded★金色の
+watching★見て ウォッチング
 wallpaper★壁紙 壁紙.壁紙を張る
 avoidance★回避 無効.逃避.回避.廃棄
 cessation★停止 中止.停止.休止
@@ -8411,8 +8409,8 @@ splitting★分裂 裂ける.割れる.割れるように痛む.キリキリ.腹
 understate★軽視する 控え目に言う
 insulation★絶縁 絶縁体.絶縁.絶縁材
 catalogue★カタログ 目録を作る.カタログ
-archaeal★古細菌の 古細菌の 
-facilitated★促進 促進 
+archaeal★古細菌の
+facilitated★促進
 wig★かつら かつら.髪飾り.かつらをつける
 flake★フレーク 薄片.一片
 alleged★申し立てられた 申し立てられた.主張されている.～だといわれていて
@@ -8421,7 +8419,7 @@ yuck★不潔なもの 気持ち悪いもの,こと.オエッ(=yuk)
 balk★ボーク 妨げる.驚いて飛びのく.ためらう.しりごみする.失策.(=obstruct.resist).(野球)ボーク(投球動作を中断する反則).(cf.bork任官拒否)
 noticeable★目立つ 目立つ.著しい
 palazzo★宮殿 豪壮な公建築物(個人邸宅).宮殿.殿堂
-cedar★ヒマラヤスギ ヒマラヤスギ.(cedarは日本のスギとは違い,ヒマラヤ杉などマツ科のもの
+cedar★ヒマラヤスギ ヒマラヤスギ.cedarは日本のスギとは違い,ヒマラヤ杉などマツ科のもの
 persistence★固執 固執.粘り強さ.永続.持続性
 sinister★不吉な 不吉な.邪悪な.不幸な.縁起の悪い.(盾の紋地の)左側の(向かって右).(左側は不吉と考えられていた由縁)(反)dexter
 plaster★しっくい しっくい.膏薬.漆喰.に漆喰を塗る.をべたべた塗る

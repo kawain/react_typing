@@ -10,6 +10,7 @@ function TypingPractice () {
   const divRef = useRef(null)
   const [wasmLoaded, setWasmLoaded] = useState(false)
   const [isSound, setIsSound] = useState(false)
+  const [capsLock, setCapsLock] = useState(false)
 
   const shuffleArray = array => {
     // 配列のコピーを作成
@@ -81,6 +82,22 @@ function TypingPractice () {
     }
     loadQuestions()
   }, [wasmLoaded])
+
+  useEffect(() => {
+    const checkCapsLock = event => {
+      if (event instanceof KeyboardEvent) {
+        setCapsLock(event.getModifierState('CapsLock'))
+      }
+    }
+
+    document.addEventListener('keydown', checkCapsLock)
+    document.addEventListener('keyup', checkCapsLock)
+
+    return () => {
+      document.removeEventListener('keydown', checkCapsLock)
+      document.removeEventListener('keyup', checkCapsLock)
+    }
+  }, [])
 
   const handleKeyDown = e => {
     e.preventDefault()
@@ -177,6 +194,7 @@ function TypingPractice () {
       <h2>英語学習用タイピング</h2>
       <div className='stats'>
         <p>{attemptCount}番目</p>
+        {capsLock && <p>Caps Lock が ON です</p>}
       </div>
       {currentQuestion && (
         <div

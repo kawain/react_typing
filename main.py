@@ -39,20 +39,24 @@ def task1():
 
 
 def read_csv_and_write():
-    lst = []
-    with open("origin.csv", encoding="utf-8", newline="") as f:
-        reader = csv.reader(f)
-        for row in reader:
-            lst.append(row)
+    new_lins = []
+    lines = []
+    with open("origin.txt", "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-    with open("origin.txt", "a", encoding="utf-8") as f:
-        for v in lst:
-            if v[1] == v[2]:
-                data = f"{v[0]}★{v[1]}\n"
-            else:
-                data = f"{v[0]}★{v[1]} {v[2]}\n"
+    for line in lines:
+        eng, jpn = line.strip().split("★")
+        tmp = jpn.strip().split(" ")
+        if len(tmp) == 2:
+            if tmp[0] == tmp[1]:
+                jpn = tmp[0]
 
-            f.write(data)
+        data = f"{eng}★{jpn}"
+        new_lins.append(data)
+
+    with open("origin.txt", "w", encoding="utf-8") as f:
+        for v in new_lins:
+            f.write(f"{v}\n")
 
 
 task1()

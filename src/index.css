@@ -4,6 +4,10 @@
   --untyped-color: light-dark(#000000, #ffffff);
 }
 
+body {
+  font-family: monospace, serif;
+}
+
 .typing {
   max-width: 800px;
   margin: 0 auto;
