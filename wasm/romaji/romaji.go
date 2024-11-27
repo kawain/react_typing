@@ -162,6 +162,8 @@ var RomajiMap = map[string][]string{
 	"りゅ": {"rilyu", "rixyu", "ryu"},
 	"りぇ": {"rixe", "rile", "rye"},
 	"りょ": {"ryo", "rilyo", "rixyo"},
+	"とぅ": {"twu", "tolu", "toxu"},
+	"どぅ": {"dwu", "dolu", "doxu"},
 	"ぁ":  {"xa", "la"},
 	"ぃ":  {"xi", "li"},
 	"ぅ":  {"xu", "lu"},
