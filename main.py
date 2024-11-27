@@ -38,26 +38,46 @@ def task1():
             f.write(data)
 
 
-def read_csv_and_write():
-    new_lins = []
-    lines = []
+def check1():
+    lst = []
+    # ファイルの内容を読み込む
     with open("origin.txt", "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        for v in f:
+            lst.append(v.strip())
 
-    for line in lines:
-        eng, jpn = line.strip().split("★")
-        tmp = jpn.strip().split(" ")
-        if len(tmp) == 2:
-            if tmp[0] == tmp[1]:
-                jpn = tmp[0]
+    # 英単語をキーとした辞書を作成
+    word_dict = {}
+    for line in lst:
+        en, jp = line.split("★")
+        if en in word_dict:
+            # 既存の日本語説明と新しい日本語説明を比較
+            existing_jp = word_dict[en]
+            if len(jp) < len(existing_jp):
+                # 新しい説明の方が短い場合は更新しない
+                continue
+            word_dict[en] = jp
+        else:
+            word_dict[en] = jp
 
-        data = f"{eng}★{jpn}"
-        new_lins.append(data)
+    # 重複のない結果を新しいファイルに書き出す
+    with open("result.txt", "w", encoding="utf-8") as f:
+        for en, jp in word_dict.items():
+            f.write(f"{en}★{jp}\n")
 
-    with open("origin.txt", "w", encoding="utf-8") as f:
-        for v in new_lins:
-            f.write(f"{v}\n")
+
+def check2():
+    lst = []
+    # ファイルの内容を読み込む
+    with open("origin.txt", "r", encoding="utf-8") as f:
+        for v in f:
+            lst.append(v.strip())
+
+    for v in lst:
+        tmp = v.split("★")
+        if len(tmp) != 2:
+            print(v)
 
 
 task1()
-# read_csv_and_write()
+# check1()
+# check2()
