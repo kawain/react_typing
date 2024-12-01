@@ -2835,7 +2835,7 @@ eligible★資格のある★しかくのある
 confidential★機密の★きみつの
 inventory★在庫★ざいこ
 inexpensive★安価な★あんかな
-secretarｙ★秘書★ひしょ
+secretary★秘書★ひしょ
 quarterly★四半期★しはんき
 efficiently★効率的に★こうりつてきに
 exclusively★排他的に★はいたてきに
@@ -3056,7 +3056,7 @@ features★機能★きのう
 missing★喪失、不明★そうしつ、ふめい
 concerned★関わっている、心配している★かかわっている、しんぱいしている
 increased★増加した★ぞうかした
-article．★記事★きじ
+article★記事★きじ
 discussed★議論された★ぎろんされた
 deadline★締め切り★しめきり
 included★含まれた★ふくまれた
@@ -3068,7 +3068,7 @@ pleased★喜んで★よろこんで
 paid★支払った★しはらった
 designed★設計された★せっけいされた
 including★含んでいる★ふくんでいる
-soon．★間もなく★かんもなく
+soon★間もなく★かんもなく
 manufacturing★製造している★せいぞうしている
 revised★改訂した★かいていした
 damaged★損傷した★そんしょうした
@@ -3122,8 +3122,8 @@ selected★選択した★せんたくした
 reduced★削減した★さくげんした
 preferred★好んだ★このんだ
 returned★返った★かえった
-fee．★料金★りょうきん
-quickly．★すぐに★すぐに
+fee★料金★りょうきん
+quickly★すぐに★すぐに
 baked★焼いた★やいた
 periodical★定期的に★ていきてきに
 conducting★導いている★みちびいている
@@ -3147,7 +3147,7 @@ appreciation★感謝★かんしゃ
 proposed★提案した★ていあんした
 blend★混ぜる★まぜる
 comparable★比較できる★ひかくできる
-location．★場所★ばしょ
+location★場所★ばしょ
 implied★暗示した★あんじした
 greeting★あいさつ★あいさつ
 exhibitor★展示者★てんじもの
@@ -3186,7 +3186,7 @@ reviewing★見直している★みなおしている
 kitchenware★台所用品★だいどころようひん
 processor★処理装置★しょりそうち
 displayed★表示された★ひょうじされた
-necessary．★必要な★ひつような
+necessary★必要な★ひつような
 reported★報告された★ほうこくされた
 critics★批評★ひひょう
 impressed★感動した、印象付けられた★かんどうした、いんしょうつけられた
@@ -3369,7 +3369,6 @@ attain★を実現する、達成する★をじつげんする、たっせい�
 confess★告白する★こくはくする
 saving★貯蓄、値引き★ちょちく、ねびき
 obey★従う★したがう
-résumé★履歴書★りれきしょ
 feedback★反応★はんのう
 prohibit★禁止する★きんしする
 polish★磨く★みがく
@@ -3530,7 +3529,7 @@ enthusiastic★熱狂的な★ねっきょうてきな
 bureau★事務局、たんす★じむきょく、たんす
 depart★出発する★しゅっぱつする
 reimbursed★払い戻された★はらいもどされた
-paycheck．★給料★きゅうりょう
+paycheck★給料★きゅうりょう
 devoted★献身的な★けんしんてきな
 in-person★対面で★たいめんで
 artistic★芸術的な★げいじゅつてきな
@@ -3698,7 +3697,7 @@ transferrable★移すことのできる★うつすことのできる
 family-owned★家族経営の★かぞくけいえいの
 lasting★永続的な★えいぞくてきな
 portray★描く★えがく
-respectively．★それぞれ★それぞれ
+respectively★それぞれ★それぞれ
 cruise★巡航する★じゅんこうする
 involved★関与した★かんよした
 venus★金星★きんせい
