@@ -2835,7 +2835,7 @@ eligible★資格のある
 confidential★機密の
 inventory★在庫
 inexpensive★安価な
-secretarｙ★秘書
+secretary★秘書
 quarterly★四半期
 efficiently★効率的に
 exclusively★排他的に
@@ -3056,7 +3056,7 @@ features★機能
 missing★喪失、不明
 concerned★関わっている、心配している
 increased★増加した
-article．★記事
+article★記事
 discussed★議論された
 deadline★締め切り
 included★含まれた
@@ -3068,7 +3068,7 @@ pleased★喜んで
 paid★支払った
 designed★設計された
 including★含んでいる
-soon．★間もなく
+soon★間もなく
 manufacturing★製造している
 revised★改訂した
 damaged★損傷した
@@ -3122,8 +3122,8 @@ selected★選択した
 reduced★削減した
 preferred★好んだ
 returned★返った
-fee．★料金
-quickly．★すぐに
+fee★料金
+quickly★すぐに
 baked★焼いた
 periodical★定期的に
 conducting★導いている
@@ -3147,7 +3147,7 @@ appreciation★感謝
 proposed★提案した
 blend★混ぜる
 comparable★比較できる
-location．★場所
+location★場所
 implied★暗示した
 greeting★あいさつ
 exhibitor★展示者
@@ -3186,7 +3186,7 @@ reviewing★見直している
 kitchenware★台所用品
 processor★処理装置
 displayed★表示された
-necessary．★必要な
+necessary★必要な
 reported★報告された
 critics★批評
 impressed★感動した、印象付けられた
@@ -3369,7 +3369,6 @@ attain★を実現する、達成する
 confess★告白する
 saving★貯蓄、値引き
 obey★従う
-résumé★履歴書
 feedback★反応
 prohibit★禁止する
 polish★磨く
@@ -3530,7 +3529,7 @@ enthusiastic★熱狂的な
 bureau★事務局、たんす
 depart★出発する
 reimbursed★払い戻された
-paycheck．★給料
+paycheck★給料
 devoted★献身的な
 in-person★対面で
 artistic★芸術的な
@@ -3698,7 +3697,7 @@ transferrable★移すことのできる
 family-owned★家族経営の
 lasting★永続的な
 portray★描く
-respectively．★それぞれ
+respectively★それぞれ
 cruise★巡航する
 involved★関与した
 venus★金星
