@@ -1,22 +1,11 @@
 import sys
-import pykakasi
-import unicodedata
+from kanjiconv import KanjiConv
 
-kakasi = pykakasi.kakasi()
+kanji_conv = KanjiConv(separator="")
 
 
 def convert_hiragana(text):
-    text = unicodedata.normalize("NFKC", text)
-
-    hiragana_txt = ""
-    result = kakasi.convert(text)
-    for item in result:
-        hiragana_txt += item["hira"]
-
-    # 追加の置換
-    # hiragana_txt = hiragana_txt.replace("おきん", "おかね")
-
-    return hiragana_txt
+    return kanji_conv.to_hiragana(text)
 
 
 def make_questions_text():
