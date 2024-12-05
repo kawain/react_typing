@@ -2,7 +2,7 @@ The cat sat on the mat.★猫はマットの上に座っている。★ねこは
 To be or not to be.★存在するか、しないか。★そんざいするか、しないか。
 Salt and pepper are on the table.★塩とこしょうはテーブルの上にある。★しおとこしょうはてーぶるのうえにある。
 A slice of pie, please.★パイの一切れをください。★ぱいのひときれをください。
-I went to the store.★私は店に行きました。★わたくしはみせにいきました。
+I went to the store.★私は店に行きました。★わたしはみせにいきました。
 She has a pen.★彼女はペンを持っている。★かのじょはぺんをもっている。
 The keys are in the bowl.★鍵はボウルの中にあります。★かぎはぼうるのなかにあります。
 I have a dream.★私には夢があります。★わたくしにはゆめがあります。
@@ -15,16 +15,16 @@ I'm not ready yet.★まだ準備ができていません。★まだじゅん�
 I believe that it's true.★それは本当だと信じています。★それはほんとうだとしんじています。
 We are in this together.★私たちはこれを一緒にやっています。★わたしたちはこれをいっしょにやっています。
 The book is on the shelf.★本は棚の上にあります。★ほんはたなのうえにあります。
-I'll go with you.★私はあなたと一緒に行きます。★わたくしはあなたといっしょにいきます。
+I'll go with you.★私はあなたと一緒に行きます。★わたしはあなたといっしょにいきます。
 This is my favorite song.★これは私のお気に入りの曲です。★これはわたくしのおきにいりのきょくです。
 What do you want to do?★あなたは何をしたいのですか？★あなたはなんをしたいのですか?
 Quick as a fox.★キツネのように素早い。★きつねのようにすばやい。
 Look at the stars.★星を見て。★ほしをみて。
 She wears a red dress.★彼女は赤いドレスを着ています。★かのじょはあかいどれすをきています。
-I like tea, but not coffee.★私はお茶は好きだけど、コーヒーは好きじゃない。★わたくしはおちゃはすきだけど、こーひーはすきじゃない。
-I'm from New York.★私はニューヨーク出身です。★わたくしはにゅーよーくしゅっしんです。
+I like tea, but not coffee.★私はお茶は好きだけど、コーヒーは好きじゃない。★わたしはおちゃはすきだけど、こーひーはすきじゃない。
+I'm from New York.★私はニューヨーク出身です。★わたしはにゅーよーくしゅっしんです。
 The story was written by her.★その物語は彼女によって書かれました。★そのものがたりはかのじょによってかかれました。
-I will be there.★私はそこにいるでしょう。★わたくしはそこにいるでしょう。
+I will be there.★私はそこにいるでしょう。★わたしはそこにいるでしょう。
 Is it black or white?★それは黒ですか、白ですか？★それはくろですか、しろですか?
 They say it's going to rain.★雨が降ると言っています。★あめがふるといっています。
 Let's go to the beach.★ビーチに行こう。★びーちにいこう。
@@ -37,11 +37,11 @@ Tell me about your day.★あなたの一日について教えてください。
 Can you open the jar?★その瓶を開けることができますか？★そのびんをあけることができますか?
 Which book do you prefer?★どの本がお好みですか？★どのほんがおこのみですか?
 There is a cat on the roof.★屋根の上に猫がいます。★やねのうえにねこがいます。
-I know the answer.★私は答えを知っています。★わたくしはこたえをしっています。
+I know the answer.★私は答えを知っています。★わたしはこたえをしっています。
 I want more candy.★もっとキャンディーが欲しい。★もっときゃんでぃーがほしい。
 Let's get a pizza.★ピザを取りに行こう。★ぴざをとりにいこう。
 Who is at the door?★ドアには誰がいますか？★どあにはだれがいますか?
-I like chocolate.★私はチョコレートが好きです。★わたくしはちょこれーとがすきです。
+I like chocolate.★私はチョコレートが好きです。★わたしはちょこれーとがすきです。
 Call me when you arrive.★着いたら私に電話してください。★ついたらわたくしにでんわしてください。
 I think it's a good idea.★それはいい考えだと思います。★それはいいかんがえだとおもいます。
 Make a wish.★願い事をして。★ねがいごとをして。
@@ -64,7 +64,7 @@ I just finished my work.★仕事を終えたところです。★しごとを�
 Come join us for the game.★ゲームに参加してください。★げーむにさんかしてください。
 Could you pass the salt?★塩を取ってもらえますか？★しおをとってもらえますか?
 I'll work from home today.★今日は家から仕事をします。★きょうはいえからしごとをします。
-I use a pen to write.★私はペンで書きます。★わたくしはぺんでかきます。
+I use a pen to write.★私はペンで書きます。★わたしはぺんでかきます。
 He's taller than his brother.★彼は彼の兄よりも背が高い。★かれはかれのあによりもせがたかい。
 I'm busy right now.★今、忙しいです。★いま、いそがしいです。
 First eat, then play.★先に食べて、それから遊ぶ。★さきにたべて、それからあそぶ。
@@ -92,7 +92,7 @@ Turn right at the corner.★角を右に曲がって。★かどをみぎにま�
 How are you?★お元気ですか？★おげんきですか?
 I'll be right back.★すぐ戻ります。★すぐもどります。
 What do you mean?★どういう意味ですか？★どういういみですか?
-Even numbers are divisible by two.★偶数は2で割り切れる。★ぐうすうはにでわりきれる。
+Even numbers are divisible by two.★偶数は2で割り切れる。★ぐうすうは2でわりきれる。
 May I join you?★一緒に参加してもいいですか？★いっしょにさんかしてもいいですか?
 Your keys are here.★あなたの鍵はここにあります。★あなたのかぎはここにあります。
 How many apples do you have?★りんごは何個持っていますか？★りんごはなんこもっていますか?
@@ -138,11 +138,11 @@ Something smells good.★何かいい匂いがする。★なんかいいにお�
 Put the book on the shelf.★本を棚に置いてください。★ほんをたなにおいてください。
 Another day, another adventure.★新しい日、新しい冒険。★あたらしいひ、あたらしいぼうけん。
 She wants to become a doctor.★彼女は医者になりたい。★かのじょはいしゃになりたい。
-I have an interest in painting.★私は絵画に興味があります。★わたくしはかいがにきょうみがあります。
+I have an interest in painting.★私は絵画に興味があります。★わたしはかいがにきょうみがあります。
 Traveling to another country is exciting.★別の国への旅行はワクワクします。★べつのくにへのりょこうはわくわくします。
 My old school was different.★私の前の学校は違っていました。★わたくしのまえのがっこうはちがっていました。
 Each student got a certificate.★それぞれの生徒が証明書をもらいました。★それぞれのせいとがしょうめいしょをもらいました。
-School starts at 8 am.★学校は午前8時に始まります。★がっこうはごぜんはちじにはじまります。
+School starts at 8 am.★学校は午前8時に始まります。★がっこうはごぜん8じにはじまります。
 I woke up late today.★今日は遅く起きました。★きょうはおそくおきました。
 The mountains are high.★山は高いです。★やまはたかいです。
 We have different opinions.★私たちは異なる意見を持っています。★わたしたちはことなるいけんをもっています。
@@ -167,7 +167,7 @@ We worked in a group.★私たちはグループで働きました。★わた�
 In case of rain, bring an umbrella.★雨の場合は、傘を持ってきてください。★あめのばあいは、かさをもってきてください。
 The woman in red is my aunt.★赤い服を着ている女性は私の叔母です。★あかいふくをきているじょせいはわたくしのおばです。
 Walk around the park.★公園を歩き回る。★こうえんをあるきまわる。
-I love reading books.★私は本を読むのが大好きです。★わたくしはほんをよむのがだいすきです。
+I love reading books.★私は本を読むのが大好きです。★わたしはほんをよむのがだいすきです。
 Family is everything.★家族はすべてです。★かぞくはすべてです。
 You seem happy.★あなたは幸せそうです。★あなたはしあわせそうです。
 Let it go.★それを放って。★それをはなって。
@@ -205,7 +205,7 @@ They provide excellent service.★彼らは優れたサービスを提供して�
 My name is written on the book.★その本に私の名前が書かれています。★そのほんにわたくしのなまえがかかれています。
 I love to read before bedtime.★就寝前に読むのが好きです。★しゅうしんまえによむのがすきです。
 My friend is visiting from another city.★私の友人が別の都市から訪れています。★わたくしのゆうじんがべつのとしからおとずれています。
-I'll be away for a month.★1ヶ月留守にします。★いちかげつるすにします。
+I'll be away for a month.★1ヶ月留守にします。★1かげつるすにします。
 She has a large collection of books.★彼女は多くの本を持っています。★かのじょはおおくのほんをもっています。
 He started his own business.★彼は自分のビジネスを始めました。★かれはじぶんのびじねすをはじめました。
 I can't imagine my life without music.★音楽なしの生活は想像できません。★おんがくなしのせいかつはそうぞうできません。
@@ -236,14 +236,14 @@ Accidents happen.★事故は起こりうる。★じこはおこりうる。
 They offer a discount on weekends.★週末には割引があります。★しゅうまつにはわりびきがあります。
 Young minds are curious.★若い心は好奇心旺盛です。★わかいこころはこうきしんおうせいです。
 Close the door gently.★ドアをそっと閉めてください。★どあをそっとしめてください。
-The program starts at 5 pm.★プログラムは午後5時に始まります。★ぷろぐらむはごごごじにはじまります。
+The program starts at 5 pm.★プログラムは午後5時に始まります。★ぷろぐらむはごご5じにはじまります。
 Lead the way.★先導してください。★せんどうしてください。
 I want to buy a new dress.★新しいドレスを買いたいです。★あたらしいどれすをかいたいです。
 I understand your concern.★あなたの懸念を理解しています。★あなたのけねんをりかいしています。
 Thank you for your help.★お手伝いありがとう。★おてつだいありがとう。
 The destination is far away.★目的地は遠いです。★もくてきちはとおいです。
 Today is a new day.★今日は新しい日です。★きょうはあたらしいひです。
-The meeting lasted an hour.★会議は1時間続きました。★かいぎはいちじかんつづきました。
+The meeting lasted an hour.★会議は1時間続きました。★かいぎは1じかんつづきました。
 The student is eager to learn.★学生は学びたがっています。★がくせいはまなびたがっています。
 Face your fears.★恐怖に立ち向かう。★きょうふにたちむかう。
 Hope keeps us going.★希望が私たちを前進させます。★きぼうがわたしたちをぜんしんさせます。
@@ -284,7 +284,7 @@ Speak your mind.★思っていることを話す。★おもっていること�
 It's within my reach.★私の手の届く範囲内です。★わたくしのてのとどくはんいないです。
 It's a lengthy process.★それは長いプロセスです。★それはながいぷろせすです。
 The park is open to the public.★公園は一般公開されています。★こうえんはいっぱんこうかいされています。
-I visit my grandparents often.★私はよく祖父母を訪ねます。★わたくしはよくそふぼをたずねます。
+I visit my grandparents often.★私はよく祖父母を訪ねます。★わたしはよくそふぼをたずねます。
 The train is on time.★電車は定刻です。★でんしゃはていこくです。
 Anything is possible.★何でも可能です。★なんでもかのうです。
 I actually like it.★実際にそれが好きです。★じっさいにそれがすきです。
@@ -358,7 +358,7 @@ I received a letter today.★今日、手紙を受け取りました。★きょ
 Decide wisely.★賢く決めてください。★かしこくきめてください。
 I love learning new languages.★新しい言語を学ぶのが大好きです。★あたらしいげんごをまなぶのがだいすきです。
 The subject of the seminar is health.★セミナーの主題は健康です。★せみなーのしゅだいはけんこうです。
-I have a class at 10 am.★午前10時に授業があります。★ごぜんいちれいじにじゅぎょうがあります。
+I have a class at 10 am.★午前10時に授業があります。★ごぜん10じにじゅぎょうがあります。
 The development of the city is rapid.★その都市の発展は急速です。★そのとしのはってんはきゅうそくです。
 The town is peaceful.★その町は平和です。★そのまちはへいわです。
 I ate half the cake.★ケーキの半分を食べました。★けーきのはんぶんをたべました。
@@ -369,7 +369,7 @@ The sky is clear.★空は晴れています。★そらははれています。
 Invest in your future.★あなたの未来に投資してください。★あなたのみらいにとうししてください。
 Either way, it's fine.★どちらの方法でも大丈夫です。★どちらのほうほうでもだいじょうぶです。
 A long time ago.★かなり昔。★かなりむかし。
-Five apples per person.★一人あたり5つのリンゴ。★ひとりあたりいつつのりんご。
+Five apples per person.★一人あたり5つのリンゴ。★ひとりあたり5つのりんご。
 Some questions remain unanswered.★いくつかの質問は未回答のままです。★いくつかのしつもんはみかいとうのままです。
 Meet me at the top.★トップで私に会ってください。★とっぷでわたくしにあってください。
 Among the stars.★星々の中で。★ほしぼしのなかで。
@@ -392,7 +392,7 @@ Music heals the soul.★音楽は魂を癒します。★おんがくはたま�
 Let's play a game.★ゲームをしましょう。★げーむをしましょう。
 The political climate is changing.★政治の状況が変わってきています。★せいじのじょうきょうがかわってきています。
 Feel free to join.★自由に参加してください。★じゆうにさんかしてください。
-I didn't receive the package.★私は荷物を受け取っていません。★わたくしはにもつをうけとっていません。
+I didn't receive the package.★私は荷物を受け取っていません。★わたしはにもつをうけとっていません。
 Live in the moment.★今を生きてください。★いまをいきてください。
 The sale ends tomorrow.★セールは明日終わります。★せーるはあすおわります。
 The company has a new policy.★その会社は新しい方針を持っています。★そのかいしゃはあたらしいほうしんをもっています。
@@ -414,14 +414,14 @@ Add a pinch of salt.★ひとつまみの塩を追加してください。★ひ
 Follow the rule of law.★法のルールに従ってください。★ほうのるーるにしたがってください。
 Pass the butter, please.★バターを渡してください。★ばたーをわたしてください。
 They produce quality products.★彼らは品質の高い製品を生産しています。★かれらはひんしつのたかいせいひんをせいさんしています。
-I want to sell my car.★私は車を売りたい。★わたくしはくるまをうりたい。
+I want to sell my car.★私は車を売りたい。★わたしはくるまをうりたい。
 Life is short, enjoy it.★人生は短い、楽しんでください。★じんせいはみじかい、たのしんでください。
-I completely agree with you.★私は完全にあなたに同意します。★わたくしはかんぜんにあなたにどういします。
+I completely agree with you.★私は完全にあなたに同意します。★わたしはかんぜんにあなたにどういします。
 Ignorance of the law is no excuse.★法律の無知は言い訳になりません。★ほうりつのむちはいいわけになりません。
 Everything happens for a reason.★すべてのことには理由があります。★すべてのことにはりゆうがあります。
 Her research won an award.★彼女の研究は賞を受賞しました。★かのじょのけんきゅうはしょうをじゅしょうしました。
 Cover the pot and let it simmer.★鍋に蓋をして、煮込んでください。★なべにふたをして、にこんでください。
-I need a sheet of paper.★私は紙を一枚必要です。★わたくしはかみをいちまいひつようです。
+I need a sheet of paper.★私は紙を一枚必要です。★わたしはかみをいちまいひつようです。
 She got a new position at work.★彼女は仕事で新しいポジションを得ました。★かのじょはしごとであたらしいぽじしょんをえました。
 The shop is near my house.★その店は私の家の近くにあります。★そのみせはわたくしのいえのちかくにあります。
 Human rights should be upheld.★人権は守られるべきです。★じんけんはまもられるべきです。
@@ -433,7 +433,7 @@ The film was a hit.★その映画はヒットしました。★そのえいが�
 Good morning!★おはようございます！★おはようございます!
 War brings destruction.★戦争は破壊をもたらします。★せんそうははかいをもたらします。
 My account was hacked.★私のアカウントはハッキングされました。★わたくしのあかうんとははっきんぐされました。
-I love to shop for books.★私は本を買うのが大好きです。★わたくしはほんをかうのがだいすきです。
+I love to shop for books.★私は本を買うのが大好きです。★わたしはほんをかうのがだいすきです。
 He made a major decision.★彼は重大な決定を下しました。★かれはじゅうだいなけっていをくだしました。
 Someone is waiting for you.★誰かがあなたを待っています。★だれかがあなたをまっています。
 The stars are above us.★星は私たちの上にあります。★ほしはわたしたちのうえにあります。
@@ -447,7 +447,7 @@ Choose wisely.★賢く選んでください。★かしこくえらんでくだ
 My father is my hero.★私の父は私のヒーローです。★わたくしのちちはわたくしのひーろーです。
 Your decision matters.★あなたの決定は重要です。★あなたのけっていはじゅうようです。
 Set the table for dinner.★夕食のためにテーブルをセットしてください。★ゆうしょくのためにてーぶるをせっとしてください。
-I'm certain about it.★私はそれに確信しています。★わたくしはそれにかくしんしています。
+I'm certain about it.★私はそれに確信しています。★わたしはそれにかくしんしています。
 Move forward with determination.★決意を持って前進してください。★けついをもってぜんしんしてください。
 The main entrance is blocked.★主要な入り口は封鎖されています。★しゅようないりぐちはふうさされています。
 Legends never die.★伝説は決して死なない。★でんせつはけっしてしなない。
@@ -498,7 +498,7 @@ Finally, we reached our destination.★ついに、私たちは目的地に到�
 Wait for the sign before crossing.★横断する前にサインを待ってください。★おうだんするまえにさいんをまってください。
 He made a claim without evidence.★彼は証拠なしに主張しました。★かれはしょうこなしにしゅちょうしました。
 Trust is the foundation of any relationship.★信頼はあらゆる関係の基盤です。★しんらいはあらゆるかんけいのきばんです。
-I love to travel and explore.★私は旅行して探検するのが好きです。★わたくしはりょこうしてたんけんするのがすきです。
+I love to travel and explore.★私は旅行して探検するのが好きです。★わたしはりょこうしてたんけんするのがすきです。
 Enjoy the little moments in life.★人生の小さな瞬間を楽しんでください。★じんせいのちいさなしゅんかんをたのしんでください。
 Death is a part of life.★死は人生の一部です。★しはじんせいのいちぶです。
 It's a nice day outside.★外はいい天気です。★そとはいいてんきです。
@@ -506,7 +506,7 @@ The amount is mentioned on the bill.★金額は請求書に記載されてい�
 She wants to improve her skills.★彼女はスキルを向上させたいと思っています。★かのじょはすきるをこうじょうさせたいとおもっています。
 Take a picture to capture the moment.★その瞬間をキャッチするために写真を撮ってください。★そのしゅんかんをきゃっちするためにしゃしんをとってください。
 The boy climbed the tree.★その少年は木に登りました。★そのしょうねんはきにのぼりました。
-With regard to your question, I have no answer.★あなたの質問に関して、私は答えがありません。★あなたのしつもんにかんして、わたくしはこたえがありません。
+With regard to your question, I have no answer.★あなたの質問に関して、私は答えがありません。★あなたのしつもんにかんして、わたしはこたえがありません。
 The organization is hosting an event.★その組織はイベントを主催しています。★そのそしきはいべんとをしゅさいしています。
 Happy moments are cherished forever.★幸せな瞬間は永遠に大切にされます。★しあわせなしゅんかんはえいえんにたいせつにされます。
 The couple danced gracefully.★そのカップルは優雅に踊った。★そのかっぷるはゆうがにおどった。
@@ -518,7 +518,7 @@ We had a round table discussion.★私たちは円卓会議を持ちました。
 Grab every opportunity that comes your way.★あなたの前に来るすべての機会をつかんでください。★あなたのまえにくるすべてのきかいをつかんでください。
 The road less traveled often leads to beauty.★あまり旅されていない道は、しばしば美しさにつながります。★あまりたびされていないみちは、しばしばうつくしさにつながります。
 They settled the matter by mutual accord.★彼らは相互の合意でその問題を解決しました。★かれらはそうごのごういでそのもんだいをかいけつしました。
-I have a long list of chores.★私はやることリストが長いです。★わたくしはやることりすとがながいです。
+I have a long list of chores.★私はやることリストが長いです。★わたしはやることりすとがながいです。
 I wish upon a star.★星に願いをかけます。★ほしにねがいをかけます。
 It rained; therefore, we stayed indoors.★雨が降ったので、私たちは室内にいました。★あめがふったので、わたしたちはしつないにいました。
 Wear your confidence.★自信を持って行動してください。★じしんをもってこうどうしてください。
@@ -544,12 +544,12 @@ Take a risk and follow your dreams.★リスクを冒して夢を追い求めて
 The news today was surprising.★今日のニュースは驚きでした。★きょうのにゅーすはおどろきでした。
 Set a high standard for yourself.★自分自身に高い基準を設定してください。★じぶんじしんにたかいきじゅんをせっていしてください。
 Every vote counts.★すべての投票は重要です。★すべてのとうひょうはじゅうようです。
-Only ten percent passed the exam.★試験に合格したのは10%だけでした。★しけんにごうかくしたのはいちれいぱーせんとだけでした。
+Only ten percent passed the exam.★試験に合格したのは10%だけでした。★しけんにごうかくしたのは10ぱーせんとだけでした。
 Focus on your goals.★あなたの目標に集中してください。★あなたのもくひょうにしゅうちゅうしてください。
 The stage is set for the performance.★パフォーマンスのためのステージが設定されています。★ぱふぉーまんすのためのすてーじがせっていされています。
 The universe is a vast space.★宇宙は広大な空間です。★うちゅうはこうだいなくうかんです。
 Drink water instead of soda.★ソーダの代わりに水を飲んでください。★そーだのかわりにみずをのんでください。
-I realize the importance of time.★私は時間の重要性を認識しています。★わたくしはじかんのじゅうようせいをにんしきしています。
+I realize the importance of time.★私は時間の重要性を認識しています。★わたしはじかんのじゅうようせいをにんしきしています。
 He usually arrives early.★彼は通常早く到着します。★かれはつうじょうはやくとうちゃくします。
 The data suggests a new trend.★データは新しいトレンドを示唆しています。★でーたはあたらしいとれんどをしさしています。
 Every single detail matters.★すべての詳細が重要です。★すべてのしょうさいがじゅうようです。
@@ -609,7 +609,7 @@ Suppose we go on a trip?★旅行に行くのはどうでしょうか？★り�
 Apply sunscreen before going out.★外出する前に日焼け止めを塗ってください。★がいしゅつするまえにひやけとめをぬってください。
 The president addressed the nation.★大統領は国民に演説しました。★だいとうりょうはこくみんにえんぜつしました。
 The fire was warm and inviting.★火は暖かく、招き入れるようでした。★ひはあたたかく、まねきいれるようでした。
-Compare the two products before buying.★購入する前に2つの製品を比較してください。★こうにゅうするまえにふつつのせいひんをひかくしてください。
+Compare the two products before buying.★購入する前に2つの製品を比較してください。★こうにゅうするまえに2つのせいひんをひかくしてください。
 The court delivered the verdict.★裁判所は判決を下しました。★さいばんしょははんけつをくだしました。
 The police are investigating the case.★警察はその事件を捜査しています。★けいさつはそのじけんをそうさしています。
 I bought this dress from the store down the street.★通りの先にある店でこのドレスを買いました。★とおりのさきにあるみせでこのどれすをかいました。
@@ -622,13 +622,13 @@ The river is the source of fresh water.★その川は淡水の源です。★�
 The employee received an award.★従業員は賞を受賞しました。★じゅうぎょういんはしょうをじゅしょうしました。
 Can you manage the event?★イベントを管理できますか？★いべんとをかんりできますか?
 Simply put, it's amazing.★簡単に言うと、それは素晴らしいです。★かんたんにゆうと、それはすばらしいです。
-The bank closes at 4 pm.★銀行は午後4時に閉まります。★ぎんこうはごごしじにしまります。
+The bank closes at 4 pm.★銀行は午後4時に閉まります。★ぎんこうはごご4じにしまります。
 The law firm is reputable.★その法律事務所は評判が良いです。★そのほうりつじむしょはひょうばんがよいです。
 The cell structure is intricate.★細胞の構造は複雑です。★さいぼうのこうぞうはふくざつです。
 I read an interesting article today.★今日、興味深い記事を読みました。★きょう、きょうみふかいきじをよみました。
 Fast cars fascinate him.★高速な車に彼は魅了されます。★こうそくなくるまにかれはみりょうされます。
 The castle was under attack.★城は攻撃を受けていました。★しろはこうげきをうけていました。
-He speaks three foreign languages.★彼は3つの外国語を話します。★かれはみっつのがいこくごをはなします。
+He speaks three foreign languages.★彼は3つの外国語を話します。★かれは3つのがいこくごをはなします。
 The surprise party was a success.★サプライズパーティーは成功しました。★さぷらいずぱーてぃーはせいこうしました。
 The main feature of the app is its user-friendliness.★アプリの主な特徴はユーザーフレンドリーさです。★あぷりのおもなとくちょうはゆーざーふれんどりーさです。
 The deciding factor was quality.★決定的な要因は品質でした。★けっていてきなよういんはひんしつでした。
@@ -640,7 +640,7 @@ A recent study revealed surprising facts.★最近の研究で驚くべき事実
 I can relate to your story.★あなたの話に共感できます。★あなたのはなしにきょうかんできます。
 The official announcement is awaited.★公式の発表を待っています。★こうしきのはっぴょうをまっています。
 Financial planning is crucial.★財務計画は非常に重要です。★ざいむけいかくはひじょうにじゅうようです。
-I miss my childhood.★私は子供の頃が恋しいです。★わたくしはこどものころがこいしいです。
+I miss my childhood.★私は子供の頃が恋しいです。★わたしはこどものころがこいしいです。
 Art is an expression of feelings.★アートは感情の表現です。★あーとはかんじょうのひょうげんです。
 The campaign was launched last month.★キャンペーンは先月開始されました。★きゃんぺーんはせんげつかいしされました。
 This is a private matter.★これは私的な問題です。★これはしてきなもんだいです。
@@ -663,11 +663,11 @@ I couldn't help but notice your talent.★あなたの才能に気付かずに�
 I wonder what the future holds.★将来はどうなるのかな。★しょうらいはどうなるのかな。
 Nature is healing.★自然は癒しです。★しぜんはいやしです。
 The structure is ancient.★その構造は古代のものです。★そのこうぞうはこだいのものです。
-The kids' section is on the second floor.★子供のセクションは2階にあります。★こどものせくしょんはにかいにあります。
+The kids' section is on the second floor.★子供のセクションは2階にあります。★こどものせくしょんは2かいにあります。
 I'll do it myself.★私自身がそれをやります。★わたしじしんがそれをやります。
 That's exactly what I meant.★それこそが私が意味していたことです。★それこそがわたくしがいみしていたことです。
 I'll plant a tree today.★今日、木を植えようと思います。★きょう、きをうえようとおもいます。
-I love to paint landscapes.★私は風景を描くのが好きです。★わたくしはふうけいをえがくのがすきです。
+I love to paint landscapes.★私は風景を描くのが好きです。★わたしはふうけいをえがくのがすきです。
 The worker is diligent.★その労働者は勤勉です。★そのろうどうしゃはきんべんです。
 Press the button to start.★開始するにはボタンを押してください。★かいしするにはぼたんをおしてください。
 Whatever happens, stay calm.★何が起こっても冷静でいてください。★なんがおこってもれいせいでいてください。
@@ -689,7 +689,7 @@ The average score is impressive.★平均スコアは印象的です。★へい
 The stock market is unpredictable.★株市場は予測不可能です。★かぶしじょうはよそくふかのうです。
 Time management is essential.★時間管理は不可欠です。★じかんかんりはふかけつです。
 His character is admirable.★彼の性格は尊敬すべきです。★かれのせいかくはそんけいすべきです。
-I love to read in bed.★私はベッドで読むのが好きです。★わたくしはべっどでよむのがすきです。
+I love to read in bed.★私はベッドで読むのが好きです。★わたしはべっどでよむのがすきです。
 The song was a hit.★その歌はヒットしました。★そのうたはひっとしました。
 They aim to establish a new school.★彼らは新しい学校を設立することを目指しています。★かれらはあたらしいがっこうをせつりつすることをめざしています。
 It was, indeed, a great day.★確かに、素晴らしい日でした。★たしかに、すばらしいひでした。
@@ -718,7 +718,7 @@ I like to spend some time alone.★一人で時間を過ごすのが好きです
 The discovery was significant.★その発見は重要でした。★そのはっけんはじゅうようでした。
 The drug has been approved.★その薬は承認されました。★そのくすりはしょうにんされました。
 The wall has a beautiful mural.★壁には美しい壁画があります。★かべにはうつくしいへきががあります。
-I binge-watched the entire series.★私はそのシリーズ全体を一気に見ました。★わたくしはそのしりーずぜんたいをいっきにみました。
+I binge-watched the entire series.★私はそのシリーズ全体を一気に見ました。★わたしはそのしりーずぜんたいをいっきにみました。
 Direct sunlight can be harmful.★直射日光は有害です。★ちょくしゃにっこうはゆうがいです。
 Hard work is the key to success.★努力は成功の鍵です。★どりょくはせいこうのかぎです。
 Tomorrow is a new day.★明日は新しい日です。★あすはあたらしいひです。
@@ -769,10 +769,10 @@ The link between the two events was clear.★二つのイベントの間の関�
 Despite the challenges, he succeeded.★困難にも関わらず、彼は成功しました。★こんなんにもかかわらず、かれはせいこうしました。
 Let me introduce you to my friend.★私の友人を紹介させてください。★わたくしのゆうじんをしょうかいさせてください。
 The advantage is clear.★利点は明確です。★りてんはめいかくです。
-I'm ready for the challenge.★私は挑戦の準備ができています。★わたくしはちょうせんのじゅんびができています。
+I'm ready for the challenge.★私は挑戦の準備ができています。★わたしはちょうせんのじゅんびができています。
 They will marry next month.★彼らは来月結婚する予定です。★かれらはらいげつけっこんするよていです。
 The workers went on strike.★労働者たちはストライキをしました。★ろうどうしゃたちはすとらいきをしました。
-We walked a mile together.★私たちは一緒に1マイル歩きました。★わたしたちはいっしょにいちまいるあるきました。
+We walked a mile together.★私たちは一緒に1マイル歩きました。★わたしたちはいっしょに1まいるあるきました。
 Seek and you shall find.★探せば見つかるでしょう。★さがせばみつかるでしょう。
 His ability is commendable.★彼の能力は称賛に値します。★かれののうりょくはしょうさんにあたいします。
 The unit is functional.★そのユニットは機能しています。★そのゆにっとはきのうしています。
@@ -805,9 +805,9 @@ The loss of a loved one is profound.★大切な人を失うことは深い悲�
 We shall overcome.★私たちは乗り越えるでしょう。★わたしたちはのりこえるでしょう。
 The house has a modern design.★その家はモダンなデザインです。★そのいえはもだんなでざいんです。
 Pressure can either break or make diamonds.★圧力はダイヤモンドを壊すことも、作ることもできます。★あつりょくはだいやもんどをこわすことも、つくることもできます。
-The bus arrives at 10 am.★バスは午前10時に到着します。★ばすはごぜんいちれいじにとうちゃくします。
+The bus arrives at 10 am.★バスは午前10時に到着します。★ばすはごぜん10じにとうちゃくします。
 The treatment was effective.★その治療は効果的でした。★そのちりょうはこうかてきでした。
-I'll be attending a conference next week.★来週、私は会議に参加する予定です。★らいしゅう、わたくしはかいぎにさんかするよていです。
+I'll be attending a conference next week.★来週、私は会議に参加する予定です。★らいしゅう、わたしはかいぎにさんかするよていです。
 Believe in yourself.★自分を信じなさい。★じぶんをしんじなさい。
 The supply meets the demand.★供給は需要を満たしています。★きょうきゅうはじゅようをみたしています。
 The village is serene and calm.★その村は静かで穏やかです。★そのむらはしずかでおだやかです。
@@ -843,7 +843,7 @@ Advance bookings are available.★事前予約が可能です。★じぜんよ�
 Fill the form carefully.★フォームを慎重に記入してください。★ふぉーむをしんちょうにきにゅうしてください。
 The night sky was full of stars.★夜空は星でいっぱいでした。★よぞらはほしでいっぱいでした。
 Building a strong network is vital.★強固なネットワークを構築することは重要です。★きょうこなねっとわーくをこうちくすることはじゅうようです。
-Generally, I don't prefer spicy food.★一般的に、私は辛い食べ物を好みません。★いっぱんてきに、わたくしはつらいたべものをこのみません。
+Generally, I don't prefer spicy food.★一般的に、私は辛い食べ物を好みません。★いっぱんてきに、わたしはからいたべものをこのみません。
 The operation was successful.★手術は成功しました。★しゅじゅつはせいこうしました。
 The match was exhilarating.★試合は非常に興奮させるものでした。★しあいはひじょうにこうふんさせるものでした。
 Avoid negative thoughts.★ネガティブな考えを避けてください。★ねがてぃぶなかんがえをさけてください。
@@ -864,7 +864,7 @@ Her style is unique.★彼女のスタイルはユニークです。★かのじ
 Refer to the guidebook for instructions.★指示についてはガイドブックを参照してください。★しじについてはがいどぶっくをさんしょうしてください。
 The cold wind blew.★冷たい風が吹きました。★つめたいかぜがふきました。
 Push the door to open.★ドアを押して開けてください。★どあをおしてあけてください。
-I'll be there in a quarter of an hour.★15分後にそこに行きます。★いちごふんごにそこにいきます。
+I'll be there in a quarter of an hour.★15分後にそこに行きます。★15ふんごにそこにいきます。
 Don't assume without knowing.★知らずに仮定しないでください。★しらずにかていしないでください。
 The baby giggled.★赤ちゃんはくすくす笑いました。★あかちゃんはくすくすわらいました。
 A successful person never gives up.★成功した人は決してあきらめません。★せいこうしたひとはけっしてあきらめません。
@@ -944,7 +944,7 @@ The ring sparkled beautifully.★指輪は美しく輝いていました。★�
 Discover the joys of reading.★読む喜びを発見してください。★よむよろこびをはっけんしてください。
 Dead leaves covered the ground.★落ち葉が地面を覆っていました。★おちばがじめんをおおっていました。
 The afternoon sun was warm.★午後の太陽は暖かかったです。★ごごのたいようはあたたかかったです。
-I prefer tea over coffee.★私はコーヒーよりもお茶を好む。★わたくしはこーひーよりもおちゃをこのむ。
+I prefer tea over coffee.★私はコーヒーよりもお茶を好む。★わたしはこーひーよりもおちゃをこのむ。
 Can we extend the meeting?★会議を延長できますか？★かいぎをえんちょうできますか?
 The possibility is endless.★可能性は無限です。★かのうせいはむげんです。
 Follow the direction to reach the destination.★目的地に到達するための方向に従ってください。★もくてきちにとうたつするためのほうこうにしたがってください。
@@ -966,7 +966,7 @@ Neither rain nor shine will deter us.★雨でも晴れでも私たちを妨げ�
 The university campus is vast.★大学のキャンパスは広大です。★だいがくのきゃんぱすはこうだいです。
 She easily solves complex problems.★彼女は複雑な問題を簡単に解決します。★かのじょはふくざつなもんだいをかんたんにかいけつします。
 The agency handled the advertising.★代理店が広告を取り扱いました。★だいりてんがこうこくをとりあつかいました。
-A dollar saved is a dollar earned.★節約された1ドルは稼いだ1ドルです。★せつやくされたいちどるはかせいだいちどるです。
+A dollar saved is a dollar earned.★節約された1ドルは稼いだ1ドルです。★せつやくされた1どるはかせいだ1どるです。
 The garden blooms with flowers.★庭は花で満開です。★にわははなでまんかいです。
 Can you fix this for me?★これを私のために修理してもらえますか？★これをわたくしのためにしゅうりしてもらえますか?
 Look ahead and move forward.★前を見て進んでください。★まえをみてすすんでください。
@@ -979,13 +979,13 @@ The proposal was accepted.★提案は受け入れられました。★ていあ
 This version of the software is better.★このソフトウェアのバージョンはより優れています。★このそふとうぇあのばーじょんはよりすぐれています。
 Our conversation was enlightening.★私たちの会話は啓発的でした。★わたしたちのかいわはけいはつてきでした。
 Somebody left this at the door.★誰かがこれをドアに残しました。★だれかがこれをどあにのこしました。
-A pound of apples costs two dollars.★リンゴ1ポンドは2ドルです。★りんごいちぽんどはにどるです。
+A pound of apples costs two dollars.★リンゴ1ポンドは2ドルです。★りんご1ぽんどは2どるです。
 The magazine features various articles.★その雑誌にはさまざまな記事が掲載されています。★そのざっしにはさまざまなきじがけいさいされています。
 The shape of the lake is unique.★その湖の形はユニークです。★そのみずうみのかたちはゆにーくです。
 The sea is vast and mysterious.★海は広大で神秘的です。★うみはこうだいでしんぴてきです。
 Respond immediately to the emergency.★緊急事態には直ちに対応してください。★きんきゅうじたいにはただちにたいおうしてください。
 Welcome to our home!★私たちの家へようこそ！★わたしたちのいえへようこそ!
-A smile can brighten someone's day.★笑顔は誰かの1日を明るくすることができます。★えがおはだれかのついたちをあかるくすることができます。
+A smile can brighten someone's day.★笑顔は誰かの1日を明るくすることができます。★えがおはだれかの1にちをあかるくすることができます。
 Communication is key in any relationship.★どんな関係においてもコミュニケーションが鍵です。★どんなかんけいにおいてもこみゅにけーしょんがかぎです。
 The agent handled the deal.★代理人が取引を取り扱いました。★だいりにんがとりひきをとりあつかいました。
 Traditional values are deep-rooted.★伝統的な価値観は深く根付いています。★でんとうてきなかちかんはふかくねづいています。
@@ -1000,7 +1000,7 @@ He overcame every difficulty with determination.★彼は決意をもってあ�
 I made a purchase at the bookstore.★本屋で購入しました。★ほんやでこうにゅうしました。
 They will shoot the film next month.★彼らは来月、映画の撮影を行います。★かれらはらいげつ、えいがのさつえいをおこないます。
 They will announce the winner soon.★彼らは間もなく勝者を発表します。★かれらはまもなくしょうしゃをはっぴょうします。
-I won't go unless you come with me.★あなたが一緒に来ないなら、私は行きません。★あなたがいっしょにこないなら、わたくしはいきません。
+I won't go unless you come with me.★あなたが一緒に来ないなら、私は行きません。★あなたがいっしょにこないなら、わたしはいきません。
 She is an independent thinker.★彼女は独立した思考者です。★かのじょはどくりつしたしこうしゃです。
 I highly recommend this book.★この本を強くおすすめします。★このほんをつよくおすすめします。
 The survey results were enlightening.★アンケートの結果は啓発的でした。★あんけーとのけっかはけいはつてきでした。
@@ -1020,7 +1020,7 @@ A warm hug can heal.★温かいハグは癒しになります。★あたたか
 Count your blessings.★あなたの恵みを数えなさい。★あなたのめぐみをかぞえなさい。
 The scene was picturesque.★その光景は絵のようでした。★そのこうけいはえのようでした。
 The writer penned down his thoughts.★作家は彼の考えを書き留めました。★さっかはかれのかんがえをかきとめました。
-I am content with what I have.★私は持っているものに満足しています。★わたくしはもっているものにまんぞくしています。
+I am content with what I have.★私は持っているものに満足しています。★わたしはもっているものにまんぞくしています。
 Vaccination can prevent diseases.★ワクチン接種は病気を予防することができます。★わくちんせっしゅはびょうきをよぼうすることができます。
 Keep the valuables safe.★貴重品を安全に保管してください。★きちょうひんをあんぜんにほかんしてください。
 I'd like to invite you to my party.★あなたを私のパーティーに招待したいです。★あなたをわたくしのぱーてぃーにしょうたいしたいです。
@@ -1029,7 +1029,7 @@ Water is an essential element.★水は不可欠な要素です。★みずは�
 The medicine was effective.★その薬は効果的でした。★そのくすりはこうかてきでした。
 The answer is correct.★答えは正しいです。★こたえはただしいです。
 He underwent a medical check-up.★彼は医学的な検査を受けました。★かれはいがくてきなけんさをうけました。
-I admit my mistake.★私は自分のミスを認めます。★わたくしはじぶんのみすをみとめます。
+I admit my mistake.★私は自分のミスを認めます。★わたしはじぶんのみすをみとめます。
 The heart beat rapidly.★心臓は急速に打っていました。★しんぞうはきゅうそくにうっていました。
 The telephone rang continuously.★電話は絶えず鳴っていました。★でんわはたえずなっていました。
 May I have a copy of the document?★その書類のコピーをもらってもいいですか？★そのしょるいのこぴーをもらってもいいですか?
@@ -1073,7 +1073,7 @@ She is highly qualified.★彼女は非常に資格があります。★かの�
 Trust is the foundation of a relationship.★信頼は関係の基盤です。★しんらいはかんけいのきばんです。
 It's a wonderful day.★素晴らしい日です。★すばらしいひです。
 The flat has a beautiful view.★そのアパートは美しい景色があります。★そのあぱーとはうつくしいけしきがあります。
-I absolutely agree with you.★私は完全にあなたに同意します。★わたくしはかんぜんにあなたにどういします。
+I absolutely agree with you.★私は完全にあなたに同意します。★わたしはかんぜんにあなたにどういします。
 Go with the flow.★まわりに合わせて行動しなさい。★まわりにあわせてこうどうしなさい。
 Life isn't always fair.★人生は常に公平ではありません。★じんせいはつねにこうへいではありません。
 Additional resources are required.★追加のリソースが必要です。★ついかのりそーすがひつようです。
@@ -1109,14 +1109,14 @@ I'll transfer the funds.★資金を振り込みます。★しきんをふり�
 Practice makes perfect.★練習は完璧さを作り出す。★れんしゅうはかんぺきさをつくりだす。
 Adjust it slightly to the right.★少し右に調整してください。★すこしみぎにちょうせいしてください。
 The overall performance was commendable.★全体的なパフォーマンスは称賛に値する。★ぜんたいてきなぱふぉーまんすはしょうさんにあたいする。
-I intend to visit the museum.★私は博物館を訪れるつもりです。★わたくしははくぶつかんをおとずれるつもりです。
+I intend to visit the museum.★私は博物館を訪れるつもりです。★わたしははくぶつかんをおとずれるつもりです。
 The user interface is intuitive.★ユーザーインターフェースは直感的です。★ゆーざーいんたーふぇーすはちょっかんてきです。
 Kindly respond to the query.★お問い合わせに親切に対応してください。★おといあわせにしんせつにたいおうしてください。
 Let's have dinner together.★一緒に夕食をとりましょう。★いっしょにゆうしょくをとりましょう。
 Slow and steady wins the race.★着実な進行がレースを制する。★ちゃくじつなしんこうがれーすをせいする。
 Regular exercise is beneficial.★定期的な運動は有益です。★ていきてきなうんどうはゆうえきです。
 Physical health is crucial.★身体の健康は非常に重要です。★しんたいのけんこうはひじょうにじゅうようです。
-The two cities are miles apart.★その2つの都市は何マイルも離れています。★そのふつつのとしはなんまいるもはなれています。
+The two cities are miles apart.★その2つの都市は何マイルも離れています。★その2つのとしはなんまいるもはなれています。
 The suit fits him perfectly.★スーツが彼にぴったり合っています。★すーつがかれにぴったりあっています。
 Federal laws apply to all states.★連邦法はすべての州に適用されます。★れんぽうほうはすべてのしゅうにてきようされます。
 He didn't reveal the surprise.★彼は驚きを明かさなかった。★かれはおどろきをあかさなかった。
@@ -1125,7 +1125,7 @@ Peace is precious.★平和は貴重です。★へいわはきちょうです�
 Check the status of your application.★申し込みの状況を確認してください。★もうしこみのじょうきょうをかくにんしてください。
 Crime rates have decreased.★犯罪率は減少しました。★はんざいりつはげんしょうしました。
 There's a decline in sales.★売上が減少しています。★うりあげがげんしょうしています。
-It's been a decade since we met.★私たちが会ってから10年が経ちました。★わたしたちがあってからいちれいねんがたちました。
+It's been a decade since we met.★私たちが会ってから10年が経ちました。★わたしたちがあってから10ねんがたちました。
 They'll launch the product next month.★彼らは来月、製品を発売します。★かれらはらいげつ、せいひんをはつばいします。
 Warn them about the consequences.★彼らに結果について警告しなさい。★かれらにけっかについてけいこくしなさい。
 Consumer satisfaction is essential.★消費者の満足度は不可欠です。★しょうひしゃのまんぞくどはふかけつです。
@@ -1140,7 +1140,7 @@ The heat is unbearable.★その暑さは耐えられない。★そのあつさ
 The news did not excite him.★そのニュースは彼を興奮させませんでした。★そのにゅーすはかれをこうふんさせませんでした。
 The author thanked his readers.★著者は彼の読者に感謝しました。★ちょしゃはかれのどくしゃにかんしゃしました。
 Health is of utmost importance.★健康は最も重要です。★けんこうはもっともじゅうようです。
-The distance between the towns is 50 miles.★町同士の距離は50マイルです。★まちどうしのきょりはごれいまいるです。
+The distance between the towns is 50 miles.★町同士の距離は50マイルです。★まちどうしのきょりは50まいるです。
 Let me guide you through the process.★プロセスを通してあなたを導かせてください。★ぷろせすをとおしてあなたをみちびかせてください。
 The grant was approved.★補助金が承認されました。★ほじょきんがしょうにんされました。
 I'll take a taxi to the airport.★空港までタクシーで行きます。★くうこうまでたくしーでいきます。
@@ -1173,7 +1173,7 @@ Trees surrounded the house.★木々が家を囲んでいた。★きぎがい�
 To what extent can you help?★どの程度助けることができますか？★どのていどたすけることができますか?
 The river flowed calmly.★川は穏やかに流れていた。★かわはおだやかにながれていた。
 The annual fest is next month.★年次祭りは来月だ。★ねんじまつりはらいげつだ。
-I'm fully aware of the consequences.★私は結果を十分に理解しています。★わたくしはけっかをじゅうぶんにりかいしています。
+I'm fully aware of the consequences.★私は結果を十分に理解しています。★わたしはけっかをじゅうぶんにりかいしています。
 The contrast between the images was stark.★画像間のコントラストははっきりしていた。★がぞうかんのこんとらすとははっきりしていた。
 Roll the dough into a ball.★生地を丸めてボールにしなさい。★きじをまるめてぼーるにしなさい。
 Reality can be stranger than fiction.★現実は小説より奇妙なことがある。★げんじつはしょうせつよりきみょうなことがある。
@@ -1185,7 +1185,7 @@ His presence is always comforting.★彼の存在はいつも心強い。★か�
 The crowd cheered loudly.★群衆は大声で歓声を上げた。★ぐんしゅうはおおごえでかんせいをあげた。
 The shop is around the corner.★その店は角を曲がったところにある。★そのみせはかどをまがったところにある。
 The car ran out of gas.★車のガソリンがなくなった。★くるまのがそりんがなくなった。
-The shift ends at 5 pm.★シフトは午後5時に終わる。★しふとはごごごじにおわる。
+The shift ends at 5 pm.★シフトは午後5時に終わる。★しふとはごご5じにおわる。
 The net profit was satisfactory.★純利益は満足のいくものだった。★じゅんりえきはまんぞくのいくものだった。
 Choose the correct category.★正しいカテゴリを選びなさい。★ただしいかてごりをえらびなさい。
 The secretary organized the files.★秘書はファイルを整理した。★ひしょはふぁいるをせいりした。
@@ -1244,7 +1244,7 @@ The mountain peak was snow-capped.★山の頂上は雪で覆われていた。�
 Don't waste food.★食べ物を無駄にしないでください。★たべものをむだにしないでください。
 He tried to hide the surprise.★彼は驚きを隠そうとした。★かれはおどろきをかくそうとした。
 Marriage is a beautiful journey.★結婚は美しい旅です。★けっこんはうつくしいたびです。
-I bought a ticket for the concert.★私はコンサートのチケットを買いました。★わたくしはこんさーとのちけっとをかいました。
+I bought a ticket for the concert.★私はコンサートのチケットを買いました。★わたしはこんさーとのちけっとをかいました。
 The meal was delicious.★食事はおいしかった。★しょくじはおいしかった。
 My colleague is transferring to another branch.★私の同僚は別の支店に転勤します。★わたくしのどうりょうはべつのしてんにてんきんします。
 She bought a new bag.★彼女は新しいバッグを買いました。★かのじょはあたらしいばっぐをかいました。
@@ -1263,7 +1263,7 @@ Connect the dots to see the picture.★点をつないで絵を見てくださ�
 The cultural fest was vibrant.★文化祭は活気に満ちていた。★ぶんかさいはかっきにみちていた。
 Arrange the books in alphabetical order.★本をアルファベット順に並べてください。★ほんをあるふぁべっとじゅんにならべてください。
 The scheme benefited many.★その計画は多くの人々に恩恵をもたらしました。★そのけいかくはおおくのひとびとにおんけいをもたらしました。
-I made the payment online.★私はオンラインで支払いをしました。★わたくしはおんらいんでしはらいをしました。
+I made the payment online.★私はオンラインで支払いをしました。★わたしはおんらいんでしはらいをしました。
 Unfortunately, the event was canceled.★残念ながら、イベントはキャンセルされました。★ざんねんながら、いべんとはきゃんせるされました。
 Give me a brief summary.★簡単な要約をしてください。★かんたんなようやくをしてください。
 The bird sang melodiously.★鳥は美しい旋律で歌った。★とりはうつくしいせんりつでうたった。
@@ -1303,9 +1303,9 @@ We took a boat ride across the lake.★我々は湖をボートで渡った。�
 The country sent aid to the disaster-stricken region.★その国は災害に見舞われた地域に援助を送った。★そのくにはさいがいにみまわれたちいきにえんじょをおくった。
 The fan circulates air in the room.★扇風機は部屋の中の空気を循環させる。★せんぷうきはへやのなかのくうきをじゅんかんさせる。
 The kitchen was filled with the aroma of baked goods.★キッチンは焼き菓子の香りで満たされていた。★きっちんはやきかしのかおりでみたされていた。
-I visited the museum twice last year.★私は昨年、博物館を2回訪れた。★わたくしはさくねん、はくぶつかんをにかいおとずれた。
-I love the taste of fresh fruits.★私は新鮮な果物の味が大好きです。★わたくしはしんせんなくだもののあじがだいすきです。
-The flight had a three-hour delay.★そのフライトは3時間の遅延があった。★そのふらいとはさんじかんのちえんがあった。
+I visited the museum twice last year.★私は昨年、博物館を2回訪れた。★わたしはさくねん、はくぶつかんを2かいおとずれた。
+I love the taste of fresh fruits.★私は新鮮な果物の味が大好きです。★わたしはしんせんなくだもののあじがだいすきです。
+The flight had a three-hour delay.★そのフライトは3時間の遅延があった。★そのふらいとは3じかんのちえんがあった。
 Safety should always be a priority.★安全は常に最優先事項であるべきです。★あんぜんはつねにさいゆうせんじこうであるべきです。
 The engineer designed a robust bridge.★そのエンジニアは頑丈な橋を設計した。★そのえんじにあはがんじょうなはしをせっけいした。
 The library was quiet and peaceful.★図書館は静かで平和だった。★としょかんはしずかでへいわだった。
@@ -1314,7 +1314,7 @@ The nurse took care of the patients diligently.★その看護師は患者の世
 Divide the cake into equal parts.★ケーキを等しい部分に分けてください。★けーきをひとしいぶぶんにわけてください。
 The length of the river is impressive.★その川の長さは印象的だ。★そのかわのながさはいんしょうてきだ。
 The police started an investigation into the case.★警察はその事件の捜査を開始した。★けいさつはそのじけんのそうさをかいしした。
-I received a package this morning.★今朝、私は荷物を受け取った。★けさ、わたくしはにもつをうけとった。
+I received a package this morning.★今朝、私は荷物を受け取った。★けさ、わたしはにもつをうけとった。
 Let's go somewhere peaceful this weekend.★今週末はどこか平和な場所に行こう。★こんしゅうまつはどこかへいわなばしょにいこう。
 The company plans to expand its operations.★その会社は業務を拡大する予定だ。★そのかいしゃはぎょうむをかくだいするよていだ。
 Commit to your goals and dreams.★あなたの目標と夢にコミットしてください。★あなたのもくひょうとゆめにこみっとしてください。
@@ -1335,7 +1335,7 @@ The pool was refreshing in the summer heat.★夏の暑さの中でプールは�
 The warriors prepared for the battle.★戦士たちは戦いの準備をした。★せんしたちはたたかいのじゅんびをした。
 The festival is a cherished tradition.★その祭りは大切にされている伝統です。★そのまつりはたいせつにされているでんとうです。
 Do you have enough cash?★十分な現金を持っていますか？★じゅうぶんなげんきんをもっていますか?
-I hardly knew anyone at the party.★パーティーで私はほとんど誰も知らなかった。★ぱーてぃーでわたくしはほとんどだれもしらなかった。
+I hardly knew anyone at the party.★パーティーで私はほとんど誰も知らなかった。★ぱーてぃーでわたしはほとんどだれもしらなかった。
 She won an award for her performance.★彼女はそのパフォーマンスで賞を受賞した。★かのじょはそのぱふぉーまんすでしょうをじゅしょうした。
 The coach trained the athletes rigorously.★コーチはアスリートたちを厳しくトレーニングした。★こーちはあすりーとたちをきびしくとれーにんぐした。
 The scientist conducted an experiment.★科学者は実験を行った。★かがくしゃはじっけんをおこなった。
@@ -1367,7 +1367,7 @@ Wash your hands frequently.★こまめに手を洗ってください。★こ�
 The actor delivered a stellar performance.★その俳優は素晴らしい演技を見せた。★そのはいゆうはすばらしいえんぎをみせた。
 I'm glad you came.★きてくれて嬉しいです。★きてくれてうれしいです。
 Use the tape to seal the box.★テープを使って箱を封をする。★てーぷをつかってばこをふうをする。
-He loves coffee, whereas I prefer tea.★彼はコーヒーが好きですが、私はお茶の方が好きです。★かれはこーひーがすきですが、わたくしはおちゃのほうがすきです。
+He loves coffee, whereas I prefer tea.★彼はコーヒーが好きですが、私はお茶の方が好きです。★かれはこーひーがすきですが、わたしはおちゃのほうがすきです。
 The bank is opposite the supermarket.★銀行はスーパーマーケットの向かいにあります。★ぎんこうはすーぱーまーけっとのむかいにあります。
 The stone was carved intricately.★石は緻密に彫られていた。★いしはちみつにほられていた。
 The sum of all efforts led to success.★すべての努力の合計が成功につながった。★すべてのどりょくのごうけいがせいこうにつながった。
@@ -1391,7 +1391,7 @@ The company manufactures electronics.★その会社は電子機器を製造し�
 The theater was packed.★劇場は満員だった。★げきじょうはまんいんだった。
 Cycling is good for health.★サイクリングは健康に良い。★さいくりんぐはけんこうによい。
 A cup of coffee kickstarts my day.★コーヒー一杯で私の一日が始まる。★こーひーいっぱいでわたくしのついたちがはじまる。
-I'm totally in favor of this idea.★私は完全にこの考えを支持しています。★わたくしはかんぜんにこのかんがえをしじしています。
+I'm totally in favor of this idea.★私は完全にこの考えを支持しています。★わたしはかんぜんにこのかんがえをしじしています。
 The museum houses ancient artifacts.★その博物館には古代の工芸品が展示されている。★そのはくぶつかんにはこだいのこうげいひんがてんじされている。
 The visitor was from a foreign land.★訪問者は外国から来た。★ほうもんしゃはがいこくからきた。
 Freedom is a fundamental right.★自由は基本的な権利だ。★じゆうはきほんてきなけんりだ。
@@ -1457,7 +1457,7 @@ The issue seems to be technical in nature.★その問題は技術的な性質�
 Let me remind you of our agreement.★私たちの合意を思い出させてください。★わたしたちのごういをおもいださせてください。
 The floral arrangement was exquisite.★花のアレンジメントは絶品だった。★はなのあれんじめんとはぜっぴんだった。
 Apply sunscreen to protect your skin.★日焼け止めを塗って肌を守ってください。★ひやけとめをぬってはだをまもってください。
-He was sentenced to ten years in prison.★彼は10年の懲役刑を宣告された。★かれはいちれいねんのちょうえきけいをせんこくされた。
+He was sentenced to ten years in prison.★彼は10年の懲役刑を宣告された。★かれは10ねんのちょうえきけいをせんこくされた。
 Switch off the lights when not in use.★使用していない時は電気を消してください。★しようしていないときはでんきをけしてください。
 The company wants to acquire the startup.★その会社はスタートアップを買収したいと考えている。★そのかいしゃはすたーとあっぷをばいしゅうしたいとかんがえている。
 Corporate culture varies from one company to another.★企業文化は会社によって異なる。★きぎょうぶんかはかいしゃによってことなる。
@@ -1480,13 +1480,13 @@ There are regulations in place for safety.★安全のための規制がある�
 The bird managed to escape the cage.★その鳥はかごから逃げることに成功した。★そのとりはかごからにげることにせいこうした。
 The artist worked in his studio.★アーティストは彼のスタジオで働いた。★あーてぃすとはかれのすたじおではたらいた。
 Proper planning is essential.★適切な計画が不可欠である。★てきせつなけいかくがふかけつである。
-It's the weekend; time to relax.★週末です；リラックスする時間です。★しゅうまつですきごうりらっくすするじかんです。
+It's the weekend; time to relax.★週末です；リラックスする時間です。★しゅうまつです;りらっくすするじかんです。
 The city is a popular tourist destination.★その都市は人気の観光地です。★そのとしはにんきのかんこうちです。
 Each component is essential for the device.★各部品はそのデバイスにとって必要不可欠である。★かくぶひんはそのでばいすにとってひつようふかけつである。
-I can't afford the luxury car.★私は高級車を手に入れる余裕がない。★わたくしはこうきゅうしゃをてにいれるよゆうがない。
+I can't afford the luxury car.★私は高級車を手に入れる余裕がない。★わたしはこうきゅうしゃをてにいれるよゆうがない。
 The lawyer presented the case well.★弁護士はその事件を上手く提示した。★べんごしはそのじけんをうまくていじした。
 The detective had a prime suspect.★探偵は主要な容疑者を持っていた。★たんていはしゅようなようぎしゃをもっていた。
-A cup of tea refreshes me.★一杯のお茶で私はさっぱりする。★いちばいのおちゃでわたくしはさっぱりする。
+A cup of tea refreshes me.★一杯のお茶で私はさっぱりする。★いちばいのおちゃでわたしはさっぱりする。
 The description was vivid and detailed.★説明は鮮明で詳しかった。★せつめいはせんめいでくわしかった。
 Confidence is key to success.★自信は成功の鍵である。★じしんはせいこうのかぎである。
 The industrial area was buzzing with activity.★工業地域は活気に満ちていた。★こうぎょうちいきはかっきにみちていた。
@@ -1503,7 +1503,7 @@ Make sure your comments are relevant to the topic.★あなたのコメントが
 Let's explore the city together.★一緒に都市を探機しましょう。★いっしょにとしをもとむきしましょう。
 Her leadership skills are commendable.★彼女のリーダーシップスキルは称賛に値します。★かのじょのりーだーしっぷすきるはしょうさんにあたいします。
 He shows great commitment to his work.★彼は彼の仕事に大きな献身を見せています。★かれはかれのしごとにおおきなけんしんをみせています。
-I wake up early every morning.★私は毎朝早起きします。★わたくしはまいあさはやおきします。
+I wake up early every morning.★私は毎朝早起きします。★わたしはまいあさはやおきします。
 It's not necessarily the best approach.★それが最善の方法であるとは限りません。★それがさいぜんのほうほうであるとはかぎりません。
 The future looks bright for her.★彼女の未来は明るいようです。★かのじょのみらいはあかるいようです。
 The picture frame enhances the photo's beauty.★額縁は写真の美しさを引き立てます。★がくぶちはしゃしんのうつくしさをひきたてます。
@@ -1527,7 +1527,7 @@ Read the label before using the product.★製品を使用する前にラベル�
 The root of the problem must be addressed.★問題の根本原因に対処しなければなりません。★もんだいのこんぽんげんいんにたいしょしなければなりません。
 The factory produces thousands of units daily.★工場は毎日数千のユニットを生産します。★こうじょうはまいにちすうせんのゆにっとをせいさんします。
 Traveling often comes with added expense.★旅行はしばしば追加の費用がかかります。★りょこうはしばしばついかのひようがかかります。
-The channel broadcasts news 24・7.★そのチャンネルは24・7ニュースを放送しています。★そのちゃんねるはによん・ななにゅーすをほうそうしています。
+The channel broadcasts news 24・7.★そのチャンネルは24・7ニュースを放送しています。★そのちゃんねるは24・7にゅーすをほうそうしています。
 The detective will investigate the matter.★探偵がその問題を調査します。★たんていがそのもんだいをちょうさします。
 Do you have a recommendation for a good book?★良い本のおすすめはありますか？★よいほんのおすすめはありますか?
 She holds a high rank in the army.★彼女は軍で高い地位を持っています。★かのじょはぐんでたかいちいをもっています。
@@ -1542,7 +1542,7 @@ The country exports many goods overseas.★その国は多くの商品を海外�
 The story is entirely fictional.★その話は完全にフィクションです。★そのはなしはかんぜんにふぃくしょんです。
 I strongly disagree with his viewpoint.★彼の見解には強く反対です。★かれのけんかいにはつよくはんたいです。
 The bridge connects the two cities.★その橋は二つの都市を結んでいます。★そのはしはふたつのとしをむすんでいます。
-The meal consists of three courses.★その食事は3つのコースから成り立っています。★そのしょくじはみっつのこーすからなりたっています。
+The meal consists of three courses.★その食事は3つのコースから成り立っています。★そのしょくじは3つのこーすからなりたっています。
 She will graduate from university next year.★彼女は来年、大学を卒業します。★かのじょはらいねん、だいがくをそつぎょうします。
 It's a well-known brand worldwide.★それは世界中でよく知られたブランドです。★それはせかいじゅうでよくしられたぶらんどです。
 The story teaches a moral lesson.★その話は道徳的な教訓を教えてくれます。★そのはなしはどうとくてきなきょうくんをおしえてくれます。
@@ -1552,8 +1552,8 @@ Substance abuse is a serious issue.★薬物乱用は深刻な問題です。★
 I'd like some ice in my drink.★私のドリンクに氷を入れてほしい。★わたくしのどりんくにこおりをいれてほしい。
 The principal addressed the students in the morning assembly.★校長は朝の集会で生徒たちに話しかけました。★こうちょうはあさのしゅうかいでせいとたちにはなしかけました。
 He is a master of his craft.★彼は彼の技術の達人です。★かれはかれのぎじゅつのたつじんです。
-I will definitely attend the event.★私は確実にそのイベントに参加します。★わたくしはかくじつにそのいべんとにさんかします。
-The therapy session lasted an hour.★セラピーのセッションは1時間続きました。★せらぴーのせっしょんはいちじかんつづきました。
+I will definitely attend the event.★私は確実にそのイベントに参加します。★わたしはかくじつにそのいべんとにさんかします。
+The therapy session lasted an hour.★セラピーのセッションは1時間続きました。★せらぴーのせっしょんは1じかんつづきました。
 She got the highest grade in the class.★彼女はクラスで最高の成績を受け取りました。★かのじょはくらすでさいこうのせいせきをうけとりました。
 It was raining; nevertheless, they played the match.★雨が降っていたが、それにも関わらず彼らは試合を行いました。★あめがふっていたが、それにもかかわらずかれらはしあいをおこないました。
 It's hard to predict the weather.★天気を予測するのは難しい。★てんきをよそくするのはむずかしい。
@@ -1565,11 +1565,11 @@ They rent an apartment downtown.★彼らはダウンタウンのアパートを
 The photographer took a perfect shot.★写真家は完璧なショットを撮りました。★しゃしんかはかんぺきなしょっとをとりました。
 Appearance can be deceptive.★外見は騙されやすい。★がいけんはだまされやすい。
 The price is quite reasonable.★価格はかなり妥当です。★かかくはかなりだとうです。
-The product comes with a one-year guarantee.★その製品には1年間の保証がついています。★そのせいひんにはいちねんかんのほしょうがついています。
+The product comes with a one-year guarantee.★その製品には1年間の保証がついています。★そのせいひんには1ねんかんのほしょうがついています。
 Wait here till I return.★私が戻るまでここで待ってください。★わたくしがもどるまでここでまってください。
 The theme of the party is retro.★パーティのテーマはレトロです。★ぱーてぃのてーまはれとろです。
 Trust your judgment.★あなたの判断を信じてください。★あなたのはんだんをしんじてください。
-The odd numbers are 1, 3, 5, and so on.★奇数は1、3、5などです。★きすうはいち、さん、ごなどです。
+The odd numbers are 1, 3, 5, and so on.★奇数は1、3、5などです。★きすうは1、3、5などです。
 The manager needs to approve the proposal.★マネージャーは提案を承認する必要があります。★まねーじゃーはていあんをしょうにんするひつようがあります。
 They took a loan to buy the house.★彼らは家を買うためのローンを組みました。★かれらはいえをかうためのろーんをくみました。
 The definition is given in the dictionary.★定義は辞書に与えられています。★ていぎはじしょにあたえられています。
@@ -1579,7 +1579,7 @@ The farmer works hard in the fields.★農民は畑で一生懸命働いてい�
 The comparison between the two is stark.★二つの比較ははっきりしています。★ふたつのひかくははっきりしています。
 One characteristic of a leader is decisiveness.★リーダーの特性の一つは決断力です。★りーだーのとくせいのひとつはけつだんりょくです。
 You need a license to drive.★運転するには免許が必要です。★うんてんするにはめんきょがひつようです。
-I rely on my alarm to wake up on time.★私は時間通りに起きるためにアラームに頼っています。★わたくしはじかんどおりにおきるためにあらーむにたよっています。
+I rely on my alarm to wake up on time.★私は時間通りに起きるためにアラームに頼っています。★わたしはじかんどおりにおきるためにあらーむにたよっています。
 The narrow alley led to the main road.★狭い路地が大通りに続いていました。★せまいろじがおおどおりにつづいていました。
 Hard work is essential to succeed.★成功するためには一生懸命の努力が必要です。★せいこうするためにはいっしょうけんめいのどりょくがひつようです。
 Protect your identity online.★オンラインでのあなたの身元を守ってください。★おんらいんでのあなたのみもとをまもってください。
@@ -1635,7 +1635,7 @@ She found a tiny kitten on the street.★彼女は通りで小さな子猫を見
 Be careful while crossing the road.★道路を渡るときは注意してください。★どうろをわたるときはちゅういしてください。
 Find a suitable time for the meeting.★会議に適切な時間を見つけてください。★かいぎにてきせつなじかんをみつけてください。
 English is not my native language.★英語は私の母国語ではありません。★えいごはわたくしのぼこくごではありません。
-I love eating fresh fruit in the summer.★私は夏に新鮮な果物を食べるのが好きです。★わたくしはなつにしんせんなくだものをたべるのがすきです。
+I love eating fresh fruit in the summer.★私は夏に新鮮な果物を食べるのが好きです。★わたしはなつにしんせんなくだものをたべるのがすきです。
 We need to analyze the data before drawing conclusions.★結論を出す前にデータを分析する必要があります。★けつろんをだすまえにでーたをぶんせきするひつようがあります。
 He was a witness to the accident.★彼はその事故の目撃者でした。★かれはそのじこのもくげきしゃでした。
 The mail arrived late today.★今日、郵便物が遅れて届きました。★きょう、ゆうびんぶつがおくれてとどきました。
@@ -1650,7 +1650,7 @@ His vision for the company is innovative.★彼の会社に対するビジョン
 Her vibrant personality lights up the room.★彼女の鮮やかな性格は部屋を明るくします。★かのじょのあざやかなせいかくはへやをあかるくします。
 This tool is specifically designed for that task.★このツールは、そのタスクのために特別に設計されています。★このつーるは、そのたすくのためにとくべつにせっけいされています。
 Avocado is a source of healthy fat.★アボカドは健康的な脂質の源です。★あぼかどはけんこうてきなししつのみなもとです。
-The entry fee for the museum is ten dollars.★博物館の入場料は10ドルです。★はくぶつかんのにゅうじょうりょうはいちれいどるです。
+The entry fee for the museum is ten dollars.★博物館の入場料は10ドルです。★はくぶつかんのにゅうじょうりょうは10どるです。
 My fellow colleagues are supportive.★私の同僚たちは支援的です。★わたくしのどうりょうたちはしえんてきです。
 The lab contains many chemical substances.★実験室には多くの化学物質が含まれています。★じっけんしつにはおおくのかがくぶっしつがふくまれています。
 The photographer managed to capture the moment perfectly.★写真家はその瞬間を完璧にキャッチすることができました。★しゃしんかはそのしゅんかんをかんぺきにきゃっちすることができました。
@@ -1658,10 +1658,10 @@ Always leave a tip for good service.★良いサービスには常にチップ�
 There's a discount on select items.★選択された商品には割引があります。★せんたくされたしょうひんにはわりびきがあります。
 The peak of the mountain was covered in snow.★山の頂上は雪で覆われていました。★やまのちょうじょうはゆきでおおわれていました。
 The chairman presided over the meeting.★議長が会議を主宰しました。★ぎちょうがかいぎをしゅさいしました。
-The proportion of water to sugar should be 2:1.★水と砂糖の比率は2:1でなければなりません。★みずとさとうのひりつはにきごういちでなければなりません。
+The proportion of water to sugar should be 2:1.★水と砂糖の比率は2:1でなければなりません。★みずとさとうのひりつは2:1でなければなりません。
 He whispered something in her ear.★彼は彼女の耳に何かをささやきました。★かれはかのじょのみみになんかをささやきました。
 The sun will disappear behind the clouds.★太陽は雲の後ろに消えるでしょう。★たいようはくものうしろにきえるでしょう。
-Don't shout; I can hear you.★叫ばないで、私はあなたの声が聞こえます。★さけばないで、わたくしはあなたのこえがきこえます。
+Don't shout; I can hear you.★叫ばないで、私はあなたの声が聞こえます。★さけばないで、わたしはあなたのこえがきこえます。
 The kids played in the yard.★子供たちは庭で遊びました。★こどもたちはにわであそびました。
 His constant support means a lot.★彼の絶えずのサポートは大変意味があります。★かれのたえずのさぽーとはたいへんいみがあります。
 The prices have risen significantly.★価格は大幅に上昇しました。★かかくはおおはばにじょうしょうしました。
@@ -1706,7 +1706,7 @@ It's wrong to steal.★盗むことは間違っています。★ぬすむこと
 They held a protest against the new law.★彼らは新しい法律に対して抗議を行いました。★かれらはあたらしいほうりつにたいしてこうぎをおこないました。
 Check the index for the topic you're looking for.★探しているトピックのための索引を確認してください。★さがしているとぴっくのためのさくいんをかくにんしてください。
 The news made him very sad.★そのニュースは彼をとても悲しくさせました。★そのにゅーすはかれをとてもかなしくさせました。
-I visit that cafe frequently.★私はそのカフェを頻繁に訪れます。★わたくしはそのかふぇをひんぱんにおとずれます。
+I visit that cafe frequently.★私はそのカフェを頻繁に訪れます。★わたしはそのかふぇをひんぱんにおとずれます。
 Draw a perfect circle.★完璧な円を描いてください。★かんぺきなえんをえがいてください。
 The guide was very helpful.★ガイドはとても役に立ちました。★がいどはとてもやくにたちました。
 He has a good command of the language.★彼はその言語をよく理解しています。★かれはそのげんごをよくりかいしています。
@@ -1724,7 +1724,7 @@ Besides math, he also teaches physics.★彼は数学の他にも物理を教え
 Ensure you store the medicine properly.★薬を適切に保管することを確認してください。★くすりをてきせつにほかんすることをかくにんしてください。
 The museum displayed ancient artifacts.★博物館は古代の工芸品を展示していました。★はくぶつかんはこだいのこうげいひんをてんじしていました。
 The coast was lined with beautiful palm trees.★海岸沿いには美しいヤシの木が並んでいました。★かいがんそいにはうつくしいやしのきがならんでいました。
-He's been ill for a week.★彼は1週間病気でした。★かれはいちしゅうかんびょうきでした。
+He's been ill for a week.★彼は1週間病気でした。★かれは1しゅうかんびょうきでした。
 He gave the ball a strong kick.★彼はボールを強く蹴りました。★かれはぼーるをつよくけりました。
 Look closely at the painting.★絵をよく見てください。★えをよくみてください。
 There are multiple solutions to this problem.★この問題には複数の解決策があります。★このもんだいにはふくすうのかいけつさくがあります。
@@ -1760,11 +1760,11 @@ The doctor prescribed some medicine for her cold.★医師は彼女の風邪の�
 The professor gave an insightful lecture.★教授は洞察に富んだ講義を行いました。★きょうじゅはどうさつにとんだこうぎをおこないました。
 It's rare to find such antiques nowadays.★今日では、そうした骨董品を見つけることは珍しいです。★きょうでは、そうしたこっとうひんをみつけることはめずらしいです。
 His intention was to help, not to harm.★彼の意図は助けることであり、害を及ぼすことではありませんでした。★かれのいとはたすけることであり、がいをおよぼすことではありませんでした。
-She bought a dozen roses for her mother.★彼女は母親のために1ダースのバラを買いました。★かのじょはははおやのためにいちだーすのばらをかいました。
+She bought a dozen roses for her mother.★彼女は母親のために1ダースのバラを買いました。★かのじょはははおやのために1だーすのばらをかいました。
 The two parties reached a settlement.★両当事者は和解に達しました。★りょうとうじしゃはわかいにたっしました。
 There's a gap in the market for such products.★そのような製品の市場にはギャップがあります。★そのようなせいひんのしじょうにはぎゃっぷがあります。
 The book is widely read around the world.★その本は世界中で広く読まれています。★そのほんはせかいじゅうでひろくよまれています。
-The minimum age to vote is 18.★投票する最低年齢は18歳です。★とうひょうするさいていねんれいはいちはちさいです。
+The minimum age to vote is 18.★投票する最低年齢は18歳です。★とうひょうするさいていねんれいは18さいです。
 The northern regions experience colder temperatures.★北部地域はより寒い気温を経験します。★ほくぶちいきはよりさむいきおんをけいけんします。
 He inherited a large estate from his ancestors.★彼は先祖から大きな土地を相続しました。★かれはせんぞからおおきなとちをそうぞくしました。
 The resources were distributed equally among the teams.★リソースはチーム間で均等に分配されました。★りそーすはちーむかんできんとうにぶんぱいされました。
@@ -1782,14 +1782,14 @@ He expressed his emotion through the song.★彼はその歌を通して彼の�
 She decided to pursue a career in medicine.★彼女は医学のキャリアを追求することを決めました。★かのじょはいがくのきゃりあをついきゅうすることをきめました。
 He's the tallest person in the family.★彼は家族で一番背が高い人です。★かれはかぞくでいちばんせがたかいひとです。
 I had the urge to eat something sweet.★何か甘いものを食べたいという衝動がありました。★なんかあまいものをたべたいというしょうどうがありました。
-The two countries were once enemies but are now allies.★その2つの国はかつて敵でしたが、今は同盟国です。★そのふつつのくにはかつててきでしたが、いまはどうめいこくです。
-She was appointed as the new CEO.★彼女は新しいCEOとして任命されました。★かのじょはあたらしいしーいーおーとしてにんめいされました。
+The two countries were once enemies but are now allies.★その2つの国はかつて敵でしたが、今は同盟国です。★その2つのこくはかつててきでしたが、いまはどうめいこくです。
+She was appointed as the new CEO.★彼女は新しいCEOとして任命されました。★かのじょはあたらしいCEOとしてにんめいされました。
 Would you like some milk in your coffee?★コーヒーにミルクを入れますか？★こーひーにみるくをいれますか?
 Her talent for singing was evident from a young age.★彼女の歌の才能は若い頃から明らかでした。★かのじょのうたのさいのうはわかいころからあきらかでした。
-I love the smell of fresh bread.★私は新鮮なパンの香りが大好きです。★わたくしはしんせんなぱんのかおりがだいすきです。
+I love the smell of fresh bread.★私は新鮮なパンの香りが大好きです。★わたしはしんせんなぱんのかおりがだいすきです。
 Prior experience is necessary for this job.★この仕事には以前の経験が必要です。★このしごとにはいぜんのけいけんがひつようです。
 Health should always be a priority.★健康は常に優先されるべきです。★けんこうはつねにゆうせんされるべきです。
-I bought the dress online.★私はそのドレスをオンラインで購入しました。★わたくしはそのどれすをおんらいんでこうにゅうしました。
+I bought the dress online.★私はそのドレスをオンラインで購入しました。★わたしはそのどれすをおんらいんでこうにゅうしました。
 This phrase is commonly used in English.★このフレーズは英語でよく使われます。★このふれーずはえいごでよくつかわれます。
 The pilot safely landed the plane.★パイロットは無事に飛行機を着陸させました。★ぱいろっとはぶじにひこうきをちゃくりくさせました。
 The economy is now stable after a period of recession.★不景気の期間の後、経済は今安定しています。★ふけいきのきかんのあと、けいざいはいまあんていしています。
@@ -1814,7 +1814,7 @@ Plant the seed and watch it grow.★種を植えて成長するのを見てく�
 His salary increased after the promotion.★彼の給与は昇進後に増加しました。★かれのきゅうよはしょうしんごにぞうかしました。
 The examples illustrate the concept clearly.★例はその概念を明確に示しています。★れいはそのがいねんをめいかくにしめしています。
 His tone seemed to imply he didn't believe me.★彼の口調は、彼が私を信じていないことを示唆しているようでした。★かれのくちょうは、かれがわたくしをしんじていないことをしさしているようでした。
-Breakfast is the most important meal of the day.★朝食は1日の中で最も重要な食事です。★ちょうしょくはいちにちのなかでもっともじゅうようなしょくじです。
+Breakfast is the most important meal of the day.★朝食は1日の中で最も重要な食事です。★ちょうしょくは1にちのなかでもっともじゅうようなしょくじです。
 The solution is only temporary.★その解決策は一時的なものだけです。★そのかいけつさくはいちじてきなものだけです。
 She has liberal views on social issues.★彼女は社会問題に対して自由主義的な見解を持っています。★かのじょはしゃかいもんだいにたいしてじゆうしゅぎてきなけんかいをもっています。
 The calm lake reflected the sky.★穏やかな湖が空を反映していました。★おだやかなみずうみがそらをはんえいしていました。
@@ -1836,7 +1836,7 @@ The panel of judges made their decision.★裁判官のパネルは彼らの決�
 The steak was of prime quality.★ステーキは最高品質でした。★すてーきはさいこうひんしつでした。
 I have a doctor's appointment tomorrow.★明日、医者の予約があります。★あす、いしゃのよやくがあります。
 I'd like to emphasize the importance of this task.★このタスクの重要性を強調したいです。★このたすくのじゅうようせいをきょうちょうしたいです。
-The maximum capacity of the hall is 200.★ホールの最大収容人数は200人です。★ほーるのさいだいしゅうようにんずうはにれいれいにんです。
+The maximum capacity of the hall is 200.★ホールの最大収容人数は200人です。★ほーるのさいだいしゅうようにんずうは200にんです。
 She managed the project effectively.★彼女はプロジェクトを効果的に管理しました。★かのじょはぷろじぇくとをこうかてきにかんりしました。
 If not here, we'll find it elsewhere.★ここでなければ、他の場所で見つけるでしょう。★ここでなければ、たのばしょでみつけるでしょう。
 Don't bother him while he's working.★彼が働いている間は彼を邪魔しないでください。★かれがはたらいているあいだはかれをじゃましないでください。
@@ -1862,7 +1862,7 @@ She wore a thick coat to fend off the cold.★彼女は寒さを防ぐために�
 Democracy ensures that citizens have a voice in governance.★民主主義は、市民が統治に発言権を持つことを保証します。★みんしゅしゅぎは、しみんがとうちにはつげんけんをもつことをほしょうします。
 I found some change in my pocket.★私のポケットに少し小銭がありました。★わたくしのぽけっとにすこしこぜにがありました。
 We were lucky to get the last tickets.★最後のチケットを手に入れられてラッキーでした。★さいごのちけっとをてにいれられてらっきーでした。
-The two cars were involved in a crash.★2台の車が事故に巻き込まれました。★にだいのくるまがじこにまきこまれました。
+The two cars were involved in a crash.★2台の車が事故に巻き込まれました。★2だいのくるまがじこにまきこまれました。
 His observation skills are commendable.★彼の観察スキルは賞賛に値します。★かれのかんさつすきるはしょうさんにあたいします。
 The meat needs to marinate for a few hours.★肉は数時間マリネにする必要があります。★にくはすうじかんまりねにするひつようがあります。
 With concentration, he finished the puzzle.★集中して、彼はパズルを完成させました。★しゅうちゅうして、かれはぱずるをかんせいさせました。
@@ -1872,13 +1872,13 @@ It's unusual for him to be late.★彼が遅れるのは珍しいです。★か
 The lawyer will defend her client in court.★弁護士は裁判所でクライアントを守るでしょう。★べんごしはさいばんしょでくらいあんとをまもるでしょう。
 That movie is a classic; it never gets old.★その映画は古典的で、古くなることはありません。★そのえいがはこてんてきで、ふるくなることはありません。
 The king ruled the kingdom with wisdom.★王は賢明に王国を統治しました。★おうはけんめいにおうこくをとうちしました。
-The interaction between the two chemicals caused a reaction.★2つの化学物質の相互作用が反応を引き起こしました。★ふつつのかがくぶっしつのそうごさようがはんのうをひきおこしました。
+The interaction between the two chemicals caused a reaction.★2つの化学物質の相互作用が反応を引き起こしました。★2つのかがくぶっしつのそうごさようがはんのうをひきおこしました。
 The car is in the garage for repair.★車は修理のためにガレージにあります。★くるまはしゅうりのためにがれーじにあります。
 The old building might collapse if not renovated.★古い建物は改装されないと崩れるかもしれません。★ふるいたてものはかいそうされないとくずれるかもしれません。
 Can I borrow your book for a week?★一週間、あなたの本を借りてもいいですか？★いちしゅうかん、あなたのほんをかりてもいいですか?
 Honesty is a fundamental value in our culture.★誠実さは、私たちの文化において基本的な価値です。★せいじつさは、わたしたちのぶんかにおいてきほんてきなかちです。
 That dish is a specialty of this region.★その料理はこの地域の特産です。★そのりょうりはこのちいきのとくさんです。
-She studied abroad for a year in France.★彼女はフランスで1年間留学しました。★かのじょはふらんすでいちねんかんりゅうがくしました。
+She studied abroad for a year in France.★彼女はフランスで1年間留学しました。★かのじょはふらんすで1ねんかんりゅうがくしました。
 Music speaks to the soul.★音楽は魂に語りかけます。★おんがくはたましいにかたりかけます。
 She is capable of handling the project.★彼女はそのプロジェクトを取り扱う能力があります。★かのじょはそのぷろじぇくとをとりあつかうのうりょくがあります。
 The team faced a defeat in yesterday's match.★チームは昨日の試合で敗北しました。★ちーむはきのうのしあいではいぼくしました。
@@ -1888,7 +1888,7 @@ The spices enhance the flavor of the dish.★スパイスは料理の風味を�
 I'm proud of what we achieved.★私たちが達成したことを誇りに思っています。★わたしたちがたっせいしたことをほこりにおもっています。
 In case of an emergency, call this number.★緊急の場合は、この番号に電話してください。★きんきゅうのばあいは、このばんごうにでんわしてください。
 The trip was both fun and educational.★その旅行は楽しく、教育的でもありました。★そのりょこうはたのしく、きょういくてきでもありました。
-It's hard to distinguish between the two paints.★その2つのペンキを区別するのは難しいです。★そのふつつのぺんきをくべつするのはむずかしいです。
+It's hard to distinguish between the two paints.★その2つのペンキを区別するのは難しいです。★その2つのぺんきをくべつするのはむずかしいです。
 He made a substantial contribution to the project.★彼はそのプロジェクトに大きな貢献をしました。★かれはそのぷろじぇくとにおおきなこうけんをしました。
 There's a coffee shop nearby.★近くにコーヒーショップがあります。★ちかくにこーひーしょっぷがあります。
 The manufacturer issued a recall for the product.★メーカーはその製品のリコールを発表しました。★めーかーはそのせいひんのりこーるをはっぴょうしました。
@@ -1897,7 +1897,7 @@ That painting is extremely valuable.★その絵は非常に価値がありま�
 Personally, I think it's a great idea.★個人的には、それは素晴らしいアイディアだと思います。★こじんてきには、それはすばらしいあいでぃあだとおもいます。
 Regular check-ups can help in early breast cancer detection.★定期検診は、乳がんを早期に発見するのに役立ちます。★ていきけんしんは、にゅうがんをそうきにはっけんするのにやくだちます。
 She's learning to cope with the loss of her father.★彼女は父の死を乗り越える方法を学んでいます。★かのじょはちちのしをのりこえるほうほうをまなんでいます。
-The journey takes approximately two hours.★その旅行はおおよそ2時間かかります。★そのりょこうはおおよそにじかんかかります。
+The journey takes approximately two hours.★その旅行はおおよそ2時間かかります。★そのりょこうはおおよそ2じかんかかります。
 The hotel provided excellent accommodation.★ホテルは優れた宿泊施設を提供しました。★ほてるはすぐれたしゅくはくしせつをていきょうしました。
 The seminar will highlight the importance of renewable energy.★セミナーでは、再生可能エネルギーの重要性が強調されます。★せみなーでは、さいせいかのうえねるぎーのじゅうようせいがきょうちょうされます。
 The reporter covered the event live.★レポーターはそのイベントを生中継で取材しました。★れぽーたーはそのいべんとをなまちゅうけいでしゅざいしました。
@@ -1916,7 +1916,7 @@ She plays tennis every weekend.★彼女は毎週末テニスをします。★�
 Urban development has increased rapidly in recent years.★近年、都市開発が急速に進んでいます。★きんねん、としかいはつがきゅうそくにすすんでいます。
 Don't confuse effort with results.★努力と結果を混同しないでください。★どりょくとけっかをこんどうしないでください。
 The southern region is known for its beaches.★南部地域はそのビーチで知られています。★なんぶちいきはそのびーちでしられています。
-The factory's output has doubled this year.★その工場の生産量は今年、2倍になりました。★そのこうじょうのせいさんりょうはことし、にばいになりました。
+The factory's output has doubled this year.★その工場の生産量は今年、2倍になりました。★そのこうじょうのせいさんりょうはことし、2ばいになりました。
 The beauty of nature is unparalleled.★自然の美しさは比類ないです。★しぜんのうつくしさはひるいないです。
 The concert drew a massive crowd.★そのコンサートには大勢の人々が集まりました。★そのこんさーとにはおおぜいのひとびとがあつまりました。
 I'll install the software on your computer.★あなたのコンピューターにソフトウェアをインストールします。★あなたのこんぴゅーたーにそふとうぇあをいんすとーるします。
@@ -1925,7 +1925,7 @@ The cat chased the mouse.★猫がネズミを追いかけました。★ねこ�
 Mathematics is a challenging but rewarding subject.★数学は難しいが、やりがいのある科目です。★すうがくはむずかしいが、やりがいのあるかもくです。
 He lives in the upper part of the city.★彼は都市の上部に住んでいます。★かれはとしのじょうぶにすんでいます。
 His latest creation was a masterpiece.★彼の最新の作品は傑作でした。★かれのさいしんのさくひんはけっさくでした。
-The company will occupy the third floor of the building.★その会社は建物の3階を占有します。★そのかいしゃはたてもののさんかいをせんゆうします。
+The company will occupy the third floor of the building.★その会社は建物の3階を占有します。★そのかいしゃはたてものの3かいをせんゆうします。
 The teacher provided an outline of the lesson.★先生は授業の概要を提供しました。★せんせいはじゅぎょうのがいようをていきょうしました。
 We have sufficient resources to complete the project.★プロジェクトを完了するための十分なリソースがあります。★ぷろじぇくとをかんりょうするためのじゅうぶんなりそーすがあります。
 Make sure to update your software regularly.★ソフトウェアを定期的に更新してください。★そふとうぇあをていきてきにこうしんしてください。
@@ -1953,7 +1953,7 @@ The event is primarily for students.★そのイベントは主に学生のた�
 We aim to integrate technology into teaching.★私たちは、教育に技術を統合することを目指しています。★わたしたちは、きょういくにぎじゅつをとうごうすることをめざしています。
 Constructive criticism helps one grow.★建設的な批評は成長の助けとなります。★けんせつてきなひひょうはせいちょうのたすけとなります。
 The annual tech convention attracts many.★毎年の技術大会は多くの人々を引き付けます。★まいとしのぎじゅつたいかいはおおくのひとびとをひきつけます。
-I bet you can't eat just one chip.★1枚のチップしか食べられないと賭けます。★いちまいのちっぷしかたべられないとかけます。
+I bet you can't eat just one chip.★1枚のチップしか食べられないと賭けます。★1まいのちっぷしかたべられないとかけます。
 It's essential to retain information for the exam.★試験のために情報を保持することが不可欠です。★しけんのためにじょうほうをほじすることがふかけつです。
 The sequence of events was puzzling.★事の経緯は謎だった。★ことのけいいはなぞだった。
 The plain yogurt needs some fruit.★プレーンヨーグルトには果物が必要です。★ぷれーんよーぐるとにはくだものがひつようです。
@@ -2000,7 +2000,7 @@ They'll negotiate the contract terms tomorrow.★彼らは明日、契約条件�
 The team continued to dominate the game.★チームは試合を支配し続けました。★ちーむはしあいをしはいしつづけました。
 The supplier delivered the goods on time.★供給業者は商品を時間通りに配達しました。★きょうきゅうぎょうしゃはしょうひんをじかんどおりにはいたつしました。
 The prize for the best performer is a trip to Paris.★最優秀者の賞品はパリへの旅行です。★さいゆうしゅうしゃのしょうひんはぱりへのりょこうです。
-She typically wakes up at 7 a.m.★彼女は通常、午前7時に目を覚ます。★かのじょはつうじょう、ごぜんしちじにめをさます。
+She typically wakes up at 7 a.m.★彼女は通常、午前7時に目を覚ます。★かのじょはつうじょう、ごぜん7じにめをさます。
 He was respected by his peers.★彼は同僚たちから尊敬されていました。★かれはどうりょうたちからそんけいされていました。
 Many retirees rely on their pension for living.★多くの退職者は生計を立てるために年金に頼っています。★おおくのたいしょくしゃはせいけいをたてるためにねんきんにたよっています。
 The bird spread its wings and flew.★その鳥は翼を広げて飛び立ちました。★そのとりはつばさをひろげてとびたちました。
@@ -2012,7 +2012,7 @@ The storm caused an electricity outage.★嵐のせいで停電が起きまし�
 He offered assistance in moving the boxes.★彼は箱を移動する手伝いを申し出ました。★かれはばこをいどうするてつだいをもうしでました。
 The roof needs repair after the storm.★嵐の後、屋根の修理が必要です。★あらしのあと、やねのしゅうりがひつようです。
 He plans to travel post-retirement.★彼は退職後に旅行をする計画です。★かれはたいしょくごにりょこうをするけいかくです。
-James and Anna scored 90 and 85, respectively.★ジェームズは90点、アンナは85点を取得しました。★じぇーむずはきゅうれいてん、あんなははちごてんをしゅとくしました。
+James and Anna scored 90 and 85, respectively.★ジェームズは90点、アンナは85点を取得しました。★じぇーむずは90てん、あんなは85てんをしゅとくしました。
 There is a slight variation in the results.★結果にはわずかな変動があります。★けっかにはわずかなへんどうがあります。
 Ultimately, the decision rests with you.★最終的に、決定はあなた次第です。★さいしゅうてきに、けっていはあなたしだいです。
 Do you have proof of your claim?★あなたの主張の証拠はありますか？★あなたのしゅちょうのしょうこはありますか?
@@ -2042,8 +2042,8 @@ The new framework improves efficiency.★新しいフレームワークは効率
 The area is designated as a no-parking zone.★そのエリアは駐車禁止区域として指定されています。★そのえりあはちゅうしゃきんしくいきとしてしていされています。
 The new policy might restrict certain activities.★新しい方針では、特定の活動が制限されるかもしれません。★あたらしいほうしんでは、とくていのかつどうがせいげんされるかもしれません。
 The police could find no trace of the thief.★警察は泥棒の痕跡を見つけることができませんでした。★けいさつはどろぼうのこんせきをみつけることができませんでした。
-The plant grows an inch every week.★その植物は毎週1インチ成長します。★そのしょくぶつはまいしゅういちいんちせいちょうします。
-Ten dollars is equivalent to 1,500 yen.★10ドルは1,500円と同等です。★いちれいどるはいちごれいれいえんとどうとうです。
+The plant grows an inch every week.★その植物は毎週1インチ成長します。★そのしょくぶつはまいしゅう1いんちせいちょうします。
+Ten dollars is equivalent to 1,500 yen.★10ドルは1,500円と同等です。★10どるは1,500えんとどうとうです。
 The table was made of solid wood.★そのテーブルは堅木でできていました。★そのてーぶるはけんぼくでできていました。
 The new enterprise focuses on sustainable products.★新しい企業は持続可能な製品に焦点を当てています。★あたらしいきぎょうはじぞくかのうなせいひんにしょうてんをあてています。
 The park is a favorite spot for the elderly.★その公園は高齢者に人気のスポットです。★そのこうえんはこうれいしゃににんきのすぽっとです。
@@ -2143,7 +2143,7 @@ Initially, I was hesitant, but later I agreed.★最初は躊躇していまし�
 They ventured into unknown territory.★彼らは未知の領域に冒険しました。★かれらはみちのりょういきにぼうけんしました。
 We can stream the movie online.★私たちはその映画をオンラインでストリーミングすることができます。★わたしたちはそのえいがをおんらいんですとりーみんぐすることができます。
 She rarely eats out due to her dietary restrictions.★彼女は食事制限のために滅多に外食しません。★かのじょはしょくじせいげんのためにめったにがいしょくしません。
-The tree reached a height of 20 feet.★その木は20フィートの高さに達しました。★そのきはにれいふぃーとのたかさにたっしました。
+The tree reached a height of 20 feet.★その木は20フィートの高さに達しました。★そのきは20ふぃーとのたかさにたっしました。
 It became apparent that he was lost.★彼が迷子になっていることが明らかになりました。★かれがまいごになっていることがあきらかになりました。
 The sun sets in the western sky.★太陽は西の空に沈みます。★たいようはにしのそらにしずみます。
 The company is planning an expansion into new markets.★その会社は新しい市場への拡大を計画しています。★そのかいしゃはあたらしいしじょうへのかくだいをけいかくしています。
@@ -2153,10 +2153,10 @@ The sudden noise gave me quite a scare.★突然の騒音は私をかなり驚�
 He was hurt badly in the accident.★彼は事故でひどく傷つきました。★かれはじこでひどくきずつきました。
 Everyday tasks can sometimes be the most challenging.★日常のタスクが最も難しいこともあります。★にちじょうのたすくがもっともむずかしいこともあります。
 We walked the boundary of the property.★私たちはその土地の境界を歩きました。★わたしたちはそのとちのきょうかいをあるきました。
-The ratio of water to flour is 2:1 in the recipe.★レシピにおける水と小麦粉の比率は2:1です。★れしぴにおけるみずとこむぎこのひりつはにきごういちです。
+The ratio of water to flour is 2:1 in the recipe.★レシピにおける水と小麦粉の比率は2:1です。★れしぴにおけるみずとこむぎこのひりつは2:1です。
 Students must write an essay on the given topic.★学生は与えられたトピックについてのエッセイを書かなければなりません。★がくせいはあたえられたとぴっくについてのえっせいをかかなければなりません。
 I heard a loud scream from the other room.★隣の部屋から大きな悲鳴が聞こえました。★となりのへやからおおきなひめいがきこえました。
-She decided to withdraw money from the ATM.★彼女はATMからお金を引き出すことにしました。★かのじょはえーてぃーえむからおかねをひきだすことにしました。
+She decided to withdraw money from the ATM.★彼女はATMからお金を引き出すことにしました。★かのじょはATMからおかねをひきだすことにしました。
 The factory was fined for causing air pollution.★工場は大気汚染を引き起こしたために罰金を科されました。★こうじょうはたいきおせんをひきおこしたためにばっきんをかされました。
 Sleep disorder affects many people worldwide.★睡眠障害は世界中の多くの人々に影響を及ぼしています。★すいみんしょうがいはせかいじゅうのおおくのひとびとにえいきょうをおよぼしています。
 We bought new furniture for our living room.★私たちはリビングルームのための新しい家具を買いました。★わたしたちはりびんぐるーむのためのあたらしいかぐをかいました。
@@ -2187,7 +2187,7 @@ Superheroes fight against evil forces.★スーパーヒーローは悪の勢力
 Her performance was truly remarkable.★彼女のパフォーマンスは本当に素晴らしかったです。★かのじょのぱふぉーまんすはほんとうにすばらしかったです。
 She hummed a catchy tune.★彼女は耳に残るメロディをハミングしました。★かのじょはみみにのこるめろでぃをはみんぐしました。
 The grass is always greener on the other side.★隣の芝生はいつも青い。★となりのしばふはいつもあおい。
-I received an invitation to her wedding.★私は彼女の結婚式への招待を受け取りました。★わたくしはかのじょのけっこんしきへのしょうたいをうけとりました。
+I received an invitation to her wedding.★私は彼女の結婚式への招待を受け取りました。★わたしはかのじょのけっこんしきへのしょうたいをうけとりました。
 The country is in a period of political transition.★その国は政治的な移行期にあります。★そのくにはせいじてきないこうきにあります。
 Don't frighten the little bird away.★小さな鳥を怖がらせて追い払わないでください。★ちいさなとりをこわがらせておいはらわないでください。
 The company made a bid for the new contract.★その会社は新しい契約の入札を行いました。★そのかいしゃはあたらしいけいやくのにゅうさつをおこないました。
@@ -2250,29 +2250,29 @@ Wear your jacket; it's cold outside.★ジャケットを着てください。�
 Modern cars are designed for fuel efficiency.★現代の車は燃料効率のために設計されています。★げんだいのくるまはねんりょうこうりつのためにせっけいされています。
 My shoes got dirty after the hike.★ハイキングの後で私の靴が汚れました。★はいきんぐのあとでわたくしのくつがよごれました。
 The report highlighted some alarming statistics.★そのレポートはいくつかの警戒すべき統計を強調しました。★そのれぽーとはいくつかのけいかいすべきとうけいをきょうちょうしました。
-I exercise regularly to stay fit.★健康を保つために、私は定期的に運動しています。★けんこうをたもつために、わたくしはていきてきにうんどうしています。
+I exercise regularly to stay fit.★健康を保つために、私は定期的に運動しています。★けんこうをたもつために、わたしはていきてきにうんどうしています。
 They stayed at a luxury resort on the island.★彼らは島の豪華なリゾートに滞在しました。★かれらはしまのごうかなりぞーとにたいざいしました。
 I need to iron my shirt for the interview.★面接のためにシャツをアイロンがけする必要があります。★めんせつのためにしゃつをあいろんがけするひつようがあります。
 The match will be broadcast live tonight.★その試合は今夜生放送されます。★そのしあいはこんやなまほうそうされます。
 The gym offers a discounted membership fee.★ジムは割引された会員費を提供しています。★じむはわりびきされたかいいんひをていきょうしています。
-I love the smell of freshly baked bread.★私は焼きたてのパンの香りが大好きです。★わたくしはやきたてのぱんのかおりがだいすきです。
+I love the smell of freshly baked bread.★私は焼きたてのパンの香りが大好きです。★わたしはやきたてのぱんのかおりがだいすきです。
 The blind man had a guide dog.★盲目の男性は盲導犬を持っていました。★もうもくのだんせいはもうどうけんをもっていました。
 The water from the spring was pure and clear.★泉からの水は純粋でクリアでした。★いずみからのみずはじゅんすいでくりあでした。
 The film had a few bloody scenes.★その映画にはいくつかの血まみれのシーンがありました。★そのえいがにはいくつかのちまみれのしーんがありました。
-The two countries became close allies.★その2つの国は親密な同盟国となりました。★そのふつつのくにはしんみつなどうめいこくとなりました。
+The two countries became close allies.★その2つの国は親密な同盟国となりました。★その2つのくにはしんみつなどうめいこくとなりました。
 We need to check the quantity of goods in stock.★在庫の商品の数量を確認する必要があります。★ざいこのしょうひんのすうりょうをかくにんするひつようがあります。
 Be careful on the road; there's a sharp bend ahead.★道路で注意してください。先に急なカーブがあります。★どうろでちゅういしてください。さきにきゅうなかーぶがあります。
 He's very mature for his age.★彼は彼の年齢の割には非常に成熟しています。★かれはかれのねんれいのわりにはひじょうにせいじゅくしています。
 She briefly explained the project's objective.★彼女はプロジェクトの目的を簡潔に説明しました。★かのじょはぷろじぇくとのもくてきをかんけつにせつめいしました。
-The alarm will ring at 7 a.m. tomorrow.★アラームは明日の午前7時に鳴ります。★あらーむはあすのごぜんしちじになります。
-Please do not disturb; I'm working.★邪魔しないでください。私は仕事中です。★じゃましないでください。わたくしはしごとちゅうです。
+The alarm will ring at 7 a.m. tomorrow.★アラームは明日の午前7時に鳴ります。★あらーむはあすのごぜん7じになります。
+Please do not disturb; I'm working.★邪魔しないでください。私は仕事中です。★じゃましないでください。わたしはしごとちゅうです。
 The city sustained damage from the hurricane.★その都市はハリケーンの被害を受けました。★そのとしははりけーんのひがいをうけました。
 Heavy rains caused a flood in the village.★大雨が村に洪水を引き起こしました。★おおあめがむらにこうずいをひきおこしました。
 Many charities work to alleviate poverty.★多くの慈善団体が貧困を軽減するために活動しています。★おおくのじぜんだんたいがひんこんをけいげんするためにかつどうしています。
 That's a crazy idea, but it just might work!★それは狂ったアイデアだけど、うまくいくかもしれない！★それはくるったあいであだけど、うまくいくかもしれない!
 Always cite your sources in academic papers.★学術論文では常に情報源を引用してください。★がくじゅつろんぶんではつねにじょうほうげんをいんようしてください。
 The newly opened cafe is quite popular.★新しくオープンしたカフェはかなり人気があります。★あたらしくおーぷんしたかふぇはかなりにんきがあります。
-The two roads run parallel to each other.★その2つの道路は互いに平行して走っています。★そのふつつのどうろはたがいにへいこうしてはしっています。
+The two roads run parallel to each other.★その2つの道路は互いに平行して走っています。★その2つのどうろはたがいにへいこうしてはしっています。
 Gender equality is essential in all fields.★すべての分野での男女平等は不可欠です。★すべてのぶんやでのだんじょびょうどうはふかけつです。
 The event's main sponsor was a tech company.★イベントの主要スポンサーは技術企業でした。★いべんとのしゅようすぽんさーはぎじゅつきぎょうでした。
 She wore waterproof boots for the rainy day.★彼女は雨の日のために防水のブーツを履きました。★かのじょはあめのひのためにぼうすいのぶーつをはきました。
@@ -2284,7 +2284,7 @@ They explored the vast desert on camels.★彼らはラクダで広大な砂漠�
 Penguins often mate for life.★ペンギンは一生涯で繁殖することがよくあります。★ぺんぎんはいっしょうがいではんしょくすることがよくあります。
 I occasionally indulge in some chocolate.★たまにチョコレートを贅沢に楽しんでいます。★たまにちょこれーとをぜいたくにたのしんでいます。
 The shareholder meeting is scheduled next month.★株主総会は来月予定されています。★かぶぬしそうかいはらいげつよていされています。
-I had a bowl of soup for lunch.★私はランチにスープのボウルを食べました。★わたくしはらんちにすーぷのぼうるをたべました。
+I had a bowl of soup for lunch.★私はランチにスープのボウルを食べました。★わたしはらんちにすーぷのぼうるをたべました。
 The discovery of penicillin changed medicine.★ペニシリンの発見は医学を変えました。★ぺにしりんのはっけんはいがくをかえました。
 The medicine met with some resistance from patients.★薬は患者からある程度の抵抗を受けました。★くすりはかんじゃからあるていどのていこうをうけました。
 A warm bath relaxes me after a long day.★長い一日の後、温かいお風呂でリラックスします。★ながいいちにちのあと、あたたかいおふろでりらっくすします。
@@ -2297,7 +2297,7 @@ Many attribute his success to hard work and dedication.★多くの人が彼の�
 I apologize for the oversight in the report.★レポートの監督不足をお詫びいたします。★れぽーとのかんとくふそくをおわびいたします。
 The plan went ahead with the manager's approval.★マネージャーの承認を得て、計画は進められました。★まねーじゃーのしょうにんをえて、けいかくはすすめられました。
 Don't forget to grab an umbrella; it looks like rain.★傘を忘れずに持ってください。雨のようです。★かさをわすれずにもってください。あめのようです。
-The book is entitled "Journey to the Mountains."★その書籍のタイトルは「山への旅」です。★そのしょせきのたいとるはきごうやまへのたびきごうです。
+The book is entitled "Journey to the Mountains."★その書籍のタイトルは「山への旅」です。★そのしょせきのたいとるは「やまへのたび」です。
 Could you lend me a pen, please?★ペンを貸していただけますか？★ぺんをかしていただけますか?
 His involvement in the project was crucial.★彼のプロジェクトへの関与は重要でした。★かれのぷろじぇくとへのかんよはじゅうようでした。
 Overexposure to the sun can be harmful.★日光に過度にさらされることは有害です。★にっこうにかどにさらされることはゆうがいです。
@@ -2305,15 +2305,15 @@ They opted for a conventional wedding ceremony.★彼らは伝統的な結婚式
 Digital marketing is now a major focus for businesses.★デジタルマーケティングは現在、ビジネスの主要な焦点となっています。★でじたるまーけてぃんぐはげんざい、びじねすのしゅようなしょうてんとなっています。
 Can you translate this letter from French to English?★この手紙をフランス語から英語に翻訳してもらえますか？★このてがみをふらんすごからえいごにほんやくしてもらえますか?
 I'll edit the document before sending it.★送信する前にドキュメントを編集します。★そうしんするまえにどきゅめんとをへんしゅうします。
-The birds flew in a V formation.★鳥たちはV字編隊で飛びました。★とりたちはぼるとじへんたいでとびました。
+The birds flew in a V formation.★鳥たちはV字編隊で飛びました。★とりたちはVじへんたいでとびました。
 I need to deposit this check into my bank account.★この小切手を私の銀行口座に預け入れる必要があります。★このこぎってをわたくしのぎんこうこうざにあずけいれるひつようがあります。
 We had a pleasant evening at the concert.★コンサートで楽しい夜を過ごしました。★こんさーとでたのしいよるをすごしました。
 She moved overseas for her job.★彼女は仕事のために海外に移住しました。★かのじょはしごとのためにかいがいにいじゅうしました。
 He's an advocate for animal rights.★彼は動物の権利の擁護者です。★かれはどうぶつのけんりのようごしゃです。
-The establishment of the new museum took two years.★新しい博物館の設立には2年かかりました。★あたらしいはくぶつかんのせつりつにはにねんかかりました。
+The establishment of the new museum took two years.★新しい博物館の設立には2年かかりました。★あたらしいはくぶつかんのせつりつには2ねんかかりました。
 Please provide a summary of the meeting's highlights.★会議のハイライトの要約を提供してください。★かいぎのはいらいとのようやくをていきょうしてください。
 The path was rough and uneven.★道は荒れており、平坦ではありませんでした。★みちはあれており、へいたんではありませんでした。
-I always carry a pen with me.★私はいつもペンを持ち歩いています。★わたくしはいつもぺんをもちあるいています。
+I always carry a pen with me.★私はいつもペンを持ち歩いています。★わたしはいつもぺんをもちあるいています。
 Her recovery after the surgery was swift.★彼女の手術後の回復は迅速でした。★かのじょのしゅじゅつごのかいふくはじんそくでした。
 The envelope had a wax seal.★封筒にはワックスの封印がありました。★ふうとうにはわっくすのふういんがありました。
 The paint comes in a small tube.★ペンキは小さなチューブに入っています。★ぺんきはちいさなちゅーぶにはいっています。
@@ -2335,11 +2335,11 @@ Consider the problem from a different angle.★問題を異なる角度から考
 We're having grilled chicken for dinner.★夕食には焼き鳥を食べます。★ゆうしょくにはやきとりをたべます。
 Test-taking can cause anxiety for many students.★テストを受けることは多くの生徒にとって不安を引き起こす可能性があります。★てすとをうけることはおおくのせいとにとってふあんをひきおこすかのうせいがあります。
 The computer has a virus and needs fixing.★コンピュータにはウイルスがあり、修理が必要です。★こんぴゅーたにはういるすがあり、しゅうりがひつようです。
-The event starts precisely at 5 PM.★イベントは正確に午後5時に開始します。★いべんとはせいかくにごごごじにかいしします。
-The two companies are major rivals in the tech industry.★これら2つの会社は、テクノロジー産業における主要な競合相手です。★これらふつつのかいしゃは、てくのろじーさんぎょうにおけるしゅようなきょうごうあいてです。
+The event starts precisely at 5 PM.★イベントは正確に午後5時に開始します。★いべんとはせいかくにごご5じにかいしします。
+The two companies are major rivals in the tech industry.★これら2つの会社は、テクノロジー産業における主要な競合相手です。★これら2つのかいしゃは、てくのろじーさんぎょうにおけるしゅようなきょうごうあいてです。
 Taking someone's belongings without asking is an offense.★許可なく誰かの持ち物を取ることは違反です。★きょかなくだれかのもちものをとることはいはんです。
 The machine can detect even minor defects.★この機械は、わずかな欠陥であっても検出できます。★このきかいは、わずかなけっかんであってもけんしゅつできます。
-The park is a popular hangout for teenagers.★その公園は、10代の人々にとって人気のあるつどいの場所です。★そのこうえんは、いちれいだいのひとびとにとってにんきのあるつどいのばしょです。
+The park is a popular hangout for teenagers.★その公園は、10代の人々にとって人気のあるつどいの場所です。★そのこうえんは、10だいのひとびとにとってにんきのあるつどいのばしょです。
 I greatly admire her dedication to charity.★彼女の慈善活動への献身には大いに感心しています。★かのじょのじぜんかつどうへのけんしんにはおおいにかんしんしています。
 He has moderate views on the issue.★彼はその問題について中庸の見解を持っています。★かれはそのもんだいについてちゅうようのけんかいをもっています。
 She will undergo surgery next week.★彼女は来週手術を受ける予定です。★かのじょはらいしゅうしゅじゅつをうけるよていです。
@@ -2350,7 +2350,7 @@ Downloading copyrighted music without paying is illegal.★支払いをせずに
 She volunteers at a charity that helps homeless animals.★彼女は、ホームレスの動物を助ける慈善団体でボランティアをしています。★かのじょは、ほーむれすのどうぶつをたすけるじぜんだんたいでぼらんてぃあをしています。
 The desire for happiness is universal.★幸福への欲求は普遍的です。★こうふくへのよっきゅうはふへんてきです。
 Smoking a cigarette is harmful to your health.★タバコを吸うことは健康に有害です。★たばこをすうことはけんこうにゆうがいです。
-Ten members constitute a quorum.★10人のメンバーが定足数を構成します。★いちれいにんのめんばーがていそくすうをこうせいします。
+Ten members constitute a quorum.★10人のメンバーが定足数を構成します。★10にんのめんばーがていそくすうをこうせいします。
 Make sure you have adequate supplies for the trip.★旅行に十分な供給があることを確認してください。★りょこうにじゅうぶんなきょうきゅうがあることをかくにんしてください。
 We hired a consultant to improve our business strategy.★ビジネス戦略を改善するためにコンサルタントを雇いました。★びじねすせんりゃくをかいぜんするためにこんさるたんとをやといました。
 The historian researched ancient civilizations.★歴史家は古代文明についての研究を行いました。★れきしかはこだいぶんめいについてのけんきゅうをおこないました。
@@ -2359,7 +2359,7 @@ The presentation had many visual aids to engage the audience.★プレゼンテ�
 Making assumptions without facts is a stupid mistake.★事実なしで仮定をすることは愚かな間違いです。★じじつなしでかていをすることはおろかなまちがいです。
 She has a keen interest in astronomy.★彼女は天文学に非常に興味を持っています。★かのじょはてんもんがくにひじょうにきょうみをもっています。
 The festival celebrated ethnic diversity and culture.★その祭りは、民族の多様性と文化を祝っています。★そのまつりは、みんぞくのたようせいとぶんかをいわっています。
-My brother and I are not identical, but we are twins.★私の兄と私は一卵性の双子ではありませんが、双子です。★わたくしのあにとわたくしはいちらんせいのふたごではありませんが、ふたごです。
+My brother and I are not identical, but we are twins.★私の兄と私は一卵性の双子ではありませんが、双子です。★わたしのあにとわたしはいちらんせいのふたごではありませんが、ふたごです。
 The drug is now undergoing clinical trials.★その薬は現在、臨床試験を受けています。★そのくすりはげんざい、りんしょうしけんをうけています。
 The sun rises in the eastern sky.★太陽は東の空に昇ります。★たいようはひがしのそらにのぼります。
 The weather forecast predicts rain tomorrow.★天気予報によれば、明日は雨が降る予定です。★てんきよほうによれば、あすはあめがふるよていです。
@@ -2382,7 +2382,7 @@ The bonus served as an incentive for employees to work harder.★ボーナスは
 He aspires to play in the major league someday.★彼はいつかメジャーリーグでプレイすることを目指しています。★かれはいつかめじゃーりーぐでぷれいすることをめざしています。
 The dialog between the characters was witty and entertaining.★キャラクター間の対話は機知に富んでおり、楽しいものでした。★きゃらくたーかんのたいわはきちにとんでおり、たのしいものでした。
 She added cream to her coffee.★彼女はコーヒーにクリームを追加しました。★かのじょはこーひーにくりーむをついかしました。
-The company saw rapid growth in its first year.★その会社は、創業1年目に急成長しました。★そのかいしゃは、そうぎょういちねんめにきゅうせいちょうしました。
+The company saw rapid growth in its first year.★その会社は、創業1年目に急成長しました。★そのかいしゃは、そうぎょう1ねんめにきゅうせいちょうしました。
 Due to bad weather, they had to cancel the event.★悪天候のため、彼らはイベントをキャンセルしなければなりませんでした。★あくてんこうのため、かれらはいべんとをきゃんせるしなければなりませんでした。
 I regret not visiting my grandparents more often.★もっと頻繁に祖父母を訪問しなかったことを後悔しています。★もっとひんぱんにそふぼをほうもんしなかったことをこうかいしています。
 The teacher had to dismiss the class early due to an emergency.★緊急事態のため、先生は早めに授業を解散させる必要がありました。★きんきゅうじたいのため、せんせいははやめにじゅぎょうをかいさんさせるひつようがありました。
@@ -2394,10 +2394,10 @@ The new software has the capability to analyze data faster.★新しいソフト
 She had absolute trust in her friend's judgment.★彼女は友人の判断を絶対に信頼していました。★かのじょはゆうじんのはんだんをぜったいにしんらいしていました。
 His actions don't correspond with his words.★彼の行動は彼の言葉と一致していません。★かれのこうどうはかれのことばといっちしていません。
 After a long day, she gave her cat a gentle stroke.★長い一日の後、彼女は彼女の猫を優しく撫でました。★ながいいちにちのあと、かのじょはかのじょのねこをやさしくなでました。
-I wouldn't dare go into that haunted house.★私はそのお化け屋敷に入る勇気はありません。★わたくしはそのおばけやしきにはいるゆうきはありません。
+I wouldn't dare go into that haunted house.★私はそのお化け屋敷に入る勇気はありません。★わたしはそのおばけやしきにはいるゆうきはありません。
 Language should not be a barrier to understanding.★言語は理解の障壁となるべきではありません。★げんごはりかいのしょうへきとなるべきではありません。
 She wanted to rid her garden of weeds.★彼女は庭の雑草を取り除きたかった。★かのじょはにわのざっそうをとりのぞきたかった。
-They decided on a divorce after 10 years of marriage.★彼らは結婚して10年後に離婚を決意しました。★かれらはけっこんしていちれいねんごにりこんをけついしました。
+They decided on a divorce after 10 years of marriage.★彼らは結婚して10年後に離婚を決意しました。★かれらはけっこんして10ねんごにりこんをけついしました。
 Leaving the cake in the rain will ruin it.★ケーキを雨の中に放置すると、それを台無しにします。★けーきをあめのなかにほうちすると、それをだいなしにします。
 He wants to bury the time capsule in his backyard.★彼はタイムカプセルを裏庭に埋めたいと思っています。★かれはたいむかぷせるをうらにわにうめたいとおもっています。
 She sought legal counsel before signing the contract.★彼女は契約を締結する前に法的助言を求めました。★かのじょはけいやくをていけつするまえにほうてきじょげんをもとめました。
@@ -2410,7 +2410,7 @@ He doesn't possess the skills required for the job.★彼はその仕事に必�
 You need permission to enter the restricted area.★制限区域に入るには許可が必要です。★せいげんくいきにはいるにはきょかがひつようです。
 The valley was filled with wildflowers.★谷は野生の花で満たされていました。★たにはやせいのはなでみたされていました。
 The rubber duck will float in the bathtub.★ゴム製のアヒルは浴槽で浮かびます。★ごむせいのあひるはよくそうでうかびます。
-It makes me mad when you don't listen.★聞いてくれないと私は怒ります。★きいてくれないとわたくしはおこります。
+It makes me mad when you don't listen.★聞いてくれないと私は怒ります。★きいてくれないとわたしはおこります。
 I greatly appreciate your help.★あなたの助けに非常に感謝しています。★あなたのたすけにひじょうにかんしゃしています。
 The mountains are clearly visible from her window.★彼女の窓から山がはっきりと見えます。★かのじょのまどからやまがはっきりとみえます。
 The city is moving towards electric buses.★その都市は電気バスに移行しています。★そのとしはでんきばすにいこうしています。
@@ -2443,7 +2443,7 @@ He's the reigning champion in the tennis tournament.★彼はテニス大会の�
 She hopes to fulfill her dream of becoming a writer.★彼女は作家になる夢を実現したいと希望しています。★かのじょはさっかになるゆめをじつげんしたいときぼうしています。
 You should dust the furniture regularly.★定期的に家具のほこりを取るべきです。★ていきてきにかぐのほこりをとるべきです。
 He dedicated the book to his loving parents.★彼はその本を愛する両親に捧げました。★かれはそのほんをあいするりょうしんにささげました。
-The recipe calls for roughly two cups of flour.★そのレシピでは大体2カップの小麦粉が必要です。★そのれしぴではだいたいにかっぷのこむぎこがひつようです。
+The recipe calls for roughly two cups of flour.★そのレシピでは大体2カップの小麦粉が必要です。★そのれしぴではだいたい2かっぷのこむぎこがひつようです。
 She wore a blue skirt with a matching blouse.★彼女は合わせたブラウスと青いスカートを着ていました。★かのじょはあわせたぶらうすとあおいすかーとをきていました。
 The province is known for its scenic beauty.★その州は風光明媚な美しさで知られています。★そのしゅうはふうこうめいびなうつくしさでしられています。
 The soldiers will march in the parade.★兵士たちはパレードで行進します。★へいしたちはぱれーどでこうしんします。
@@ -2470,12 +2470,12 @@ The teacher was full of praise for the student's effort.★教師は生徒の努
 The classroom was silent during the test.★テスト中、教室は静かでした。★てすとちゅう、きょうしつはしずかでした。
 The mechanic fixed the water pump.★修理士は水ポンプを修理しました。★しゅうりしはみずぽんぷをしゅうりしました。
 The author met with her publisher to discuss the book.★著者は本について議論するために出版社と会いました。★ちょしゃはほんについてぎろんするためにしゅっぱんしゃとあいました。
-The city had a grand celebration for its centennial.★その都市は100周年を大々的に祝いました。★そのとしはいちれいれいしゅうねんをだいだいてきにいわいました。
+The city had a grand celebration for its centennial.★その都市は100周年を大々的に祝いました。★そのとしは100しゅうねんをだいだいてきにいわいました。
 He plays golf every weekend with his friends.★彼は友人たちと毎週末ゴルフをします。★かれはゆうじんたちとまいしゅうまつごるふをします。
 The worker received compensation for his injuries.★労働者は彼の怪我のための補償を受け取りました。★ろうどうしゃはかれのけがのためのほしょうをうけとりました。
 She enjoys listening to classical music.★彼女はクラシック音楽を聴くのが好きです。★かのじょはくらしっくおんがくをきくのがすきです。
-I will weigh the ingredients before baking.★私は焼く前に材料の重さを計ります。★わたくしはやくまえにざいりょうのおもさをはかります。
-It's a match between team A versus team B.★それはチームA対チームBの試合です。★それはちーむあーるたいちーむbのしあいです。
+I will weigh the ingredients before baking.★私は焼く前に材料の重さを計ります。★わたしはやくまえにざいりょうのおもさをはかります。
+It's a match between team A versus team B.★それはチームA対チームBの試合です。★それはちーむAたいちーむBのしあいです。
 The country is trying to reduce its trade deficit.★その国は貿易赤字を減少させようとしています。★そのくにはぼうえきあかじをげんしょうさせようとしています。
 She will modify the document as per the feedback.★彼女はフィードバックに従って文書を修正します。★かのじょはふぃーどばっくにしたがってぶんしょをしゅうせいします。
 A flash of lightning lit up the sky.★稲妻の閃光が空を明るく照らしました。★いなずまのせんこうがそらをあかるくてらしました。
@@ -2578,7 +2578,7 @@ The tree provided shelter from the rain.★その木は雨からの避難所と�
 It's a mere coincidence that they met.★彼らが出会ったのは単なる偶然です。★かれらがであったのはたんなるぐうぜんです。
 Trees absorb carbon dioxide.★木々は二酸化炭素を吸収します。★きぎはにさんかたんそをきゅうしゅうします。
 The government regulates food safety.★政府は食品の安全性を規制しています。★せいふはしょくひんのあんぜんせいをきせいしています。
-I love sandwiches with cheese.★私はチーズ入りのサンドイッチが大好きです。★わたくしはちーずいりのさんどいっちがだいすきです。
+I love sandwiches with cheese.★私はチーズ入りのサンドイッチが大好きです。★わたしはちーずいりのさんどいっちがだいすきです。
 His comments might trigger a debate.★彼のコメントは討論を引き起こすかもしれません。★かれのこめんとはとうろんをひきおこすかもしれません。
 The plumber fixed the leaking pipe.★配管工は漏れているパイプを修理しました。★はいかんこうはもれているぱいぷをしゅうりしました。
 The hurricane caused massive destruction.★ハリケーンは大規模な破壊を引き起こしました。★はりけーんはだいきぼなはかいをひきおこしました。
@@ -2590,40 +2590,40 @@ The book is a gripping mystery novel.★その本は引き込まれるミステ�
 We plan to ski in the mountains this winter.★この冬、私たちは山でスキーをする予定です。★このふゆ、わたしたちはやまですきーをするよていです。
 They shared secrets in a whisper.★彼らは秘密をささやきながら共有しました。★かれらはひみつをささやきながらきょうゆうしました。
 The car has a large rear trunk.★その車には大きな後部トランクがあります。★そのくるまにはおおきなこうぶとらんくがあります。
-I checked the menu for vegetarian options.★私は菜食主義者向けのオプションをメニューで確認しました。★わたくしはさいしょくしゅぎしゃむけのおぷしょんをめにゅーでかくにんしました。
+I checked the menu for vegetarian options.★私は菜食主義者向けのオプションをメニューで確認しました。★わたしはさいしょくしゅぎしゃむけのおぷしょんをめにゅーでかくにんしました。
 There are many endangered species in the world.★世界には多くの絶滅危惧種が存在します。★せかいにはおおくのぜつめつきぐしゅがそんざいします。
 The moon shone brightly in the night sky.★月は夜空で明るく輝いていました。★つきはよぞらであかるくかがやいていました。
 She's not answering her phone, presumably because she's busy.★彼女は電話に出ない、おそらく忙しいからだろう。★かのじょはでんわにでない、おそらくいそがしいからだろう。
 The priest will bless the congregation at the end of the service.★司祭は礼拝の終わりに信者たちに祝福を与えるでしょう。★しさいはれいはいのおわりにしんじゃたちにしゅくふくをあたえるでしょう。
-I always fly with the same airline because of their great service.★私はいつもその素晴らしいサービスのために同じ航空会社を利用します。★わたくしはいつもそのすばらしいさーびすのためにおなじこうくうがいしゃをりようします。
+I always fly with the same airline because of their great service.★私はいつもその素晴らしいサービスのために同じ航空会社を利用します。★わたしはいつもそのすばらしいさーびすのためにおなじこうくうがいしゃをりようします。
 The constitution has an amendment that protects freedom of speech.★憲法には言論の自由を保護する修正条項があります。★けんぽうにはげんろんのじゆうをほごするしゅうせいじょうこうがあります。
 My grandmother used to tell me stories from her childhood.★私の祖母は、彼女の子供の頃の話をしてくれました。★わたくしのそぼは、かのじょのこどものころのはなしをしてくれました。
 The jury delivered a unanimous verdict.★陪審員は全員一致の評決を下しました。★ばいしんいんはぜんいんいっちのひょうけつをくだしました。
 With everyone's cooperation, we can finish the project on time.★皆の協力で、私たちはプロジェクトを時間通りに終わらせることができます。★みなのきょうりょくで、わたしたちはぷろじぇくとをじかんどおりにおわらせることができます。
 The soldiers were trained to protect civilians.★兵士たちは市民を保護するための訓練を受けました。★へいしたちはしみんをほごするためのくんれんをうけました。
 The student's composition was well-written and thoughtful.★学生の作文はよく書かれ、考え抜かれていました。★がくせいのさくぶんはよくかかれ、かんがえぬかれていました。
-I found a rare coin in my attic.★私は屋根裏で珍しいコインを見つけました。★わたくしはやねうらでめずらしいこいんをみつけました。
+I found a rare coin in my attic.★私は屋根裏で珍しいコインを見つけました。★わたしはやねうらでめずらしいこいんをみつけました。
 Regardless of the weather, the event will take place.★天気に関係なく、イベントは開催されます。★てんきにかんけいなく、いべんとはかいさいされます。
-I'll scan the document and email it to you.★私はその文書をスキャンして、あなたにメールで送ります。★わたくしはそのぶんしょをすきゃんして、あなたにめーるでおくります。
+I'll scan the document and email it to you.★私はその文書をスキャンして、あなたにメールで送ります。★わたしはそのぶんしょをすきゃんして、あなたにめーるでおくります。
 She gave me a bunch of fresh flowers.★彼女は私に新鮮な花束をくれました。★かのじょはわたくしにしんせんなはなたばをくれました。
 Racial equality is essential for societal harmony.★人種の平等は社会の調和のために不可欠です。★じんしゅのびょうどうはしゃかいのちょうわのためにふかけつです。
-I'll greet the guests as they arrive.★来客が到着したら、私は彼らを迎えます。★らいきゃくがとうちゃくしたら、わたくしはかれらをむかえます。
+I'll greet the guests as they arrive.★来客が到着したら、私は彼らを迎えます。★らいきゃくがとうちゃくしたら、わたしはかれらをむかえます。
 Hopefully, the weather will be sunny tomorrow.★うまくいけば、明日は晴れるでしょう。★うまくいけば、あすははれるでしょう。
 The country faced international sanctions due to its actions.★その国は、その行動のために国際的な制裁を受けました。★そのくには、そのこうどうのためにこくさいてきなせいさいをうけました。
 The magician performed an impressive trick.★魔法使いは印象的なトリックを演じました。★まほうつかいはいんしょうてきなとりっくをえんじました。
 The opening paragraph grabbed my attention.★開始段落が私の注意を引きました。★かいしだんらくがわたくしのちゅういをひきました。
-The maker of the product offers a one-year warranty.★その製品の製造者は1年の保証を提供しています。★そのせいひんのせいぞうしゃはいちねんのほしょうをていきょうしています。
+The maker of the product offers a one-year warranty.★その製品の製造者は1年の保証を提供しています。★そのせいひんのせいぞうしゃは1ねんのほしょうをていきょうしています。
 I have a chocolate bar in my bag.★私のバッグにはチョコレートバーが入っています。★わたくしのばっぐにはちょこれーとばーがはいっています。
 The economy needs policies that stimulate growth.★経済は成長を促進する政策が必要です。★けいざいはせいちょうをそくしんするせいさくがひつようです。
-I need a new belt for my pants.★私はズボン用の新しいベルトが必要です。★わたくしはずぼんようのあたらしいべるとがひつようです。
-I love baked potato with butter and chives.★私はバターとニラ入りの焼きジャガイモが大好きです。★わたくしはばたーとにらいりのやきじゃがいもがだいすきです。
+I need a new belt for my pants.★私はズボン用の新しいベルトが必要です。★わたしはずぼんようのあたらしいべるとがひつようです。
+I love baked potato with butter and chives.★私はバターとニラ入りの焼きジャガイモが大好きです。★わたしはばたーとにらいりのやきじゃがいもがだいすきです。
 The movie had an intriguing narrative.★その映画は興味深い物語性がありました。★そのえいがはきょうみふかいものがたりせいがありました。
 Please pass me a tissue; I need to blow my nose.★ティッシュを渡してください。鼻をかむ必要があります。★てぃっしゅをわたしてください。はなをかむひつようがあります。
 I barely finished my assignment on time.★ぎりぎりで課題を終わらせました。★ぎりぎりでかだいをおわらせました。
 Thomas Edison is known to invent the light bulb.★トーマス・エジソンは電球を発明したことで知られています。★とーます・えじそんはでんきゅうをはつめいしたことでしられています。
 Tourism is a major source of revenue for the city.★観光はその都市の主要な収入源です。★かんこうはそのとしのしゅようなしゅうにゅうげんです。
 The advantages and pros of the new system outweigh the cons.★新しいシステムの利点とメリットはデメリットを上回ります。★あたらしいしすてむのりてんとめりっとはでめりっとをうわまわります。
-The stair creaked as he climbed to the second floor.★彼が2階に上がるとき、階段がきしんだ。★かれがにかいにあがるとき、かいだんがきしんだ。
+The stair creaked as he climbed to the second floor.★彼が2階に上がるとき、階段がきしんだ。★かれが2かいにあがるとき、かいだんがきしんだ。
 Don't hesitate to ask if you have questions.★質問があれば、ためらわずに尋ねてください。★しつもんがあれば、ためらわずにたずねてください。
 Let your talents shine and embrace your potential.★あなたの才能を輝かせ、あなたの潜在能力を受け入れてください。★あなたのさいのうをかがやかせ、あなたのせんざいのうりょくをうけいれてください。
 My main motivation is to make a positive difference.★私の主な動機は、積極的な違いをもたらすことです。★わたくしのおもなどうきは、せっきょくてきなちがいをもたらすことです。
@@ -2643,19 +2643,19 @@ Surprisingly, he arrived on time despite the traffic.★驚いたことに、彼
 Can you extract the main points from the article?★その記事から主要なポイントを抽出できますか？★そのきじからしゅようなぽいんとをちゅうしゅつできますか?
 The implementation of the new system begins next week.★新しいシステムの導入は来週始まります。★あたらしいしすてむのどうにゅうはらいしゅうはじまります。
 It's important to recognize and address any bias in research.★研究における偏見を認識し、対処することが重要です。★けんきゅうにおけるへんけんをにんしきし、たいしょすることがじゅうようです。
-We may have different opinions, but I see things differently.★私たちは異なる意見を持っているかもしれませんが、私は物事を異なる視点で見ています。★わたしたちはことなるいけんをもっているかもしれませんが、わたくしはものごとをことなるしてんでみています。
+We may have different opinions, but I see things differently.★私たちは異なる意見を持っているかもしれませんが、私は物事を異なる視点で見ています。★わたしたちはことなるいけんをもっているかもしれませんが、わたしはものごとをことなるしてんでみています。
 The library's catalog has a list of all available books.★図書館のカタログには、利用可能なすべての書籍のリストがあります。★としょかんのかたろぐには、りようかのうなすべてのしょせきのりすとがあります。
 The continuous rain made the roads slippery.★連続する雨で道路が滑りやすくなりました。★れんぞくするあめでどうろがすべりやすくなりました。
 The golden hour at sunset is perfect for photography.★日没時のゴールデンアワーは写真撮影に最適です。★にちぼつじのごーるでんあわーはしゃしんさつえいにさいてきです。
-I collected a rare stamp from Japan.★私は日本の珍しい切手を収集しました。★わたくしはにっぽんのめずらしいきってをしゅうしゅうしました。
+I collected a rare stamp from Japan.★私は日本の珍しい切手を収集しました。★わたしはにっぽんのめずらしいきってをしゅうしゅうしました。
 Follow the guideline to ensure you complete the project correctly.★プロジェクトを正しく完了するために、ガイドラインに従ってください。★ぷろじぇくとをただしくかんりょうするために、がいどらいんにしたがってください。
 She sealed the letter in an envelope.★彼女は手紙を封筒に封じました。★かのじょはてがみをふうとうにふうじました。
 Be careful with that sharp knife.★その鋭いナイフに注意してください。★そのするどいないふにちゅういしてください。
 Biological factors play a role in our health.★生物学的要因は私たちの健康に役割を果たしています。★せいぶつがくてきよういんはわたしたちのけんこうにやくわりをはたしています。
 We consume too much sugar in our diets.★私たちは食事で砂糖を摂取しすぎています。★わたしたちはしょくじでさとうをせっしゅしすぎています。
-Staying in a five-star hotel is a luxury.★5つ星ホテルに宿泊することは贅沢です。★いつつほしほてるにしゅくはくすることはぜいたくです。
-I have a weekly meeting every Monday.★私は毎週月曜日に週次会議があります。★わたくしはまいしゅうげつようびにしゅうじかいぎがあります。
-Wherever you go, I will follow.★あなたがどこに行っても、私はついていきます。★あなたがどこにいっても、わたくしはついていきます。
+Staying in a five-star hotel is a luxury.★5つ星ホテルに宿泊することは贅沢です。★5つぼしほてるにしゅくはくすることはぜいたくです。
+I have a weekly meeting every Monday.★私は毎週月曜日に週次会議があります。★わたしはまいしゅうげつようびにしゅうじかいぎがあります。
+Wherever you go, I will follow.★あなたがどこに行っても、私はついていきます。★あなたがどこにいっても、わたしはついていきます。
 Be careful; that dog might bite.★注意してください。その犬は噛むかもしれません。★ちゅういしてください。そのいぬはかむかもしれません。
 The document is printing on the office printer.★そのドキュメントはオフィスのプリンタで印刷されています。★そのどきゅめんとはおふぃすのぷりんたでいんさつされています。
 Firstly, let's discuss the main topic.★まず、主要なトピックについて話し合いましょう。★まず、しゅようなとぴっくについてはなしあいましょう。
@@ -2683,17 +2683,17 @@ Sushi contains raw fish.★寿司には生魚が含まれています。★す�
 Proper grammar is essential for clear communication.★正しい文法は明確なコミュニケーションに不可欠です。★ただしいぶんぽうはめいかくなこみゅにけーしょんにふかけつです。
 Please revise your essay before submission.★提出する前にエッセイを修正してください。★ていしゅつするまえにえっせいをしゅうせいしてください。
 Can you give me a hint about the surprise?★サプライズについてヒントを教えてもらえますか？★さぷらいずについてひんとをおしえてもらえますか?
-I'll hang my coat on the hook.★私はコートをフックにかけます。★わたくしはこーとをふっくにかけます。
+I'll hang my coat on the hook.★私はコートをフックにかけます。★わたしはこーとをふっくにかけます。
 The bell rang, signaling the end of class.★ベルが鳴り、授業が終了する合図となりました。★べるがなり、じゅぎょうがしゅうりょうするあいずとなりました。
 Water is a clear liquid.★水は透明な液体です。★みずはとうめいなえきたいです。
 When the fire alarm went off, there was a moment of panic.★火災報知器が鳴ったとき、一瞬のパニックがありました。★かさいほうちきがなったとき、いっしゅんのぱにっくがありました。
 My uncle lives in New York.★私の叔父はニューヨークに住んでいます。★わたくしのおじはにゅーよーくにすんでいます。
-I prefer brown rice over white rice.★私は白米より玄米を好みます。★わたくしははくまいよりげんまいをこのみます。
+I prefer brown rice over white rice.★私は白米より玄米を好みます。★わたしははくまいよりげんまいをこのみます。
 The slope of the hill was quite steep.★その丘の斜面はかなり急でした。★そのおかのしゃめんはかなりきゅうでした。
 Happiness is the key to a fulfilling life.★幸福は充実した生活の鍵です。★こうふくはじゅうじつしたせいかつのかぎです。
 His apology seemed genuine.★彼の謝罪は本物のように思えました。★かれのしゃざいはほんもののようにおもえました。
 The vessel sailed across the vast ocean.★その船は広大な海を航海しました。★そのふねはこうだいなうみをこうかいしました。
-The word "run" is a verb that indicates action.★runという単語は、行動を示す動詞です。★らんというたんごは、こうどうをしめすどうしです。
+The word "run" is a verb that indicates action.★runという単語は、行動を示す動詞です。★runというたんごは、こうどうをしめすどうしです。
 I reckon we'll reach the destination by noon.★私たちは正午までに目的地に到着すると思います。★わたしたちはしょうごまでにもくてきちにとうちゃくするとおもいます。
 Making funny faces is a silly thing we do for fun.★面白い顔をするのは、楽しむためにやる馬鹿げたことです。★おもしろいかおをするのは、たのしむためにやるばかげたことです。
 Public transportation in the city is very efficient.★都市の公共交通機関は非常に効率的です。★としのこうきょうこうつうきかんはひじょうにこうりつてきです。
@@ -2718,29 +2718,29 @@ The abstract painting made me think deeply.★その抽象画は私に深く考�
 We set up a tent for camping under the stars.★星空の下でキャンプするためにテントを張りました。★ほしぞらのもとできゃんぷするためにてんとをはりました。
 The measurements need to be precise for the recipe to work.★レシピがうまくいくためには、計測が正確である必要があります。★れしぴがうまくいくためには、けいそくがせいかくであるひつようがあります。
 The distant mountains looked hazy.★遠くの山々が霞んで見えました。★とおくのやまやまがかすんでみえました。
-Don't talk to strangers, advised the mother.★「見知らぬ人と話さないで」と母は忠告しました。★きごうみしらぬひととはなさないできごうとはははちゅうこくしました。
+Don't talk to strangers, advised the mother.★「見知らぬ人と話さないで」と母は忠告しました。★「みしらぬひととはなさないで」とはははちゅうこくしました。
 We rested under the shade of a big oak tree.★私たちは大きな樫の木の陰で休みました。★わたしたちはおおきなかしのきのかげでやすみました。
 A grain of rice is very small.★米粒は非常に小さいです。★こめつぶはひじょうにちいさいです。
 We situated the couch near the window.★私たちは窓の近くにソファを置きました。★わたしたちはまどのちかくにそふぁをおきました。
 Can you summarize the story in a few sentences?★その物語を数文で要約できますか？★そのものがたりをすうぶんでようやくできますか?
 The deer took a great leap over the fence.★鹿はフェンスを大きく跳び越えました。★しかはふぇんすをおおきくとびこえました。
-I'll snap a picture of the sunset.★私は夕日の写真を撮ります。★わたくしはゆうひのしゃしんをとります。
+I'll snap a picture of the sunset.★私は夕日の写真を撮ります。★わたしはゆうひのしゃしんをとります。
 The probability of rain today is high.★今日雨が降る確率は高いです。★きょうあめがふるかくりつはたかいです。
 The leather jacket was stylish and sleek.★そのレザージャケットはおしゃれでスマートでした。★そのれざーじゃけっとはおしゃれですまーとでした。
 There's uncertainty about the future of the project.★プロジェクトの将来には不確実性があります。★ぷろじぇくとのしょうらいにはふかくじつせいがあります。
-I swear to tell the truth, and nothing but the truth.★私は真実だけを語ることを誓います。★わたくしはしんじつだけをかたることをちかいます。
+I swear to tell the truth, and nothing but the truth.★私は真実だけを語ることを誓います。★わたしはしんじつだけをかたることをちかいます。
 Many seek refuge during times of war.★多くの人々が戦争の際に避難を求めます。★おおくのひとびとがせんそうのさいにひなんをもとめます。
 Children played along the sandy shore.★子供たちは砂浜で遊びました。★こどもたちはすなはまであそびました。
 The magazine has a monthly publication.★その雑誌は月刊です。★そのざっしはげっかんです。
-The team comprises five members.★チームは5人のメンバーで構成されています。★ちーむはごにんのめんばーでこうせいされています。
+The team comprises five members.★チームは5人のメンバーで構成されています。★ちーむは5にんのめんばーでこうせいされています。
 Stir the soup until it's well mixed.★スープがよく混ざるまでかき混ぜてください。★すーぷがよくまざるまでかきまぜてください。
 The excitement in the room was palpable.★部屋の興奮は手に取るように感じられました。★へやのこうふんはてにとるようにかんじられました。
 She let out a sigh of relief.★彼女は安堵のため息をつきました。★かのじょはあんどのためいきをつきました。
 Her pregnancy was announced with joy.★彼女の妊娠は喜びとともに発表されました。★かのじょのにんしんはよろこびとともにはっぴょうされました。
 The scientist conducted an experimental study.★その科学者は実験的な研究を行いました。★そのかがくしゃはじっけんてきなけんきゅうをおこないました。
 The institutional policies need a review.★機関の方針は見直しが必要です。★きかんのほうしんはみなおしがひつようです。
-I'll have a slice of apple pie, please.★アップルパイの1切れをください。★あっぷるぱいのいちきれをください。
-I love to wander through the woods.★私は森をさまようのが大好きです。★わたくしはもりをさまようのがだいすきです。
+I'll have a slice of apple pie, please.★アップルパイの1切れをください。★あっぷるぱいの1きれをください。
+I love to wander through the woods.★私は森をさまようのが大好きです。★わたしはもりをさまようのがだいすきです。
 The Roman Empire had vast territories.★ローマ帝国は広大な領土を持っていました。★ろーまていこくはこうだいなりょうどをもっていました。
 He missed the bus and subsequently arrived late.★彼はバスに乗り過ごし、その後遅れて到着しました。★かれはばすにのりすごし、そのあとおくれてとうちゃくしました。
 The gentle breeze felt refreshing on a hot day.★暑い日には、そよ風が心地よく感じられました。★あついひには、そよかぜがここちよくかんじられました。
@@ -2751,13 +2751,13 @@ They had to suspend the game due to rain.★雨のため彼らはゲームを中
 The functional design of the chair also made it comfortable.★椅子の機能的なデザインもそれを快適にしました。★いすのきのうてきなでざいんもそれをかいてきにしました。
 She did voluntary work at the local shelter.★彼女は地元のシェルターでボランティア活動をしました。★かのじょはじもとのしぇるたーでぼらんてぃあかつどうをしました。
 After hearing the news, he turned pale with shock.★そのニュースを聞いて、彼は驚きで顔色を失いました。★そのにゅーすをきいて、かれはおどろきでかおいろをうしないました。
-Be careful with that wine; it might stain the carpet.★そのワインに気をつけてください; カーペットに染みがつくかもしれません。★そのわいんにきをつけてくださいきごうきごうかーぺっとにしみがつくかもしれません。
+Be careful with that wine; it might stain the carpet.★そのワインに気をつけてください; カーペットに染みがつくかもしれません。★そのわいんにきをつけてください; かーぺっとにしみがつくかもしれません。
 The athlete trained daily for the Olympics.★その選手はオリンピックのために毎日トレーニングをしました。★そのせんしゅはおりんぴっくのためにまいにちとれーにんぐをしました。
-I prefer to buy organic fruits and vegetables.★私は有機の果物や野菜を買うのが好きです。★わたくしはゆうきのくだものややさいをかうのがすきです。
+I prefer to buy organic fruits and vegetables.★私は有機の果物や野菜を買うのが好きです。★わたしはゆうきのくだものややさいをかうのがすきです。
 The cat licked its paw with its tongue.★猫は舌で自分の足をなめました。★ねこはしたでじぶんのあしをなめました。
 The server at the restaurant was very attentive.★レストランのサーバーはとても気配りがよかった。★れすとらんのさーばーはとてもきくばりがよかった。
 The structural integrity of the building was tested.★建物の構造的な完全性がテストされました。★たてもののこうぞうてきなかんぜんせいがてすとされました。
-I found the information on their official website.★私は彼らの公式ウェブサイトで情報を見つけました。★わたくしはかれらのこうしきうぇぶさいとでじょうほうをみつけました。
+I found the information on their official website.★私は彼らの公式ウェブサイトで情報を見つけました。★わたしはかれらのこうしきうぇぶさいとでじょうほうをみつけました。
 Don't let appearances fool you.★外見に騙されないでください。★がいけんにだまされないでください。
 He walked alongside her down the street.★彼は彼女の横を歩いて通りを歩きました。★かれはかのじょのよこをあるいてとおりをあるきました。
 We must unite to achieve our common goal.★共通の目標を達成するためには団結しなければなりません。★きょうつうのもくひょうをたっせいするためにはだんけつしなければなりません。
@@ -2792,14 +2792,14 @@ The passport holder kept his documents organized.★パスポートホルダー�
 Solar energy is a sustainable power source.★太陽エネルギーは持続可能な電源です。★たいようえねるぎーはじぞくかのうなでんげんです。
 He gave a wide grin when he heard the good news.★良いニュースを聞いたとき、彼は広くにっこりと笑いました。★よいにゅーすをきいたとき、かれはひろくにっこりとわらいました。
 The rose in the garden bloomed beautifully.★庭のバラは美しく咲きました。★にわのばらはうつくしくさきました。
-In the sentence "The cat sat on the mat", cat and mat are nouns.★「The cat sat on the mat」という文では、catとmatは名詞です。★きごうざきごうしーえーてぃーきごうさっときごうおんきごうざきごうまっときごうというぶんでは、しーえーてぃーとまっとはめいしです。
+In the sentence "The cat sat on the mat", cat and mat are nouns.★「The cat sat on the mat」という文では、catとmatは名詞です。★「The cat sat on the mat」というぶんでは、catとmatはめいしです。
 We are fortunate to have such loving families.★こんなに愛情深い家族を持っていることは幸運です。★こんなにあいじょうふかいかぞくをもっていることはこううんです。
 Is everything alright, Jane?★大丈夫ですか、ジェーン?★だいじょうぶですか、じぇーん?
-I had a lazy Sunday morning.★私はのんびりした日曜日の朝を過ごしました。★わたくしはのんびりしたにちようびのあさをすごしました。
+I had a lazy Sunday morning.★私はのんびりした日曜日の朝を過ごしました。★わたしはのんびりしたにちようびのあさをすごしました。
 She waved and said hello.★彼女は手を振ってこんにちはと言いました。★かのじょはてをふってこんにちはといいました。
 His hunger grew by noon.★彼の空腹感は正午になると増していました。★かれのくうふくかんはしょうごになるとましていました。
-I need to insure my car.★私は車に保険をかける必要があります。★わたくしはくるまにほけんをかけるひつようがあります。
+I need to insure my car.★私は車に保険をかける必要があります。★わたしはくるまにほけんをかけるひつようがあります。
 Tom felt ashamed of his actions.★トムは自分の行動を恥じていました。★とむはじぶんのこうどうをはじていました。
-I found my lost keys.★私は失くした鍵を見つけました。★わたくしはなくしたかぎをみつけました。
-I read an interesting blog today.★私は今日、面白いブログを読みました。★わたくしはきょう、おもしろいぶろぐをよみました。
+I found my lost keys.★私は失くした鍵を見つけました。★わたしはなくしたかぎをみつけました。
+I read an interesting blog today.★私は今日、面白いブログを読みました。★わたしはきょう、おもしろいぶろぐをよみました。
 After jogging, his thirst was intense.★ジョギングの後、彼の喉の渇きは激しかったです。★じょぎんぐのあと、かれののどのかわきははげしかったです。
