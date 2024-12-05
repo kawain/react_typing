@@ -8,7 +8,7 @@ kanji_conv = KanjiConv(separator="")
 
 def split_text_by_pattern(text):
     # pattern = re.compile(r"[a-zA-Z0-9]+")
-    pattern = re.compile(r"[a-zA-Z0-9;；「」:　 ]+")
+    pattern = re.compile(r"[a-zA-Z0-9;；「」: ]+")
     results = []
     last_end = 0
 
@@ -31,15 +31,39 @@ def split_text_by_pattern(text):
     return results
 
 
-def convert_time_format(text):
-    # 半角数字+「とき」のパターンを「じ」に置換
-    pattern = r"(\d+)とき"
+def convert_format(text):
+    pattern = r"(\d+)時"
     result = re.sub(pattern, r"\1じ", text)
+
+    pattern = r"(\d+)日"
+    result = re.sub(pattern, r"\1にち", result)
+
+    pattern = r"(\d+)歳"
+    result = re.sub(pattern, r"\1さい", result)
+
+    pattern = r"(\d+)人"
+    result = re.sub(pattern, r"\1にん", result)
+
+    pattern = r"(\d+)年"
+    result = re.sub(pattern, r"\1ねん", result)
+
     return result
 
 
 def convert_hiragana(text):
     text = text.replace("私は", "わたしは")
+    text = text.replace("私の", "わたしの")
+    text = text.replace("私に", "わたしに")
+    text = text.replace("私を", "わたしを")
+    text = text.replace("何か", "なにか")
+    text = text.replace("辛い", "からい")
+    text = text.replace("分後", "ふんご")
+    text = text.replace("一日", "いちにち")
+    text = text.replace("1枚", "いちまい")
+    text = text.replace("の国は", "のくには")
+    text = text.replace("つ星", "つぼし")
+    text = convert_format(text)
+
     text = jaconv.z2h(text, kana=False, digit=True, ascii=True)
     results = split_text_by_pattern(text)
     result = ""
@@ -69,7 +93,6 @@ def make_questions_text():
     new_lst = []
     for eng, jpn in pairs:
         result = convert_hiragana(jpn)
-        result = convert_time_format(result)
         new_lst.append([eng, jpn, result])
 
     with open("./public/questions.txt", "w", encoding="utf-8") as f:
