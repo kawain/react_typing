@@ -2811,3 +2811,6 @@ It's wonderful to think about the meaning of life.★人生の意味について
 Hitchcock's Psycho is a masterpiece.★ヒッチコックの「サイコ」は傑作です。
 The Soviet film director Tarkovsky is known for his unique visual beauty that skillfully utilizes the symbolism of water.★ソ連の映画監督タルコフスキーは、水の象徴性を巧みに利用した独特の映像美で知られています。
 I see a devolution of American democracy into something resembling a totalitarian system.★アメリカの民主主義は、全体主義体制に似たものへと退化していると私は見ている。
+Singularity is a term that refers to the tipping point at which artificial intelligence (AI) surpasses human intelligence, or the changes that will occur as a result of that tipping point.★シンギュラリティとは、人工知能が人間の知能を超える転換点、またはその転換点によって起こる変化を指す言葉です。
+The U.S. Congress has proposed launching an AI version of the Manhattan Project in order to win the artificial intelligence race with China.★米議会は、中国との人工知能開発競争を制するため、AI版のマンハッタン計画立ち上げを提言した。
+In the Norwegian Mensa IQ test, the official version of "Open o1" had an IQ of 133, 13 points higher than "OpenAI o1-preview" (120).★ノルウェーMensa IQテストにおいて、正式版「Open o1」のIQは133で、「OpenAI o1-preview」(120)より13ポイント上昇した。

@@ -90,6 +90,7 @@ def make_questions_text():
 
     with open("./public/questions.txt", "w", encoding="utf-8") as f:
         for v in new_lst:
+            v[2] = v[2].replace("ヴ", "ゔ")
             data = f"{v[0]}★{v[1]}★{v[2]}\n"
             f.write(data)
 
