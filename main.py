@@ -62,6 +62,11 @@ def convert_hiragana(text):
     text = text.replace("1枚", "いちまい")
     text = text.replace("の国は", "のくには")
     text = text.replace("つ星", "つぼし")
+    text = text.replace("(", " ")
+    text = text.replace(")", " ")
+    text = text.replace("（", " ")
+    text = text.replace("）", " ")
+
     text = convert_format(text)
 
     text = jaconv.z2h(text, kana=False, digit=True, ascii=True)
