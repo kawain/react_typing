@@ -131,7 +131,7 @@ river★川
 lake★湖
 sea★海
 beach★海辺
-fine★晴れ/元気
+fine★晴れ 元気
 sunny★晴れ
 cloudy★くもりの
 rainy★雨がふっている
@@ -163,7 +163,7 @@ answer★答える
 join★参加する
 practice★練習する
 paint★描く
-move★動く／引っ越す
+move★動く 引っ越す
 learn★学ぶ
 talk★話す
 stay★滞在する
@@ -341,7 +341,7 @@ nothing★何も～ない
 thing★もの
 money★お金
 computer★コンピュータ
-picture★絵／写真
+picture★絵 写真
 festival★祭り
 corner★角
 meeting★会議
@@ -371,7 +371,7 @@ sound★音
 culture★文化
 also★～も
 soon★すぐに
-about★～について／約
+about★～について 約
 floor★階、床
 notice★お知らせ
 member★メンバー・一員
@@ -423,7 +423,7 @@ add★加える
 cross★横切る
 mark★マークをつける
 solve★解く、解決する
-raise★上げる［挙げる］、育てる
+raise★上げる 挙げる 、育てる
 miss★いないので寂しく思う、乗り遅れる
 smoke★たばこを吸う
 die★死ぬ
@@ -645,7 +645,7 @@ tradition★伝統、しきたり
 area★地域、区域
 refrigerator★冷蔵庫
 factory★工場
-heat★熱、熱さ［暑さ］
+heat★熱、熱さ 暑さ 
 temperature★温度、気温、体温
 pain★痛み
 rest★休憩
@@ -946,7 +946,7 @@ in private★秘密に、内輪で
 practical★実際的な、現実的な
 conservative★保守的な
 stressful★ストレスのたまる
-once★いったん〜すると
+once★いったん~すると
 transplant★移植
 politics★政治
 economy★経済
@@ -1018,7 +1018,7 @@ disturb★邪魔する
 species★種
 vitamin★ビタミン
 investigation★調査
-make oneself understood★考え［言葉］を人にわからせる
+make oneself understood★考え 言葉 を人にわからせる
 precious★貴重な
 general★概略の、世間一般の
 emotional★感情的な
@@ -1378,7 +1378,7 @@ budget★予算
 emulate★まねる、模倣する
 conspire★共謀する
 endow★授ける
-nuisance★厄介なこと、迷惑な人［物］
+nuisance★厄介なこと、迷惑な人 物 
 confirmation★確認
 revision★改訂
 conversion★変更、変換
@@ -1719,7 +1719,7 @@ turmoil★騒動、混乱、騒ぎ
 brutality★残忍性、冷酷さ、非情さ
 prosper★繁栄する、発展する
 successive★連続する、続ける、つづく
-mold★鋳型、型作り/型どる
+mold★鋳型、型作り 型どる
 fall through★失敗に終わる、駄目になる、台無しになる
 conform to★に順応する、慣れる、適応する
 stability★安定、平穏、均衡
@@ -1850,7 +1850,7 @@ disturbing★邪魔な、迷惑な
 par★同等、等価
 across from★の向かいに、対面に、の向かい側
 heath★荒野、野原
-chemistry★化学/化学的な
+chemistry★化学 化学的な
 malignant★悪意のある、悪意を持った
 carcinogen★発がん物質、発癌性の物質
 accumulate★蓄積する、貯蔵する
@@ -3804,7 +3804,7 @@ confetti★紙吹雪
 articulation★調音
 stow★詰め込む
 debit★借り方
-split the bill★割り勘をする/割り勘
+split the bill★割り勘をする 割り勘
 slip A's mind★Aから忘れられる、～をAがうっかり忘れる
 recompense★報いる
 altercation★口論
@@ -5625,7 +5625,7 @@ quarrel★口論、口げんか
 intent★意図、目的
 lately★最近、近ごろ
 invade★に侵入する、を侵略する
-tender★優しい/世話人
+tender★優しい 世話人
 spontaneous★自発的な、任意の
 in contrast★対照的に、これに対して
 fame★名声、高名
@@ -5726,7 +5726,7 @@ bush★茂み、低木
 stiff★硬い
 discern★はっきり分かる、認める
 seclusion★隔離、分離
-discharge★排出、放電/荷を降ろす
+discharge★排出、放電 荷を降ろす
 progression★前進、進歩
 wheat★小麦
 weary★疲れた、疲弊した
@@ -5815,7 +5815,7 @@ scent★香り、におい
 wicked★邪悪な、悪い
 await★を待つ
 agricultural★農業の
-haste★急ぐ/急ぎ
+haste★急ぐ 急ぎ
 resemble★に似ている
 butcher★肉屋
 engagement★約束、取り決め
@@ -5879,7 +5879,7 @@ basin★盆地、たらい
 bleed★出血する、血を流す
 ripe★熟した、熟れた
 thorough★徹底した、完ぺきな
-digest★要約/消化する
+digest★要約 消化する
 rattle★ガタガタ鳴る
 athletic★競技の、運動家の
 sidewalk★歩道、歩行者道
@@ -5924,7 +5924,7 @@ conceive★を心に抱く、思う
 disgusting★いやな、むかつくような
 fascinating★魅惑的な、うっとりさせる
 dock★船着場、波止場
-retreat★へ退却する/後退
+retreat★へ退却する 後退
 productivity★生産性、生産力
 shiny★輝いた、光沢のある
 sow★の種をまく
@@ -5951,7 +5951,7 @@ vivid★鮮やかな
 frustration★欲求不満、落胆
 prescription★処方箋、処方
 particle★分子、微量
-hug★抱擁/を抱きしめる
+hug★抱擁 を抱きしめる
 absurd★ばかげた、道理に合わない
 assemble★を集める、組み立てる
 uncertainty★不確実性、不明確さ
@@ -5981,7 +5981,7 @@ irony★皮肉
 lick★をなめる、をなめてかかる
 refuge★避難、保護
 bulk★大きさ、かさ
-peel★皮をむく/皮
+peel★皮をむく 皮
 lastly★最後に、結局
 grieve★深く悲しむ、嘆く
 forehead★おでこ、ひたい
@@ -6088,7 +6088,7 @@ summon★を召喚する、呼び出す
 twinkle★きらきら光る
 howl★遠吠えする
 inhabit★に生息する、住む
-frown★眉をひそめる/しかめ面
+frown★眉をひそめる しかめ面
 build up★増大する、築き上げる
 air out★が乾く、乾燥する
 genuine★本物の、真の
@@ -6308,8 +6308,8 @@ insert★を差し込む、挿入する
 pretense★見せかけ
 sheer★本当の、透けるほど薄い
 to begin with★最初に、最初から
-coordinate★座標の、同等の/整合する
-checkup★調べる/検査
+coordinate★座標の、同等の 整合する
+checkup★調べる 検査
 applaud★拍手する
 ethical★倫理的な
 preservation★保存、保護
@@ -6543,7 +6543,7 @@ shabby★みすぼらしい
 revelation★啓示
 thereafter★その後は
 punctuality★時間厳守
-editorial★編集の/社説
+editorial★編集の 社説
 merchandise★商品
 pharmacist★薬剤師
 yarn★編み糸
@@ -6706,7 +6706,7 @@ stout★頑丈な、太った
 planetary★惑星の
 approximate★およその
 leftover★残り物、食べ残し
-slant★傾斜/傾く
+slant★傾斜 傾く
 municipal★市政の、地方自治の
 thesis★論文、論題
 drowsy★眠い、うとうとしている
@@ -6745,7 +6745,7 @@ fiery★燃え立つような
 foggy★霧のかかった
 legislative★立法上の
 admiral★提督、司令官
-shriek★悲鳴を上げる/悲鳴
+shriek★悲鳴を上げる 悲鳴
 snare★わな
 rhetoric★美辞麗句
 optimism★楽観主義
@@ -6777,7 +6777,7 @@ sermon★説教、説法
 pebble★小石、石ころ
 prescribe★処方する、指示する
 kernel★核心
-reproach★叱責/をしかる
+reproach★叱責 をしかる
 brisk★活発な、元気の良い
 skinny★やせこけた
 mediator★調停者、仲裁者
@@ -6976,7 +6976,7 @@ extinguish★を消す
 prologue★序章
 communion★親交
 bail★保釈、保釈金
-vomit★吐く/嘔吐
+vomit★吐く 嘔吐
 obsess★執着する、とりつく
 meaningful★意味のある、有意義な
 unify★を一つにする、統一する
@@ -7011,7 +7011,7 @@ delicacy★優美さ、精巧さ
 ecological★生態学の
 tug★をぐいと引く、強く引っ張る
 ironic★皮肉な
-lyric★歌詞/叙情的な
+lyric★歌詞 叙情的な
 rouge★口紅
 placement★置くこと、配置
 ripple★波紋
@@ -7415,7 +7415,7 @@ compose★を構成する、作曲する
 estate★財産、資産
 notion★考え、意見
 call off★を中止する
-drift★漂流/流れる
+drift★漂流 流れる
 foe★敵
 break out★勃発する
 orbit★軌道、軌跡
@@ -7426,13 +7426,13 @@ asset★資産、財産
 fade out★消える、消えていく
 sophisticated★洗練された、高雅な
 disrupt★混乱させる
-dispute★争議/論争する
+dispute★争議 論争する
 abandon★を捨て去る、放棄する
 grumpy★気難しい
 chatter★おしゃべり
 grouchy★不機嫌な
 relevant★関連のある、適切な
-commit★専念/ゆだねる
+commit★専念 ゆだねる
 perch★止まり木
 in vain★無駄に、軽々しく
 suppress★抑える、抑圧する
@@ -7498,7 +7498,7 @@ equivalent★等しい、同等の
 falsify★改ざんする
 thread★糸
 aristocrat★貴族
-glance★一目見る/一目
+glance★一目見る 一目
 come across★を横切る、出くわす
 tighten up★締め付ける
 vary★多様化する、異なる
@@ -7507,7 +7507,7 @@ federal★連邦の、連邦制の
 armament★武装
 combat★戦闘、闘争
 barely★かろうじて、やっと
-take over★を引き継ぐ/継承
+take over★を引き継ぐ 継承
 demotion★降格
 audible★聞くことのできる
 observation★観察、観測
@@ -7627,7 +7627,7 @@ admission★入場、入場料
 tension★緊張
 correspond★対応する、反応する
 a wide range of★広範囲の
-witness★目撃者、証人/を目撃する
+witness★目撃者、証人 を目撃する
 primitive★原始的な、先史的な
 acknowledge★を認める、認める
 demote★降格する
@@ -10463,3 +10463,40 @@ I see a devolution of American democracy into something resembling a totalitaria
 Singularity is a term that refers to the tipping point at which artificial intelligence (AI) surpasses human intelligence, or the changes that will occur as a result of that tipping point.★シンギュラリティとは、人工知能が人間の知能を超える転換点、またはその転換点によって起こる変化を指す言葉です。
 The U.S. Congress has proposed launching an AI version of the Manhattan Project in order to win the artificial intelligence race with China.★米議会は、中国との人工知能開発競争を制するため、AI版のマンハッタン計画立ち上げを提言した。
 In the Norwegian Mensa IQ test, the official version of "Open o1" had an IQ of 133, 13 points higher than "OpenAI o1-preview" (120).★ノルウェーMensa IQテストにおいて、正式版「Open o1」のIQは133で、「OpenAI o1-preview」(120)より13ポイント上昇した。
+What time shall we leave? In about five minutes.★何時に出発しますか？約5分で出発します。
+What are you going to do next week? I'm going to go to new york next week.★来週は何をするつもりですか？ニューヨークに行くつもりです。
+Do you rent a house? Yes, but I'm looking to buy one.★あなたは家を借りていますか？はい。でも購入するつもりです。
+I'm sorry, but I can't find the notebook you lent me.★すみません。あなたに借りたノートがみつかりません。
+Look at my painting. You're really talented.★私の絵を見てください。あなたは本当に才能があります。
+What did you have for lunch? I had a hamburger and a fried chicken.★お昼に何を食べました？私はハンバーガーとフライドチキンの足を食べました。
+Who does he think he is? Calm down.★彼、何様のつもり？落ち着いて。
+I switched jobs. Since when did you do that.★私は転職しました。いつからそれをしました？
+Should we walk? No, it's too far. Let's take a taxi.★歩いたほうがいいですか？いや、遠すぎます。タクシーを使いましょう。
+Let's meet tomorrow at 3 p.m. Sounds good!★明日の午後3時に会いましょう。いいですね。
+She lost her winning lottery ticket.★彼女は当選した宝くじを紛失した。
+How long have you been studying chinese? More than three years.★中国語をどのくらい勉強していますか？3年以上です。
+Did you sleep well? No, I couldn't sleep well at all.★よく眠れましたか？いいえ、全然眠れませんでした。
+Do you have any siblings? I am the only child.★兄弟はいますか？私は一人っ子です。
+I want a refund. Do you have a receipt?★返金を希望します。領収書はありますか？
+Are you ready for tomorrow? No, not yet.★明日の準備はできていますか？いいえ、まだです。
+Excuse me. Where is number five street? Go straight ahead and turn left at the second crossing.★すみません。5番街はどこですか？まっすぐ進み、2番目の交差点で左折してください。
+What will you wear for the party? I'll wear my blue dress.★パーティーには何を着ますか？私は青いドレスを着ます。
+Is it okay if I take the last piece? Don't worry about it.★最後の一片を取っても大丈夫ですか？心配しないでください。
+I'm taking a half day leave tomorrow. Did you inform the boss about it.★明日は半日休みます。上司に伝えましたか。
+How are you doing these days? Not bad, same as usual.★最近調子はどうですか？悪くない、いつも通りです。
+My dog died this weekend. I'm sorry to hear that.★今週末、私の犬が亡くなりました。残念です。
+What kind of business are you in? I work for an apparel company.★どのような業種をされていますか？アパレル会社に勤めています。
+I really like your simplicity. Thank you. My mom's a big influence.★あなたの純粋さが本当に気に入りました。ありがとう。母の影響は大きいです。
+Can you please get me this shirt in a smaller size? Please wait a moment.★このシャツの小さいサイズを持ってきてもらえますか？少々お待ちください。
+Would you like some more pie? I'm content.★もう少しパイはいかがですか？お腹がいっぱいです。
+What do you do in your spare time? Read books and chat with friends.★暇な時は何をしますか? 本を読んだり、友達とおしゃべりしたりします。
+Why not go out for a walk? I'm a little sick.★なぜ散歩に出かけないのですか？ちょっと体調が悪いんです。
+How thick is the ice here? More than one meter.★ここの氷の厚さはどれくらいですか？1メートル以上です。
+May I help you? Yes, I'm looking for a stapler.★何かお手伝いしましょうか？はい、ホチキスを探しています。
+Why did you divorce?★なぜ離婚したのですか？
+What do you think about that movie? I thought the movie was very interesting.★その映画についてどう思いますか？私はその映画がとても面白かったと思いました。
+It's really disappointing.★本当に残念です。
+What do you usually do for exercise? Swimming and running are my favorite types of exercise.★普段はどんな運動をしていますか？水泳とランニングが私の好きな運動です。
+Where does it hurt? Here.★どこが痛いの？ここ。
+My wife is pregnant. Congratulations!★妻が妊娠しました。おめでとうございます！
+How is your new job? I'm adjusting very well to it.★新しい仕事はどうですか？とても慣れました。
