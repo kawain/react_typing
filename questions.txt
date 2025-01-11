@@ -131,7 +131,7 @@ river★川★かわ
 lake★湖★みずうみ
 sea★海★うみ
 beach★海辺★うみべ
-fine★晴れ/元気★はれきごうげんき
+fine★晴れ 元気★はれ げんき
 sunny★晴れ★はれ
 cloudy★くもりの★くもりの
 rainy★雨がふっている★あめがふっている
@@ -163,7 +163,7 @@ answer★答える★こたえる
 join★参加する★さんかする
 practice★練習する★れんしゅうする
 paint★描く★えがく
-move★動く／引っ越す★うごくきごうひっこす
+move★動く 引っ越す★うごく ひっこす
 learn★学ぶ★まなぶ
 talk★話す★はなす
 stay★滞在する★たいざいする
@@ -341,7 +341,7 @@ nothing★何も～ない★なんも~ない
 thing★もの★もの
 money★お金★おかね
 computer★コンピュータ★こんぴゅーた
-picture★絵／写真★えきごうしゃしん
+picture★絵 写真★え しゃしん
 festival★祭り★まつり
 corner★角★かく
 meeting★会議★かいぎ
@@ -371,7 +371,7 @@ sound★音★おと
 culture★文化★ぶんか
 also★～も★~も
 soon★すぐに★すぐに
-about★～について／約★~についてきごうやく
+about★～について 約★~について やく
 floor★階、床★かい、ゆか
 notice★お知らせ★おしらせ
 member★メンバー・一員★めんばー・いちいん
@@ -423,7 +423,7 @@ add★加える★くわえる
 cross★横切る★よこぎる
 mark★マークをつける★まーくをつける
 solve★解く、解決する★とく、かいけつする
-raise★上げる［挙げる］、育てる★あげるきごうあげるきごう、そだてる
+raise★上げる 挙げる 、育てる★あげる あげる 、そだてる
 miss★いないので寂しく思う、乗り遅れる★いないのでさびしくおもう、のりおくれる
 smoke★たばこを吸う★たばこをすう
 die★死ぬ★しぬ
@@ -645,7 +645,7 @@ tradition★伝統、しきたり★でんとう、しきたり
 area★地域、区域★ちいき、くいき
 refrigerator★冷蔵庫★れいぞうこ
 factory★工場★こうじょう
-heat★熱、熱さ［暑さ］★ねつ、あつさきごうあつさきごう
+heat★熱、熱さ 暑さ★ねつ、あつさ あつさ
 temperature★温度、気温、体温★おんど、きおん、たいおん
 pain★痛み★いたみ
 rest★休憩★きゅうけい
@@ -946,7 +946,7 @@ in private★秘密に、内輪で★ひみつに、うちわで
 practical★実際的な、現実的な★じっさいてきな、げんじつてきな
 conservative★保守的な★ほしゅてきな
 stressful★ストレスのたまる★すとれすのたまる
-once★いったん〜すると★いったんきごうすると
+once★いったん~すると★いったん~すると
 transplant★移植★いしょく
 politics★政治★せいじ
 economy★経済★けいざい
@@ -1018,7 +1018,7 @@ disturb★邪魔する★じゃまする
 species★種★しゅ
 vitamin★ビタミン★びたみん
 investigation★調査★ちょうさ
-make oneself understood★考え［言葉］を人にわからせる★かんがえきごうことばきごうをひとにわからせる
+make oneself understood★考え 言葉 を人にわからせる★かんがえ ことば をひとにわからせる
 precious★貴重な★きちょうな
 general★概略の、世間一般の★がいりゃくの、せけんいっぱんの
 emotional★感情的な★かんじょうてきな
@@ -1378,7 +1378,7 @@ budget★予算★よさん
 emulate★まねる、模倣する★まねる、もほうする
 conspire★共謀する★きょうぼうする
 endow★授ける★さずける
-nuisance★厄介なこと、迷惑な人［物］★やっかいなこと、めいわくなひときごうものきごう
+nuisance★厄介なこと、迷惑な人 物★やっかいなこと、めいわくなひと もの
 confirmation★確認★かくにん
 revision★改訂★かいてい
 conversion★変更、変換★へんこう、へんかん
@@ -1719,7 +1719,7 @@ turmoil★騒動、混乱、騒ぎ★そうどう、こんらん、さわぎ
 brutality★残忍性、冷酷さ、非情さ★ざんにんせい、れいこくさ、ひじょうさ
 prosper★繁栄する、発展する★はんえいする、はってんする
 successive★連続する、続ける、つづく★れんぞくする、つづける、つづく
-mold★鋳型、型作り/型どる★いがた、かたづくりきごうかたどる
+mold★鋳型、型作り 型どる★いがた、かたづくり かたどる
 fall through★失敗に終わる、駄目になる、台無しになる★しっぱいにおわる、だめになる、だいなしになる
 conform to★に順応する、慣れる、適応する★にじゅんのうする、なれる、てきおうする
 stability★安定、平穏、均衡★あんてい、へいおん、きんこう
@@ -1850,7 +1850,7 @@ disturbing★邪魔な、迷惑な★じゃまな、めいわくな
 par★同等、等価★どうとう、とうか
 across from★の向かいに、対面に、の向かい側★のむかいに、たいめんに、のむかいがわ
 heath★荒野、野原★こうや、のはら
-chemistry★化学/化学的な★かがくきごうかがくてきな
+chemistry★化学 化学的な★かがく かがくてきな
 malignant★悪意のある、悪意を持った★あくいのある、あくいをもった
 carcinogen★発がん物質、発癌性の物質★はつがんぶっしつ、はつがんせいのぶっしつ
 accumulate★蓄積する、貯蔵する★ちくせきする、ちょぞうする
@@ -3804,7 +3804,7 @@ confetti★紙吹雪★かみふぶき
 articulation★調音★ちょうおん
 stow★詰め込む★つめこむ
 debit★借り方★かりかた
-split the bill★割り勘をする/割り勘★わりかんをするきごうわりかん
+split the bill★割り勘をする 割り勘★わりかんをする わりかん
 slip A's mind★Aから忘れられる、～をAがうっかり忘れる★Aからわすれられる、~をAがうっかりわすれる
 recompense★報いる★むくいる
 altercation★口論★こうろん
@@ -5625,7 +5625,7 @@ quarrel★口論、口げんか★こうろん、くちげんか
 intent★意図、目的★いと、もくてき
 lately★最近、近ごろ★さいきん、ちかごろ
 invade★に侵入する、を侵略する★にしんにゅうする、をしんりゃくする
-tender★優しい/世話人★やさしいきごうせわにん
+tender★優しい 世話人★やさしい せわにん
 spontaneous★自発的な、任意の★じはつてきな、にんいの
 in contrast★対照的に、これに対して★たいしょうてきに、これにたいして
 fame★名声、高名★めいせい、こうみょう
@@ -5726,7 +5726,7 @@ bush★茂み、低木★しげみ、ていぼく
 stiff★硬い★かたい
 discern★はっきり分かる、認める★はっきりわかる、みとめる
 seclusion★隔離、分離★かくり、ぶんり
-discharge★排出、放電/荷を降ろす★はいしゅつ、ほうでんきごうにをおろす
+discharge★排出、放電 荷を降ろす★はいしゅつ、ほうでん にをおろす
 progression★前進、進歩★ぜんしん、しんぽ
 wheat★小麦★こむぎ
 weary★疲れた、疲弊した★つかれた、ひへいした
@@ -5815,7 +5815,7 @@ scent★香り、におい★かおり、におい
 wicked★邪悪な、悪い★じゃあくな、わるい
 await★を待つ★をまつ
 agricultural★農業の★のうぎょうの
-haste★急ぐ/急ぎ★いそぐきごういそぎ
+haste★急ぐ 急ぎ★いそぐ いそぎ
 resemble★に似ている★ににている
 butcher★肉屋★にくや
 engagement★約束、取り決め★やくそく、とりきめ
@@ -5879,7 +5879,7 @@ basin★盆地、たらい★ぼんち、たらい
 bleed★出血する、血を流す★しゅっけつする、ちをながす
 ripe★熟した、熟れた★じゅくした、うれた
 thorough★徹底した、完ぺきな★てっていした、かんぺきな
-digest★要約/消化する★ようやくきごうしょうかする
+digest★要約 消化する★ようやく しょうかする
 rattle★ガタガタ鳴る★がたがたなる
 athletic★競技の、運動家の★きょうぎの、うんどうかの
 sidewalk★歩道、歩行者道★ほどう、ほこうしゃどう
@@ -5924,7 +5924,7 @@ conceive★を心に抱く、思う★をこころにいだく、おもう
 disgusting★いやな、むかつくような★いやな、むかつくような
 fascinating★魅惑的な、うっとりさせる★みわくてきな、うっとりさせる
 dock★船着場、波止場★ふなつきば、はとば
-retreat★へ退却する/後退★へたいきゃくするきごうこうたい
+retreat★へ退却する 後退★へたいきゃくする こうたい
 productivity★生産性、生産力★せいさんせい、せいさんりょく
 shiny★輝いた、光沢のある★かがやいた、こうたくのある
 sow★の種をまく★のたねをまく
@@ -5951,7 +5951,7 @@ vivid★鮮やかな★あざやかな
 frustration★欲求不満、落胆★よっきゅうふまん、らくたん
 prescription★処方箋、処方★しょほうせん、しょほう
 particle★分子、微量★ぶんし、びりょう
-hug★抱擁/を抱きしめる★ほうようきごうをだきしめる
+hug★抱擁 を抱きしめる★ほうよう をだきしめる
 absurd★ばかげた、道理に合わない★ばかげた、どうりにあわない
 assemble★を集める、組み立てる★をあつめる、くみたてる
 uncertainty★不確実性、不明確さ★ふかくじつせい、ふめいかくさ
@@ -5981,7 +5981,7 @@ irony★皮肉★ひにく
 lick★をなめる、をなめてかかる★をなめる、をなめてかかる
 refuge★避難、保護★ひなん、ほご
 bulk★大きさ、かさ★おおきさ、かさ
-peel★皮をむく/皮★かわをむくきごうかわ
+peel★皮をむく 皮★かわをむく かわ
 lastly★最後に、結局★さいごに、けっきょく
 grieve★深く悲しむ、嘆く★ふかくかなしむ、なげく
 forehead★おでこ、ひたい★おでこ、ひたい
@@ -6088,7 +6088,7 @@ summon★を召喚する、呼び出す★をしょうかんする、よびだ�
 twinkle★きらきら光る★きらきらひかる
 howl★遠吠えする★とおぼえする
 inhabit★に生息する、住む★にせいそくする、すむ
-frown★眉をひそめる/しかめ面★まゆをひそめるきごうしかめづら
+frown★眉をひそめる しかめ面★まゆをひそめる しかめづら
 build up★増大する、築き上げる★ぞうだいする、きずきあげる
 air out★が乾く、乾燥する★がかわく、かんそうする
 genuine★本物の、真の★ほんものの、しんの
@@ -6308,8 +6308,8 @@ insert★を差し込む、挿入する★をさしこむ、そうにゅうす�
 pretense★見せかけ★みせかけ
 sheer★本当の、透けるほど薄い★ほんとうの、すけるほどうすい
 to begin with★最初に、最初から★さいしょに、さいしょから
-coordinate★座標の、同等の/整合する★ざひょうの、どうとうのきごうせいごうする
-checkup★調べる/検査★しらべるきごうけんさ
+coordinate★座標の、同等の 整合する★ざひょうの、どうとうの せいごうする
+checkup★調べる 検査★しらべる けんさ
 applaud★拍手する★はくしゅする
 ethical★倫理的な★りんりてきな
 preservation★保存、保護★ほぞん、ほご
@@ -6543,7 +6543,7 @@ shabby★みすぼらしい★みすぼらしい
 revelation★啓示★けいじ
 thereafter★その後は★そのあとは
 punctuality★時間厳守★じかんげんしゅ
-editorial★編集の/社説★へんしゅうのきごうしゃせつ
+editorial★編集の 社説★へんしゅうの しゃせつ
 merchandise★商品★しょうひん
 pharmacist★薬剤師★やくざいし
 yarn★編み糸★あみいと
@@ -6706,7 +6706,7 @@ stout★頑丈な、太った★がんじょうな、ふとった
 planetary★惑星の★わくせいの
 approximate★およその★およその
 leftover★残り物、食べ残し★のこりもの、たべのこし
-slant★傾斜/傾く★けいしゃきごうかたむく
+slant★傾斜 傾く★けいしゃ かたむく
 municipal★市政の、地方自治の★しせいの、ちほうじちの
 thesis★論文、論題★ろんぶん、ろんだい
 drowsy★眠い、うとうとしている★ねむい、うとうとしている
@@ -6745,7 +6745,7 @@ fiery★燃え立つような★もえたつような
 foggy★霧のかかった★きりのかかった
 legislative★立法上の★りっぽうじょうの
 admiral★提督、司令官★ていとく、しれいかん
-shriek★悲鳴を上げる/悲鳴★ひめいをあげるきごうひめい
+shriek★悲鳴を上げる 悲鳴★ひめいをあげる ひめい
 snare★わな★わな
 rhetoric★美辞麗句★びじれいく
 optimism★楽観主義★らっかんしゅぎ
@@ -6777,7 +6777,7 @@ sermon★説教、説法★せっきょう、せっぽう
 pebble★小石、石ころ★こいし、いしころ
 prescribe★処方する、指示する★しょほうする、しじする
 kernel★核心★かくしん
-reproach★叱責/をしかる★しっせききごうをしかる
+reproach★叱責 をしかる★しっせき をしかる
 brisk★活発な、元気の良い★かっぱつな、げんきのよい
 skinny★やせこけた★やせこけた
 mediator★調停者、仲裁者★ちょうていしゃ、ちゅうさいしゃ
@@ -6976,7 +6976,7 @@ extinguish★を消す★をけす
 prologue★序章★じょしょう
 communion★親交★しんこう
 bail★保釈、保釈金★ほしゃく、ほしゃくきん
-vomit★吐く/嘔吐★はくきごうおうと
+vomit★吐く 嘔吐★はく おうと
 obsess★執着する、とりつく★しゅうちゃくする、とりつく
 meaningful★意味のある、有意義な★いみのある、ゆういぎな
 unify★を一つにする、統一する★をひとつにする、とういつする
@@ -7011,7 +7011,7 @@ delicacy★優美さ、精巧さ★ゆうびさ、せいこうさ
 ecological★生態学の★せいたいがくの
 tug★をぐいと引く、強く引っ張る★をぐいとひく、つよくひっぱる
 ironic★皮肉な★ひにくな
-lyric★歌詞/叙情的な★かしきごうじょじょうてきな
+lyric★歌詞 叙情的な★かし じょじょうてきな
 rouge★口紅★くちべに
 placement★置くこと、配置★おくこと、はいち
 ripple★波紋★はもん
@@ -7415,7 +7415,7 @@ compose★を構成する、作曲する★をこうせいする、さっきょ�
 estate★財産、資産★ざいさん、しさん
 notion★考え、意見★かんがえ、いけん
 call off★を中止する★をちゅうしする
-drift★漂流/流れる★ひょうりゅうきごうながれる
+drift★漂流 流れる★ひょうりゅう ながれる
 foe★敵★てき
 break out★勃発する★ぼっぱつする
 orbit★軌道、軌跡★きどう、きせき
@@ -7426,13 +7426,13 @@ asset★資産、財産★しさん、ざいさん
 fade out★消える、消えていく★きえる、きえていく
 sophisticated★洗練された、高雅な★せんれんされた、こうがな
 disrupt★混乱させる★こんらんさせる
-dispute★争議/論争する★そうぎきごうろんそうする
+dispute★争議 論争する★そうぎ ろんそうする
 abandon★を捨て去る、放棄する★をすてさる、ほうきする
 grumpy★気難しい★きむずかしい
 chatter★おしゃべり★おしゃべり
 grouchy★不機嫌な★ふきげんな
 relevant★関連のある、適切な★かんれんのある、てきせつな
-commit★専念/ゆだねる★せんねんきごうゆだねる
+commit★専念 ゆだねる★せんねん ゆだねる
 perch★止まり木★とまりぎ
 in vain★無駄に、軽々しく★むだに、かるがるしく
 suppress★抑える、抑圧する★おさえる、よくあつする
@@ -7498,7 +7498,7 @@ equivalent★等しい、同等の★ひとしい、どうとうの
 falsify★改ざんする★かいざんする
 thread★糸★いと
 aristocrat★貴族★きぞく
-glance★一目見る/一目★ひとめみるきごうひとめ
+glance★一目見る 一目★ひとめみる いちもく
 come across★を横切る、出くわす★をよこぎる、でくわす
 tighten up★締め付ける★しめつける
 vary★多様化する、異なる★たようかする、ことなる
@@ -7507,7 +7507,7 @@ federal★連邦の、連邦制の★れんぽうの、れんぽうせいの
 armament★武装★ぶそう
 combat★戦闘、闘争★せんとう、とうそう
 barely★かろうじて、やっと★かろうじて、やっと
-take over★を引き継ぐ/継承★をひきつぐきごうけいしょう
+take over★を引き継ぐ 継承★をひきつぐ けいしょう
 demotion★降格★こうかく
 audible★聞くことのできる★きくことのできる
 observation★観察、観測★かんさつ、かんそく
@@ -7627,7 +7627,7 @@ admission★入場、入場料★にゅうじょう、にゅうじょうりょ�
 tension★緊張★きんちょう
 correspond★対応する、反応する★たいおうする、はんのうする
 a wide range of★広範囲の★こうはんいの
-witness★目撃者、証人/を目撃する★もくげきしゃ、しょうにんきごうをもくげきする
+witness★目撃者、証人 を目撃する★もくげきしゃ、しょうにん をもくげきする
 primitive★原始的な、先史的な★げんしてきな、せんしてきな
 acknowledge★を認める、認める★をみとめる、みとめる
 demote★降格する★こうかくする
@@ -10463,3 +10463,40 @@ I see a devolution of American democracy into something resembling a totalitaria
 Singularity is a term that refers to the tipping point at which artificial intelligence (AI) surpasses human intelligence, or the changes that will occur as a result of that tipping point.★シンギュラリティとは、人工知能が人間の知能を超える転換点、またはその転換点によって起こる変化を指す言葉です。★しんぎゅらりてぃとは、じんこうちのうがにんげんのちのうをこえるてんかんてん、またはそのてんかんてんによっておこるへんかをさすことばです。
 The U.S. Congress has proposed launching an AI version of the Manhattan Project in order to win the artificial intelligence race with China.★米議会は、中国との人工知能開発競争を制するため、AI版のマンハッタン計画立ち上げを提言した。★べいぎかいは、ちゅうごくとのじんこうちのうかいはつきょうそうをせいするため、AIばんのまんはったんけいかくたちあげをていげんした。
 In the Norwegian Mensa IQ test, the official version of "Open o1" had an IQ of 133, 13 points higher than "OpenAI o1-preview" (120).★ノルウェーMensa IQテストにおいて、正式版「Open o1」のIQは133で、「OpenAI o1-preview」(120)より13ポイント上昇した。★のるうぇーMensa IQてすとにおいて、せいしきばん「Open o1」のIQは133で、「OpenAI o1-preview」 120 より13ぽいんとじょうしょうした。
+What time shall we leave? In about five minutes.★何時に出発しますか？約5分で出発します。★いつにしゅっぱつしますか?やく5ぶんでしゅっぱつします。
+What are you going to do next week? I'm going to go to new york next week.★来週は何をするつもりですか？ニューヨークに行くつもりです。★らいしゅうはなんをするつもりですか?にゅーよーくにいくつもりです。
+Do you rent a house? Yes, but I'm looking to buy one.★あなたは家を借りていますか？はい。でも購入するつもりです。★あなたはいえをかりていますか?はい。でもこうにゅうするつもりです。
+I'm sorry, but I can't find the notebook you lent me.★すみません。あなたに借りたノートがみつかりません。★すみません。あなたにかりたのーとがみつかりません。
+Look at my painting. You're really talented.★私の絵を見てください。あなたは本当に才能があります。★わたしのえをみてください。あなたはほんとうにさいのうがあります。
+What did you have for lunch? I had a hamburger and a fried chicken.★お昼に何を食べました？私はハンバーガーとフライドチキンの足を食べました。★おひるになんをたべました?わたしははんばーがーとふらいどちきんのあしをたべました。
+Who does he think he is? Calm down.★彼、何様のつもり？落ち着いて。★かれ、なんさまのつもり?おちついて。
+I switched jobs. Since when did you do that.★私は転職しました。いつからそれをしました？★わたしはてんしょくしました。いつからそれをしました?
+Should we walk? No, it's too far. Let's take a taxi.★歩いたほうがいいですか？いや、遠すぎます。タクシーを使いましょう。★あるいたほうがいいですか?いや、とおすぎます。たくしーをつかいましょう。
+Let's meet tomorrow at 3 p.m. Sounds good!★明日の午後3時に会いましょう。いいですね。★あすのごご3じにあいましょう。いいですね。
+She lost her winning lottery ticket.★彼女は当選した宝くじを紛失した。★かのじょはとうせんしたたからくじをふんしつした。
+How long have you been studying chinese? More than three years.★中国語をどのくらい勉強していますか？3年以上です。★ちゅうごくごをどのくらいべんきょうしていますか?3ねんいじょうです。
+Did you sleep well? No, I couldn't sleep well at all.★よく眠れましたか？いいえ、全然眠れませんでした。★よくねむれましたか?いいえ、ぜんぜんねむれませんでした。
+Do you have any siblings? I am the only child.★兄弟はいますか？私は一人っ子です。★きょうだいはいますか?わたしはひとりっこです。
+I want a refund. Do you have a receipt?★返金を希望します。領収書はありますか？★へんきんをきぼうします。りょうしゅうしょはありますか?
+Are you ready for tomorrow? No, not yet.★明日の準備はできていますか？いいえ、まだです。★あすのじゅんびはできていますか?いいえ、まだです。
+Excuse me. Where is number five street? Go straight ahead and turn left at the second crossing.★すみません。5番街はどこですか？まっすぐ進み、2番目の交差点で左折してください。★すみません。5ばんがいはどこですか?まっすぐすすみ、2ばんめのこうさてんでさせつしてください。
+What will you wear for the party? I'll wear my blue dress.★パーティーには何を着ますか？私は青いドレスを着ます。★ぱーてぃーにはなんをきますか?わたしはあおいどれすをきます。
+Is it okay if I take the last piece? Don't worry about it.★最後の一片を取っても大丈夫ですか？心配しないでください。★さいごのいちへんをとってもだいじょうぶですか?しんぱいしないでください。
+I'm taking a half day leave tomorrow. Did you inform the boss about it.★明日は半日休みます。上司に伝えましたか。★あすははんにちやすみます。じょうしにつたえましたか。
+How are you doing these days? Not bad, same as usual.★最近調子はどうですか？悪くない、いつも通りです。★さいきんちょうしはどうですか?わるくない、いつもとおりです。
+My dog died this weekend. I'm sorry to hear that.★今週末、私の犬が亡くなりました。残念です。★こんしゅうまつ、わたしのいぬがなくなりました。ざんねんです。
+What kind of business are you in? I work for an apparel company.★どのような業種をされていますか？アパレル会社に勤めています。★どのようなぎょうしゅをされていますか?あぱれるかいしゃにつとめています。
+I really like your simplicity. Thank you. My mom's a big influence.★あなたの純粋さが本当に気に入りました。ありがとう。母の影響は大きいです。★あなたのじゅんすいさがほんとうにきにはいりました。ありがとう。ははのえいきょうはおおきいです。
+Can you please get me this shirt in a smaller size? Please wait a moment.★このシャツの小さいサイズを持ってきてもらえますか？少々お待ちください。★このしゃつのちいさいさいずをもってきてもらえますか?しょうしょうおまちください。
+Would you like some more pie? I'm content.★もう少しパイはいかがですか？お腹がいっぱいです。★もうすこしぱいはいかがですか?おなかがいっぱいです。
+What do you do in your spare time? Read books and chat with friends.★暇な時は何をしますか? 本を読んだり、友達とおしゃべりしたりします。★ひまなときはなんをしますか? ほんをよんだり、ともだちとおしゃべりしたりします。
+Why not go out for a walk? I'm a little sick.★なぜ散歩に出かけないのですか？ちょっと体調が悪いんです。★なぜさんぽにでかけないのですか?ちょっとたいちょうがわるいんです。
+How thick is the ice here? More than one meter.★ここの氷の厚さはどれくらいですか？1メートル以上です。★ここのこおりのあつさはどれくらいですか?1めーとるいじょうです。
+May I help you? Yes, I'm looking for a stapler.★何かお手伝いしましょうか？はい、ホチキスを探しています。★なにかおてつだいしましょうか?はい、ほちきすをさがしています。
+Why did you divorce?★なぜ離婚したのですか？★なぜりこんしたのですか?
+What do you think about that movie? I thought the movie was very interesting.★その映画についてどう思いますか？私はその映画がとても面白かったと思いました。★そのえいがについてどうおもいますか?わたしはそのえいががとてもおもしろかったとおもいました。
+It's really disappointing.★本当に残念です。★ほんとうにざんねんです。
+What do you usually do for exercise? Swimming and running are my favorite types of exercise.★普段はどんな運動をしていますか？水泳とランニングが私の好きな運動です。★ふだんはどんなうんどうをしていますか?すいえいとらんにんぐがわたしのすきなうんどうです。
+Where does it hurt? Here.★どこが痛いの？ここ。★どこがいたいの?ここ。
+My wife is pregnant. Congratulations!★妻が妊娠しました。おめでとうございます！★つまがにんしんしました。おめでとうございます!
+How is your new job? I'm adjusting very well to it.★新しい仕事はどうですか？とても慣れました。★あたらしいしごとはどうですか?とてもなれました。
