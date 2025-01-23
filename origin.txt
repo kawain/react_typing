@@ -197,7 +197,6 @@ The early bird catches the worm.★早起きは三文の得。
 Give me a hand with this.★これを手伝ってください。
 The state of affairs is complex.★事態は複雑です。
 It's time to move on.★進む時です。
-Money can't buy happiness.★お金で幸福は買えない。
 The fact remains undisputed.★その事実は議論の余地がない。
 I like it, however, it's too expensive.★それが好きだけど、高すぎる。
 This area is restricted.★このエリアは制限されています。
@@ -1939,7 +1938,6 @@ His sudden departure left everyone surprised.★彼の突然の出発はみん�
 The advertisement was aired during prime time.★広告はプライムタイムに放送されました。
 His performance has been consistent throughout the year.★彼のパフォーマンスは一年中一貫しています。
 Originally, the building was a school.★元々、その建物は学校でした。
-She set aside some money for her trip.★彼女は旅行のために少しのお金を取っておきました。
 The chair provides optimum comfort.★その椅子は最適な快適さを提供します。
 Firstly, we'll review the report, and secondly, we'll discuss the feedback.★まず、レポートを確認し、次にフィードバックについて議論します。
 The storm caused severe damage to the coast.★その嵐は海岸に甚大な被害をもたらしました。
@@ -2156,7 +2154,6 @@ We walked the boundary of the property.★私たちはその土地の境界を�
 The ratio of water to flour is 2:1 in the recipe.★レシピにおける水と小麦粉の比率は2:1です。
 Students must write an essay on the given topic.★学生は与えられたトピックについてのエッセイを書かなければなりません。
 I heard a loud scream from the other room.★隣の部屋から大きな悲鳴が聞こえました。
-She decided to withdraw money from the ATM.★彼女はATMからお金を引き出すことにしました。
 The factory was fined for causing air pollution.★工場は大気汚染を引き起こしたために罰金を科されました。
 Sleep disorder affects many people worldwide.★睡眠障害は世界中の多くの人々に影響を及ぼしています。
 We bought new furniture for our living room.★私たちはリビングルームのための新しい家具を買いました。
@@ -2570,7 +2567,6 @@ His sense of humor always lightens the mood.★彼のユーモアのセンスは
 Every system has its limitations.★すべてのシステムには制約があります。
 The cloudy skies were an indication of rain.★曇った空は雨の兆しでした。
 The bridge's stability was tested.★その橋の安定性がテストされました。
-It's wise to save money for the future.★未来のためにお金を節約するのは賢明です。
 You should never neglect your responsibilities.★責任を怠るべきではありません。
 He took a moment to compose his thoughts.★彼は考えをまとめるために一瞬の時間を取りました。
 The criminal was sent to jail.★犯罪者は刑務所に送られました。
@@ -3082,7 +3078,6 @@ Failure is the mother of success★失敗は成功の母
 The grass is always greener on the other side★隣の芝生はいつも青く見える
 If at first you don't succeed, try, try again★最初に成功しなくても、何度でも挑戦せよ
 Success has many fathers, but failure is an orphan★成功には多くの父がいるが、失敗は孤児である
-Money doesn't grow on trees★お金は木に生えない
 Life is not a bed of roses★人生はバラの寝床ではない
 All good things must come to an end★良いことにはすべて終わりがある
 Beauty is in the eye of the beholder★美は見る人の目の中にある
@@ -3116,7 +3111,6 @@ Strike while the iron is hot★鉄は熱いうちに打て
 Time flies when you're having fun★楽しい時は時が飛ぶように過ぎる
 Better late than never★遅くても来ないよりはまし
 Tomorrow never comes★明日は永遠に来ない
-Time is money★時は金なり
 Don't cry over spilled milk★こぼれた牛乳を嘆くな
 You can't have your cake and eat it too★ケーキを持ちながら食べることはできない
 All work and no play makes Jack a dull boy★遊びなしの仕事ばかりではジャックは退屈な少年になる
@@ -3135,7 +3129,6 @@ There's no such thing as a free lunch★無料の昼食というものは存在�
 All's well that ends well★終わりよければすべてよし
 Every dog has its day★どの犬にもその日が来る
 Life is what happens while you're busy making other plans★人生とは他の計画を立てているときに起こるものだ
-Money talks★金が物を言う
 The best things in life are free★人生で最高のものは無料である
 A picture is worth a thousand words★一枚の絵は千の言葉に値する
 Don't reinvent the wheel★車輪を再発明するな
@@ -3147,3 +3140,773 @@ Don't put off until tomorrow what you can do today★今日できることを明
 The pen is mightier than the sword★ペンは剣よりも強し
 Truth is stranger than fiction★真実は小説より奇なり
 Where there's life, there's hope★命あるところに希望あり
+Where are you going?★どこに行くの？
+How are you?★お元気ですか？
+What do you want to eat?★何を食べたいですか？
+What kind of newspaper do you read?★どのような新聞を読んでいますか？
+Do you only accept cash?★現金しか受け付けていませんか？
+Is 5 o'clock convenient for you?★5時がご都合いいですか？
+Where is your pen?★あなたのペンはどこですか？
+What is your favorite sport?★好きなスポーツは何ですか？
+Do you commute by car?★あなたは車で通勤しますか？
+Do you often get sick?★あなたはよく病気になりますか？
+I have a fever.★私は熱が出ています。
+Do you know what time it is now?★今何時かわかりますか？
+Can you turn down the volume?★音を下げてもらえますか？
+How do you spend your evening?★夕方はどのように過ごしますか？
+Which do you prefer, fishing or mountain climbing?★釣り と 登山 のどちらが好きですか？
+When shall we meet?★いつお会いしましょうか？
+Shall we take a walk?★散歩しませんか？
+What month is it now?★今何月ですか？
+This room is very dirty.★この部屋はとても汚れています。
+How did your brother come?★あなたのお兄さんはどうやって来ましたか？
+Did you buy a car?★車を買ったのですか？
+It's warm today.★今日は暖かいです。
+Would you like to take a short break?★少し休憩したいですか？
+I will take care of it.★私が対応します。
+What's wrong?★どうかしましたか？
+Can you speak English?★英語を話せますか？
+What did the doctor say?★医師は何と言いましたか？
+I am sorry for keeping you waiting for so long.★長い間お待たせして申し訳ありません。
+Have you seen this movie?★この映画を観たことがありますか？
+What kind of sports do you like?★ どんなスポーツが好きですか？
+I'm lucky today.★ 今日はツイています。
+Do you think this job suits you?★この仕事が自分に合っていると思いますか？
+How many people should I invite?★何人招待すべきですか？
+How is the weather today?★今日の天気はどうですか？
+Can you swim?★泳げますか？
+Do you live with your parents?★あなたは両親と一緒に住んでいますか？
+Where does this bus go?★このバスはどこ行きですか？
+I lost my wallet.★財布をなくしました。
+How long have you been skiing?★あなたはどれくらいスキーをしていますか？
+Can I ask you a favor?★お願いをしてもいいですか？
+Is it far?★それは遠いですか？
+How should I cut it?★どのようにカットしましょうか？
+How would you like your steak cooked?★ステーキの焼き加減はどうなさいますか？
+Do you have a smaller size?★小さいサイズはありますか？
+What do you teach?★あなたは何を教えていますか？
+What is the longest river in China?★中国で一番長い川は何ですか？
+Let's go to the gym.★ジムに行こう。
+I travel abroad every year.★私は毎年海外旅行に行きます。
+What time is it now?★今何時ですか？
+Is this seat taken?★この席は空いていますか？
+I cleaned my room.★自分の部屋を掃除しました。
+Who told you that?★誰があなたに言ったのですか？
+Did you sleep well?★よく眠れましたか？
+Would you like to go see a movie?★映画を見に行きませんか？
+He has a radio, doesn't he?★彼はラジオを持ってますね。
+Are you free tonight?★今晩空いてる？
+When do you finish work?★あなたはいつ仕事を終えますか？
+May I see your watch?★時計を見てもいいですか？
+What do you think about that movie?★ その映画についてどう思いますか？
+Your tie is very nice.★あなたの締めているネクタイは本当にいいですね。
+Where is the cat?★猫はどこですか？
+Do you have any siblings?★兄妹姉妹はいますか？
+When and where were you born?★いつどこで生まれましたか？
+Do you ride?★あなたは乗車しますか？
+We get along well, right?★私たち相性いいよね。
+Can you marry me?★結婚してもらえますか？
+Can you hear me?★聞こえますか？
+Do you want to change jobs?★転職したいですか？
+I missed my flight.★飛行機に乗り遅れました。
+When can I visit?★いつ訪問できますか？
+How long have you had these symptoms?★これらの症状がどのくらい続いていますか？
+Did you listen to the weather forecast?★天気予報を聞きましたか？
+Have you gotten used to living in Canada?★カナダでの生活に慣れましたか？
+Do you need a doctor?★医者が必要ですか？
+I have to go.★いかなきゃいけない。
+What are your other impressions?★その他の感想は？
+This hairstyle really suits you.★この髪型はとてもあなたに似合っています。
+Will you walk or drive?★歩きますか、それとも運転しますか？
+Can you tell me how to get there?★行き方を教えてもらえますか？
+Is his movie appealing to you?★彼の映画はあなたにとって魅力的ですか？
+You're welcome.★どういたしまして。
+Would you like some more pie?★もう少しパイが欲しいですか？
+I'm taking a half-day off tomorrow.★私は明日半休を取っています。
+Can I pay with a credit card?★クレジットカードで払えますか？
+How long did you stay there?★あなたはそこにどれくらい滞在しましたか？
+Are these your pens?★これらはあなたのペンですか？
+I'm planning to study abroad.★私は留学するつもりです。
+How tall is the building?★建物の高さはどのくらいですか？
+I'm very happy that you came.★あなたが来てくれてとても嬉しいです。
+It smells good.★いい匂いがする。
+Would you like some coffee?★コーヒーはいかがですか？
+Do you always work late at night?★あなたはいつも夜遅くまで働いていますか？
+Do you want to have a pet?★あなたはペットを飼いたいですか？
+Will we be on time?★私たちは時間を守れるでしょうか？
+Where is the nearest supermarket?★最寄りのスーパーはどこですか？
+Where do you want to go?★どこに行きたいですか？
+Excuse me.★すみません。
+Where is the post office?★郵便局はどこですか？
+What is your father's job?★お父さんの職業は何ですか？
+Excuse me, where is 5th street?★すみません、5番街はどこですか？
+Why don't you agree?★なぜあなたは同意しないのですか？
+Do you wake up at 5 every day?★あなたは毎日5時に起きますか？
+Do you have a bank account?★あなたは銀行の口座をお持ちですか？
+Can you speak French?★フランス語を話せますか？
+Do you have an appointment?★お約束はございますか？
+I fell in love with you at first sight.★あなたに一目惚れしました。
+Do you have any questions?★質問はありますか？
+How do you feel today?★今日の気分はいかがですか？
+She is slender.★彼女はスレンダーです。
+Do you always stay up late?★あなたはいつも遅くまで起きますか？
+I'm afraid of going to the dentist.★私は歯医者に行くのが怖いです。
+What a beautiful jacket!★なんて美しいジャケットでしょう。
+What will the temperature be tomorrow?★明日の気温は何度ですか？
+Is she American?★彼女はアメリカ人ですか？
+How is your grandmother doing?★おばあちゃんはいかがお過ごしですか？
+It suits you.★似合ってる。
+What will you eat?★あなたは何を食べますか？
+Where are you from?★出身はどちらですか？
+This bill is wrong.★この請求書は間違ってますよ。
+How was your holiday?★休日はどうですか？
+Do you have any siblings?★兄弟はいますか？
+Did you feed the cat?★猫に餌をやりましたか？
+What did you major in at university?★大学で何を専攻しましたか？
+Do you practice regularly?★あなたは定期的に練習していますか？
+Are you injured?★あなたは怪我をしていますか？
+I need more training on the new software.★新しいソフトウェアについてもっとトレーニングが必要です。
+She made her own dress.★彼女は自分のドレスを作りました。
+Will you be late today?★今日は遅れそうですか？
+Could someone help me?★誰か手伝っていただけますか？
+How much TV do you watch every day?★毎日どのくらいテレビを見ますか？
+What is this?★これは何ですか？
+I'll call you back later.★後でまた電話します。
+What time will you come back?★何時に帰ってきますか？
+Do you have a car?★あなたは車を持っていますか？
+What is the total?★合計はいくらですか？
+Where do you live?★どこに住んでいますか？
+How old are you?★何歳ですか？
+I got a promotion.★私は昇級しました。
+What would you like to drink?★飲み物は何にしますか？
+What time do you start work?★何時に仕事を始めますか？
+I'd like a refund.★払い戻しをしてほしいのですが。
+What is your last name?★名字は何ですか？
+Who are you writing a letter to?★誰に手紙を書いているの？
+Is there a bank here?★ここに銀行はありますか？
+What is your favorite music?★あなたの好きな音楽は何ですか？
+Why did you quit your job?★なぜあなたは仕事を辞めたのですか？
+Where is your address?★あなたの住所はどこですか？
+Are you here on a business trip?★ここへは出張で来ましたか？
+Excuse me, can you tell me how to get to the station?★すみません、駅への行き方を教えてもらえますか？
+What terrible weather!★なんてひどい天気でしょう。
+Do you have severe allergies?★ひどいアレルギーはありますか？
+I'm really sorry.★本当に残念です。
+Do you need to transfer?★転送する必要がありますか？
+What will happen after a sunny day?★晴れた日の後はどうなるでしょうか？
+You don't have an appetite, do you?★あなたは食欲がありませんね。
+How do you do?★はじめまして。
+Can someone pick up my dry cleaning?★誰か私のクリーニングをとって来られる？
+Do you want to take a break?★休憩したいですか？
+Do you have an appointment?★お約束はされていますか？
+I need to go soon.★そろそろ行かないといけません。
+What day is it today?★今日は何日ですか？
+What is the purpose of your visit?★滞在の目的は何ですか？
+Can you call me back tomorrow?★明日折り返しお電話をいただけますか？
+What is your occupation?★職業は何ですか？
+Whose cell phone is this?★これは誰の携帯電話ですか？
+Can you attend the meeting for me?★私のために会議に参加してくれませんか？
+That man is a teacher, isn't he?★その男性は教師ですね。
+Do you have a career plan?★あなたはキャリアプランがありますか？
+I booked a skydiving session.★スカイダイビングのセッションを予約した。
+I arranged this bouquet of flowers.★私がこの花束をアレンジしました。
+Are you married?★あなたは結婚していますか？
+You speak English very well.★あなたはとても英語が上手です。
+I lost my dog today.★私は今日愛犬を亡くしました。
+Are you John's brother?★あなたはジョンの兄弟ですか？
+I would like to speak with Mr. Kim.★キムさんとお話ししたいのですが。
+How long have you been unemployed?★あなたはどのくらい失業していますか？
+How was the physics exam?★物理の試験はどうだった？
+How much will it cost to get to the airport?★空港までいくら位かかりますか？
+I don't think we should break up.★私たちは別れた方がいいと思わない。
+What are you doing this weekend?★あなたはこの週末何をしますか？
+Do you have a moment?★少し時間ありますか？
+How is the weather?★天気はどうですか？
+Excuse me ma'am, could you please tell me where the post office is?★すみません奥様、郵便局がどこにあるか教えていただけますか？
+How are you doing?★お元気ですか？
+Please don't tell her about the surprise party.★サプライズパーティーのことを彼女に言わないでください。
+What are you interested in?★何に興味がありますか？
+You look tired, are you okay?★疲れているようですが大丈夫ですか？
+How much is it?★いくらですか？
+What day was yesterday?★昨日は何曜日ですか？
+What time is it now?★今何時ですか？
+What are you doing?★何をしていますか？
+What do you think about this?★これについてどう思いますか？
+Don't occupy the washroom.★洗面所を占領しないで。
+I found the keys you lost.★あなたがなくした鍵を見つけました。
+I'm afraid of failure.★失敗が怖いです。
+Make up your mind.★あなたが決めて。
+What will you wear at the party?★パーティーで何を着ますか？
+I don't want to go.★私は行きたくないです。
+Is it okay to take the last one?★最後の一つをとっても大丈夫ですか？
+How tall are you?★あなたの身長はどれくらいですか？
+Do you eat fast?★あなたは早く食べますか？
+Where did you learn French?★フランス語はどこで学んだのですか？
+What are they doing?★彼らは何をしていますか？
+Where is the closest ATM?★一番近いATMはどこですか？
+What shall we do this afternoon?★今日の午後はどうしようか？
+Do I need to have surgery?★手術を受ける必要がありますか？
+Can you play tennis?★テニスをすることはできますか？
+Where did you have dinner last night?★昨日どこで夕食をとりましたか？
+This dish looks delicious.★この料理は美味しそうです。
+What lovely weather!★なんて素敵な天気でしょう。
+Why don't you go for a walk?★なぜ散歩に出かけないのですか？
+Would you mind opening the window?★窓を開けていただけますか？
+Hello.★こんにちは。
+Where do you live now?★あなたは今どこに住んでいますか？
+I fell on the stairs and broke my ankle.★私は回覧で転んで足首を骨折しました。
+Thank you for your compliment.★お褒めいただきありがとうございます。
+What was I saying?★私が何を言っていましたか？
+Are you feeling okay?★あなたは気分がいいですか？
+How is this?★これはどうですか？
+Will you order now?★今ご注文なさいますか？
+Did you have a good sleep?★よく眠れましたか？
+How much does your dog weigh?★犬の体重はどのくらいですか？
+Where did you go?★どこに行ったのですか？
+I have a fever.★私は熱が出ています。
+Do you know Mary?★メアリーを知っていますか？
+This is the ring I was telling you about.★これは私があなたに話していた指輪です。
+What do you want to do after graduation?★卒業後は何をしたいですか？
+Can you help me with the project?★プロジェクトを助けてもらえますか？
+I don't have much time.★時間があまりありません。
+What is this?★これは何？
+Do you go to bed early?★あなたは早く寝ますか？
+When will the next bus come?★次のバスはいつ来るの？
+Don't you have my hat?★私の帽子を持っていないんですか？
+Do you have any questions?★質問はありますか？
+Isn't there a cheaper one?★もっと安いのはありませんか？
+Why are you so sure?★なぜそんなに確信が持てるのですか？
+Do you have a book?★本は持っていますか？
+Is this yours?★あなたのものですか？
+Would you like some dessert?★デザートはいかがですか？
+You have the wrong number.★掛け間違いです。
+Did you sleep well?★よく眠れましたか？
+Do you think he hates me?★彼が私を嫌いだと思いますか？
+I heard a crash, but are you all okay?★衝突音を聞いたけどあなたたちは全員無事ですか？
+Why are you studying Chinese?★なぜあなたは中国語を勉強しているのですか？
+Perhaps it's time to hire a professional.★おそらくプロを雇う時が来たということでしょう。
+How does the food taste?★料理の味はどうですか？
+I failed again.★私はまた失敗しました。
+How many sisters and brothers do you have?★何人の姉妹と兄弟がいますか？
+Which do you think is better?★どちらがいいと思いますか？
+Would you like to play tennis this afternoon?★今日の午後にテニスをしませんか？
+How have you been recently?★最近どうしてましたか？
+How will the weather be tomorrow?★明日の天気はどうですか？
+Please show me your insurance card.★保険証をご提示ください。
+Can I pay with a credit card?★クレジットカードで支払えますか？
+No bingo.★ビンゴなし。
+Which flower do you like best?★花の中でどれが一番好きですか？
+Will you stay there long?★そこに長く滞在しますか？
+What is your friend's name?★あなたの友達の名前は何ですか？
+It is very cold today.★今日はとても寒い。
+What is your opinion?★あなたの意見はどうですか？
+Where are you from?★出身はどこですか？
+What is your name?★お名前は何ですか？
+Can you write in English?★英語で書くことができますか？
+What are you planning to do this Friday?★今週金曜日に何をする予定ですか？
+I'm trying to lose weight.★ダイエットをしようとしています。
+How was your day?★あなたの一日はどうでした？
+What are you doing?★何してるの？
+Do you have a plan for your career?★あなたは自身のキャリアにおいて計画がありますか？
+Whose is this?★これは誰のですか？
+I'm in very good physical condition.★私は身体の調子がとても良いです。
+Water the flowers.★花に水をあげて。
+What kind of work do you do?★どのような仕事をしているのですか？
+I'm pregnant.★妊娠しました。
+I have a cavity.★私には虫歯があります。
+Do you have time now?★今は時間がありますか？
+Which do you prefer, red wine or white wine?★赤ワインか白ワインのどちらが好きですか？
+When is your birthday?★生年月日はいつですか？
+What is your size?★あなたのサイズは何ですか？
+How have you been?★どう過ごしていましたか？
+What do you do in your free time?★空き時間には何をしますか？
+Do you like your job?★自分の仕事が好きですか？
+I like this★これが好きです
+What a coincidence★なんて偶然でしょう
+Where are you from★どこ出身ですか
+I've got a headache★頭が痛いです
+Are you sure★本当ですか
+Wait a minute★ちょっと待って
+I really miss you★本当に寂しいです
+I am not sure yet★まだ分かりません
+You are really talented★あなたは本当に才能がありますね
+Please be careful★気をつけてください
+I did it★やった！
+It's up to you★あなた次第です
+What should I do★どうすればいいですか
+Let's go together★一緒に行きましょう
+Have a good time★楽しんでください
+It was two months ago★2ヶ月前でした
+Don't give up★諦めないで
+You are so careless★あなたはとても不注意です
+I have a friend traveling with me★私と一緒に旅行している友達がいます
+I'm sorry it hurts★痛くてごめんなさい
+I made a reservation under amy★エイミーの名前で予約しました
+Everything tastes great★全部美味しいです
+It's a long story★それは長い話です
+It's not late★遅くないです
+I'll think about it★考えておきます
+It's too expensive★高すぎます
+Take a break★休憩してください
+That's it thank you★以上です、ありがとうございます
+My wallet was stolen★財布が盗まれました
+It's awesome★すごい
+Are you hungry★お腹が空いていますか
+I just need to check in★チェックインするだけです
+I am very thirsty★とても喉が渇いています
+Are you leaving already★もう出発するんですか
+What's your plan for tomorrow★明日の予定は何ですか
+That's disgusting★それは気持ち悪いです
+Let's find it out★調べてみましょう
+We are a family of four★私たちは4人家族です
+I don't care★気にしません
+Can you give me a ride★車に乗せてくれますか
+See you there★そこでお会いしましょう
+Let's go visit them★彼らに会いに行きましょう
+Have a nice weekend★良い週末を
+I'm here for sightseeing★観光に来ました
+Let me see★見せてください
+Next time★次回
+Come up here★ここに上がってきてください
+I'll show you★見せてあげます
+It's been a long time★久しぶりです
+I lost my passport★パスポートをなくしました
+What is the purpose of your visit★訪問の目的は何ですか
+I don't know★知りません
+It's a nice day★いい日ですね
+Goodbye★さようなら
+I'm sorry to hear that★それは残念です
+Can i try it on★試着してもいいですか
+What do you think★どう思いますか
+Are you korean★韓国人ですか
+Happy new year★明けましておめでとうございます
+I can't hear you★聞こえません
+Sorry i am tied up★すみません、手が離せません
+Have you ever been to canada★カナダに行ったことがありますか
+Please clean my room★部屋を掃除してください
+Yes please★はい、お願いします
+How much is this★これはいくらですか
+How are you doing★元気ですか
+Could you write it down here★ここに書いてもらえますか
+It's better than nothing★ないよりましです
+Are you okay★大丈夫ですか
+It's 5:00★5時です
+Which one do you like better★どちらが好きですか
+I'm working on it★取り組んでいます
+I want to go here★ここに行きたいです
+Do you like it★気に入りましたか
+I'm on my way★向かっています
+I can't stop laughing★笑いが止まりません
+I don't have a boyfriend now★今、彼氏はいません
+I'm sorry i'm late★遅れてすみません
+It's hard to say★言いにくいです
+How long have you lived here★ここにどれくらい住んでいますか
+Would you like something to drink★何か飲み物はいかがですか
+They are over there★彼らはあそこにいます
+It's time for dinner★夕食の時間です
+For here★ここで
+Where were we★どこまで話しましたっけ
+What do you mean★どういう意味ですか
+Today is january 2nd★今日は1月2日です
+It's not your fault★あなたのせいではありません
+I cannot say★言えません
+Do you mind if i sit here★ここに座っても構いませんか
+Hello may i speak to mr white★もしもし、ホワイトさんと話せますか
+There is tea★お茶があります
+Would you like to come with me★一緒に来ませんか
+Let me guess★当ててみましょう
+It's on the house★これは店のおごりです
+I'd like a glass of red wine★赤ワインを一杯ください
+They are too large★それらは大きすぎます
+No mine is blue★いいえ、私のは青です
+It's on me★私のおごりです
+I'm very disappointed★とてもがっかりしています
+Drop by anytime★いつでも立ち寄ってください
+May i ask you a question★質問してもいいですか
+Never mind★気にしないで
+That's the way it is★そういうものです
+Good night★おやすみ
+Everyone does it★みんなそうします
+That's impossible★それは不可能です
+There's nothing i can do★私には何もできません
+Are you awake★起きていますか
+Hurry up★急いで
+You'll get used to it★すぐに慣れますよ
+I got it★分かりました
+Almost there★もうすぐです
+Are these carrots★これは人参ですか
+Is that enough★それで十分ですか
+It's still undecided★まだ未定です
+This soup tastes good★このスープは美味しいです
+When is the intermission★休憩はいつですか
+I've changed my mind★考えを変えました
+We can work it out★なんとかなります
+How do you feel★気分はどうですか
+What are you up to★何をしているんですか
+What happened★何があったんですか
+What day is it today★今日は何曜日ですか
+Please don't blame yourself★自分を責めないでください
+Are you serious★本気ですか
+We'll see★様子を見ましょう
+What's that for★それは何のためですか
+I really learned a lot★とても勉強になりました
+That makes sense★納得です
+What time did you get up★何時に起きましたか
+What's wrong★どうかしましたか
+Can we start over★やり直せますか
+Can you repeat that again★もう一度繰り返してもらえますか
+Let's take a taxi★タクシーに乗りましょう
+The sooner the better★早ければ早いほど良いです
+I am very tired★とても疲れています
+Count me in★私も入れて
+It's your turn★あなたの番です
+Long time no see★久しぶり
+You're going too fast★速すぎます
+Who cares★誰が気にするの
+Please leave me alone★一人にしておいてください
+Take care★気をつけて
+It sounds great★それはいいですね
+How about this one★これはどうですか
+All good here you★こちらは全て順調です
+This is $50★これは50ドルです
+What are you talking about★何の話ですか
+May i have your name please★お名前を教えていただけますか
+I can't help it★どうしようもないです
+All right★分かりました
+After you★お先にどうぞ
+That's hilarious★それは面白いです
+See you later★また後で
+Let's get out of here★ここから出ましょう
+Have a good one★良い一日を
+Watch out★気をつけて
+Is that true★それは本当ですか
+Close the window please★窓を閉めてください
+It is cloudy★曇りです
+The dinner was wonderful★夕食は素晴らしかったです
+I couldn't find them★彼らを見つけられませんでした
+To go please★持ち帰りでお願いします
+We have a lot in common★私たちは共通点が多いです
+Are you ready★準備はいいですか
+You are right★あなたは正しいです
+This way★こちらへ
+You are so smart★あなたはとても賢いです
+Please let me know★お知らせください
+What did he do★彼が何をしたんですか
+That's not true★それは真実ではありません
+It's time to go★行く時間です
+Well it depends★まあ、場合によります
+I'm reading a book★本を読んでいます
+Here is the cabbage★ここにキャベツがあります
+Please make sure★確認してください
+Probably★多分
+How was your day★今日はどうでしたか
+Fasten your seat belt★シートベルトを締めてください
+It's right over there★すぐそこにあります
+I am so touched★とても感動しました
+That's good to know★それは良い情報です
+You got it★了解しました
+There is someone knocking★誰かがノックしています
+What's your job★仕事は何ですか
+I'll be right back★すぐ戻ります
+Lunch or dinner★ランチですかディナーですか
+You deserve it★あなたはそれに値します
+I forgot★忘れました
+Please stand up★立ってください
+No problem★問題ありません
+You should give it a try★試してみるべきです
+You never know★分からないものです
+It's about time★そろそろ時間です
+I'm not in the mood★その気分ではありません
+I'm tired★疲れています
+Good morning★おはようございます
+Here it is★これです
+I can't stand it★我慢できません
+I like beer★ビールが好きです
+They had been divorced★彼らは離婚していました
+I have a question for you★あなたに質問があります
+She hates boxing★彼女はボクシングが嫌いです
+What's the temperature today★今日の気温は何度ですか
+My pleasure★どういたしまして
+I'm trying my best★ベストを尽くしています
+Just a few months★ほんの数ヶ月です
+It might rain tomorrow★明日雨が降るかもしれません
+I couldn't sleep★眠れませんでした
+Good for you★よかったですね
+We are going to be late★遅刻します
+What is your favorite movie★あなたの一番好きな映画は何ですか
+Do not hesitate★遠慮しないでください
+You have red eyes★あなたは目が赤いですね
+Lunch is over★ランチは終わりです
+Do you have a second★少しお時間ありますか
+Thank you for your cooperation★ご協力ありがとうございます
+Do you want some more★もう少し召し上がりますか
+You are so funny★あなたはとても面白いです
+Good luck★幸運を祈ります
+Good afternoon★こんにちは
+That's all i need★それで十分です
+I feel hungry★お腹が空きました
+That's a waste of time★それは時間の無駄です
+That sounds fun★それは楽しそうですね
+Do you like traveling★旅行は好きですか
+I can do it by myself★自分でできます
+You are kidding★冗談でしょう
+I ran into jj d today★今日jj dにばったり会いました
+It's not my business★私の知ったことではありません
+I'm his fan★私は彼のファンです
+Who are you★あなたは誰ですか
+I wish i were you★あなただったらいいのに
+No wonder★どうりで
+That makes me sad★それは悲しいです
+Where are the stairs★階段はどこですか
+I need to go home★家に帰る必要があります
+Yes i do★はい、そうです
+Keep it up★その調子で
+How old are you★何歳ですか
+I'd rather not★出来れば遠慮したいです
+I hope so★そうだといいな
+I'm fine thanks★元気です、ありがとう
+I will take this★これにします
+It was really close★本当に危なかったです
+Where can i get my luggage★どこで荷物を受け取れますか
+I like basketball★バスケットボールが好きです
+Here are the keys★ここに鍵があります
+Are you all right★大丈夫ですか
+Smile for the camera★カメラに向かって笑ってください
+What do you prefer★どちらが好きですか
+Please speak louder★もっと大きな声で話してください
+It looks very nice★とても素敵に見えます
+It's just imagination★ただの想像です
+It's really a bargain★本当にお買い得です
+Thanks for coming today★今日は来てくれてありがとう
+I will try these★これらを試着します
+What's the difference★違いは何ですか
+Don't get so excited★そんなに興奮しないで
+You look happy★嬉しそうですね
+Where are you going★どこへ行くのですか
+He's a photographer★彼は写真家です
+Who is that★あれは誰ですか
+Is it possible★可能ですか
+Are you free this evening★今晩空いていますか
+Are you married★結婚していますか
+When was that★それはいつでしたか
+Can you give me another pillow★もう一つ枕をいただけますか
+Please don't rush me★急かさないでください
+Leave it to me★私に任せてください
+Welcome again★またいらしてください
+I have an idea★いい考えがあります
+We need more★もっと必要です
+Keep the change★お釣りは取っておいてください
+You're killing me★もう勘弁してください
+Here is coffee★ここにコーヒーがあります
+Where is the soap★石鹸はどこですか
+It is very hot★とても暑いです
+It was like that before★前はそうでした
+Take a seat★座ってください
+Come and sit over here★ここに来て座ってください
+This is thursday★今日は木曜日です
+Tell me what happened★何が起こったか教えてください
+What's the deadline★締め切りはいつですか
+Don't worry★心配しないで
+What's the date today★今日は何日ですか
+Just bring yourself★手ぶらで来てください
+Stop laughing★笑うのをやめてください
+This is mine right★これは私のものですよね
+I respect you★尊敬しています
+What should i bring★何を持っていけばいいですか
+You take them all★全部持っていってください
+The flight is delayed★フライトが遅れています
+I'd like one more★もう一つ欲しいです
+I apologize for being late★遅れて申し訳ありません
+I'm glad to see you★会えて嬉しいです
+Where is the bus station★バス停はどこですか
+It's time to wake up★起きる時間です
+I hope it is sunny★晴れるといいな
+Show me the ticket★チケットを見せてください
+Have you ever seen a panda★パンダを見たことがありますか
+How is the weather★天気はどうですか
+I'm fine★元気です
+It is noon★正午です
+I hope you are having fun★楽しんでいるといいな
+My name is susan★私の名前はスーザンです
+I don't feel like talking right now★今は話したくありません
+I'll do my best★ベストを尽くします
+I want another coat★もう一枚コートが欲しいです
+I'm sure it's okay★きっと大丈夫です
+You are so kind★あなたはとても親切です
+I don't like the taste of wasabi★わさびの味が嫌いです
+Do you hear me★聞こえますか
+They are probably out★彼らはおそらく外出中です
+What are you mad about★何に怒っているんですか
+Who are you talking to★誰と話しているんですか
+He majored in business★彼は経営学を専攻しました
+Why don't you like him★なぜ彼が好きではないのですか
+Please turn on the air conditioner★エアコンをつけてください
+Can i have a look★見てもいいですか
+From 4 to 4:30★4時から4時30分まで
+What time do you want me to pick you up★何時に迎えに来て欲しいですか
+Where do you live★どこに住んでいますか
+Which one is yours★どれがあなたのものですか
+Are you busy at work★仕事で忙しいですか
+Where should i throw it away★どこに捨てればいいですか
+Do you have any siblings★兄弟はいますか
+What should i give her★彼女に何をあげればいいですか
+Could you speak a little bit slower★もう少しゆっくり話してもらえますか
+Can you show me how to do it★やり方を教えてもらえますか
+Bring the dessert★デザートを持ってきてください
+I'm so excited★とても興奮しています
+Don't mention it★どういたしまして
+She is on the phone★彼女は電話中です
+Tell me how this got here★これがどうしてここにあるのか教えてください
+Where are we★私たちはどこにいますか
+Can i have a receipt★レシートをもらえますか
+It's almost spring★もうすぐ春です
+Do you like kids★子供は好きですか
+Let's split the bill★割り勘にしましょう
+I think i understand★理解できたと思います
+What is your favorite music★あなたの好きな音楽は何ですか
+Thank you for waiting★お待ちいただきありがとうございます
+What do you recommend★何をお勧めしますか
+Can you give me that bottle★そのボトルを渡してもらえますか
+What's going on★どうしたんですか
+Sorry but i won't make it in time★すみませんが、時間には間に合いません
+Where can i find the atm★atmはどこにありますか
+Swimming is interesting★水泳は面白いです
+It'll get better soon★すぐに良くなりますよ
+I have to go now★もう行かないと
+That's not what i meant★そういう意味ではありません
+This is dennis speaking★こちらはデニスです
+Cheers★乾杯
+You are so cute★あなたはとても可愛いです
+What's that called★それは何という名前ですか
+I'd like to check out★チェックアウトしたいです
+How many do you need★いくつ必要ですか
+Are there any seed available★空席はありますか
+What was that★何でしたか
+I am freezing★とても寒いです
+I don't think so★そうは思いません
+What does that mean★それはどういう意味ですか
+Same as usual★いつもと同じで
+Can you hold this a little bit★これを少し持ってもらえますか
+Aren't you tired★疲れていませんか
+If you're busy you don't have to go there★もし忙しければ、そこに行く必要はありません
+I have one older sister★私には姉が一人います
+I'm counting on you★頼りにしています
+I am not interested★興味がありません
+How far is it from here★ここからどれくらい遠いですか
+I need to go to the bathroom★トイレに行きたいです
+Is the door open★ドアは開いていますか
+I went there twice★そこに2回行きました
+You are my everything★あなたは私の全てです
+I want to eat something really sweet★何か甘いものが食べたいです
+It is midnight★真夜中です
+Does this bus go to time square★このバスはタイムズスクエアに行きますか
+Is it raining now★今、雨が降っていますか
+I have many things to do★やることがたくさんあります
+Here is another one★もう一つあります
+I'm not sure how to explain it★どう説明すればいいか分かりません
+Raise your hands★手を挙げてください
+I'm full★お腹いっぱいです
+You don't have to eat it all★全部食べる必要はありません
+How do you like this★これはどうですか
+Are you with me★私の話を聞いていますか
+What do you call your dog★あなたの犬は何と呼んでいますか
+What's your hobby★あなたの趣味は何ですか
+I didn't mean to★そうするつもりじゃなかった
+Go to the left★左に行ってください
+I wish i could★できればいいのに
+I'm just looking★見ているだけです
+Is it still raining★まだ雨が降っていますか
+Not so good★あまり良くないです
+I'm out of ideas★アイデアが尽きました
+It's very famous★とても有名です
+I can't stop sneezing★くしゃみが止まりません
+I'm coming★行きます
+I'm with you★同感です
+It's not bad★悪くないです
+I am off to work★仕事に行ってきます
+That's cool★かっこいいですね
+I can't wait★待ちきれません
+May i come in★入ってもいいですか
+Why not★いいですよ
+Any messages for me★何か伝言はありますか
+It was my fault★私のせいでした
+I almost forgot★ほとんど忘れかけていました
+What does she like★彼女は何が好きですか
+Let's check it out★調べてみましょう
+Here you are★はい、どうぞ
+Let's get started★始めましょう
+I have no choice★選択の余地がありません
+It's over there★そこにあります
+It can't be★そんなはずはない
+Just read it for me★私のために読んでください
+Do me a favor★お願いがあります
+Hopefully not★そうでなければいいのですが
+Same to you★あなたもね
+I'm bored★退屈です
+Get well soon★お大事に
+I'm on your side★味方です
+Let's hang out tomorrow night★明日の夜、遊びましょう
+Then★それから
+I have no idea★全く分かりません
+He lacks courage★彼には勇気がありません
+I have a good idea★良いアイデアがあります
+You did the right thing★あなたは正しいことをしました
+So i guess so★そうだと思います
+It must be fun★楽しいでしょうね
+I'm not sure★確信がありません
+Don't let me down★がっかりさせないでください
+Let's take a break★休憩しましょう
+Whatever you want★あなたの好きなように
+What should i do★どうしたらいいですか
+I'm good you★私は元気です、あなたは？
+What does she look like★彼女はどんな容姿ですか
+My battery is dead★バッテリー切れです
+Is it far from here★ここから遠いですか
+Be careful★気をつけて
+I'll be back soon★すぐに戻ります
+You can make it★あなたならできます
+Give me a hand★手伝ってください
+What about you★あなたはどうですか
+I agree★同意します
+You asked for it★あなたがそうさせたのです
+I am off today★今日は休みです
+That's true★その通りです
+Don't count on me★私を当てにしないでください
+Certainly★もちろんです
+Don't scare me★怖がらせないでください
+Is it yours★それはあなたのですか
+How have you been★どうしていましたか
+Thank you for the nice meal★素敵な食事をありがとう
+What a nice day it is★なんて良い日でしょう
+It's my turn★私の番です
+That's the point★そこがポイントです
+Congratulations★おめでとうございます
+What do you do★仕事は何ですか
+I like your outfit★その服装が好きです
+How much★いくらですか
+Take a rest★休んでください
+So far so good★今のところ順調です
+You owe me one★あなたは私に借りがあります
+I'm lost★迷子になりました
+Follow me please★どうぞ私についてきてください
+I have something to say★言いたいことがあります
+You're welcome★どういたしまして
+Let's go out today★今日は出かけましょう
+I should have done that★そうすべきでした
+Just wondering★ちょっと気になっただけです
+I like your shirt★あなたのシャツが好きです
+You made it★やったね
+Don't move★動かないで
+I'm almost done★もうすぐ終わります
+Keep in touch★連絡を取り合いましょう
+You did pretty well★よくできました
+Have fun★楽しんで
+Use your head★頭を使ってください
+It depends★場合によります
+Don't take it personally★個人的に受け取らないでください
+May i help you★何かお手伝いしましょうか
+Since when★いつからですか
+Help yourself★ご自由にどうぞ
+I'm in a hurry★急いでいます
+That's a good idea★それは良い考えですね
+No big deal★大したことないです
