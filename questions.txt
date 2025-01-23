@@ -197,7 +197,6 @@ The early bird catches the worm.★早起きは三文の得。★はやおきは
 Give me a hand with this.★これを手伝ってください。★これをてつだってください。
 The state of affairs is complex.★事態は複雑です。★じたいはふくざつです。
 It's time to move on.★進む時です。★すすむときです。
-Money can't buy happiness.★お金で幸福は買えない。★おかねでこうふくはかえない。
 The fact remains undisputed.★その事実は議論の余地がない。★そのじじつはぎろんのよちがない。
 I like it, however, it's too expensive.★それが好きだけど、高すぎる。★それがすきだけど、たかすぎる。
 This area is restricted.★このエリアは制限されています。★このえりあはせいげんされています。
@@ -1939,7 +1938,6 @@ His sudden departure left everyone surprised.★彼の突然の出発はみん�
 The advertisement was aired during prime time.★広告はプライムタイムに放送されました。★こうこくはぷらいむたいむにほうそうされました。
 His performance has been consistent throughout the year.★彼のパフォーマンスは一年中一貫しています。★かれのぱふぉーまんすはいちねんちゅういっかんしています。
 Originally, the building was a school.★元々、その建物は学校でした。★もともと、そのたてものはがっこうでした。
-She set aside some money for her trip.★彼女は旅行のために少しのお金を取っておきました。★かのじょはりょこうのためにすこしのおかねをとっておきました。
 The chair provides optimum comfort.★その椅子は最適な快適さを提供します。★そのいすはさいてきなかいてきさをていきょうします。
 Firstly, we'll review the report, and secondly, we'll discuss the feedback.★まず、レポートを確認し、次にフィードバックについて議論します。★まず、れぽーとをかくにんし、つぎにふぃーどばっくについてぎろんします。
 The storm caused severe damage to the coast.★その嵐は海岸に甚大な被害をもたらしました。★そのあらしはかいがんにじんだいなひがいをもたらしました。
@@ -2156,7 +2154,6 @@ We walked the boundary of the property.★私たちはその土地の境界を�
 The ratio of water to flour is 2:1 in the recipe.★レシピにおける水と小麦粉の比率は2:1です。★れしぴにおけるみずとこむぎこのひりつは2:1です。
 Students must write an essay on the given topic.★学生は与えられたトピックについてのエッセイを書かなければなりません。★がくせいはあたえられたとぴっくについてのえっせいをかかなければなりません。
 I heard a loud scream from the other room.★隣の部屋から大きな悲鳴が聞こえました。★となりのへやからおおきなひめいがきこえました。
-She decided to withdraw money from the ATM.★彼女はATMからお金を引き出すことにしました。★かのじょはATMからおかねをひきだすことにしました。
 The factory was fined for causing air pollution.★工場は大気汚染を引き起こしたために罰金を科されました。★こうじょうはたいきおせんをひきおこしたためにばっきんをかされました。
 Sleep disorder affects many people worldwide.★睡眠障害は世界中の多くの人々に影響を及ぼしています。★すいみんしょうがいはせかいじゅうのおおくのひとびとにえいきょうをおよぼしています。
 We bought new furniture for our living room.★私たちはリビングルームのための新しい家具を買いました。★わたしたちはりびんぐるーむのためのあたらしいかぐをかいました。
@@ -2570,7 +2567,6 @@ His sense of humor always lightens the mood.★彼のユーモアのセンスは
 Every system has its limitations.★すべてのシステムには制約があります。★すべてのしすてむにはせいやくがあります。
 The cloudy skies were an indication of rain.★曇った空は雨の兆しでした。★くもったそらはあめのきざしでした。
 The bridge's stability was tested.★その橋の安定性がテストされました。★そのはしのあんていせいがてすとされました。
-It's wise to save money for the future.★未来のためにお金を節約するのは賢明です。★みらいのためにおかねをせつやくするのはけんめいです。
 You should never neglect your responsibilities.★責任を怠るべきではありません。★せきにんをおこたるべきではありません。
 He took a moment to compose his thoughts.★彼は考えをまとめるために一瞬の時間を取りました。★かれはかんがえをまとめるためにいっしゅんのじかんをとりました。
 The criminal was sent to jail.★犯罪者は刑務所に送られました。★はんざいしゃはけいむしょにおくられました。
@@ -3082,7 +3078,6 @@ Failure is the mother of success★失敗は成功の母★しっぱいはせい
 The grass is always greener on the other side★隣の芝生はいつも青く見える★となりのしばふはいつもあおくみえる
 If at first you don't succeed, try, try again★最初に成功しなくても、何度でも挑戦せよ★さいしょにせいこうしなくても、なんどでもちょうせんせよ
 Success has many fathers, but failure is an orphan★成功には多くの父がいるが、失敗は孤児である★せいこうにはおおくのちちがいるが、しっぱいはこじである
-Money doesn't grow on trees★お金は木に生えない★おかねはきにはえない
 Life is not a bed of roses★人生はバラの寝床ではない★じんせいはばらのねどこではない
 All good things must come to an end★良いことにはすべて終わりがある★よいことにはすべておわりがある
 Beauty is in the eye of the beholder★美は見る人の目の中にある★びはみるひとのめのなかにある
@@ -3116,7 +3111,6 @@ Strike while the iron is hot★鉄は熱いうちに打て★てつはあつい�
 Time flies when you're having fun★楽しい時は時が飛ぶように過ぎる★たのしいときはときがとぶようにすぎる
 Better late than never★遅くても来ないよりはまし★おそくてもこないよりはまし
 Tomorrow never comes★明日は永遠に来ない★あすはえいえんにこない
-Time is money★時は金なり★ときはかねなり
 Don't cry over spilled milk★こぼれた牛乳を嘆くな★こぼれたぎゅうにゅうをなげくな
 You can't have your cake and eat it too★ケーキを持ちながら食べることはできない★けーきをもちながらたべることはできない
 All work and no play makes Jack a dull boy★遊びなしの仕事ばかりではジャックは退屈な少年になる★あそびなしのしごとばかりではじゃっくはたいくつなしょうねんになる
@@ -3135,7 +3129,6 @@ There's no such thing as a free lunch★無料の昼食というものは存在�
 All's well that ends well★終わりよければすべてよし★おわりよければすべてよし
 Every dog has its day★どの犬にもその日が来る★どのいぬにもそのひがくる
 Life is what happens while you're busy making other plans★人生とは他の計画を立てているときに起こるものだ★じんせいとはたのけいかくをたてているときにおこるものだ
-Money talks★金が物を言う★きんがものをゆう
 The best things in life are free★人生で最高のものは無料である★じんせいでさいこうのものはむりょうである
 A picture is worth a thousand words★一枚の絵は千の言葉に値する★いちまいのえはせんのことばにあたいする
 Don't reinvent the wheel★車輪を再発明するな★しゃりんをさいはつめいするな
@@ -3147,3 +3140,773 @@ Don't put off until tomorrow what you can do today★今日できることを明
 The pen is mightier than the sword★ペンは剣よりも強し★ぺんはけんよりもつよし
 Truth is stranger than fiction★真実は小説より奇なり★しんじつはしょうせつよりきなり
 Where there's life, there's hope★命あるところに希望あり★いのちあるところにきぼうあり
+Where are you going?★どこに行くの？★どこにいくの?
+How are you?★お元気ですか？★おげんきですか?
+What do you want to eat?★何を食べたいですか？★なんをたべたいですか?
+What kind of newspaper do you read?★どのような新聞を読んでいますか？★どのようなしんぶんをよんでいますか?
+Do you only accept cash?★現金しか受け付けていませんか？★げんきんしかうけつけていませんか?
+Is 5 o'clock convenient for you?★5時がご都合いいですか？★5じがごつごういいですか?
+Where is your pen?★あなたのペンはどこですか？★あなたのぺんはどこですか?
+What is your favorite sport?★好きなスポーツは何ですか？★すきなすぽーつはなんですか?
+Do you commute by car?★あなたは車で通勤しますか？★あなたはくるまでつうきんしますか?
+Do you often get sick?★あなたはよく病気になりますか？★あなたはよくびょうきになりますか?
+I have a fever.★私は熱が出ています。★わたしはねつがでています。
+Do you know what time it is now?★今何時かわかりますか？★いまいつかわかりますか?
+Can you turn down the volume?★音を下げてもらえますか？★おとをさげてもらえますか?
+How do you spend your evening?★夕方はどのように過ごしますか？★ゆうがたはどのようにすごしますか?
+Which do you prefer, fishing or mountain climbing?★釣り と 登山 のどちらが好きですか？★つり と とざん のどちらがすきですか?
+When shall we meet?★いつお会いしましょうか？★いつおあいしましょうか?
+Shall we take a walk?★散歩しませんか？★さんぽしませんか?
+What month is it now?★今何月ですか？★いまなんがつですか?
+This room is very dirty.★この部屋はとても汚れています。★このへやはとてもよごれています。
+How did your brother come?★あなたのお兄さんはどうやって来ましたか？★あなたのおにいさんはどうやってきましたか?
+Did you buy a car?★車を買ったのですか？★くるまをかったのですか?
+It's warm today.★今日は暖かいです。★きょうはあたたかいです。
+Would you like to take a short break?★少し休憩したいですか？★すこしきゅうけいしたいですか?
+I will take care of it.★私が対応します。★わたくしがたいおうします。
+What's wrong?★どうかしましたか？★どうかしましたか?
+Can you speak English?★英語を話せますか？★えいごをはなせますか?
+What did the doctor say?★医師は何と言いましたか？★いしはなんといいましたか?
+I am sorry for keeping you waiting for so long.★長い間お待たせして申し訳ありません。★ながいあいだおまたせしてもうしわけありません。
+Have you seen this movie?★この映画を観たことがありますか？★このえいがをみたことがありますか?
+What kind of sports do you like?★ どんなスポーツが好きですか？★ どんなすぽーつがすきですか?
+I'm lucky today.★ 今日はツイています。★ きょうはついています。
+Do you think this job suits you?★この仕事が自分に合っていると思いますか？★このしごとがじぶんにあっているとおもいますか?
+How many people should I invite?★何人招待すべきですか？★なんにんしょうたいすべきですか?
+How is the weather today?★今日の天気はどうですか？★きょうのてんきはどうですか?
+Can you swim?★泳げますか？★およげますか?
+Do you live with your parents?★あなたは両親と一緒に住んでいますか？★あなたはりょうしんといっしょにすんでいますか?
+Where does this bus go?★このバスはどこ行きですか？★このばすはどこいきですか?
+I lost my wallet.★財布をなくしました。★さいふをなくしました。
+How long have you been skiing?★あなたはどれくらいスキーをしていますか？★あなたはどれくらいすきーをしていますか?
+Can I ask you a favor?★お願いをしてもいいですか？★おねがいをしてもいいですか?
+Is it far?★それは遠いですか？★それはとおいですか?
+How should I cut it?★どのようにカットしましょうか？★どのようにかっとしましょうか?
+How would you like your steak cooked?★ステーキの焼き加減はどうなさいますか？★すてーきのやきかげんはどうなさいますか?
+Do you have a smaller size?★小さいサイズはありますか？★ちいさいさいずはありますか?
+What do you teach?★あなたは何を教えていますか？★あなたはなんをおしえていますか?
+What is the longest river in China?★中国で一番長い川は何ですか？★ちゅうごくでいちばんながいかわはなんですか?
+Let's go to the gym.★ジムに行こう。★じむにいこう。
+I travel abroad every year.★私は毎年海外旅行に行きます。★わたしはまいとしかいがいりょこうにいきます。
+What time is it now?★今何時ですか？★いまなんどきですか?
+Is this seat taken?★この席は空いていますか？★このせきはあいていますか?
+I cleaned my room.★自分の部屋を掃除しました。★じぶんのへやをそうじしました。
+Who told you that?★誰があなたに言ったのですか？★だれがあなたにいったのですか?
+Did you sleep well?★よく眠れましたか？★よくねむれましたか?
+Would you like to go see a movie?★映画を見に行きませんか？★えいがをみにいきませんか?
+He has a radio, doesn't he?★彼はラジオを持ってますね。★かれはらじおをもってますね。
+Are you free tonight?★今晩空いてる？★こんばんあいてる?
+When do you finish work?★あなたはいつ仕事を終えますか？★あなたはいつしごとをおえますか?
+May I see your watch?★時計を見てもいいですか？★とけいをみてもいいですか?
+What do you think about that movie?★ その映画についてどう思いますか？★ そのえいがについてどうおもいますか?
+Your tie is very nice.★あなたの締めているネクタイは本当にいいですね。★あなたのしめているねくたいはほんとうにいいですね。
+Where is the cat?★猫はどこですか？★ねこはどこですか?
+Do you have any siblings?★兄妹姉妹はいますか？★きょうだいしまいはいますか?
+When and where were you born?★いつどこで生まれましたか？★いつどこでうまれましたか?
+Do you ride?★あなたは乗車しますか？★あなたはじょうしゃしますか?
+We get along well, right?★私たち相性いいよね。★わたしたちあいしょういいよね。
+Can you marry me?★結婚してもらえますか？★けっこんしてもらえますか?
+Can you hear me?★聞こえますか？★きこえますか?
+Do you want to change jobs?★転職したいですか？★てんしょくしたいですか?
+I missed my flight.★飛行機に乗り遅れました。★ひこうきにのりおくれました。
+When can I visit?★いつ訪問できますか？★いつほうもんできますか?
+How long have you had these symptoms?★これらの症状がどのくらい続いていますか？★これらのしょうじょうがどのくらいつづいていますか?
+Did you listen to the weather forecast?★天気予報を聞きましたか？★てんきよほうをききましたか?
+Have you gotten used to living in Canada?★カナダでの生活に慣れましたか？★かなだでのせいかつになれましたか?
+Do you need a doctor?★医者が必要ですか？★いしゃがひつようですか?
+I have to go.★いかなきゃいけない。★いかなきゃいけない。
+What are your other impressions?★その他の感想は？★そのたのかんそうは?
+This hairstyle really suits you.★この髪型はとてもあなたに似合っています。★このかみがたはとてもあなたににあっています。
+Will you walk or drive?★歩きますか、それとも運転しますか？★あるきますか、それともうんてんしますか?
+Can you tell me how to get there?★行き方を教えてもらえますか？★いきかたをおしえてもらえますか?
+Is his movie appealing to you?★彼の映画はあなたにとって魅力的ですか？★かれのえいがはあなたにとってみりょくてきですか?
+You're welcome.★どういたしまして。★どういたしまして。
+Would you like some more pie?★もう少しパイが欲しいですか？★もうすこしぱいがほしいですか?
+I'm taking a half-day off tomorrow.★私は明日半休を取っています。★わたしはあすはんきゅうをとっています。
+Can I pay with a credit card?★クレジットカードで払えますか？★くれじっとかーどではらえますか?
+How long did you stay there?★あなたはそこにどれくらい滞在しましたか？★あなたはそこにどれくらいたいざいしましたか?
+Are these your pens?★これらはあなたのペンですか？★これらはあなたのぺんですか?
+I'm planning to study abroad.★私は留学するつもりです。★わたしはりゅうがくするつもりです。
+How tall is the building?★建物の高さはどのくらいですか？★たてもののたかさはどのくらいですか?
+I'm very happy that you came.★あなたが来てくれてとても嬉しいです。★あなたがきてくれてとてもうれしいです。
+It smells good.★いい匂いがする。★いいにおいがする。
+Would you like some coffee?★コーヒーはいかがですか？★こーひーはいかがですか?
+Do you always work late at night?★あなたはいつも夜遅くまで働いていますか？★あなたはいつもよるおそくまではたらいていますか?
+Do you want to have a pet?★あなたはペットを飼いたいですか？★あなたはぺっとをかいたいですか?
+Will we be on time?★私たちは時間を守れるでしょうか？★わたしたちはじかんをまもれるでしょうか?
+Where is the nearest supermarket?★最寄りのスーパーはどこですか？★もよりのすーぱーはどこですか?
+Where do you want to go?★どこに行きたいですか？★どこにいきたいですか?
+Excuse me.★すみません。★すみません。
+Where is the post office?★郵便局はどこですか？★ゆうびんきょくはどこですか?
+What is your father's job?★お父さんの職業は何ですか？★おとうさんのしょくぎょうはなんですか?
+Excuse me, where is 5th street?★すみません、5番街はどこですか？★すみません、5ばんがいはどこですか?
+Why don't you agree?★なぜあなたは同意しないのですか？★なぜあなたはどういしないのですか?
+Do you wake up at 5 every day?★あなたは毎日5時に起きますか？★あなたはまいにち5じにおきますか?
+Do you have a bank account?★あなたは銀行の口座をお持ちですか？★あなたはぎんこうのこうざをおもちですか?
+Can you speak French?★フランス語を話せますか？★ふらんすごをはなせますか?
+Do you have an appointment?★お約束はございますか？★おやくそくはございますか?
+I fell in love with you at first sight.★あなたに一目惚れしました。★あなたにひとめぼれしました。
+Do you have any questions?★質問はありますか？★しつもんはありますか?
+How do you feel today?★今日の気分はいかがですか？★きょうのきぶんはいかがですか?
+She is slender.★彼女はスレンダーです。★かのじょはすれんだーです。
+Do you always stay up late?★あなたはいつも遅くまで起きますか？★あなたはいつもおそくまでおきますか?
+I'm afraid of going to the dentist.★私は歯医者に行くのが怖いです。★わたしははいしゃにいくのがこわいです。
+What a beautiful jacket!★なんて美しいジャケットでしょう。★なんてうつくしいじゃけっとでしょう。
+What will the temperature be tomorrow?★明日の気温は何度ですか？★あすのきおんはなんどですか?
+Is she American?★彼女はアメリカ人ですか？★かのじょはあめりかじんですか?
+How is your grandmother doing?★おばあちゃんはいかがお過ごしですか？★おばあちゃんはいかがおすごしですか?
+It suits you.★似合ってる。★にあってる。
+What will you eat?★あなたは何を食べますか？★あなたはなんをたべますか?
+Where are you from?★出身はどちらですか？★しゅっしんはどちらですか?
+This bill is wrong.★この請求書は間違ってますよ。★このせいきゅうしょはまちがってますよ。
+How was your holiday?★休日はどうですか？★きゅうじつはどうですか?
+Do you have any siblings?★兄弟はいますか？★きょうだいはいますか?
+Did you feed the cat?★猫に餌をやりましたか？★ねこにえさをやりましたか?
+What did you major in at university?★大学で何を専攻しましたか？★だいがくでなんをせんこうしましたか?
+Do you practice regularly?★あなたは定期的に練習していますか？★あなたはていきてきにれんしゅうしていますか?
+Are you injured?★あなたは怪我をしていますか？★あなたはけがをしていますか?
+I need more training on the new software.★新しいソフトウェアについてもっとトレーニングが必要です。★あたらしいそふとうぇあについてもっととれーにんぐがひつようです。
+She made her own dress.★彼女は自分のドレスを作りました。★かのじょはじぶんのどれすをつくりました。
+Will you be late today?★今日は遅れそうですか？★きょうはおくれそうですか?
+Could someone help me?★誰か手伝っていただけますか？★だれかてつだっていただけますか?
+How much TV do you watch every day?★毎日どのくらいテレビを見ますか？★まいにちどのくらいてれびをみますか?
+What is this?★これは何ですか？★これはなんですか?
+I'll call you back later.★後でまた電話します。★あとでまたでんわします。
+What time will you come back?★何時に帰ってきますか？★いつにかえってきますか?
+Do you have a car?★あなたは車を持っていますか？★あなたはくるまをもっていますか?
+What is the total?★合計はいくらですか？★ごうけいはいくらですか?
+Where do you live?★どこに住んでいますか？★どこにすんでいますか?
+How old are you?★何歳ですか？★なんさいですか?
+I got a promotion.★私は昇級しました。★わたしはしょうきゅうしました。
+What would you like to drink?★飲み物は何にしますか？★のみものはなんにしますか?
+What time do you start work?★何時に仕事を始めますか？★いつにしごとをはじめますか?
+I'd like a refund.★払い戻しをしてほしいのですが。★はらいもどしをしてほしいのですが。
+What is your last name?★名字は何ですか？★みょうじはなんですか?
+Who are you writing a letter to?★誰に手紙を書いているの？★だれにてがみをかいているの?
+Is there a bank here?★ここに銀行はありますか？★ここにぎんこうはありますか?
+What is your favorite music?★あなたの好きな音楽は何ですか？★あなたのすきなおんがくはなんですか?
+Why did you quit your job?★なぜあなたは仕事を辞めたのですか？★なぜあなたはしごとをやめたのですか?
+Where is your address?★あなたの住所はどこですか？★あなたのじゅうしょはどこですか?
+Are you here on a business trip?★ここへは出張で来ましたか？★ここへはしゅっちょうできましたか?
+Excuse me, can you tell me how to get to the station?★すみません、駅への行き方を教えてもらえますか？★すみません、えきへのいきかたをおしえてもらえますか?
+What terrible weather!★なんてひどい天気でしょう。★なんてひどいてんきでしょう。
+Do you have severe allergies?★ひどいアレルギーはありますか？★ひどいあれるぎーはありますか?
+I'm really sorry.★本当に残念です。★ほんとうにざんねんです。
+Do you need to transfer?★転送する必要がありますか？★てんそうするひつようがありますか?
+What will happen after a sunny day?★晴れた日の後はどうなるでしょうか？★はれたひのあとはどうなるでしょうか?
+You don't have an appetite, do you?★あなたは食欲がありませんね。★あなたはしょくよくがありませんね。
+How do you do?★はじめまして。★はじめまして。
+Can someone pick up my dry cleaning?★誰か私のクリーニングをとって来られる？★だれかわたしのくりーにんぐをとってこられる?
+Do you want to take a break?★休憩したいですか？★きゅうけいしたいですか?
+Do you have an appointment?★お約束はされていますか？★おやくそくはされていますか?
+I need to go soon.★そろそろ行かないといけません。★そろそろいかないといけません。
+What day is it today?★今日は何日ですか？★きょうはなんにちですか?
+What is the purpose of your visit?★滞在の目的は何ですか？★たいざいのもくてきはなんですか?
+Can you call me back tomorrow?★明日折り返しお電話をいただけますか？★あすおりかえしおでんわをいただけますか?
+What is your occupation?★職業は何ですか？★しょくぎょうはなんですか?
+Whose cell phone is this?★これは誰の携帯電話ですか？★これはだれのけいたいでんわですか?
+Can you attend the meeting for me?★私のために会議に参加してくれませんか？★わたしのためにかいぎにさんかしてくれませんか?
+That man is a teacher, isn't he?★その男性は教師ですね。★そのだんせいはきょうしですね。
+Do you have a career plan?★あなたはキャリアプランがありますか？★あなたはきゃりあぷらんがありますか?
+I booked a skydiving session.★スカイダイビングのセッションを予約した。★すかいだいびんぐのせっしょんをよやくした。
+I arranged this bouquet of flowers.★私がこの花束をアレンジしました。★わたくしがこのはなたばをあれんじしました。
+Are you married?★あなたは結婚していますか？★あなたはけっこんしていますか?
+You speak English very well.★あなたはとても英語が上手です。★あなたはとてもえいごがじょうずです。
+I lost my dog today.★私は今日愛犬を亡くしました。★わたしはこんにちあいけんをなくしました。
+Are you John's brother?★あなたはジョンの兄弟ですか？★あなたはじょんのきょうだいですか?
+I would like to speak with Mr. Kim.★キムさんとお話ししたいのですが。★きむさんとおはなししたいのですが。
+How long have you been unemployed?★あなたはどのくらい失業していますか？★あなたはどのくらいしつぎょうしていますか?
+How was the physics exam?★物理の試験はどうだった？★ぶつりのしけんはどうだった?
+How much will it cost to get to the airport?★空港までいくら位かかりますか？★くうこうまでいくらくらいかかりますか?
+I don't think we should break up.★私たちは別れた方がいいと思わない。★わたしたちはわかれたほうがいいとおもわない。
+What are you doing this weekend?★あなたはこの週末何をしますか？★あなたはこのしゅうまつなんをしますか?
+Do you have a moment?★少し時間ありますか？★すこしじかんありますか?
+How is the weather?★天気はどうですか？★てんきはどうですか?
+Excuse me ma'am, could you please tell me where the post office is?★すみません奥様、郵便局がどこにあるか教えていただけますか？★すみませんおくさま、ゆうびんきょくがどこにあるかおしえていただけますか?
+How are you doing?★お元気ですか？★おげんきですか?
+Please don't tell her about the surprise party.★サプライズパーティーのことを彼女に言わないでください。★さぷらいずぱーてぃーのことをかのじょにいわないでください。
+What are you interested in?★何に興味がありますか？★なんにきょうみがありますか?
+You look tired, are you okay?★疲れているようですが大丈夫ですか？★つかれているようですがだいじょうぶですか?
+How much is it?★いくらですか？★いくらですか?
+What day was yesterday?★昨日は何曜日ですか？★きのうはなんようひですか?
+What time is it now?★今何時ですか？★いまなんどきですか?
+What are you doing?★何をしていますか？★なんをしていますか?
+What do you think about this?★これについてどう思いますか？★これについてどうおもいますか?
+Don't occupy the washroom.★洗面所を占領しないで。★せんめんじょをせんりょうしないで。
+I found the keys you lost.★あなたがなくした鍵を見つけました。★あなたがなくしたかぎをみつけました。
+I'm afraid of failure.★失敗が怖いです。★しっぱいがこわいです。
+Make up your mind.★あなたが決めて。★あなたがきめて。
+What will you wear at the party?★パーティーで何を着ますか？★ぱーてぃーでなんをきますか?
+I don't want to go.★私は行きたくないです。★わたしはいきたくないです。
+Is it okay to take the last one?★最後の一つをとっても大丈夫ですか？★さいごのひとつをとってもだいじょうぶですか?
+How tall are you?★あなたの身長はどれくらいですか？★あなたのしんちょうはどれくらいですか?
+Do you eat fast?★あなたは早く食べますか？★あなたははやくたべますか?
+Where did you learn French?★フランス語はどこで学んだのですか？★ふらんすごはどこでまなんだのですか?
+What are they doing?★彼らは何をしていますか？★かれらはなんをしていますか?
+Where is the closest ATM?★一番近いATMはどこですか？★いちばんちかいATMはどこですか?
+What shall we do this afternoon?★今日の午後はどうしようか？★きょうのごごはどうしようか?
+Do I need to have surgery?★手術を受ける必要がありますか？★しゅじゅつをうけるひつようがありますか?
+Can you play tennis?★テニスをすることはできますか？★てにすをすることはできますか?
+Where did you have dinner last night?★昨日どこで夕食をとりましたか？★きのうどこでゆうしょくをとりましたか?
+This dish looks delicious.★この料理は美味しそうです。★このりょうりはおいしそうです。
+What lovely weather!★なんて素敵な天気でしょう。★なんてすてきなてんきでしょう。
+Why don't you go for a walk?★なぜ散歩に出かけないのですか？★なぜさんぽにでかけないのですか?
+Would you mind opening the window?★窓を開けていただけますか？★まどをあけていただけますか?
+Hello.★こんにちは。★こんにちは。
+Where do you live now?★あなたは今どこに住んでいますか？★あなたはいまどこにすんでいますか?
+I fell on the stairs and broke my ankle.★私は回覧で転んで足首を骨折しました。★わたしはかいらんでころんであしくびをこっせつしました。
+Thank you for your compliment.★お褒めいただきありがとうございます。★おほめいただきありがとうございます。
+What was I saying?★私が何を言っていましたか？★わたくしがなんをいっていましたか?
+Are you feeling okay?★あなたは気分がいいですか？★あなたはきぶんがいいですか?
+How is this?★これはどうですか？★これはどうですか?
+Will you order now?★今ご注文なさいますか？★こんごちゅうもんなさいますか?
+Did you have a good sleep?★よく眠れましたか？★よくねむれましたか?
+How much does your dog weigh?★犬の体重はどのくらいですか？★いぬのたいじゅうはどのくらいですか?
+Where did you go?★どこに行ったのですか？★どこにいったのですか?
+I have a fever.★私は熱が出ています。★わたしはねつがでています。
+Do you know Mary?★メアリーを知っていますか？★めありーをしっていますか?
+This is the ring I was telling you about.★これは私があなたに話していた指輪です。★これはわたくしがあなたにはなしていたゆびわです。
+What do you want to do after graduation?★卒業後は何をしたいですか？★そつぎょうごはなんをしたいですか?
+Can you help me with the project?★プロジェクトを助けてもらえますか？★ぷろじぇくとをたすけてもらえますか?
+I don't have much time.★時間があまりありません。★じかんがあまりありません。
+What is this?★これは何？★これはなん?
+Do you go to bed early?★あなたは早く寝ますか？★あなたははやくねますか?
+When will the next bus come?★次のバスはいつ来るの？★つぎのばすはいつくるの?
+Don't you have my hat?★私の帽子を持っていないんですか？★わたしのぼうしをもっていないんですか?
+Do you have any questions?★質問はありますか？★しつもんはありますか?
+Isn't there a cheaper one?★もっと安いのはありませんか？★もっとやすいのはありませんか?
+Why are you so sure?★なぜそんなに確信が持てるのですか？★なぜそんなにかくしんがもてるのですか?
+Do you have a book?★本は持っていますか？★ほんはもっていますか?
+Is this yours?★あなたのものですか？★あなたのものですか?
+Would you like some dessert?★デザートはいかがですか？★でざーとはいかがですか?
+You have the wrong number.★掛け間違いです。★かけまちがいです。
+Did you sleep well?★よく眠れましたか？★よくねむれましたか?
+Do you think he hates me?★彼が私を嫌いだと思いますか？★かれがわたしをきらいだとおもいますか?
+I heard a crash, but are you all okay?★衝突音を聞いたけどあなたたちは全員無事ですか？★しょうとつおんをきいたけどあなたたちはぜんいんぶじですか?
+Why are you studying Chinese?★なぜあなたは中国語を勉強しているのですか？★なぜあなたはちゅうごくごをべんきょうしているのですか?
+Perhaps it's time to hire a professional.★おそらくプロを雇う時が来たということでしょう。★おそらくぷろをやとうときがきたということでしょう。
+How does the food taste?★料理の味はどうですか？★りょうりのあじはどうですか?
+I failed again.★私はまた失敗しました。★わたしはまたしっぱいしました。
+How many sisters and brothers do you have?★何人の姉妹と兄弟がいますか？★なんにんのしまいときょうだいがいますか?
+Which do you think is better?★どちらがいいと思いますか？★どちらがいいとおもいますか?
+Would you like to play tennis this afternoon?★今日の午後にテニスをしませんか？★きょうのごごにてにすをしませんか?
+How have you been recently?★最近どうしてましたか？★さいきんどうしてましたか?
+How will the weather be tomorrow?★明日の天気はどうですか？★あすのてんきはどうですか?
+Please show me your insurance card.★保険証をご提示ください。★ほけんしょうをごていじください。
+Can I pay with a credit card?★クレジットカードで支払えますか？★くれじっとかーどでしはらえますか?
+No bingo.★ビンゴなし。★びんごなし。
+Which flower do you like best?★花の中でどれが一番好きですか？★はなのなかでどれがいちばんすきですか?
+Will you stay there long?★そこに長く滞在しますか？★そこにながくたいざいしますか?
+What is your friend's name?★あなたの友達の名前は何ですか？★あなたのともだちのなまえはなんですか?
+It is very cold today.★今日はとても寒い。★きょうはとてもさむい。
+What is your opinion?★あなたの意見はどうですか？★あなたのいけんはどうですか?
+Where are you from?★出身はどこですか？★しゅっしんはどこですか?
+What is your name?★お名前は何ですか？★おなまえはなんですか?
+Can you write in English?★英語で書くことができますか？★えいごでかくことができますか?
+What are you planning to do this Friday?★今週金曜日に何をする予定ですか？★こんしゅうきんようびになんをするよていですか?
+I'm trying to lose weight.★ダイエットをしようとしています。★だいえっとをしようとしています。
+How was your day?★あなたの一日はどうでした？★あなたのいちにちはどうでした?
+What are you doing?★何してるの？★なんしてるの?
+Do you have a plan for your career?★あなたは自身のキャリアにおいて計画がありますか？★あなたはじしんのきゃりあにおいてけいかくがありますか?
+Whose is this?★これは誰のですか？★これはだれのですか?
+I'm in very good physical condition.★私は身体の調子がとても良いです。★わたしはしんたいのちょうしがとてもよいです。
+Water the flowers.★花に水をあげて。★はなにみずをあげて。
+What kind of work do you do?★どのような仕事をしているのですか？★どのようなしごとをしているのですか?
+I'm pregnant.★妊娠しました。★にんしんしました。
+I have a cavity.★私には虫歯があります。★わたしにはむしばがあります。
+Do you have time now?★今は時間がありますか？★いまはじかんがありますか?
+Which do you prefer, red wine or white wine?★赤ワインか白ワインのどちらが好きですか？★あかわいんかしろわいんのどちらがすきですか?
+When is your birthday?★生年月日はいつですか？★せいねんがっぴはいつですか?
+What is your size?★あなたのサイズは何ですか？★あなたのさいずはなんですか?
+How have you been?★どう過ごしていましたか？★どうすごしていましたか?
+What do you do in your free time?★空き時間には何をしますか？★あきじかんにはなんをしますか?
+Do you like your job?★自分の仕事が好きですか？★じぶんのしごとがすきですか?
+I like this★これが好きです★これがすきです
+What a coincidence★なんて偶然でしょう★なんてぐうぜんでしょう
+Where are you from★どこ出身ですか★どこしゅっしんですか
+I've got a headache★頭が痛いです★あたまがいたいです
+Are you sure★本当ですか★ほんとうですか
+Wait a minute★ちょっと待って★ちょっとまって
+I really miss you★本当に寂しいです★ほんとうにさびしいです
+I am not sure yet★まだ分かりません★まだわかりません
+You are really talented★あなたは本当に才能がありますね★あなたはほんとうにさいのうがありますね
+Please be careful★気をつけてください★きをつけてください
+I did it★やった！★やった!
+It's up to you★あなた次第です★あなたしだいです
+What should I do★どうすればいいですか★どうすればいいですか
+Let's go together★一緒に行きましょう★いっしょにいきましょう
+Have a good time★楽しんでください★たのしんでください
+It was two months ago★2ヶ月前でした★2かげつまえでした
+Don't give up★諦めないで★あきらめないで
+You are so careless★あなたはとても不注意です★あなたはとてもふちゅういです
+I have a friend traveling with me★私と一緒に旅行している友達がいます★わたくしといっしょにりょこうしているともだちがいます
+I'm sorry it hurts★痛くてごめんなさい★いたくてごめんなさい
+I made a reservation under amy★エイミーの名前で予約しました★えいみーのなまえでよやくしました
+Everything tastes great★全部美味しいです★ぜんぶおいしいです
+It's a long story★それは長い話です★それはながいはなしです
+It's not late★遅くないです★おそくないです
+I'll think about it★考えておきます★かんがえておきます
+It's too expensive★高すぎます★たかすぎます
+Take a break★休憩してください★きゅうけいしてください
+That's it thank you★以上です、ありがとうございます★いじょうです、ありがとうございます
+My wallet was stolen★財布が盗まれました★さいふがぬすまれました
+It's awesome★すごい★すごい
+Are you hungry★お腹が空いていますか★おなかがあいていますか
+I just need to check in★チェックインするだけです★ちぇっくいんするだけです
+I am very thirsty★とても喉が渇いています★とてものどがかわいています
+Are you leaving already★もう出発するんですか★もうしゅっぱつするんですか
+What's your plan for tomorrow★明日の予定は何ですか★あすのよていはなんですか
+That's disgusting★それは気持ち悪いです★それはきもちわるいです
+Let's find it out★調べてみましょう★しらべてみましょう
+We are a family of four★私たちは4人家族です★わたしたちは4にんかぞくです
+I don't care★気にしません★きにしません
+Can you give me a ride★車に乗せてくれますか★くるまにのせてくれますか
+See you there★そこでお会いしましょう★そこでおあいしましょう
+Let's go visit them★彼らに会いに行きましょう★かれらにあいにいきましょう
+Have a nice weekend★良い週末を★よいしゅうまつを
+I'm here for sightseeing★観光に来ました★かんこうにきました
+Let me see★見せてください★みせてください
+Next time★次回★じかい
+Come up here★ここに上がってきてください★ここにあがってきてください
+I'll show you★見せてあげます★みせてあげます
+It's been a long time★久しぶりです★ひさしぶりです
+I lost my passport★パスポートをなくしました★ぱすぽーとをなくしました
+What is the purpose of your visit★訪問の目的は何ですか★ほうもんのもくてきはなんですか
+I don't know★知りません★しりません
+It's a nice day★いい日ですね★いいひですね
+Goodbye★さようなら★さようなら
+I'm sorry to hear that★それは残念です★それはざんねんです
+Can i try it on★試着してもいいですか★しちゃくしてもいいですか
+What do you think★どう思いますか★どうおもいますか
+Are you korean★韓国人ですか★かんこくじんですか
+Happy new year★明けましておめでとうございます★あけましておめでとうございます
+I can't hear you★聞こえません★きこえません
+Sorry i am tied up★すみません、手が離せません★すみません、てがはなせません
+Have you ever been to canada★カナダに行ったことがありますか★かなだにいったことがありますか
+Please clean my room★部屋を掃除してください★へやをそうじしてください
+Yes please★はい、お願いします★はい、おねがいします
+How much is this★これはいくらですか★これはいくらですか
+How are you doing★元気ですか★げんきですか
+Could you write it down here★ここに書いてもらえますか★ここにかいてもらえますか
+It's better than nothing★ないよりましです★ないよりましです
+Are you okay★大丈夫ですか★だいじょうぶですか
+It's 5:00★5時です★5じです
+Which one do you like better★どちらが好きですか★どちらがすきですか
+I'm working on it★取り組んでいます★とりくんでいます
+I want to go here★ここに行きたいです★ここにいきたいです
+Do you like it★気に入りましたか★きにはいりましたか
+I'm on my way★向かっています★むかっています
+I can't stop laughing★笑いが止まりません★わらいがとまりません
+I don't have a boyfriend now★今、彼氏はいません★いま、かれしはいません
+I'm sorry i'm late★遅れてすみません★おくれてすみません
+It's hard to say★言いにくいです★いいにくいです
+How long have you lived here★ここにどれくらい住んでいますか★ここにどれくらいすんでいますか
+Would you like something to drink★何か飲み物はいかがですか★なにかのみものはいかがですか
+They are over there★彼らはあそこにいます★かれらはあそこにいます
+It's time for dinner★夕食の時間です★ゆうしょくのじかんです
+For here★ここで★ここで
+Where were we★どこまで話しましたっけ★どこまではなしましたっけ
+What do you mean★どういう意味ですか★どういういみですか
+Today is january 2nd★今日は1月2日です★きょうは1つき2にちです
+It's not your fault★あなたのせいではありません★あなたのせいではありません
+I cannot say★言えません★いえません
+Do you mind if i sit here★ここに座っても構いませんか★ここにすわってもかまいませんか
+Hello may i speak to mr white★もしもし、ホワイトさんと話せますか★もしもし、ほわいとさんとはなせますか
+There is tea★お茶があります★おちゃがあります
+Would you like to come with me★一緒に来ませんか★いっしょにきませんか
+Let me guess★当ててみましょう★あててみましょう
+It's on the house★これは店のおごりです★これはみせのおごりです
+I'd like a glass of red wine★赤ワインを一杯ください★あかわいんをいっぱいください
+They are too large★それらは大きすぎます★それらはおおきすぎます
+No mine is blue★いいえ、私のは青です★いいえ、わたしのはあおです
+It's on me★私のおごりです★わたしのおごりです
+I'm very disappointed★とてもがっかりしています★とてもがっかりしています
+Drop by anytime★いつでも立ち寄ってください★いつでもたちよってください
+May i ask you a question★質問してもいいですか★しつもんしてもいいですか
+Never mind★気にしないで★きにしないで
+That's the way it is★そういうものです★そういうものです
+Good night★おやすみ★おやすみ
+Everyone does it★みんなそうします★みんなそうします
+That's impossible★それは不可能です★それはふかのうです
+There's nothing i can do★私には何もできません★わたしにはなんもできません
+Are you awake★起きていますか★おきていますか
+Hurry up★急いで★いそいで
+You'll get used to it★すぐに慣れますよ★すぐになれますよ
+I got it★分かりました★わかりました
+Almost there★もうすぐです★もうすぐです
+Are these carrots★これは人参ですか★これはにんじんですか
+Is that enough★それで十分ですか★それでじゅうぶんですか
+It's still undecided★まだ未定です★まだみていです
+This soup tastes good★このスープは美味しいです★このすーぷはおいしいです
+When is the intermission★休憩はいつですか★きゅうけいはいつですか
+I've changed my mind★考えを変えました★かんがえをかえました
+We can work it out★なんとかなります★なんとかなります
+How do you feel★気分はどうですか★きぶんはどうですか
+What are you up to★何をしているんですか★なんをしているんですか
+What happened★何があったんですか★なんがあったんですか
+What day is it today★今日は何曜日ですか★きょうはなんようひですか
+Please don't blame yourself★自分を責めないでください★じぶんをせめないでください
+Are you serious★本気ですか★ほんきですか
+We'll see★様子を見ましょう★ようすをみましょう
+What's that for★それは何のためですか★それはなんのためですか
+I really learned a lot★とても勉強になりました★とてもべんきょうになりました
+That makes sense★納得です★なっとくです
+What time did you get up★何時に起きましたか★いつにおきましたか
+What's wrong★どうかしましたか★どうかしましたか
+Can we start over★やり直せますか★やりなおせますか
+Can you repeat that again★もう一度繰り返してもらえますか★もういちどくりかえしてもらえますか
+Let's take a taxi★タクシーに乗りましょう★たくしーにのりましょう
+The sooner the better★早ければ早いほど良いです★はやければはやいほどよいです
+I am very tired★とても疲れています★とてもつかれています
+Count me in★私も入れて★わたくしもいれて
+It's your turn★あなたの番です★あなたのばんです
+Long time no see★久しぶり★ひさしぶり
+You're going too fast★速すぎます★はやすぎます
+Who cares★誰が気にするの★だれがきにするの
+Please leave me alone★一人にしておいてください★ひとりにしておいてください
+Take care★気をつけて★きをつけて
+It sounds great★それはいいですね★それはいいですね
+How about this one★これはどうですか★これはどうですか
+All good here you★こちらは全て順調です★こちらはすべてじゅんちょうです
+This is $50★これは50ドルです★これは50どるです
+What are you talking about★何の話ですか★なんのはなしですか
+May i have your name please★お名前を教えていただけますか★おなまえをおしえていただけますか
+I can't help it★どうしようもないです★どうしようもないです
+All right★分かりました★わかりました
+After you★お先にどうぞ★おさきにどうぞ
+That's hilarious★それは面白いです★それはおもしろいです
+See you later★また後で★またあとで
+Let's get out of here★ここから出ましょう★ここからでましょう
+Have a good one★良い一日を★よいいちにちを
+Watch out★気をつけて★きをつけて
+Is that true★それは本当ですか★それはほんとうですか
+Close the window please★窓を閉めてください★まどをしめてください
+It is cloudy★曇りです★くもりです
+The dinner was wonderful★夕食は素晴らしかったです★ゆうしょくはすばらしかったです
+I couldn't find them★彼らを見つけられませんでした★かれらをみつけられませんでした
+To go please★持ち帰りでお願いします★もちかえりでおねがいします
+We have a lot in common★私たちは共通点が多いです★わたしたちはきょうつうてんがおおいです
+Are you ready★準備はいいですか★じゅんびはいいですか
+You are right★あなたは正しいです★あなたはただしいです
+This way★こちらへ★こちらへ
+You are so smart★あなたはとても賢いです★あなたはとてもかしこいです
+Please let me know★お知らせください★おしらせください
+What did he do★彼が何をしたんですか★かれがなんをしたんですか
+That's not true★それは真実ではありません★それはしんじつではありません
+It's time to go★行く時間です★いくじかんです
+Well it depends★まあ、場合によります★まあ、ばあいによります
+I'm reading a book★本を読んでいます★ほんをよんでいます
+Here is the cabbage★ここにキャベツがあります★ここにきゃべつがあります
+Please make sure★確認してください★かくにんしてください
+Probably★多分★たぶん
+How was your day★今日はどうでしたか★きょうはどうでしたか
+Fasten your seat belt★シートベルトを締めてください★しーとべるとをしめてください
+It's right over there★すぐそこにあります★すぐそこにあります
+I am so touched★とても感動しました★とてもかんどうしました
+That's good to know★それは良い情報です★それはよいじょうほうです
+You got it★了解しました★りょうかいしました
+There is someone knocking★誰かがノックしています★だれかがのっくしています
+What's your job★仕事は何ですか★しごとはなんですか
+I'll be right back★すぐ戻ります★すぐもどります
+Lunch or dinner★ランチですかディナーですか★らんちですかでぃなーですか
+You deserve it★あなたはそれに値します★あなたはそれにあたいします
+I forgot★忘れました★わすれました
+Please stand up★立ってください★たってください
+No problem★問題ありません★もんだいありません
+You should give it a try★試してみるべきです★ためしてみるべきです
+You never know★分からないものです★わからないものです
+It's about time★そろそろ時間です★そろそろじかんです
+I'm not in the mood★その気分ではありません★そのきぶんではありません
+I'm tired★疲れています★つかれています
+Good morning★おはようございます★おはようございます
+Here it is★これです★これです
+I can't stand it★我慢できません★がまんできません
+I like beer★ビールが好きです★びーるがすきです
+They had been divorced★彼らは離婚していました★かれらはりこんしていました
+I have a question for you★あなたに質問があります★あなたにしつもんがあります
+She hates boxing★彼女はボクシングが嫌いです★かのじょはぼくしんぐがきらいです
+What's the temperature today★今日の気温は何度ですか★きょうのきおんはなんどですか
+My pleasure★どういたしまして★どういたしまして
+I'm trying my best★ベストを尽くしています★べすとをつくしています
+Just a few months★ほんの数ヶ月です★ほんのすうかげつです
+It might rain tomorrow★明日雨が降るかもしれません★あすあめがふるかもしれません
+I couldn't sleep★眠れませんでした★ねむれませんでした
+Good for you★よかったですね★よかったですね
+We are going to be late★遅刻します★ちこくします
+What is your favorite movie★あなたの一番好きな映画は何ですか★あなたのいちばんすきなえいがはなんですか
+Do not hesitate★遠慮しないでください★えんりょしないでください
+You have red eyes★あなたは目が赤いですね★あなたはめがあかいですね
+Lunch is over★ランチは終わりです★らんちはおわりです
+Do you have a second★少しお時間ありますか★すこしおじかんありますか
+Thank you for your cooperation★ご協力ありがとうございます★ごきょうりょくありがとうございます
+Do you want some more★もう少し召し上がりますか★もうすこしめしあがりますか
+You are so funny★あなたはとても面白いです★あなたはとてもおもしろいです
+Good luck★幸運を祈ります★こううんをいのります
+Good afternoon★こんにちは★こんにちは
+That's all i need★それで十分です★それでじゅうぶんです
+I feel hungry★お腹が空きました★おなかがあきました
+That's a waste of time★それは時間の無駄です★それはじかんのむだです
+That sounds fun★それは楽しそうですね★それはたのしそうですね
+Do you like traveling★旅行は好きですか★りょこうはすきですか
+I can do it by myself★自分でできます★じぶんでできます
+You are kidding★冗談でしょう★じょうだんでしょう
+I ran into jj d today★今日jj dにばったり会いました★きょうjj dにばったりあいました
+It's not my business★私の知ったことではありません★わたしのしったことではありません
+I'm his fan★私は彼のファンです★わたしはかれのふぁんです
+Who are you★あなたは誰ですか★あなたはだれですか
+I wish i were you★あなただったらいいのに★あなただったらいいのに
+No wonder★どうりで★どうりで
+That makes me sad★それは悲しいです★それはかなしいです
+Where are the stairs★階段はどこですか★かいだんはどこですか
+I need to go home★家に帰る必要があります★いえにかえるひつようがあります
+Yes i do★はい、そうです★はい、そうです
+Keep it up★その調子で★そのちょうしで
+How old are you★何歳ですか★なんさいですか
+I'd rather not★出来れば遠慮したいです★できればえんりょしたいです
+I hope so★そうだといいな★そうだといいな
+I'm fine thanks★元気です、ありがとう★げんきです、ありがとう
+I will take this★これにします★これにします
+It was really close★本当に危なかったです★ほんとうにあぶなかったです
+Where can i get my luggage★どこで荷物を受け取れますか★どこでにもつをうけとれますか
+I like basketball★バスケットボールが好きです★ばすけっとぼーるがすきです
+Here are the keys★ここに鍵があります★ここにかぎがあります
+Are you all right★大丈夫ですか★だいじょうぶですか
+Smile for the camera★カメラに向かって笑ってください★かめらにむかってわらってください
+What do you prefer★どちらが好きですか★どちらがすきですか
+Please speak louder★もっと大きな声で話してください★もっとおおきなこえではなしてください
+It looks very nice★とても素敵に見えます★とてもすてきにみえます
+It's just imagination★ただの想像です★ただのそうぞうです
+It's really a bargain★本当にお買い得です★ほんとうにおかいどくです
+Thanks for coming today★今日は来てくれてありがとう★きょうはきてくれてありがとう
+I will try these★これらを試着します★これらをしちゃくします
+What's the difference★違いは何ですか★ちがいはなんですか
+Don't get so excited★そんなに興奮しないで★そんなにこうふんしないで
+You look happy★嬉しそうですね★うれしそうですね
+Where are you going★どこへ行くのですか★どこへいくのですか
+He's a photographer★彼は写真家です★かれはしゃしんかです
+Who is that★あれは誰ですか★あれはだれですか
+Is it possible★可能ですか★かのうですか
+Are you free this evening★今晩空いていますか★こんばんあいていますか
+Are you married★結婚していますか★けっこんしていますか
+When was that★それはいつでしたか★それはいつでしたか
+Can you give me another pillow★もう一つ枕をいただけますか★もうひとつまくらをいただけますか
+Please don't rush me★急かさないでください★せかさないでください
+Leave it to me★私に任せてください★わたしにまかせてください
+Welcome again★またいらしてください★またいらしてください
+I have an idea★いい考えがあります★いいかんがえがあります
+We need more★もっと必要です★もっとひつようです
+Keep the change★お釣りは取っておいてください★おつりはとっておいてください
+You're killing me★もう勘弁してください★もうかんべんしてください
+Here is coffee★ここにコーヒーがあります★ここにこーひーがあります
+Where is the soap★石鹸はどこですか★せっけんはどこですか
+It is very hot★とても暑いです★とてもあついです
+It was like that before★前はそうでした★まえはそうでした
+Take a seat★座ってください★すわってください
+Come and sit over here★ここに来て座ってください★ここにきてすわってください
+This is thursday★今日は木曜日です★きょうはもくようびです
+Tell me what happened★何が起こったか教えてください★なんがおこったかおしえてください
+What's the deadline★締め切りはいつですか★しめきりはいつですか
+Don't worry★心配しないで★しんぱいしないで
+What's the date today★今日は何日ですか★きょうはなんにちですか
+Just bring yourself★手ぶらで来てください★てぶらできてください
+Stop laughing★笑うのをやめてください★わらうのをやめてください
+This is mine right★これは私のものですよね★これはわたしのものですよね
+I respect you★尊敬しています★そんけいしています
+What should i bring★何を持っていけばいいですか★なんをもっていけばいいですか
+You take them all★全部持っていってください★ぜんぶもっていってください
+The flight is delayed★フライトが遅れています★ふらいとがおくれています
+I'd like one more★もう一つ欲しいです★もうひとつほしいです
+I apologize for being late★遅れて申し訳ありません★おくれてもうしわけありません
+I'm glad to see you★会えて嬉しいです★あえてうれしいです
+Where is the bus station★バス停はどこですか★ばすていはどこですか
+It's time to wake up★起きる時間です★おきるじかんです
+I hope it is sunny★晴れるといいな★はれるといいな
+Show me the ticket★チケットを見せてください★ちけっとをみせてください
+Have you ever seen a panda★パンダを見たことがありますか★ぱんだをみたことがありますか
+How is the weather★天気はどうですか★てんきはどうですか
+I'm fine★元気です★げんきです
+It is noon★正午です★しょうごです
+I hope you are having fun★楽しんでいるといいな★たのしんでいるといいな
+My name is susan★私の名前はスーザンです★わたしのなまえはすーざんです
+I don't feel like talking right now★今は話したくありません★いまははなしたくありません
+I'll do my best★ベストを尽くします★べすとをつくします
+I want another coat★もう一枚コートが欲しいです★もういちまいこーとがほしいです
+I'm sure it's okay★きっと大丈夫です★きっとだいじょうぶです
+You are so kind★あなたはとても親切です★あなたはとてもしんせつです
+I don't like the taste of wasabi★わさびの味が嫌いです★わさびのあじがきらいです
+Do you hear me★聞こえますか★きこえますか
+They are probably out★彼らはおそらく外出中です★かれらはおそらくがいしゅつちゅうです
+What are you mad about★何に怒っているんですか★なんにおこっているんですか
+Who are you talking to★誰と話しているんですか★だれとはなしているんですか
+He majored in business★彼は経営学を専攻しました★かれはけいえいがくをせんこうしました
+Why don't you like him★なぜ彼が好きではないのですか★なぜかれがすきではないのですか
+Please turn on the air conditioner★エアコンをつけてください★えあこんをつけてください
+Can i have a look★見てもいいですか★みてもいいですか
+From 4 to 4:30★4時から4時30分まで★4じから4じ30ぶんまで
+What time do you want me to pick you up★何時に迎えに来て欲しいですか★いつにむかえにきてほしいですか
+Where do you live★どこに住んでいますか★どこにすんでいますか
+Which one is yours★どれがあなたのものですか★どれがあなたのものですか
+Are you busy at work★仕事で忙しいですか★しごとでいそがしいですか
+Where should i throw it away★どこに捨てればいいですか★どこにすてればいいですか
+Do you have any siblings★兄弟はいますか★きょうだいはいますか
+What should i give her★彼女に何をあげればいいですか★かのじょになんをあげればいいですか
+Could you speak a little bit slower★もう少しゆっくり話してもらえますか★もうすこしゆっくりはなしてもらえますか
+Can you show me how to do it★やり方を教えてもらえますか★やりかたをおしえてもらえますか
+Bring the dessert★デザートを持ってきてください★でざーとをもってきてください
+I'm so excited★とても興奮しています★とてもこうふんしています
+Don't mention it★どういたしまして★どういたしまして
+She is on the phone★彼女は電話中です★かのじょはでんわちゅうです
+Tell me how this got here★これがどうしてここにあるのか教えてください★これがどうしてここにあるのかおしえてください
+Where are we★私たちはどこにいますか★わたしたちはどこにいますか
+Can i have a receipt★レシートをもらえますか★れしーとをもらえますか
+It's almost spring★もうすぐ春です★もうすぐはるです
+Do you like kids★子供は好きですか★こどもはすきですか
+Let's split the bill★割り勘にしましょう★わりかんにしましょう
+I think i understand★理解できたと思います★りかいできたとおもいます
+What is your favorite music★あなたの好きな音楽は何ですか★あなたのすきなおんがくはなんですか
+Thank you for waiting★お待ちいただきありがとうございます★おまちいただきありがとうございます
+What do you recommend★何をお勧めしますか★なんをおすすめしますか
+Can you give me that bottle★そのボトルを渡してもらえますか★そのぼとるをわたしてもらえますか
+What's going on★どうしたんですか★どうしたんですか
+Sorry but i won't make it in time★すみませんが、時間には間に合いません★すみませんが、じかんにはまにあいません
+Where can i find the atm★atmはどこにありますか★atmはどこにありますか
+Swimming is interesting★水泳は面白いです★すいえいはおもしろいです
+It'll get better soon★すぐに良くなりますよ★すぐによくなりますよ
+I have to go now★もう行かないと★もういかないと
+That's not what i meant★そういう意味ではありません★そういういみではありません
+This is dennis speaking★こちらはデニスです★こちらはでにすです
+Cheers★乾杯★かんぱい
+You are so cute★あなたはとても可愛いです★あなたはとてもかわいいです
+What's that called★それは何という名前ですか★それはなんというなまえですか
+I'd like to check out★チェックアウトしたいです★ちぇっくあうとしたいです
+How many do you need★いくつ必要ですか★いくつひつようですか
+Are there any seed available★空席はありますか★くうせきはありますか
+What was that★何でしたか★なんでしたか
+I am freezing★とても寒いです★とてもさむいです
+I don't think so★そうは思いません★そうはおもいません
+What does that mean★それはどういう意味ですか★それはどういういみですか
+Same as usual★いつもと同じで★いつもとおなじで
+Can you hold this a little bit★これを少し持ってもらえますか★これをすこしもってもらえますか
+Aren't you tired★疲れていませんか★つかれていませんか
+If you're busy you don't have to go there★もし忙しければ、そこに行く必要はありません★もしいそがしければ、そこにいくひつようはありません
+I have one older sister★私には姉が一人います★わたしにはあねがひとりいます
+I'm counting on you★頼りにしています★たよりにしています
+I am not interested★興味がありません★きょうみがありません
+How far is it from here★ここからどれくらい遠いですか★ここからどれくらいとおいですか
+I need to go to the bathroom★トイレに行きたいです★といれにいきたいです
+Is the door open★ドアは開いていますか★どあはひらいていますか
+I went there twice★そこに2回行きました★そこに2かいいきました
+You are my everything★あなたは私の全てです★あなたはわたしのすべてです
+I want to eat something really sweet★何か甘いものが食べたいです★なにかあまいものがたべたいです
+It is midnight★真夜中です★まよなかです
+Does this bus go to time square★このバスはタイムズスクエアに行きますか★このばすはたいむずすくえあにいきますか
+Is it raining now★今、雨が降っていますか★いま、あめがふっていますか
+I have many things to do★やることがたくさんあります★やることがたくさんあります
+Here is another one★もう一つあります★もうひとつあります
+I'm not sure how to explain it★どう説明すればいいか分かりません★どうせつめいすればいいかわかりません
+Raise your hands★手を挙げてください★てをあげてください
+I'm full★お腹いっぱいです★おなかいっぱいです
+You don't have to eat it all★全部食べる必要はありません★ぜんぶたべるひつようはありません
+How do you like this★これはどうですか★これはどうですか
+Are you with me★私の話を聞いていますか★わたしのはなしをきいていますか
+What do you call your dog★あなたの犬は何と呼んでいますか★あなたのいぬはなんとよんでいますか
+What's your hobby★あなたの趣味は何ですか★あなたのしゅみはなんですか
+I didn't mean to★そうするつもりじゃなかった★そうするつもりじゃなかった
+Go to the left★左に行ってください★ひだりにいってください
+I wish i could★できればいいのに★できればいいのに
+I'm just looking★見ているだけです★みているだけです
+Is it still raining★まだ雨が降っていますか★まだあめがふっていますか
+Not so good★あまり良くないです★あまりよくないです
+I'm out of ideas★アイデアが尽きました★あいであがつきました
+It's very famous★とても有名です★とてもゆうめいです
+I can't stop sneezing★くしゃみが止まりません★くしゃみがとまりません
+I'm coming★行きます★いきます
+I'm with you★同感です★どうかんです
+It's not bad★悪くないです★わるくないです
+I am off to work★仕事に行ってきます★しごとにいってきます
+That's cool★かっこいいですね★かっこいいですね
+I can't wait★待ちきれません★まちきれません
+May i come in★入ってもいいですか★はいってもいいですか
+Why not★いいですよ★いいですよ
+Any messages for me★何か伝言はありますか★なにかでんごんはありますか
+It was my fault★私のせいでした★わたしのせいでした
+I almost forgot★ほとんど忘れかけていました★ほとんどわすれかけていました
+What does she like★彼女は何が好きですか★かのじょはなんがすきですか
+Let's check it out★調べてみましょう★しらべてみましょう
+Here you are★はい、どうぞ★はい、どうぞ
+Let's get started★始めましょう★はじめましょう
+I have no choice★選択の余地がありません★せんたくのよちがありません
+It's over there★そこにあります★そこにあります
+It can't be★そんなはずはない★そんなはずはない
+Just read it for me★私のために読んでください★わたしのためによんでください
+Do me a favor★お願いがあります★おねがいがあります
+Hopefully not★そうでなければいいのですが★そうでなければいいのですが
+Same to you★あなたもね★あなたもね
+I'm bored★退屈です★たいくつです
+Get well soon★お大事に★おだいじに
+I'm on your side★味方です★みかたです
+Let's hang out tomorrow night★明日の夜、遊びましょう★あすのよる、あそびましょう
+Then★それから★それから
+I have no idea★全く分かりません★まったくわかりません
+He lacks courage★彼には勇気がありません★かれにはゆうきがありません
+I have a good idea★良いアイデアがあります★よいあいであがあります
+You did the right thing★あなたは正しいことをしました★あなたはただしいことをしました
+So i guess so★そうだと思います★そうだとおもいます
+It must be fun★楽しいでしょうね★たのしいでしょうね
+I'm not sure★確信がありません★かくしんがありません
+Don't let me down★がっかりさせないでください★がっかりさせないでください
+Let's take a break★休憩しましょう★きゅうけいしましょう
+Whatever you want★あなたの好きなように★あなたのすきなように
+What should i do★どうしたらいいですか★どうしたらいいですか
+I'm good you★私は元気です、あなたは？★わたしはげんきです、あなたは?
+What does she look like★彼女はどんな容姿ですか★かのじょはどんなようしですか
+My battery is dead★バッテリー切れです★ばってりーきれです
+Is it far from here★ここから遠いですか★ここからとおいですか
+Be careful★気をつけて★きをつけて
+I'll be back soon★すぐに戻ります★すぐにもどります
+You can make it★あなたならできます★あなたならできます
+Give me a hand★手伝ってください★てつだってください
+What about you★あなたはどうですか★あなたはどうですか
+I agree★同意します★どういします
+You asked for it★あなたがそうさせたのです★あなたがそうさせたのです
+I am off today★今日は休みです★きょうはやすみです
+That's true★その通りです★そのとおりです
+Don't count on me★私を当てにしないでください★わたしをあてにしないでください
+Certainly★もちろんです★もちろんです
+Don't scare me★怖がらせないでください★こわがらせないでください
+Is it yours★それはあなたのですか★それはあなたのですか
+How have you been★どうしていましたか★どうしていましたか
+Thank you for the nice meal★素敵な食事をありがとう★すてきなしょくじをありがとう
+What a nice day it is★なんて良い日でしょう★なんてよいひでしょう
+It's my turn★私の番です★わたしのばんです
+That's the point★そこがポイントです★そこがぽいんとです
+Congratulations★おめでとうございます★おめでとうございます
+What do you do★仕事は何ですか★しごとはなんですか
+I like your outfit★その服装が好きです★そのふくそうがすきです
+How much★いくらですか★いくらですか
+Take a rest★休んでください★やすんでください
+So far so good★今のところ順調です★いまのところじゅんちょうです
+You owe me one★あなたは私に借りがあります★あなたはわたしにかりがあります
+I'm lost★迷子になりました★まいごになりました
+Follow me please★どうぞ私についてきてください★どうぞわたしについてきてください
+I have something to say★言いたいことがあります★いいたいことがあります
+You're welcome★どういたしまして★どういたしまして
+Let's go out today★今日は出かけましょう★きょうはでかけましょう
+I should have done that★そうすべきでした★そうすべきでした
+Just wondering★ちょっと気になっただけです★ちょっときになっただけです
+I like your shirt★あなたのシャツが好きです★あなたのしゃつがすきです
+You made it★やったね★やったね
+Don't move★動かないで★うごかないで
+I'm almost done★もうすぐ終わります★もうすぐおわります
+Keep in touch★連絡を取り合いましょう★れんらくをとりあいましょう
+You did pretty well★よくできました★よくできました
+Have fun★楽しんで★たのしんで
+Use your head★頭を使ってください★あたまをつかってください
+It depends★場合によります★ばあいによります
+Don't take it personally★個人的に受け取らないでください★こじんてきにうけとらないでください
+May i help you★何かお手伝いしましょうか★なにかおてつだいしましょうか
+Since when★いつからですか★いつからですか
+Help yourself★ご自由にどうぞ★ごじゆうにどうぞ
+I'm in a hurry★急いでいます★いそいでいます
+That's a good idea★それは良い考えですね★それはよいかんがえですね
+No big deal★大したことないです★たいしたことないです
