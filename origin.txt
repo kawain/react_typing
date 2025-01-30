@@ -2041,7 +2041,7 @@
 2041★The new policy might restrict certain activities.★新しい方針では、特定の活動が制限されるかもしれません。
 2042★The police could find no trace of the thief.★警察は泥棒の痕跡を見つけることができませんでした。
 2043★The plant grows an inch every week.★その植物は毎週1インチ成長します。
-2044★Ten dollars is equivalent to 1,500 yen.★10ドルは1,500円と同等です。
+2044★Ten dollars is equivalent to 1500 yen.★10ドルは1500円と同等です。
 2045★The table was made of solid wood.★そのテーブルは堅木でできていました。
 2046★The new enterprise focuses on sustainable products.★新しい企業は持続可能な製品に焦点を当てています。
 2047★The park is a favorite spot for the elderly.★その公園は高齢者に人気のスポットです。
@@ -3962,7 +3962,7 @@
 3962★It's peeling.★剥がれてきてる。
 3963★My shoelace broke.★靴紐が切れちゃった。
 3964★This is so useful.★これってすごい便利じゃない？
-3965★It’s perfect for everyday use.★普段使うのにぴったり。
+3965★It's perfect for everyday use.★普段使うのにぴったり。
 3966★I can't reach the top.★手が届かないな。
 3967★It came surprisingly well.★意外とうまくできた。
 3968★Is it okay to eat this raw?★これ、生で食べても大丈夫なの？
@@ -4659,3 +4659,5 @@
 4659★I want you to help me clean the room.★私が部屋を掃除するのを手伝ってほしい。
 4660★I want you to take me to the station.★私を駅まで連れて行ってほしい。
 4661★I want you to be honest with me.★あなたには正直であって欲しい。
+4662★The meaning of "probably" is not "definitely."★「おそらく」という意味は「絶対」ではない。
+4663★Of course. I am a trustworthy person.★もちろん。私は信用できる人間よ。
