@@ -863,7 +863,7 @@ Her style is unique.★彼女のスタイルはユニークです。★かのじ
 Refer to the guidebook for instructions.★指示についてはガイドブックを参照してください。★しじについてはがいどぶっくをさんしょうしてください。
 The cold wind blew.★冷たい風が吹きました。★つめたいかぜがふきました。
 Push the door to open.★ドアを押して開けてください。★どあをおしてあけてください。
-I'll be there in a quarter of an hour.★15分後にそこに行きます。★15ぷんごにそこにいきます。
+I'll be there in a quarter of an hour.★15分後にそこに行きます。★15ふんごにそこにいきます。
 Don't assume without knowing.★知らずに仮定しないでください。★しらずにかていしないでください。
 The baby giggled.★赤ちゃんはくすくす笑いました。★あかちゃんはくすくすわらいました。
 A successful person never gives up.★成功した人は決してあきらめません。★せいこうしたひとはけっしてあきらめません。
@@ -2041,7 +2041,7 @@ The area is designated as a no-parking zone.★そのエリアは駐車禁止区
 The new policy might restrict certain activities.★新しい方針では、特定の活動が制限されるかもしれません。★あたらしいほうしんでは、とくていのかつどうがせいげんされるかもしれません。
 The police could find no trace of the thief.★警察は泥棒の痕跡を見つけることができませんでした。★けいさつはどろぼうのこんせきをみつけることができませんでした。
 The plant grows an inch every week.★その植物は毎週1インチ成長します。★そのしょくぶつはまいしゅう1いんちせいちょうします。
-Ten dollars is equivalent to 1,500 yen.★10ドルは1,500円と同等です。★10どるは1,500えんとどうとうです。
+Ten dollars is equivalent to 1500 yen.★10ドルは1500円と同等です。★10どるは1500えんとどうとうです。
 The table was made of solid wood.★そのテーブルは堅木でできていました。★そのてーぶるはかたぎでできていました。
 The new enterprise focuses on sustainable products.★新しい企業は持続可能な製品に焦点を当てています。★あたらしいきぎょうはじぞくかのうなせいひんにしょうてんをあてています。
 The park is a favorite spot for the elderly.★その公園は高齢者に人気のスポットです。★そのこうえんはこうれいしゃににんきのすぽっとです。
@@ -2839,7 +2839,7 @@ Would you like some more pie? I'm content.★もう少しパイはいかがで�
 What do you do in your spare time? Read books and chat with friends.★暇な時は何をしますか? 本を読んだり、友達とおしゃべりしたりします。★ひまなときはなにをしますか? ほんをよんだり、ともだちとおしゃべりしたりします。
 Why not go out for a walk? I'm a little sick.★なぜ散歩に出かけないのですか？ちょっと体調が悪いんです。★なぜさんぽにでかけないのですか？ちょっとたいちょうがわるいんです。
 How thick is the ice here? More than one meter.★ここの氷の厚さはどれくらいですか？1メートル以上です。★ここのこおりのあつさはどれくらいですか？1めーとるいじょうです。
-May I help you? Yes, I'm looking for a stapler.★何かお手伝いしましょうか？はい、ホチキスを探しています。★なにおてつだいしましょうか？はい、ほちきすをさがしています。
+May I help you? Yes, I'm looking for a stapler.★何かお手伝いしましょうか？はい、ホチキスを探しています。★なにかおてつだいしましょうか？はい、ほちきすをさがしています。
 Why did you divorce?★なぜ離婚したのですか？★なぜりこんしたのですか？
 What do you think about that movie? I thought the movie was very interesting.★その映画についてどう思いますか？私はその映画がとても面白かったと思いました。★そのえいがについてどうおもいますか？わたしはそのえいががとてもおもしろかったとおもいました。
 It's really disappointing.★本当にがっかりです。★ほんとうにがっかりです。
@@ -3277,7 +3277,7 @@ What is the total?★合計はいくらですか？★ごうけいはいくら�
 Where do you live?★どこに住んでいますか？★どこにすんでいますか？
 How old are you?★何歳ですか？★なんさいですか？
 I got a promotion.★私は昇級しました。★わたしはしょうきゅうしました。
-What would you like to drink?★飲み物は何にしますか？★のみものはなんにしますか？
+What would you like to drink?★飲み物は何にしますか？★のみものはなににしますか？
 What time do you start work?★何時に仕事を始めますか？★なんじにしごとをはじめますか？
 I'd like a refund.★払い戻しをしてほしいのですが。★はらいもどしをしてほしいのですが。
 What is your last name?★名字は何ですか？★みょうじはなんですか？
@@ -3962,7 +3962,7 @@ This perfume is too strong.★この香水は香りが強すぎるよ。★こ�
 It's peeling.★剥がれてきてる。★はがれてきてる。
 My shoelace broke.★靴紐が切れちゃった。★くつひもがきれちゃった。
 This is so useful.★これってすごい便利じゃない？★これってすごいべんりじゃない？
-It’s perfect for everyday use.★普段使うのにぴったり。★ふだんつかうのにぴったり。
+It's perfect for everyday use.★普段使うのにぴったり。★ふだんつかうのにぴったり。
 I can't reach the top.★手が届かないな。★てがとどかないな。
 It came surprisingly well.★意外とうまくできた。★いがいとうまくできた。
 Is it okay to eat this raw?★これ、生で食べても大丈夫なの？★これ、なまでたべてもだいじょうぶなの？
@@ -4046,7 +4046,7 @@ How much longer will you be in the bathroom?★あとどのくらい洗面所を
 Just ten more minutes.★あと10分だけ。★あと10ぷんだけ。
 I don't have much time.★あんまり時間がないよ。★あんまりじかんがないよ。
 Yeah, but I want to go to the bathroom.★うん、でもトイレに行きたい。★うん、でもといれにいきたい。
-How long does it usually take to do makeup? Maybe about 5 to 10 minutes.★いつもメイクにどれくらい時間がかかる？えっと、5分から10分くらいかな。★いつもめいくにどれくらいじかんがかかる？えっと、5ぷんから10ぷんくらいかな。
+How long does it usually take to do makeup? Maybe about 5 to 10 minutes.★いつもメイクにどれくらい時間がかかる？えっと、5分から10分くらいかな。★いつもめいくにどれくらいじかんがかかる？えっと、5ふんから10ぷんくらいかな。
 My eye makeup didn't go well today.★アイメイクがうまくいかなかったな。★あいめいくがうまくいかなかったな。
 Don't worry, you look very nice.★大丈夫、すごく綺麗だよ。★だいじょうぶ、すごくきれいだよ。
 You have bed hair.★寝癖がついてるよ。★ねぐせがついてるよ。
@@ -4076,7 +4076,7 @@ Oh no, I forgot the meeting documents.★ああ、会議の資料を忘れちゃ
 I hope I make it in time for my meeting.★会議の時間に間に合いますように。★かいぎのじかんにまにあいますように。
 A Starbucks just opened.★スタバができてる。★すたばができてる。
 Wow, I have to go to Ginza in 30 minutes.★うわ、あと30分で銀座に行かないと。★うわ、あと30ぷんでぎんざにいかないと。
-If I take the 8:30 train, I'll arrive on time. The schedule says the next train comes at 8:05.★8時30分の電車に乗れば時間通りに着く。時刻表では次の電車が8時5分に来るみたい。★8じ30ぷんのでんしゃにのればじかんどおりにつく。じこくひょうではつぎのでんしゃが8じ5ぷんにくるみたい。
+If I take the 8:30 train, I'll arrive on time. The schedule says the next train comes at 8:05.★8時30分の電車に乗れば時間通りに着く。時刻表では次の電車が8時5分に来るみたい。★8じ30ぷんのでんしゃにのればじかんどおりにつく。じこくひょうではつぎのでんしゃが8じ5ふんにくるみたい。
 My commuter pass expires in two days.★あと2日で定期券が切れる。★あと2かでていきけんがきれる。
 Oh no, the train just left.★ああ、ちょうど電車が行っちゃった。★ああ、ちょうどでんしゃがいっちゃった。
 The train is delayed and everyone is getting irritated.★電車が遅れてみんなイライラしているな。★でんしゃがおくれてみんないらいらしているな。
@@ -4089,7 +4089,7 @@ I love the view from the train window in Sakuragicho.★桜木町ありの車窓
 Excuse me, I'm getting off.★すみません、降ります。★すみません、おります。
 It takes 10 minutes to walk to the bus stop.★バス停までは歩いて10分。★ばすていまでははあるいて10ぷん。
 I just made it in time for the bus.★バスにギリギリ間に合った。★ばすにぎりぎりまにあった。
-The next bus for Marunouchi South Exit is in 5 minutes.★次の丸の内南口行きのバスは5分後です。★つぎのまるのうちみなみぐちいきのばすは5ぷんごです。
+The next bus for Marunouchi South Exit is in 5 minutes.★次の丸の内南口行きのバスは5分後です。★つぎのまるのうちみなみぐちいきのばすは5ふんごです。
 I need to charge my PASMO card.★PASMOにチャージしなきゃ。★ぱすもにちゃーじしなきゃ。
 I wonder if there was an accident. There's a lot of traffic.★事故かな、すごい渋滞している。★じこかな、すごいじゅうたいしている。
 How long will this traffic last?★いつまで渋滞が続くんだろう。★いつまでじゅうたいがつづくんだろう。
@@ -4659,3 +4659,5 @@ I want you to understand something.★あなたに何かを理解してほしい
 I want you to help me clean the room.★私が部屋を掃除するのを手伝ってほしい。★わたしがへやをそうじするのをてつだってほしい。
 I want you to take me to the station.★私を駅まで連れて行ってほしい。★わたしをえきまでつれていってほしい。
 I want you to be honest with me.★あなたには正直であって欲しい。★あなたにはしょうじきであってほしい。
+The meaning of "probably" is not "definitely."★「おそらく」という意味は「絶対」ではない。★「おそらく」といういみは「ぜったい」ではない。
+Of course. I am a trustworthy person.★もちろん。私は信用できる人間よ。★もちろん。わたしはしにょうできるにんげんよ。
