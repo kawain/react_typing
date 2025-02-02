@@ -642,7 +642,7 @@ Financial planning is crucial.★財務計画は非常に重要です。★ざ�
 I miss my childhood.★私は子供の頃が恋しいです。★わたしはこどものころがこいしいです。
 Art is an expression of feelings.★アートは感情の表現です。★あーとはかんじょうのひょうげんです。
 The campaign was launched last month.★キャンペーンは先月開始されました。★きゃんぺーんはせんげつかいしされました。
-This is a private matter.★これは私的な問題です。★これはわたくしなもんだいです。
+This is a private matter.★これは私的な問題です。★これはしてきなもんだいです。
 Pause and reflect.★立ち止まって考えてみてください。★たちどまってかんがえてみてください。
 Everyone deserves respect.★すべての人は尊重されるべきです。★すべてのひとはそんちょうされるべきです。
 Don't forget to smile.★笑顔を忘れないで。★えがおをわすれないで。
@@ -1757,7 +1757,7 @@ They plan to construct a new building next year.★彼らは来年新しい建�
 He made a remark about the painting's beauty.★彼はその絵の美しさについてコメントしました。★かれはそのえのうつくしさについてこめんとしました。
 The doctor prescribed some medicine for her cold.★医師は彼女の風邪のためにいくつかの薬を処方しました。★いしはかのじょのかぜのためにいくつかのくすりをしょほうしました。
 The professor gave an insightful lecture.★教授は洞察に富んだ講義を行いました。★きょうじゅはどうさつにとんだこうぎをおこないました。
-It's rare to find such antiques nowadays.★今日では、そうした骨董品を見つけることは珍しいです。★きょうでは、そうしたこっとうひんをみつけることはめずらしいです。
+It's rare to find such antiques nowadays.★今日では、そうした骨董品を見つけることは珍しいです。★こんにちでは、そうしたこっとうひんをみつけることはめずらしいです。
 His intention was to help, not to harm.★彼の意図は助けることであり、害を及ぼすことではありませんでした。★かれのいとはたすけることであり、がいをおよぼすことではありませんでした。
 She bought a dozen roses for her mother.★彼女は母親のために1ダースのバラを買いました。★かのじょははははのために1だーすのばらをかいました。
 The two parties reached a settlement.★両当事者は和解に達しました。★りょうとうじしゃはわかいにたっしました。
@@ -2129,7 +2129,7 @@ They decided to incorporate new features in the app.★彼らはアプリに新�
 Pour the milk into the glass.★グラスにミルクを注いでください。★ぐらすにみるくをついでください。
 She used a broom to sweep the floor.★彼女は床を掃くためにほうきを使いました。★かのじょはゆかをはくためにほうきをつかいました。
 It's your obligation to finish the task on time.★タスクを時間通りに終わらせるのはあなたの義務です。★たすくをじかんどおりにおわらせるのはあなたのぎむです。
-Excuse me, sir, you dropped this", she said.★失礼ですが、これを落としましたよと彼女は言いました。★しつれいですが、これをおとしましたよとかのじょはいいました。
+"Excuse me, sir, you dropped this", she said.★失礼ですが、これを落としましたよと彼女は言いました。★しつれいですが、これをおとしましたよとかのじょはいいました。
 We need to evaluate the results of the test.★テストの結果を評価する必要があります。★てすとのけっかをひょうかするひつようがあります。
 His anger was evident in his voice.★彼の怒りは彼の声に明らかでした。★かれのいかりはかれのこえにあきらかでした。
 We met at the local pub for drinks.★私たちは地元のパブで飲み物を楽しむために会いました。★わたしたちはじもとのぱぶでのみものをたのしむためにあいました。
@@ -2278,7 +2278,7 @@ The car dealer offered a good trade-in price.★車のディーラーは良い�
 The shirt's top button was missing.★シャツの一番上のボタンがなかった。★しゃつのいちばんうえのぼたんがなかった。
 He didn't want to be a burden to anyone.★彼は誰にも迷惑をかけたくありませんでした。★かれはだれにもめいわくをかけたくありませんでした。
 They explored the vast desert on camels.★彼らはラクダで広大な砂漠を探検しました。★かれらはらくだでこうだいなさばくをたんけんしました。
-Penguins often mate for life.★ペンギンは生涯を通じて同じ相手とつがうことが多いです。★ぺんぎんはせいがいをとおじておなじあいてとつがうことがおおいです。
+Penguins often mate for life.★ペンギンは生涯を通じて同じ相手とつがうことが多いです。★ぺんぎんはしょうがいをつうじておなじあいてとつがうことがおおいです。
 I occasionally indulge in some chocolate.★たまにチョコレートを贅沢に楽しんでいます。★たまにちょこれーとをぜいたくにたのしんでいます。
 The shareholder meeting is scheduled next month.★株主総会は来月予定されています。★かぶぬしそうかいはらいげつよていされています。
 I had a bowl of soup for lunch.★私はランチにスープを一杯食べました。★わたしはらんちにすーぷをいっぱいたべました。
@@ -3438,7 +3438,7 @@ Don't give up!★諦めないで！★あきらめないで！
 You are so careless.★あなたはとても不注意です。★あなたはとてもふちゅういです。
 I have a friend traveling with me.★私と一緒に旅行している友達がいます。★わたしといっしょにりょこうしているともだちがいます。
 I'm sorry it hurts.★痛くてごめんなさい。★いたくてごめんなさい。
-I made a reservation under amy.★エイミーの名前で予約しました。★えいみーのなまえでよやくしました。
+I made a reservation under Amy.★エイミーの名前で予約しました。★えいみーのなまえでよやくしました。
 Everything tastes great!★全部美味しいです！★ぜんぶおいしいです！
 It's a long story.★それは長い話です。★それはながいはなしです。
 It's not late.★遅くないです。★おそくないです。
@@ -4122,7 +4122,7 @@ Why are you late?★どうして遅刻したの。★どうしてちこくした
 I'm sorry, the train schedule was disrupted.★すみません、電車のダイヤが乱れていたので。★すみません、でんしゃのだいやがみだれていたので。
 Hey, shall we go to the new cafe over there sometime soon?★ねえ、今度あそこの新しいカフェに行ってみない。★ねえ、こんどあそこのあたらしいかふぇにいってみない。
 Sounds good, should we go today?★いいね、今日行ってみようか。★いいね、きょういってみようか。
-Can I pay with PASMO?★PASMOで生産できますか。★pasmoでせいさんできますか。
+Can I pay with PASMO?★PASMOで精算できますか。★PASMOでせいさんできますか。
 Sure, we accept it.★もちろん、大丈夫ですよ。★もちろん、だいじょうぶですよ。
 How do you usually commute to work?★会社へは何で通っているの。★かいしゃへはなんでかよっているの。
 I usually commute by car.★大抵は車で行っているよ。★たいていはくるまでいっているよ。
